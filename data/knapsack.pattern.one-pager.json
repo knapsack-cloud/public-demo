@@ -132,7 +132,12 @@
                   "templateId": "react"
                 },
                 {
-                  "demoId": "eY-_KWUog4",
+                  "demoId": "main",
+                  "patternId": "header",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "aMFkBNIHU2",
                   "patternId": "layout",
                   "templateId": "react"
                 },

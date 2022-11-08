@@ -91,9 +91,25 @@
           },
           "type": "data",
           "title": "Secondary"
+        },
+        "bEbxOHHaML": {
+          "id": "bEbxOHHaML",
+          "data": {
+            "props": {
+              "url": "#url",
+              "mode": "special",
+              "size": "medium",
+              "type": "solid"
+            },
+            "slots": {
+              "children": ["Button"]
+            }
+          },
+          "type": "data",
+          "title": "Secondary Enabled"
         }
       },
-      "demos": ["main", "2CXfLJgtaC"],
+      "demos": ["main", "2CXfLJgtaC", "bEbxOHHaML"],
       "slices": []
     }
   ],
@@ -273,6 +289,16 @@
           }
         }
       ]
+    },
+    {
+      "id": "Test-Results",
+      "title": "Test Results",
+      "slices": [
+        {
+          "id": "ks-content-block-8oXEv5M8Q0",
+          "blockId": "generic-iframe"
+        }
+      ]
     }
   ],
   "tabs": [
@@ -295,6 +321,10 @@
     {
       "type": "subPage",
       "id": "Legacy"
+    },
+    {
+      "id": "Test-Results",
+      "type": "subPage"
     }
   ],
   "statuses": {
