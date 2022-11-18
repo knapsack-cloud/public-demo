@@ -132,12 +132,17 @@
             "slots": {
               "children": [
                 {
-                  "demoId": "main",
+                  "demoId": "_nTCiQ1984",
                   "patternId": "author",
                   "templateId": "react"
                 },
                 {
                   "demoId": "main",
+                  "patternId": "button",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "2CXfLJgtaC",
                   "patternId": "button",
                   "templateId": "react"
                 }
@@ -187,20 +192,28 @@
           "blockId": "markdown-slice"
         },
         {
+          "id": "ks-content-block-JNBr24nfq-",
+          "data": {
+            "md": ["## Web Component Rendering"],
+            "columns": 1
+          },
+          "blockId": "markdown-slice"
+        },
+        {
           "id": "ks-content-block-1zsHlF6chs",
           "data": {
             "demoId": "main",
             "demoSize": "landscape",
-            "patternId": "card",
-            "templateId": "react",
+            "patternId": "author",
+            "templateId": "web-components",
             "hideControls": false,
             "playgroundUi": {
               "demoSize": "landscape",
               "showSchemaForm": false,
-              "showCodeSnippet": false
+              "showCodeSnippet": true
             },
             "showSchemaForm": false,
-            "showCodeSnippet": false
+            "showCodeSnippet": true
           },
           "blockId": "pattern-template-slice"
         },
