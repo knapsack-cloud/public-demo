@@ -10,7 +10,7 @@
         "comment": "They say it goes with everything... but does it go with this?"
       },
       "yellow": {
-        "value": "{color.base.yellow.value}",
+        "value": "#FFD437",
         "comment": "Is yellow the right color? I dunno..."
       }
     },
@@ -93,7 +93,7 @@
         "value": "{color.text.inverse.value}"
       },
       "secondary": {
-        "value": "{color.light.blue.value}"
+        "value": "{color.base.blue.value}"
       }
     },
     "light": {
