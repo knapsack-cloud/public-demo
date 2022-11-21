@@ -72,6 +72,11 @@
                   "demoId": "_nTCiQ1984",
                   "patternId": "author",
                   "templateId": "react"
+                },
+                {
+                  "demoId": "2CXfLJgtaC",
+                  "patternId": "button",
+                  "templateId": "react"
                 }
               ]
             }
@@ -189,7 +194,7 @@
         {
           "id": "ks-content-block-1zsHlF6chs",
           "data": {
-            "demoId": "main",
+            "demoId": "3c9C95vaFP",
             "demoSize": "landscape",
             "patternId": "card",
             "templateId": "react",
@@ -197,10 +202,10 @@
             "playgroundUi": {
               "demoSize": "landscape",
               "showSchemaForm": false,
-              "showCodeSnippet": false
+              "showCodeSnippet": true
             },
             "showSchemaForm": false,
-            "showCodeSnippet": false
+            "showCodeSnippet": true
           },
           "blockId": "pattern-template-slice"
         },
