@@ -58,7 +58,7 @@
             "props": {
               "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint harum rerum voluptatem quo recusandae magni placeat saepe molestiae, sed excepturi cumque corporis perferendis hic.",
               "label": "Case Study",
-              "title": "Improve your customer experience",
+              "title": "Improve your customer experience!!",
               "imgSrc": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80"
             },
             "slots": {
@@ -69,13 +69,8 @@
                   "templateId": "react"
                 },
                 {
-                  "demoId": "_nTCiQ1984",
+                  "demoId": "main",
                   "patternId": "author",
-                  "templateId": "react"
-                },
-                {
-                  "demoId": "2CXfLJgtaC",
-                  "patternId": "button",
                   "templateId": "react"
                 }
               ]
@@ -194,7 +189,7 @@
         {
           "id": "ks-content-block-1zsHlF6chs",
           "data": {
-            "demoId": "3c9C95vaFP",
+            "demoId": "RN96ZpJJpY",
             "demoSize": "landscape",
             "patternId": "card",
             "templateId": "react",
@@ -202,10 +197,10 @@
             "playgroundUi": {
               "demoSize": "landscape",
               "showSchemaForm": false,
-              "showCodeSnippet": true
+              "showCodeSnippet": false
             },
             "showSchemaForm": false,
-            "showCodeSnippet": true
+            "showCodeSnippet": false
           },
           "blockId": "pattern-template-slice"
         },
