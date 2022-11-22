@@ -132,7 +132,12 @@
             "slots": {
               "children": [
                 {
-                  "demoId": "main",
+                  "demoId": "_nTCiQ1984",
+                  "patternId": "author",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "hGfcj0Ksms",
                   "patternId": "author",
                   "templateId": "react"
                 },
@@ -146,7 +151,7 @@
           },
           "type": "data",
           "title": "One Author CTA",
-          "description": ""
+          "description": "Article with one author"
         }
       },
       "demos": ["RN96ZpJJpY", "main", "W1Xbf7ez7T", "3c9C95vaFP", "WXcBdSXuE9"],
