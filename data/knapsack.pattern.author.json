@@ -12,6 +12,10 @@
     {
       "id": "html",
       "type": "template"
+    },
+    {
+      "id": "Figma-File",
+      "type": "subPage"
     }
   ],
   "title": "Author",
@@ -21,7 +25,23 @@
     "design": "needs-design",
     "handlebars": "ready"
   },
-  "subPages": [],
+  "subPages": [
+    {
+      "id": "Figma-File",
+      "title": "Figma File",
+      "slices": [
+        {
+          "id": "ks-content-block-1zKUAe_icJ",
+          "data": {
+            "url": "https://www.figma.com/file/uXroEUE22VtrT6CiF3zQqS/tailwind-ui-figma-kit-2021-03-26?node-id=752%3A32",
+            "height": "480",
+            "clickToInteract": false
+          },
+          "blockId": "figma-slice"
+        }
+      ]
+    }
+  ],
   "templates": [
     {
       "id": "react",
