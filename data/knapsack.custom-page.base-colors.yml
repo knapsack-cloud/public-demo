@@ -1,6 +1,12 @@
 id: base-colors
 title: Base Colors
 slices:
+  - id: ks-content-block-FGz44DM8En
+    data:
+      md:
+        - '# Defining Colors'
+      columns: 1
+    blockId: markdown-slice
   - id: ks-content-block-7-9Z3dxHft
     data:
       demo:
