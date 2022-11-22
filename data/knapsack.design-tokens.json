@@ -30,10 +30,10 @@
     },
     "base": {
       "red": {
-        "value": "#ef5151"
+        "value": "#DD2C2C"
       },
       "blue": {
-        "value": "#207FF9"
+        "value": "{color.base.yellow.value}"
       },
       "green": {
         "value": "#3ccf91"
@@ -269,7 +269,7 @@
   "transition": {
     "delay": {
       "slow": {
-        "value": "8000ms",
+        "value": "8200ms",
         "comment": "Used for timings that need to be fully interpreted by users, such as the Carousel autorotate delay."
       }
     },

@@ -5,7 +5,7 @@
   "statuses": {
     "design": "ready",
     "twig": "needs-updated",
-    "react": "needs-updated",
+    "react": "needs-approval",
     "handlebars": "ready"
   },
   "templates": [
@@ -147,9 +147,33 @@
           "type": "data",
           "title": "One Author CTA",
           "description": ""
+        },
+        "1bpQvFnWU4": {
+          "id": "1bpQvFnWU4",
+          "data": {
+            "props": {
+              "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint harum rerum voluptatem quo recusandae magni placeat saepe molestiae, sed excepturi cumque corporis perferendis hic.",
+              "label": "Case Study",
+              "title": "Improve your customer experience",
+              "imgSrc": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80"
+            },
+            "slots": {
+              "children": []
+            }
+          },
+          "type": "data",
+          "title": "Simple 2",
+          "description": ""
         }
       },
-      "demos": ["RN96ZpJJpY", "main", "W1Xbf7ez7T", "3c9C95vaFP", "WXcBdSXuE9"],
+      "demos": [
+        "RN96ZpJJpY",
+        "main",
+        "W1Xbf7ez7T",
+        "3c9C95vaFP",
+        "WXcBdSXuE9",
+        "1bpQvFnWU4"
+      ],
       "slices": []
     }
   ],
@@ -189,7 +213,7 @@
         {
           "id": "ks-content-block-1zsHlF6chs",
           "data": {
-            "demoId": "main",
+            "demoId": "RN96ZpJJpY",
             "demoSize": "landscape",
             "patternId": "card",
             "templateId": "react",
@@ -197,10 +221,10 @@
             "playgroundUi": {
               "demoSize": "landscape",
               "showSchemaForm": false,
-              "showCodeSnippet": false
+              "showCodeSnippet": true
             },
             "showSchemaForm": false,
-            "showCodeSnippet": false
+            "showCodeSnippet": true
           },
           "blockId": "pattern-template-slice"
         },

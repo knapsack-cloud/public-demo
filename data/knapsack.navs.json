@@ -92,9 +92,9 @@
       "parentId": "Design-Tokens-lNWaUqkDSo"
     },
     {
-      "id": "base-colors",
-      "name": "Base Colors",
-      "path": "/pages/base-colors",
+      "id": "base-colors!",
+      "name": "Base Colors!",
+      "path": "/pages/base-colors!",
       "parentId": "/pages/colors"
     },
     {
