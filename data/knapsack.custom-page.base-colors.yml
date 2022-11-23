@@ -1,6 +1,12 @@
 id: base-colors
 title: Base Colors
 slices:
+  - id: ks-content-block-N4cIi6MIMp
+    data:
+      md:
+        - '## How to use colors'
+      columns: 1
+    blockId: markdown-slice
   - id: ks-content-block-7-9Z3dxHft
     data:
       demo:

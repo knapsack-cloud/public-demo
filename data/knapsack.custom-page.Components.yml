@@ -86,6 +86,8 @@ slices:
       templateId: react
       variationId: size
     blockId: pattern-variations
+  - id: ks-content-block-TJ7LnnkJuh
+    blockId: generic-iframe
   - id: ks-content-block-udJZJ73YSH
     data:
       size: m
