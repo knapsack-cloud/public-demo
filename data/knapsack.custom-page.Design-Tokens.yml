@@ -52,12 +52,6 @@ slices:
     blockId: markdown-slice
   - id: ks-content-block-3JP6lsPzm5
     blockId: divider-block
-  - id: ks-content-block-BUFKAm-2a4
-    data:
-      md:
-        - '## Color Swatches'
-      columns: 1
-    blockId: markdown-slice
   - id: ks-content-block-2c9-R7CZYc
     data:
       demo:
@@ -69,8 +63,20 @@ slices:
         type: color
         category: color
     blockId: design-token-slice
+  - id: ks-content-block-BUFKAm-2a4
+    data:
+      md:
+        - '## Color Swatches'
+      columns: 1
+    blockId: markdown-slice
   - id: ks-content-block-yw09CUQi5_
     blockId: divider-block
+  - id: ks-content-block-A-TmcydxkO
+    data:
+      md:
+        - How to use colors swatches
+      columns: 1
+    blockId: markdown-slice
   - id: 0jgDoN-06W
     data:
       md:

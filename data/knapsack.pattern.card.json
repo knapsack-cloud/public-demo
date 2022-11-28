@@ -5,7 +5,7 @@
   "statuses": {
     "design": "ready",
     "twig": "needs-updated",
-    "react": "needs-updated",
+    "react": "ready",
     "handlebars": "ready"
   },
   "templates": [
