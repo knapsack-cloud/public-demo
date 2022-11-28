@@ -53,7 +53,14 @@
       "id": "Components",
       "name": "Components",
       "path": "/pages/Components",
-      "parentId": "Design-System"
+      "parentId": "Documentation"
+    },
+    {
+      "id": "card-VTxFLYhdrW",
+      "name": "Card",
+      "path": "/pages/card-VTxFLYhdrW",
+      "parentId": "Components",
+      "hidden": true
     },
     {
       "id": "Embeds",
@@ -92,15 +99,15 @@
       "parentId": "Design-Tokens-lNWaUqkDSo"
     },
     {
-      "id": "base-colors",
-      "name": "Base Colors",
-      "path": "/pages/base-colors",
-      "parentId": "/pages/colors"
-    },
-    {
       "id": "brand-cool",
       "name": "Brand Cool",
       "path": "/pages/brand-cool",
+      "parentId": "/pages/colors"
+    },
+    {
+      "id": "base-colors",
+      "name": "Base Colors",
+      "path": "/pages/base-colors",
       "parentId": "/pages/colors"
     },
     {

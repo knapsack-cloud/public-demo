@@ -1,0 +1,89 @@
+id: card-VTxFLYhdrW
+title: Card
+slices:
+  - id: ks-content-block-50x1xoD7g0
+    data:
+      md:
+        - >-
+          ## Overview
+
+          Use card layouts to present a high-level summary of content related to
+          a single topic. 
+
+
+          ### Do:
+
+          * Consider and choose text and visual elements carefully. Test your
+          cards with the minimal content and only add additional content or
+          graphics where they give needed context to the user
+
+          * Use headlines that set clear expectations about the content being
+          linked to
+
+          * Use one style of card per module, don't mix and match
+
+          * Feature one piece of information per card
+
+          * Outline the main idea with the minimal possible information, don't
+          overload with information as the card links to more detail
+
+
+          ### Do not:
+
+          * Mix card styles within the same module
+
+          * Overload with information as the card links to more detail
+
+          * Add inline text links, the card itself is clickable and should link
+          to a single piece of information, consider using content blocks in
+          this instance
+      columns: 1
+    blockId: markdown-slice
+  - id: ks-content-block-bGX14CNoU7
+    data:
+      demoId: W1Xbf7ez7T
+      demoSize: landscape
+      patternId: card
+      templateId: react
+      hideControls: false
+      playgroundUi:
+        demoSize: landscape
+        showSchemaForm: false
+        showCodeSnippet: false
+      showSchemaForm: false
+      showCodeSnippet: false
+    blockId: pattern-template-slice
+  - id: ks-content-block-QcVDxnFkjx
+    data:
+      url: >-
+        https://www.figma.com/file/rcMETa2cNqQDFLd41cZA14/Demo-Design-System?node-id=0%3A1
+      height: '480'
+      clickToInteract: false
+    blockId: figma-slice
+  - id: ks-content-block-sLgVn-93oQ
+    data:
+      md:
+        - >-
+          ### When to avoid
+
+          Cards should only display enough information to give a user context.
+          Do not use a card layout:
+
+          * to highlight a solo piece of information
+
+          * when the content requires in-line or multiple links, consider
+          content blocks
+
+          * when a large amount of text is needed to give users context 
+
+
+          ### Keep content concise
+
+          Cards allow users to scan content in order to find their required
+          information quickly, therefore it is important to make the content
+          concise. Ensure the headlines are brief and explicit about the content
+          the cards link to. Intuitive headlines and copy help the user build a
+          clear mental model of the content.
+      columns: 1
+    blockId: markdown-slice
+description: Documentation capabilities & examples
