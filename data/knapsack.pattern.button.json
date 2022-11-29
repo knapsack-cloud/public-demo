@@ -134,17 +134,6 @@
           "blockId": "pattern-variations"
         },
         {
-          "id": "ks-content-block-gV4Zis1_vr",
-          "data": {
-            "size": "m",
-            "demoId": "main",
-            "patternId": "button",
-            "templateId": "react",
-            "variationId": "iCanHazIcon"
-          },
-          "blockId": "pattern-variations"
-        },
-        {
           "id": "ks-content-block-1VyLx4PL0Q",
           "data": {
             "size": "s",
@@ -154,6 +143,24 @@
             "variationId": "size"
           },
           "blockId": "pattern-variations"
+        },
+        {
+          "id": "ks-content-block-XRlXkinFFT",
+          "data": {
+            "demoId": "main",
+            "demoSize": "landscape",
+            "patternId": "button",
+            "templateId": "react",
+            "hideControls": false,
+            "playgroundUi": {
+              "demoSize": "landscape",
+              "showSchemaForm": false,
+              "showCodeSnippet": true
+            },
+            "showSchemaForm": false,
+            "showCodeSnippet": true
+          },
+          "blockId": "pattern-template-slice"
         },
         {
           "id": "ks-content-block-kCs__ou9y9",
