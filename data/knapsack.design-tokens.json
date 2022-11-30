@@ -24,7 +24,7 @@
         "comment": "Bang! That is ORANGE!"
       },
       "orchid": {
-        "value": "{color.base.orchid.value}",
+        "value": "#E726F1",
         "comment": "That orchid pops!"
       }
     },
@@ -87,7 +87,7 @@
         "value": "#FFFFFF"
       },
       "primary": {
-        "value": "{color.base.green.value}"
+        "value": "{color.dark.blue.value}"
       },
       "tertiary": {
         "value": "{color.text.inverse.value}"
@@ -269,7 +269,7 @@
   "transition": {
     "delay": {
       "slow": {
-        "value": "8000ms",
+        "value": "8500ms",
         "comment": "Used for timings that need to be fully interpreted by users, such as the Carousel autorotate delay."
       }
     },
