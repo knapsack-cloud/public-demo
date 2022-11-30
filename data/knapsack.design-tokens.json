@@ -280,7 +280,7 @@
     },
     "duration": {
       "slow": {
-        "value": "600ms",
+        "value": "6000ms",
         "comment": "Used for near full width movements, like the Carousel"
       },
       "normal": {
