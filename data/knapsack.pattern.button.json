@@ -298,9 +298,10 @@
     }
   ],
   "statuses": {
-    "design": "ready",
-    "react": "ready",
+    "design": "needs-updated",
+    "react": "needs-updated",
     "twig": "ready",
-    "handlebars": "ready"
+    "handlebars": "ready",
+    "web-components": "needs-updated"
   }
 }

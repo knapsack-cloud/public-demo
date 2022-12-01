@@ -1,0 +1,30 @@
+id: new-button-9fjeWUxbtH
+title: new button
+slices:
+  - id: ks-content-block-tXwiw7yti-
+    data:
+      url: >-
+        https://www.figma.com/file/uXroEUE22VtrT6CiF3zQqS/tailwind-ui-figma-kit-2021-03-26?node-id=752%3A32
+      height: '480'
+      clickToInteract: false
+    blockId: figma-slice
+  - id: ks-content-block-yeS0vz1Tic
+    data:
+      md:
+        - New figma file  for a button
+      columns: 1
+    blockId: markdown-slice
+  - id: ks-content-block-EVXw25ZCkO
+    data:
+      demoId: 2CXfLJgtaC
+      demoSize: landscape
+      patternId: button
+      templateId: react
+      hideControls: false
+      playgroundUi:
+        demoSize: landscape
+        showSchemaForm: false
+        showCodeSnippet: false
+      showSchemaForm: false
+      showCodeSnippet: false
+    blockId: pattern-template-slice

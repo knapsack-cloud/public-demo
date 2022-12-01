@@ -46,15 +46,14 @@ slices:
       columns: 1
     blockId: markdown-slice
   - id: zaqr2o47r
-    blockId: design-token-slice
     data:
-      tokens:
-        category: spacing
-        tags: []
       demo:
-        id: spacing
+        id: table-list
+      tokens:
+        tags: []
+        category: spacing
+    blockId: design-token-slice
   - id: ks-content-block-yvaN3EVmSU
-    blockId: markdown-slice
     data:
       md:
         - >-
@@ -63,8 +62,17 @@ slices:
 
           Example of spacing tokens applied
       columns: 1
-  - id: ks-content-block-opywKudFQ3
     blockId: markdown-slice
+  - id: ks-content-block-iR3NdVxCTk
+    data:
+      demo:
+        id: table-list
+      tokens:
+        name: ''
+        tags: []
+        category: transition
+    blockId: design-token-slice
+  - id: ks-content-block-opywKudFQ3
     data:
       md:
         - >-
@@ -119,6 +127,7 @@ slices:
           not be crowded; there should be white space to let the user’s eye
           rest.
       columns: 1
+    blockId: markdown-slice
 description: >-
   Spacing is an important — and often overlooked — part of visual design. Use
   spacing tokens to help designers deliver clear, functional layouts.
