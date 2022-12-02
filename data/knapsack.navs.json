@@ -176,6 +176,12 @@
       "parentId": "Simple"
     },
     {
+      "id": "button-1-snODqL0EiM",
+      "name": "button 1",
+      "path": "/pages/button-1-snODqL0EiM",
+      "parentId": "/pattern/button"
+    },
+    {
       "id": "Complex",
       "name": "Complex Patterns",
       "path": "",

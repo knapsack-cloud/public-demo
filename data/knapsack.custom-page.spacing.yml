@@ -46,13 +46,13 @@ slices:
       columns: 1
     blockId: markdown-slice
   - id: zaqr2o47r
-    blockId: design-token-slice
     data:
-      tokens:
-        category: spacing
-        tags: []
       demo:
-        id: spacing
+        id: simple-list
+      tokens:
+        tags: []
+        category: spacing
+    blockId: design-token-slice
   - id: ks-content-block-yvaN3EVmSU
     blockId: markdown-slice
     data:

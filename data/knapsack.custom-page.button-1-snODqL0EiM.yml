@@ -1,0 +1,17 @@
+id: button-1-snODqL0EiM
+title: button 1
+slices:
+  - id: ks-content-block-VDFYVdNM2E
+    data:
+      demoId: 2CXfLJgtaC
+      demoSize: landscape
+      patternId: button
+      templateId: react
+      hideControls: false
+      playgroundUi:
+        demoSize: landscape
+        showSchemaForm: false
+        showCodeSnippet: false
+      showSchemaForm: false
+      showCodeSnippet: false
+    blockId: pattern-template-slice

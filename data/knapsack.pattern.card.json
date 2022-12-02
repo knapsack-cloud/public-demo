@@ -3,10 +3,11 @@
   "title": "Card",
   "description": "Cards contain content and actions about a single subject.",
   "statuses": {
-    "design": "ready",
+    "design": "needs-design",
     "twig": "needs-updated",
     "react": "needs-updated",
-    "handlebars": "ready"
+    "handlebars": "ready",
+    "web-components": "needs-updated"
   },
   "templates": [
     {
@@ -16,7 +17,33 @@
       "alias": "Card",
       "templateLanguageId": "react",
       "spec": {
-        "isInferred": true
+        "props": {
+          "$schema": "http://json-schema.org/draft-07/schema",
+          "type": "object",
+          "required": [],
+          "properties": {
+            "body": {
+              "type": "string",
+              "description": "Content to fill out ONE paragraph"
+            },
+            "imgSrc": {
+              "type": "string"
+            },
+            "title": {
+              "type": "string"
+            },
+            "label": {
+              "type": "string"
+            }
+          },
+          "description": ""
+        },
+        "slots": {
+          "children": {
+            "title": "children",
+            "description": "undefined. Only use: author, button"
+          }
+        }
       },
       "demosById": {
         "main": {
@@ -126,14 +153,24 @@
             "props": {
               "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus, eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.",
               "label": "Article",
-              "title": "Boost your conversion rate now!",
+              "title": "Boost your conversion rate now! Boost your conversion rate now! Boost your conversion rate now! Boost your conversion rate now! Boost your conversion rate now! Boost your conversion rate now! ",
               "imgSrc": "https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80"
             },
             "slots": {
               "children": [
                 {
+                  "demoId": "_nTCiQ1984",
+                  "patternId": "author",
+                  "templateId": "react"
+                },
+                {
                   "demoId": "main",
                   "patternId": "author",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "2CXfLJgtaC",
+                  "patternId": "button",
                   "templateId": "react"
                 },
                 {
@@ -147,9 +184,33 @@
           "type": "data",
           "title": "One Author CTA",
           "description": ""
+        },
+        "uLgytRLuG0": {
+          "id": "uLgytRLuG0",
+          "data": {
+            "props": {
+              "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint harum rerum voluptatem quo recusandae magni placeat saepe molestiae, sed excepturi cumque corporis perferendis hic.",
+              "label": "Case Study",
+              "title": "Improve your customer experience",
+              "imgSrc": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80"
+            },
+            "slots": {
+              "children": []
+            }
+          },
+          "type": "data",
+          "title": "Simple - Theme 2",
+          "description": ""
         }
       },
-      "demos": ["RN96ZpJJpY", "main", "W1Xbf7ez7T", "3c9C95vaFP", "WXcBdSXuE9"],
+      "demos": [
+        "RN96ZpJJpY",
+        "main",
+        "W1Xbf7ez7T",
+        "3c9C95vaFP",
+        "WXcBdSXuE9",
+        "uLgytRLuG0"
+      ],
       "slices": []
     }
   ],
@@ -169,6 +230,10 @@
     {
       "id": "react",
       "type": "template"
+    },
+    {
+      "id": "Figma-New",
+      "type": "subPage"
     }
   ],
   "subPages": [
@@ -274,6 +339,29 @@
             "clickToInteract": false
           },
           "blockId": "figma-slice"
+        }
+      ]
+    },
+    {
+      "id": "Figma-New",
+      "title": "Figma New",
+      "slices": [
+        {
+          "id": "ks-content-block--EhZuiIev4",
+          "data": {
+            "url": "https://www.figma.com/file/rcMETa2cNqQDFLd41cZA14/Demo-Design-System?node-id=0%3A1",
+            "height": "480",
+            "clickToInteract": false
+          },
+          "blockId": "figma-slice"
+        },
+        {
+          "id": "ks-content-block-FVjOtepucC",
+          "data": {
+            "md": ["changes made to card"],
+            "columns": 1
+          },
+          "blockId": "markdown-slice"
         }
       ]
     }
