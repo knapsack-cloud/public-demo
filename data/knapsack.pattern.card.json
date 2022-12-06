@@ -16,7 +16,33 @@
       "alias": "Card",
       "templateLanguageId": "react",
       "spec": {
-        "isInferred": true
+        "props": {
+          "$schema": "http://json-schema.org/draft-07/schema",
+          "type": "object",
+          "required": [],
+          "properties": {
+            "body": {
+              "type": "string",
+              "description": "Content to fill out ONE paragraph"
+            },
+            "imgSrc": {
+              "type": "string"
+            },
+            "title": {
+              "type": "string"
+            },
+            "label": {
+              "type": "string"
+            }
+          },
+          "description": ""
+        },
+        "slots": {
+          "children": {
+            "title": "children",
+            "description": "undefined. Only use: author, button"
+          }
+        }
       },
       "demosById": {
         "main": {
@@ -42,6 +68,11 @@
                 },
                 {
                   "demoId": "main",
+                  "patternId": "button",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "txJseG30Ey",
                   "patternId": "button",
                   "templateId": "react"
                 }
@@ -189,7 +220,7 @@
         {
           "id": "ks-content-block-1zsHlF6chs",
           "data": {
-            "demoId": "main",
+            "demoId": "RN96ZpJJpY",
             "demoSize": "landscape",
             "patternId": "card",
             "templateId": "react",
@@ -197,10 +228,10 @@
             "playgroundUi": {
               "demoSize": "landscape",
               "showSchemaForm": false,
-              "showCodeSnippet": false
+              "showCodeSnippet": true
             },
             "showSchemaForm": false,
-            "showCodeSnippet": false
+            "showCodeSnippet": true
           },
           "blockId": "pattern-template-slice"
         },

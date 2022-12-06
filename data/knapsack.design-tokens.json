@@ -87,7 +87,7 @@
         "value": "#FFFFFF"
       },
       "primary": {
-        "value": "{color.base.green.value}"
+        "value": "{color.dark.green.value}"
       },
       "tertiary": {
         "value": "{color.text.inverse.value}"

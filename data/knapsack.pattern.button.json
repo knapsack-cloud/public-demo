@@ -91,9 +91,25 @@
           },
           "type": "data",
           "title": "Secondary"
+        },
+        "txJseG30Ey": {
+          "id": "txJseG30Ey",
+          "data": {
+            "props": {
+              "url": "#url",
+              "mode": "danger",
+              "size": "medium",
+              "type": "solid"
+            },
+            "slots": {
+              "children": ["Will Robinson!"]
+            }
+          },
+          "type": "data",
+          "title": "Primary Danger"
         }
       },
-      "demos": ["main", "2CXfLJgtaC"],
+      "demos": ["main", "2CXfLJgtaC", "txJseG30Ey"],
       "slices": []
     }
   ],
