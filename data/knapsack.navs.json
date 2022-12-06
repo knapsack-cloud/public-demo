@@ -279,6 +279,12 @@
       "path": "/pages/Private-Pages",
       "hidden": true,
       "parentId": "Admin"
+    },
+    {
+      "id": "new-component-vxYh_rZc-Y",
+      "name": "New Component",
+      "path": "/pattern/new-component-vxYh_rZc-Y",
+      "parentId": "Components-aPh3G1bbrX"
     }
   ]
 }

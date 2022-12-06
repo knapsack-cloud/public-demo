@@ -1,0 +1,49 @@
+{
+  "id": "new-component-vxYh_rZc-Y",
+  "tabs": [
+    {
+      "id": "overview",
+      "type": "subPage"
+    }
+  ],
+  "title": "New Component",
+  "statuses": {
+    "react": "needs-dev",
+    "web-components": "needs-dev"
+  },
+  "subPages": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "slices": [
+        {
+          "id": "ks-content-block-d9mdkHziAP",
+          "data": {
+            "md": [
+              "## Overview\nUse messages to communicate short, important notes to users along with clear calls-to-action. Messages are versatile and can be used in a variety of scenarios. \n\n### Do:\n* Consider and choose text and visual elements carefully. Test your messages with the minimal content and only add additional content or graphics where they give needed context to the user\n* Use headlines that set clear expectations about the content being linked to\n* Use one style of message per module, don't mix and match\n* Feature one piece of information per message\n* Outline the main idea with the minimal possible information, don't overload with information as the message links to more detail\n\n### Do not:\n* Mix message styles within the same module\n* Overload with information as the message links to more detail\n* Add inline text links, the message itself is clickable and should link to a single piece of information, consider using content blocks in this instance "
+            ],
+            "columns": 1
+          },
+          "blockId": "markdown-slice"
+        },
+        {
+          "id": "ks-content-block-RvmNNxkvp8",
+          "data": {
+            "demo": {
+              "id": "color-swatch"
+            },
+            "tokens": {
+              "name": "",
+              "tags": ["brand"],
+              "type": "color",
+              "category": ""
+            }
+          },
+          "blockId": "design-token-slice"
+        }
+      ]
+    }
+  ],
+  "templates": [],
+  "description": ""
+}
