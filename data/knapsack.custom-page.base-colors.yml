@@ -11,6 +11,12 @@ slices:
           - base
         category: color
     blockId: design-token-slice
+  - id: ks-content-block-VwRS2dc04n
+    data:
+      md:
+        - ''
+      columns: 1
+    blockId: markdown-slice
   - id: ks-content-block-ah868Art9J
     data:
       demo:
