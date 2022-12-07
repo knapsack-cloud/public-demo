@@ -1,0 +1,50 @@
+id: new-card-dAt39-CzFs
+title: New Card
+slices:
+  - id: ks-content-block-QH1h14A0RP
+    data:
+      md:
+        - "## Here's our new Card idea"
+      columns: 1
+    blockId: markdown-slice
+  - id: ks-content-block-luWblG8nVt
+    data:
+      url: 'https://www.figma.com/file/rcMETa2cNqQDFLd41cZA14?node-id=0:1'
+      height: '480'
+      clickToInteract: false
+    blockId: figma-slice
+  - id: ks-content-block-1mopXucPsK
+    data:
+      md:
+        - >-
+          ## Do:
+
+          * Consider and choose text and visual elements carefully. Test your
+          cards with the minimal content and only add additional content or
+          graphics where they give needed context to the user
+
+          * Use headlines that set clear expectations about the content being
+          linked to
+
+          * Use one style of card per module, don't mix and match
+
+          * Feature one piece of information per card
+
+          * Outline the main idea with the minimal possible information, don't
+          overload with information as the card links to more detail
+      columns: 1
+    blockId: markdown-slice
+  - id: ks-content-block-yxwpRv_9H-
+    data:
+      demoId: 7RkpqEVKRO
+      demoSize: landscape
+      patternId: card
+      templateId: react
+      hideControls: false
+      playgroundUi:
+        demoSize: landscape
+        showSchemaForm: false
+        showCodeSnippet: false
+      showSchemaForm: false
+      showCodeSnippet: false
+    blockId: pattern-template-slice

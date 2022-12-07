@@ -147,9 +147,44 @@
           "type": "data",
           "title": "One Author CTA",
           "description": ""
+        },
+        "7RkpqEVKRO": {
+          "id": "7RkpqEVKRO",
+          "data": {
+            "props": {
+              "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint harum rerum voluptatem quo recusandae magni placeat saepe molestiae, sed excepturi cumque corporis perferendis hic.",
+              "label": "Case Study",
+              "title": "Improve your customer experience",
+              "imgSrc": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80"
+            },
+            "slots": {
+              "children": [
+                {
+                  "demoId": "hGfcj0Ksms",
+                  "patternId": "author",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "_nTCiQ1984",
+                  "patternId": "author",
+                  "templateId": "react"
+                }
+              ]
+            }
+          },
+          "type": "data",
+          "title": "Two Author - No CTA 3.0",
+          "description": ""
         }
       },
-      "demos": ["RN96ZpJJpY", "main", "W1Xbf7ez7T", "3c9C95vaFP", "WXcBdSXuE9"],
+      "demos": [
+        "RN96ZpJJpY",
+        "main",
+        "W1Xbf7ez7T",
+        "3c9C95vaFP",
+        "WXcBdSXuE9",
+        "7RkpqEVKRO"
+      ],
       "slices": []
     }
   ],

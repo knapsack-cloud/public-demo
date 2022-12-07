@@ -194,6 +194,12 @@
       "parentId": "Complex"
     },
     {
+      "id": "new-card-dAt39-CzFs",
+      "name": "New Card",
+      "path": "/pages/new-card-dAt39-CzFs",
+      "parentId": "card"
+    },
+    {
       "id": "footer",
       "name": "Footer",
       "path": "/pattern/footer",
