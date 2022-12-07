@@ -2,7 +2,7 @@
   "color": {
     "Meh": {
       "blue": {
-        "value": "{color.base.blue.value}",
+        "value": "{color.base.yellow.value}",
         "comment": "An okayish blue"
       },
       "black": {
@@ -269,7 +269,7 @@
   "transition": {
     "delay": {
       "slow": {
-        "value": "8000ms",
+        "value": "8500ms",
         "comment": "Used for timings that need to be fully interpreted by users, such as the Carousel autorotate delay."
       }
     },
