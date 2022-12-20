@@ -132,7 +132,29 @@
       "primaryHover": {
         "value": "#525A62"
       }
+    },
+    "message": {
+      "info": {
+        "type": "color",
+        "value": "#b7d2ff"
+      },
+      "danger": {
+        "type": "color",
+        "value": "#ffc3c3"
+      },
+      "success": {
+        "type": "color",
+        "value": "#99f1e6"
+      },
+      "warning": {
+        "type": "color",
+        "value": "#ffedad"
+      }
     }
+  },
+  "small": {
+    "type": "unknown",
+    "value": "2"
   },
   "shadow": {
     "box": {
@@ -149,6 +171,26 @@
     "text": {
       "medium": {
         "value": "0 1px 2px rgba(0,0,0,0.5)"
+      }
+    }
+  },
+  "system": {
+    "message": {
+      "info": {
+        "type": "color",
+        "value": "#b7d2ff"
+      },
+      "danger": {
+        "type": "color",
+        "value": "#ffc3c3"
+      },
+      "success": {
+        "type": "color",
+        "value": "#99f1e6"
+      },
+      "warning": {
+        "type": "color",
+        "value": "#ffedad"
       }
     }
   },

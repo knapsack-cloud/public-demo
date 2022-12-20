@@ -146,7 +146,9 @@
           },
           "type": "data",
           "title": "One Author CTA",
-          "description": ""
+          "description": "",
+          "height": 629,
+          "width": 359
         }
       },
       "demos": ["RN96ZpJJpY", "main", "W1Xbf7ez7T", "3c9C95vaFP", "WXcBdSXuE9"],
