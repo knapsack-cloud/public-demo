@@ -129,7 +129,7 @@
             "demoId": "main",
             "patternId": "button",
             "templateId": "react",
-            "variationId": "mode"
+            "variationId": "type"
           },
           "blockId": "pattern-variations"
         },
@@ -231,21 +231,36 @@
       "slices": [
         {
           "id": "ks-content-block-5IKy6auf0k",
-          "blockId": "figma-slice",
           "data": {
-            "clickToInteract": false,
+            "url": "https://www.figma.com/file/uXroEUE22VtrT6CiF3zQqS/tailwind-ui-figma-kit-2021-03-26?node-id=752%3A32",
             "height": "800",
-            "url": "https://www.figma.com/file/uXroEUE22VtrT6CiF3zQqS/tailwind-ui-figma-kit-2021-03-26?node-id=752%3A32"
-          }
+            "clickToInteract": false
+          },
+          "blockId": "figma-slice"
+        },
+        {
+          "id": "ks-content-block-8onxjPMLIf",
+          "data": {
+            "demo": {
+              "id": "color-swatch"
+            },
+            "tokens": {
+              "name": "",
+              "tags": [],
+              "type": "color",
+              "category": ""
+            }
+          },
+          "blockId": "design-token-slice"
         },
         {
           "id": "ks-content-block-_quWnLXCar",
-          "blockId": "figma-slice",
           "data": {
             "url": "https://www.figma.com/file/uXroEUE22VtrT6CiF3zQqS/tailwind-ui-figma-kit-2021-03-26?node-id=172%3A4447",
             "height": "480",
             "clickToInteract": false
-          }
+          },
+          "blockId": "figma-slice"
         }
       ]
     },

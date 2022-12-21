@@ -30,13 +30,13 @@
     },
     "base": {
       "red": {
-        "value": "#ef5151"
+        "value": "#D72222"
       },
       "blue": {
         "value": "#207FF9"
       },
       "green": {
-        "value": "#3ccf91"
+        "value": "{color.Meh.yellow.value}"
       },
       "orange": {
         "value": "#FF934F"
