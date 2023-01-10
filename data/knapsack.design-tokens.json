@@ -10,7 +10,7 @@
         "comment": "They say it goes with everything... but does it go with this?"
       },
       "yellow": {
-        "value": "{color.base.yellow.value}",
+        "value": "{color.base.green.value}",
         "comment": "Is yellow the right color? I dunno..."
       }
     },
@@ -271,6 +271,10 @@
       "slow": {
         "value": "8000ms",
         "comment": "Used for timings that need to be fully interpreted by users, such as the Carousel autorotate delay."
+      },
+      "slower": {
+        "value": "9000",
+        "comment": ""
       }
     },
     "timing": {
