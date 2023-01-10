@@ -137,7 +137,17 @@
                   "templateId": "react"
                 },
                 {
+                  "demoId": "_nTCiQ1984",
+                  "patternId": "author",
+                  "templateId": "react"
+                },
+                {
                   "demoId": "main",
+                  "patternId": "button",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "2CXfLJgtaC",
                   "patternId": "button",
                   "templateId": "react"
                 }
