@@ -80,7 +80,14 @@
         }
       },
       "alias": "PageLayout",
-      "demos": ["jIkrNzJ0cO", "s4slb6Lm8b", "main", "KiEIXk9VV7"],
+      "demos": [
+        "jIkrNzJ0cO",
+        "s4slb6Lm8b",
+        "main",
+        "KiEIXk9VV7",
+        "9Wfhmv_qA3",
+        "M1ankyyKS6"
+      ],
       "title": "React",
       "slices": [
         {
@@ -203,6 +210,72 @@
           "type": "data",
           "title": "3-Column Homepage 2",
           "description": "A sample homepage"
+        },
+        "9Wfhmv_qA3": {
+          "id": "9Wfhmv_qA3",
+          "data": {
+            "props": {},
+            "slots": {
+              "children": [
+                {
+                  "demoId": "main",
+                  "patternId": "hero",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "main",
+                  "patternId": "header",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "aMFkBNIHU2",
+                  "patternId": "layout",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "main",
+                  "patternId": "footer",
+                  "templateId": "react"
+                }
+              ]
+            }
+          },
+          "type": "data",
+          "title": "New Variation",
+          "description": "A description"
+        },
+        "M1ankyyKS6": {
+          "id": "M1ankyyKS6",
+          "data": {
+            "props": {},
+            "slots": {
+              "children": [
+                {
+                  "demoId": "main",
+                  "patternId": "hero",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "main",
+                  "patternId": "header",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "aMFkBNIHU2",
+                  "patternId": "layout",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "main",
+                  "patternId": "footer",
+                  "templateId": "react"
+                }
+              ]
+            }
+          },
+          "type": "data",
+          "title": "New Variation",
+          "description": "A description"
         }
       },
       "templateLanguageId": "react",

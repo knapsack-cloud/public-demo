@@ -111,7 +111,12 @@
       "spec": {},
       "demos": ["main"],
       "title": "HTML",
-      "slices": [],
+      "slices": [
+        {
+          "id": "ks-content-block-rZ-bLhJhKA",
+          "blockId": "generic-iframe"
+        }
+      ],
       "demosById": {
         "main": {
           "id": "main",
