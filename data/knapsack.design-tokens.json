@@ -12,6 +12,10 @@
       "yellow": {
         "value": "{color.base.yellow.value}",
         "comment": "Is yellow the right color? I dunno..."
+      },
+      "warning": {
+        "value": "{color.Meh.yellow.value}",
+        "comment": "just added!"
       }
     },
     "Wow": {
@@ -269,7 +273,7 @@
   "transition": {
     "delay": {
       "slow": {
-        "value": "8000ms",
+        "value": "8200ms",
         "comment": "Used for timings that need to be fully interpreted by users, such as the Carousel autorotate delay."
       }
     },
