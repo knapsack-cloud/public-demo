@@ -1,10 +1,6 @@
 {
   "color": {
     "Meh": {
-      "blue": {
-        "value": "{color.base.blue.value}",
-        "comment": "An okayish blue"
-      },
       "black": {
         "value": "{color.brand.black.value}",
         "comment": "They say it goes with everything... but does it go with this?"
@@ -12,6 +8,10 @@
       "yellow": {
         "value": "{color.base.yellow.value}",
         "comment": "Is yellow the right color? I dunno..."
+      },
+      "blue-origin": {
+        "value": "{color.base.green.value}",
+        "comment": "An okayish blue"
       }
     },
     "Wow": {
