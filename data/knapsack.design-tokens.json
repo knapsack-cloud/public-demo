@@ -2,7 +2,7 @@
   "color": {
     "Meh": {
       "blue": {
-        "value": "{color.base.blue.value}",
+        "value": "{color.base.green.value}",
         "comment": "An okayish blue"
       },
       "black": {
@@ -131,6 +131,24 @@
       },
       "primaryHover": {
         "value": "#525A62"
+      }
+    },
+    "function": {
+      "info": {
+        "type": "color",
+        "value": "#b7d2ff"
+      },
+      "danger": {
+        "type": "color",
+        "value": "#ffc3c3"
+      },
+      "success": {
+        "type": "color",
+        "value": "#99f1e6"
+      },
+      "warning": {
+        "type": "color",
+        "value": "#ffedad"
       }
     }
   },
