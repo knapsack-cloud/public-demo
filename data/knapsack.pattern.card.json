@@ -132,8 +132,13 @@
             "slots": {
               "children": [
                 {
-                  "demoId": "main",
+                  "demoId": "_nTCiQ1984",
                   "patternId": "author",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "2CXfLJgtaC",
+                  "patternId": "button",
                   "templateId": "react"
                 },
                 {

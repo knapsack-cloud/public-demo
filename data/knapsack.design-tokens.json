@@ -2,7 +2,7 @@
   "color": {
     "Meh": {
       "blue": {
-        "value": "{color.base.blue.value}",
+        "value": "{color.dark.green.value}",
         "comment": "An okayish blue"
       },
       "black": {
