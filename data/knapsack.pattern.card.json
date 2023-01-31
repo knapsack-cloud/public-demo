@@ -132,6 +132,11 @@
             "slots": {
               "children": [
                 {
+                  "demoId": "_nTCiQ1984",
+                  "patternId": "author",
+                  "templateId": "react"
+                },
+                {
                   "demoId": "main",
                   "patternId": "author",
                   "templateId": "react"
