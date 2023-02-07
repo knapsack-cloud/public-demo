@@ -132,6 +132,20 @@
       "primaryHover": {
         "value": "#525A62"
       }
+    },
+    "function": {
+      "info": {
+        "value": "#b7d2ff"
+      },
+      "danger": {
+        "value": "#ffc3c3"
+      },
+      "success": {
+        "value": "#99f1e6"
+      },
+      "warning": {
+        "value": "#ffedad"
+      }
     }
   },
   "shadow": {
@@ -271,6 +285,10 @@
       "slow": {
         "value": "8000ms",
         "comment": "Used for timings that need to be fully interpreted by users, such as the Carousel autorotate delay."
+      },
+      "medium": {
+        "value": "6000ms",
+        "comment": "used for medium speed animation delays"
       }
     },
     "timing": {
