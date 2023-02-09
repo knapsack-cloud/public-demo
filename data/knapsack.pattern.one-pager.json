@@ -128,11 +128,11 @@
               "children": [
                 {
                   "demoId": "main",
-                  "patternId": "hero",
+                  "patternId": "top-nav",
                   "templateId": "react"
                 },
                 {
-                  "demoId": "eY-_KWUog4",
+                  "demoId": "aMFkBNIHU2",
                   "patternId": "layout",
                   "templateId": "react"
                 },
