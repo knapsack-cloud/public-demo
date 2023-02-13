@@ -91,9 +91,25 @@
           },
           "type": "data",
           "title": "Secondary"
+        },
+        "PQJ_D7w6tj": {
+          "id": "PQJ_D7w6tj",
+          "data": {
+            "props": {
+              "mode": "success",
+              "size": "medium",
+              "type": "outline"
+            },
+            "slots": {
+              "children": ["Text!!"]
+            }
+          },
+          "type": "data",
+          "title": "Green one",
+          "description": "A description"
         }
       },
-      "demos": ["main", "2CXfLJgtaC"],
+      "demos": ["main", "2CXfLJgtaC", "PQJ_D7w6tj"],
       "slices": []
     }
   ],
