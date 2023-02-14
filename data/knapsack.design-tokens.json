@@ -73,7 +73,7 @@
         "value": "#2B64A8"
       },
       "default": {
-        "value": "#222222"
+        "value": "{color.brand.black.value}"
       },
       "inverse": {
         "value": "#f9f9f9"
@@ -268,8 +268,12 @@
   },
   "transition": {
     "delay": {
+      "fast": {
+        "value": "2000ms",
+        "comment": "faster!"
+      },
       "slow": {
-        "value": "8000ms",
+        "value": "10000ms",
         "comment": "Used for timings that need to be fully interpreted by users, such as the Carousel autorotate delay."
       }
     },
