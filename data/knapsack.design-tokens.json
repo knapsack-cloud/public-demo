@@ -30,7 +30,7 @@
     },
     "base": {
       "red": {
-        "value": "#ef5151"
+        "value": "{color.light.red.value}"
       },
       "blue": {
         "value": "#207FF9"
@@ -131,6 +131,20 @@
       },
       "primaryHover": {
         "value": "#525A62"
+      }
+    },
+    "function": {
+      "info": {
+        "value": "#b7d2ff"
+      },
+      "danger": {
+        "value": "#ffc3c3"
+      },
+      "success": {
+        "value": "#99f1e6"
+      },
+      "warning": {
+        "value": "#ffedad"
       }
     }
   },
@@ -268,6 +282,10 @@
   },
   "transition": {
     "delay": {
+      "fast": {
+        "value": "2000ms",
+        "comment": ""
+      },
       "slow": {
         "value": "8000ms",
         "comment": "Used for timings that need to be fully interpreted by users, such as the Carousel autorotate delay."
