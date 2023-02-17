@@ -2,7 +2,7 @@
   "color": {
     "Meh": {
       "blue": {
-        "value": "{color.base.blue.value}",
+        "value": "{color.base.red.value}",
         "comment": "An okayish blue"
       },
       "black": {
@@ -30,7 +30,7 @@
     },
     "base": {
       "red": {
-        "value": "#ef5151"
+        "value": "#8B1919"
       },
       "blue": {
         "value": "#207FF9"

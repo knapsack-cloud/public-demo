@@ -16,7 +16,33 @@
       "alias": "Card",
       "templateLanguageId": "react",
       "spec": {
-        "isInferred": true
+        "props": {
+          "$schema": "http://json-schema.org/draft-07/schema",
+          "type": "object",
+          "required": [],
+          "properties": {
+            "body": {
+              "type": "string",
+              "description": "Content to fill out ONE paragraph"
+            },
+            "imgSrc": {
+              "type": "string"
+            },
+            "title": {
+              "type": "string"
+            },
+            "label": {
+              "type": "string"
+            }
+          },
+          "description": ""
+        },
+        "slots": {
+          "children": {
+            "title": "children",
+            "description": "undefined. Only use: author, button"
+          }
+        }
       },
       "demosById": {
         "main": {
@@ -133,12 +159,12 @@
               "children": [
                 {
                   "demoId": "main",
-                  "patternId": "author",
+                  "patternId": "button",
                   "templateId": "react"
                 },
                 {
-                  "demoId": "main",
-                  "patternId": "button",
+                  "demoId": "_nTCiQ1984",
+                  "patternId": "author",
                   "templateId": "react"
                 }
               ]
