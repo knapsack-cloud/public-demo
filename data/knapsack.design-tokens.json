@@ -2,7 +2,7 @@
   "color": {
     "Meh": {
       "blue": {
-        "value": "{color.base.blue.value}",
+        "value": "{color.base.red.value}",
         "comment": "An okayish blue"
       },
       "black": {
@@ -153,26 +153,26 @@
     }
   },
   "spacing": {
-    "2xs": {
-      "value": "2px"
-    },
-    "xs": {
-      "value": "4px"
-    },
-    "s": {
-      "value": "8px"
+    "l": {
+      "value": "32px"
     },
     "m": {
       "value": "16px"
     },
-    "l": {
-      "value": "32px"
+    "s": {
+      "value": "8px"
     },
     "xl": {
       "value": "48px"
     },
+    "xs": {
+      "value": "4px"
+    },
     "2xl": {
       "value": "64px"
+    },
+    "2xs": {
+      "value": "2px"
     }
   },
   "font-size": {
