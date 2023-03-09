@@ -5,7 +5,7 @@
   "statuses": {
     "design": "ready",
     "twig": "needs-updated",
-    "react": "needs-updated",
+    "react": "ready",
     "handlebars": "ready"
   },
   "templates": [
@@ -133,6 +133,11 @@
               "children": [
                 {
                   "demoId": "main",
+                  "patternId": "author",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "_nTCiQ1984",
                   "patternId": "author",
                   "templateId": "react"
                 },
