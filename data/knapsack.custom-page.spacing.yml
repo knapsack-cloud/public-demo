@@ -10,7 +10,7 @@ slices:
           The spacing scale can be applied to <code>margin</code> or
           <code>padding</code> properties, as well as to both vertical and
           horizontal edges. The token takes the place of the values normally
-          assigned to <code>margin</code> and <code>padding</code>. The
+          assigned to dneneww <code>margin</code> and <code>padding</code>. The
           following are all approved ways to syntactically apply spacing tokens:
 
 
