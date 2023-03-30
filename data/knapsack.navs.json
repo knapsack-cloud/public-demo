@@ -278,6 +278,12 @@
       "path": "/pages/Private-Pages",
       "hidden": true,
       "parentId": "Admin"
+    },
+    {
+      "id": "new-pattern",
+      "name": "New Pattern",
+      "path": "/pattern/new-pattern",
+      "parentId": "Prototyping"
     }
   ]
 }

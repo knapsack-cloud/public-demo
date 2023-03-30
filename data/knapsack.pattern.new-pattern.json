@@ -1,0 +1,20 @@
+{
+  "id": "new-pattern",
+  "tabs": [
+    {
+      "id": "overview",
+      "type": "subPage"
+    }
+  ],
+  "title": "New Pattern",
+  "statuses": {},
+  "subPages": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "slices": []
+    }
+  ],
+  "templates": [],
+  "description": ""
+}
