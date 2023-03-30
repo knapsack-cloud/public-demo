@@ -11,6 +11,7 @@
     }
   ],
   "title": "Prototyping Playground",
+  "demoSize": "landscape",
   "statuses": {
     "twig": "needs-dev",
     "react": "ready",
@@ -80,10 +81,43 @@
         }
       },
       "alias": "PageLayout",
-      "demos": ["jIkrNzJ0cO"],
+      "demos": ["jIkrNzJ0cO", "VivRWqvtE8"],
       "title": "React",
       "slices": [],
       "demosById": {
+        "VivRWqvtE8": {
+          "id": "VivRWqvtE8",
+          "data": {
+            "props": {},
+            "slots": {
+              "children": [
+                {
+                  "demoId": "main",
+                  "patternId": "hero",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "main",
+                  "patternId": "header",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "eY-_KWUog4",
+                  "patternId": "layout",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "main",
+                  "patternId": "footer",
+                  "templateId": "react"
+                }
+              ]
+            }
+          },
+          "type": "data",
+          "title": "New Variation",
+          "description": "A description"
+        },
         "jIkrNzJ0cO": {
           "id": "jIkrNzJ0cO",
           "data": {
@@ -113,10 +147,9 @@
           "description": "A sample homepage"
         }
       },
-      "templateLanguageId": "react",
-      "assetSetIds": ["default", "dark"]
+      "assetSetIds": ["default", "dark"],
+      "templateLanguageId": "react"
     }
   ],
-  "description": "Use this prototyping playground to add coded components and elements to our landing page template to quickly build and launch a Home or advanced landing page using the available system.",
-  "demoSize": "portrait"
+  "description": "Use this prototyping playground to add coded components and elements to our landing page template to quickly build and launch a Home or advanced landing page using the available system."
 }
