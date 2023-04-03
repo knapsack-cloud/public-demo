@@ -95,10 +95,16 @@ slices:
           tooling and workflows that **make it easy to reuse code**.
 
 
+          Information
+
+
       columns: 1
     blockId: markdown-slice
+  - id: ks-content-block-LorW9kjzRh
+    blockId: divider-block
 settings:
   pageHeader:
+    size: small
     textColorTitle:
       type: design-token
       tokenName: color-brand-primary
@@ -108,5 +114,4 @@ settings:
       type: design-token
       tokenName: color-brand-black
       colorValue: '#000000'
-    size: small
 description: The collaborative design system

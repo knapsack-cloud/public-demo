@@ -91,9 +91,25 @@
           },
           "type": "data",
           "title": "Secondary"
+        },
+        "2uunwAPICI": {
+          "id": "2uunwAPICI",
+          "data": {
+            "props": {
+              "mode": "info",
+              "size": "medium",
+              "type": "outline"
+            },
+            "slots": {
+              "children": ["Best Button"]
+            }
+          },
+          "type": "data",
+          "title": "New Variation",
+          "description": "A description"
         }
       },
-      "demos": ["main", "2CXfLJgtaC"],
+      "demos": ["main", "2CXfLJgtaC", "2uunwAPICI"],
       "slices": []
     }
   ],

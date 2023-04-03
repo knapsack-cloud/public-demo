@@ -1,6 +1,14 @@
 id: homepage
 title: Knapsack
-slices: []
+slices:
+  - id: ks-content-block-NYuEp2sv9q
+    blockId: pattern-variations
+  - id: ks-content-block-y5fswe3BsF
+    blockId: pattern-template-slice
+  - id: ks-content-block-SPmDSuLIOt
+    blockId: figma-slice
+  - id: ks-content-block-IDWllAqqD-
+    blockId: youtube-slice
 settings:
   pageHeader:
     size: full
