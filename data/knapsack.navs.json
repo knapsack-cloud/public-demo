@@ -278,6 +278,12 @@
       "path": "/pages/Private-Pages",
       "hidden": true,
       "parentId": "Admin"
+    },
+    {
+      "id": "design-tokens",
+      "name": "Design Tokens",
+      "path": "/pages/design-tokens",
+      "parentId": "Documentation"
     }
   ]
 }

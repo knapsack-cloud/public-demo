@@ -1,0 +1,23 @@
+id: design-tokens
+title: Design Tokens
+slices:
+  - id: ks-content-block-OPQ53MpuLb
+    data:
+      md:
+        - |-
+          # Intro
+          Adding some cool info about **design tokens**
+      columns: 1
+      autoEdit: false
+    blockId: markdown-slice
+  - id: ks-content-block-CYo0PnhJgX
+    data:
+      demo:
+        id: color-swatch
+      tokens:
+        name: ''
+        tags:
+          - dark
+          - brand
+        category: ''
+    blockId: design-token-slice
