@@ -39,7 +39,7 @@
               "title": "Button Mode"
             },
             "size": {
-              "enum": ["small", "medium", "large"],
+              "enum": ["small", "medium", "large", "x-large"],
               "type": "string",
               "title": "Size"
             },
@@ -91,9 +91,19 @@
           },
           "type": "data",
           "title": "Secondary"
+        },
+        "pn_Ywu6fn3": {
+          "id": "pn_Ywu6fn3",
+          "data": {
+            "props": {},
+            "slots": {}
+          },
+          "type": "data",
+          "title": "New Variation",
+          "description": "A description"
         }
       },
-      "demos": ["main", "2CXfLJgtaC"],
+      "demos": ["main", "2CXfLJgtaC", "pn_Ywu6fn3"],
       "slices": []
     }
   ],
@@ -129,7 +139,8 @@
             "demoId": "main",
             "patternId": "button",
             "templateId": "react",
-            "variationId": "mode"
+            "variationId": "mode",
+            "hideBlockTitle": false
           },
           "blockId": "pattern-variations"
         },
@@ -140,7 +151,8 @@
             "demoId": "main",
             "patternId": "button",
             "templateId": "react",
-            "variationId": "size"
+            "variationId": "size",
+            "hideBlockTitle": false
           },
           "blockId": "pattern-variations"
         },
