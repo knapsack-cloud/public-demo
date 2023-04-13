@@ -96,6 +96,11 @@
                   "templateId": "react"
                 },
                 {
+                  "demoId": "main",
+                  "patternId": "header",
+                  "templateId": "react"
+                },
+                {
                   "demoId": "eY-_KWUog4",
                   "patternId": "layout",
                   "templateId": "react"

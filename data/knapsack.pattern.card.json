@@ -104,20 +104,31 @@
           "description": ""
         },
         "WXcBdSXuE9": {
+          "id": "WXcBdSXuE9",
           "data": {
-            "slots": {
-              "children": []
-            },
             "props": {
               "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint harum rerum voluptatem quo recusandae magni placeat saepe molestiae, sed excepturi cumque corporis perferendis hic.",
-              "imgSrc": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
+              "label": "Case Study label goes here!",
               "title": "Improve your customer experience",
-              "label": "Case Study"
+              "imgSrc": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80"
+            },
+            "slots": {
+              "children": [
+                {
+                  "demoId": "main",
+                  "patternId": "button",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "2CXfLJgtaC",
+                  "patternId": "button",
+                  "templateId": "react"
+                }
+              ]
             }
           },
-          "id": "WXcBdSXuE9",
-          "title": "Simple",
           "type": "data",
+          "title": "Simple",
           "description": ""
         },
         "RN96ZpJJpY": {
