@@ -39,6 +39,7 @@ slices:
       tokens:
         name: ''
         tags: []
+        type: color
         category: ''
     blockId: design-token-slice
 settings:
