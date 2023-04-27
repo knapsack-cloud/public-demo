@@ -66,8 +66,8 @@
             "props": {
               "url": "#url",
               "mode": "info",
-              "size": "medium",
-              "type": "solid"
+              "size": "large",
+              "type": "outline"
             },
             "slots": {
               "children": ["Button"]
