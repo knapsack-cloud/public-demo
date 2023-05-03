@@ -1,16 +1,6 @@
 id: Static-Content
 title: Static Content
 slices:
-  - id: y7e0x_KAMN
-    data:
-      md:
-        - >-
-          *This section provides an overview of content formatting options in
-          Knapsack. Visit the [Design Tokens](././Design-Tokens-lNWaUqkDSo) and
-          [Components](././Components-Overview) sections for examples of asset
-          docs.*
-      columns: 1
-    blockId: markdown-slice
   - id: ks-content-block-836ZvCc7ev
     data:
       md:
@@ -58,6 +48,16 @@ slices:
     blockId: markdown-slice
   - id: ks-content-block-WPb97EJk3q
     blockId: divider-block
+  - id: y7e0x_KAMN
+    data:
+      md:
+        - >-
+          *This section provides an overview of content formatting options in
+          Knapsack. Visit the [Design Tokens](././Design-Tokens-lNWaUqkDSo) and
+          [Components](././Components-Overview) sections for examples of asset
+          docs.*
+      columns: 1
+    blockId: markdown-slice
   - id: ks-content-block-3nx-x-krwF
     data:
       md:
