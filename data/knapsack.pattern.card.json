@@ -52,11 +52,11 @@
             "hideControls": false,
             "playgroundUi": {
               "demoSize": "landscape",
-              "showSchemaForm": false,
-              "showCodeSnippet": true
+              "showSchemaForm": true,
+              "showCodeSnippet": false
             },
-            "showSchemaForm": false,
-            "showCodeSnippet": true
+            "showSchemaForm": true,
+            "showCodeSnippet": false
           },
           "blockId": "pattern-template-slice"
         },
@@ -175,7 +175,8 @@
         "3c9C95vaFP",
         "WXcBdSXuE9",
         "hNea4yBuRz",
-        "9tHagikEsv"
+        "9tHagikEsv",
+        "Yfz7MyoREa"
       ],
       "title": "React",
       "slices": [],
@@ -271,6 +272,11 @@
                   "demoId": "main",
                   "patternId": "button",
                   "templateId": "react"
+                },
+                {
+                  "demoId": "2CXfLJgtaC",
+                  "patternId": "button",
+                  "templateId": "react"
                 }
               ]
             }
@@ -323,7 +329,15 @@
           "id": "hNea4yBuRz",
           "data": {
             "props": {},
-            "slots": {}
+            "slots": {
+              "children": [
+                {
+                  "demoId": "main",
+                  "patternId": "button",
+                  "templateId": "react"
+                }
+              ]
+            }
           },
           "type": "data",
           "title": "New Variation",
@@ -331,6 +345,16 @@
         },
         "9tHagikEsv": {
           "id": "9tHagikEsv",
+          "data": {
+            "props": {},
+            "slots": {}
+          },
+          "type": "data",
+          "title": "New Variation",
+          "description": "A description"
+        },
+        "Yfz7MyoREa": {
+          "id": "Yfz7MyoREa",
           "data": {
             "props": {},
             "slots": {}
