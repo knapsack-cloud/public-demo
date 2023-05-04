@@ -141,6 +141,11 @@
                   "demoId": "main",
                   "patternId": "button",
                   "templateId": "react"
+                },
+                {
+                  "demoId": "",
+                  "patternId": "",
+                  "templateId": ""
                 }
               ]
             }
