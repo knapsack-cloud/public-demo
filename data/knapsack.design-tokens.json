@@ -87,7 +87,7 @@
         "value": "#FFFFFF"
       },
       "primary": {
-        "value": "{color.base.blue.value}"
+        "value": "{color.Meh.blue.value}"
       },
       "tertiary": {
         "value": "#F3EFFB"

@@ -82,7 +82,7 @@
         }
       },
       "alias": "PageLayout",
-      "demos": ["jIkrNzJ0cO", "d8-I66QIss"],
+      "demos": ["jIkrNzJ0cO", "d8-I66QIss", "umDT37D25b"],
       "title": "React",
       "slices": [],
       "demosById": {
@@ -95,6 +95,11 @@
                 {
                   "demoId": "main",
                   "patternId": "hero",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "main",
+                  "patternId": "header",
                   "templateId": "react"
                 },
                 {
@@ -116,6 +121,39 @@
         },
         "d8-I66QIss": {
           "id": "d8-I66QIss",
+          "data": {
+            "props": {},
+            "slots": {
+              "children": [
+                {
+                  "demoId": "main",
+                  "patternId": "hero",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "main",
+                  "patternId": "header",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "eY-_KWUog4",
+                  "patternId": "layout",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "main",
+                  "patternId": "footer",
+                  "templateId": "react"
+                }
+              ]
+            }
+          },
+          "type": "data",
+          "title": "New Variation",
+          "description": "A description"
+        },
+        "umDT37D25b": {
+          "id": "umDT37D25b",
           "data": {
             "props": {},
             "slots": {
