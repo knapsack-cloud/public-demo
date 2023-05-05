@@ -148,9 +148,41 @@
           "type": "data",
           "title": "One Author CTA",
           "description": ""
+        },
+        "rNIV-NZjyg": {
+          "id": "rNIV-NZjyg",
+          "data": {
+            "props": {
+              "title": "Title! "
+            },
+            "slots": {
+              "children": [
+                {
+                  "demoId": "_nTCiQ1984",
+                  "patternId": "author",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "main",
+                  "patternId": "button",
+                  "templateId": "react"
+                }
+              ]
+            }
+          },
+          "type": "data",
+          "title": "New Variation",
+          "description": "A description"
         }
       },
-      "demos": ["RN96ZpJJpY", "main", "W1Xbf7ez7T", "3c9C95vaFP", "WXcBdSXuE9"],
+      "demos": [
+        "RN96ZpJJpY",
+        "main",
+        "W1Xbf7ez7T",
+        "3c9C95vaFP",
+        "WXcBdSXuE9",
+        "rNIV-NZjyg"
+      ],
       "slices": []
     }
   ],
