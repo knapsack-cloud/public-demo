@@ -66,11 +66,11 @@
             "props": {
               "url": "#url",
               "mode": "info",
-              "size": "medium",
-              "type": "solid"
+              "size": "large",
+              "type": "outline"
             },
             "slots": {
-              "children": ["Button"]
+              "children": ["Best Button"]
             }
           },
           "type": "data",
@@ -266,29 +266,29 @@
   ],
   "tabs": [
     {
-      "type": "subPage",
-      "id": "Overview"
+      "id": "Accessibility",
+      "type": "subPage"
     },
     {
-      "type": "subPage",
-      "id": "Accessibility"
+      "id": "Overview",
+      "type": "subPage"
     },
     {
-      "type": "subPage",
-      "id": "Figma"
+      "id": "Figma",
+      "type": "subPage"
     },
     {
-      "type": "template",
-      "id": "react"
+      "id": "react",
+      "type": "template"
     },
     {
-      "type": "subPage",
-      "id": "Legacy"
+      "id": "Legacy",
+      "type": "subPage"
     }
   ],
   "statuses": {
     "design": "ready",
-    "react": "ready",
+    "react": "needs-updated",
     "twig": "ready",
     "handlebars": "ready",
     "web-components": "needs-dev"

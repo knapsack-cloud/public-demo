@@ -65,12 +65,6 @@ slices:
         - '# How can my team use Knapsack?'
       columns: 1
     blockId: markdown-slice
-  - id: ks-content-block-0m76iAbMDZ
-    data:
-      url: 'https://www.youtube.com/watch?v=oFXaV-xXG5s'
-      height: '480'
-      clickToInteract: true
-    blockId: youtube-slice
   - id: ks-content-block-7Y7v_lnZJh
     data:
       md:
@@ -97,8 +91,15 @@ slices:
 
       columns: 1
     blockId: markdown-slice
+  - id: ks-content-block-0m76iAbMDZ
+    data:
+      url: 'https://www.youtube.com/watch?v=oFXaV-xXG5s'
+      height: '480'
+      clickToInteract: true
+    blockId: youtube-slice
 settings:
   pageHeader:
+    size: small
     textColorTitle:
       type: design-token
       tokenName: color-brand-primary
@@ -108,5 +109,4 @@ settings:
       type: design-token
       tokenName: color-brand-black
       colorValue: '#000000'
-    size: small
 description: The collaborative design system

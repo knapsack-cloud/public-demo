@@ -105,6 +105,11 @@
                   "demoId": "main",
                   "patternId": "footer",
                   "templateId": "react"
+                },
+                {
+                  "demoId": "main",
+                  "patternId": "top-nav",
+                  "templateId": "react"
                 }
               ]
             }

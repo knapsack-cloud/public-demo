@@ -1,6 +1,16 @@
 id: Documentation
 title: Documentation
-slices: []
+slices:
+  - id: ks-content-block-BBRHsNp0mb
+    data:
+      content:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - text: this is text
+                type: text
+    blockId: text-editor
 settings:
   pageHeader:
     size: full
