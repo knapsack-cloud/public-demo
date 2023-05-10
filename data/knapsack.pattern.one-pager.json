@@ -11,6 +11,7 @@
     }
   ],
   "title": "Prototyping Playground",
+  "demoSize": "landscape",
   "statuses": {
     "twig": "needs-dev",
     "react": "ready",
@@ -85,6 +86,16 @@
       "title": "React",
       "slices": [],
       "demosById": {
+        "eYJV0byNIp": {
+          "id": "eYJV0byNIp",
+          "data": {
+            "props": {},
+            "slots": {}
+          },
+          "type": "data",
+          "title": "Blank Template",
+          "description": "A blank page template for read-only users to use to create full page prototypes using the design system elements."
+        },
         "jIkrNzJ0cO": {
           "id": "jIkrNzJ0cO",
           "data": {
@@ -97,7 +108,7 @@
                   "templateId": "react"
                 },
                 {
-                  "demoId": "eY-_KWUog4",
+                  "demoId": "aMFkBNIHU2",
                   "patternId": "layout",
                   "templateId": "react"
                 },
@@ -112,22 +123,11 @@
           "type": "data",
           "title": "3-Column Homepage",
           "description": "A sample homepage"
-        },
-        "eYJV0byNIp": {
-          "id": "eYJV0byNIp",
-          "data": {
-            "props": {},
-            "slots": {}
-          },
-          "type": "data",
-          "title": "Blank Template",
-          "description": "A blank page template for read-only users to use to create full page prototypes using the design system elements."
         }
       },
-      "templateLanguageId": "react",
-      "assetSetIds": ["default", "dark"]
+      "assetSetIds": ["default", "dark"],
+      "templateLanguageId": "react"
     }
   ],
-  "description": "Use this prototyping playground to add coded components and elements to our landing page template to quickly build and launch a Home or advanced landing page using the available system.",
-  "demoSize": "portrait"
+  "description": "Use this prototyping playground to add coded components and elements to our landing page template to quickly build and launch a Home or advanced landing page using the available system."
 }
