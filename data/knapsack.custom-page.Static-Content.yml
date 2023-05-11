@@ -56,8 +56,6 @@ slices:
 
       columns: 1
     blockId: markdown-slice
-  - id: ks-content-block-WPb97EJk3q
-    blockId: divider-block
   - id: ks-content-block-3nx-x-krwF
     data:
       md:
@@ -80,6 +78,8 @@ slices:
           > Block quotes block quotes block quotes block quotes
       columns: 1
     blockId: markdown-slice
+  - id: ks-content-block-WPb97EJk3q
+    blockId: divider-block
   - id: ks-content-block-CP2xFIJwTx
     blockId: divider-block
   - id: ks-content-block-9R_EDAEKZb
