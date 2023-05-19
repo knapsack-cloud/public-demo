@@ -132,6 +132,20 @@
       "primaryHover": {
         "value": "#525A62"
       }
+    },
+    "function": {
+      "info": {
+        "value": "#b7d2ff"
+      },
+      "danger": {
+        "value": "#ffc3c3"
+      },
+      "success": {
+        "value": "#99f1e6"
+      },
+      "warning-light": {
+        "value": "#ffedad"
+      }
     }
   },
   "shadow": {
