@@ -1,159 +1,5 @@
 {
   "id": "card",
-  "title": "Card",
-  "description": "Cards contain content and actions about a single subject.",
-  "statuses": {
-    "design": "ready",
-    "twig": "needs-updated",
-    "react": "needs-updated",
-    "handlebars": "ready",
-    "web-components": "needs-dev"
-  },
-  "templates": [
-    {
-      "id": "react",
-      "title": "React",
-      "path": "@knapsack-cloud/public-demo-react",
-      "alias": "Card",
-      "templateLanguageId": "react",
-      "spec": {
-        "isInferred": true
-      },
-      "demosById": {
-        "main": {
-          "id": "main",
-          "data": {
-            "props": {
-              "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus, eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.",
-              "label": "Article",
-              "title": "Boost your conversion rate",
-              "imgSrc": "https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80"
-            },
-            "slots": {
-              "children": [
-                {
-                  "demoId": "_nTCiQ1984",
-                  "patternId": "author",
-                  "templateId": "react"
-                },
-                {
-                  "demoId": "main",
-                  "patternId": "author",
-                  "templateId": "react"
-                },
-                {
-                  "demoId": "main",
-                  "patternId": "button",
-                  "templateId": "react"
-                }
-              ]
-            }
-          },
-          "type": "data",
-          "title": "Two Author CTA",
-          "description": ""
-        },
-        "3c9C95vaFP": {
-          "id": "3c9C95vaFP",
-          "data": {
-            "props": {
-              "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint harum rerum voluptatem quo recusandae magni placeat saepe molestiae, sed excepturi cumque corporis perferendis hic.",
-              "label": "Case Study",
-              "title": "Improve your customer experience",
-              "imgSrc": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80"
-            },
-            "slots": {
-              "children": [
-                {
-                  "demoId": "hGfcj0Ksms",
-                  "patternId": "author",
-                  "templateId": "react"
-                },
-                {
-                  "demoId": "_nTCiQ1984",
-                  "patternId": "author",
-                  "templateId": "react"
-                }
-              ]
-            }
-          },
-          "type": "data",
-          "title": "Two Author - No CTA",
-          "description": ""
-        },
-        "W1Xbf7ez7T": {
-          "id": "W1Xbf7ez7T",
-          "data": {
-            "props": {
-              "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus, eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.",
-              "label": "Video",
-              "title": "How to use search engine optimization to drive sales",
-              "imgSrc": "https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80"
-            },
-            "slots": {
-              "children": [
-                {
-                  "demoId": "_nTCiQ1984",
-                  "patternId": "author",
-                  "templateId": "react"
-                }
-              ]
-            }
-          },
-          "type": "data",
-          "title": "One Author - No CTA",
-          "description": ""
-        },
-        "WXcBdSXuE9": {
-          "data": {
-            "slots": {
-              "children": []
-            },
-            "props": {
-              "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint harum rerum voluptatem quo recusandae magni placeat saepe molestiae, sed excepturi cumque corporis perferendis hic.",
-              "imgSrc": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
-              "title": "Improve your customer experience",
-              "label": "Case Study"
-            }
-          },
-          "id": "WXcBdSXuE9",
-          "title": "Simple",
-          "type": "data",
-          "description": ""
-        },
-        "RN96ZpJJpY": {
-          "id": "RN96ZpJJpY",
-          "data": {
-            "props": {
-              "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus, eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.",
-              "label": "Article",
-              "title": "Boost your conversion rate now!",
-              "imgSrc": "https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80"
-            },
-            "slots": {
-              "children": [
-                {
-                  "demoId": "main",
-                  "patternId": "author",
-                  "templateId": "react"
-                },
-                {
-                  "demoId": "main",
-                  "patternId": "button",
-                  "templateId": "react"
-                }
-              ]
-            }
-          },
-          "type": "data",
-          "title": "One Author CTA",
-          "description": ""
-        }
-      },
-      "demos": ["RN96ZpJJpY", "main", "W1Xbf7ez7T", "3c9C95vaFP", "WXcBdSXuE9"],
-      "slices": []
-    }
-  ],
   "tabs": [
     {
       "id": "Overview",
@@ -172,6 +18,15 @@
       "type": "template"
     }
   ],
+  "title": "Card",
+  "demoSize": "landscape",
+  "statuses": {
+    "twig": "needs-updated",
+    "react": "needs-updated",
+    "design": "ready",
+    "handlebars": "ready",
+    "web-components": "needs-dev"
+  },
   "subPages": [
     {
       "id": "Overview",
@@ -279,5 +134,155 @@
       ]
     }
   ],
-  "demoSize": "portrait"
+  "templates": [
+    {
+      "id": "react",
+      "path": "@knapsack-cloud/public-demo-react",
+      "spec": {
+        "isInferred": true
+      },
+      "alias": "Card",
+      "demos": ["RN96ZpJJpY", "main", "W1Xbf7ez7T", "3c9C95vaFP", "WXcBdSXuE9"],
+      "title": "React",
+      "slices": [],
+      "demosById": {
+        "main": {
+          "id": "main",
+          "data": {
+            "props": {
+              "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus, eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.",
+              "label": "Article",
+              "title": "Boost your conversion rate",
+              "imgSrc": "https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80"
+            },
+            "slots": {
+              "children": [
+                {
+                  "demoId": "_nTCiQ1984",
+                  "patternId": "author",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "main",
+                  "patternId": "author",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "main",
+                  "patternId": "button",
+                  "templateId": "react"
+                }
+              ]
+            }
+          },
+          "type": "data",
+          "title": "Two Author CTA",
+          "description": ""
+        },
+        "3c9C95vaFP": {
+          "id": "3c9C95vaFP",
+          "data": {
+            "props": {
+              "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint harum rerum voluptatem quo recusandae magni placeat saepe molestiae, sed excepturi cumque corporis perferendis hic.",
+              "label": "Case Study",
+              "title": "Improve your customer experience",
+              "imgSrc": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80"
+            },
+            "slots": {
+              "children": [
+                {
+                  "demoId": "hGfcj0Ksms",
+                  "patternId": "author",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "_nTCiQ1984",
+                  "patternId": "author",
+                  "templateId": "react"
+                }
+              ]
+            }
+          },
+          "type": "data",
+          "title": "Two Author - No CTA",
+          "description": ""
+        },
+        "RN96ZpJJpY": {
+          "id": "RN96ZpJJpY",
+          "data": {
+            "props": {
+              "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus, eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.",
+              "label": "Article",
+              "title": "Boost your conversion rate now!",
+              "imgSrc": "https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80"
+            },
+            "slots": {
+              "children": [
+                {
+                  "demoId": "_nTCiQ1984",
+                  "patternId": "author",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "main",
+                  "patternId": "author",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "zPFAcu-lQ9",
+                  "patternId": "button",
+                  "templateId": "react"
+                }
+              ]
+            }
+          },
+          "type": "data",
+          "title": "One Author CTA",
+          "description": ""
+        },
+        "W1Xbf7ez7T": {
+          "id": "W1Xbf7ez7T",
+          "data": {
+            "props": {
+              "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus, eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.",
+              "label": "Video",
+              "title": "How to use search engine optimization to drive sales",
+              "imgSrc": "https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80"
+            },
+            "slots": {
+              "children": [
+                {
+                  "demoId": "_nTCiQ1984",
+                  "patternId": "author",
+                  "templateId": "react"
+                }
+              ]
+            }
+          },
+          "type": "data",
+          "title": "One Author - No CTA",
+          "description": ""
+        },
+        "WXcBdSXuE9": {
+          "id": "WXcBdSXuE9",
+          "data": {
+            "props": {
+              "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint harum rerum voluptatem quo recusandae magni placeat saepe molestiae, sed excepturi cumque corporis perferendis hic.",
+              "label": "Case Study",
+              "title": "Improve your customer experience",
+              "imgSrc": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80"
+            },
+            "slots": {
+              "children": []
+            }
+          },
+          "type": "data",
+          "title": "Simple",
+          "description": ""
+        }
+      },
+      "templateLanguageId": "react"
+    }
+  ],
+  "description": "Cards contain content and actions about a single subject."
 }

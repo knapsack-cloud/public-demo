@@ -97,8 +97,13 @@
                   "templateId": "react"
                 },
                 {
-                  "demoId": "eY-_KWUog4",
+                  "demoId": "aMFkBNIHU2",
                   "patternId": "layout",
+                  "templateId": "react"
+                },
+                {
+                  "demoId": "main",
+                  "patternId": "footer",
                   "templateId": "react"
                 },
                 {

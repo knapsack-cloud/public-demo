@@ -30,7 +30,7 @@
     },
     "base": {
       "red": {
-        "value": "#ef5151"
+        "value": "{color.dark.blue.value}"
       },
       "blue": {
         "value": "#207FF9"
@@ -87,7 +87,7 @@
         "value": "#FFFFFF"
       },
       "primary": {
-        "value": "{color.base.red.value}"
+        "value": "#6436BF"
       },
       "tertiary": {
         "value": "#F3EFFB"
