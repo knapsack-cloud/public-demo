@@ -66,11 +66,11 @@
             "props": {
               "url": "#url",
               "mode": "info",
-              "size": "medium",
+              "size": "large",
               "type": "solid"
             },
             "slots": {
-              "children": ["Button"]
+              "children": ["Best Button"]
             }
           },
           "type": "data",
@@ -91,9 +91,19 @@
           },
           "type": "data",
           "title": "Secondary"
+        },
+        "cbyH102HBT": {
+          "id": "cbyH102HBT",
+          "data": {
+            "props": {},
+            "slots": {}
+          },
+          "type": "data",
+          "title": "New Variation",
+          "description": "A description"
         }
       },
-      "demos": ["main", "2CXfLJgtaC"],
+      "demos": ["main", "2CXfLJgtaC", "cbyH102HBT"],
       "slices": []
     }
   ],
@@ -103,20 +113,20 @@
       "id": "Overview",
       "slices": [
         {
-          "id": "ks-content-block-YkyHkvdzp_",
+          "id": "ks-content-block-1LTGO8xsrC",
           "data": {
             "md": [
-              "# Overview\nButtons are clickable elements that are used to trigger actions. They communicate calls to action to the user and allow users to interact with pages in a variety of ways. Button labels express what action will occur when the user interacts with it.\n\n### When to use\nUse buttons to communicate actions users can take and to allow users to interact with the page. Each page should have one primary button, and any remaining calls to action should be represented as lower emphasis buttons.\n\n### When not to use\nDo not use buttons as navigational elements. Instead, use links when the desired action is to take the user to a new page."
+              "## Button variants\nEach button variant has a particular function and its design signals that function to the user. It is therefore very important that the different variants are implemented consistently across products, so that they message the correct actions.\n\n### Mode\n* **Success**  - For the principal call to action on the page. Primary buttons should only appear once per screen (not including the application header, modal dialog, or side panel).\n* **Info**  - For secondary actions on each page. Secondary buttons can only be used in conjunction with a primary button. As part of a pair, the secondary button’s function is to perform the negative action of the set, such as “Cancel” or “Back”. Do not use a secondary button in isolation and do not use a secondary button for a positive action.\n* **Warning**  - For less prominent, and sometimes independent, actions. Tertiary buttons can be used in isolation or paired with a primary button when there are multiple calls to action. Tertiary buttons can also be used for sub-tasks on a page where a primary button for the main and final action is present.\n* **Danger**  - For actions that could have destructive effects on the user’s data (for example, delete or remove).\n* **Alert**  - For actions that could impact other settings indirectly.\n* **Special**  - For special or unique actions; often used in conjunction with a primary button.\n\n### Size\n* **Small**  - For use in small viewport experiences.\n* **Medium**  - For use in medium viewport experiences.\n* **Large**  - For use in large viewport experiences.\n\n### Type\n* **Solid**  - For use in combination with primary buttons, to present a prominently emphasized call to action.\n* **Outlined**  - For use in combination with secondary and tertiary actions, to present a de-emphasized user option."
             ],
             "columns": 1
           },
           "blockId": "markdown-slice"
         },
         {
-          "id": "ks-content-block-1LTGO8xsrC",
+          "id": "ks-content-block-YkyHkvdzp_",
           "data": {
             "md": [
-              "## Button variants\nEach button variant has a particular function and its design signals that function to the user. It is therefore very important that the different variants are implemented consistently across products, so that they message the correct actions.\n\n### Mode\n* **Success**  - For the principal call to action on the page. Primary buttons should only appear once per screen (not including the application header, modal dialog, or side panel).\n* **Info**  - For secondary actions on each page. Secondary buttons can only be used in conjunction with a primary button. As part of a pair, the secondary button’s function is to perform the negative action of the set, such as “Cancel” or “Back”. Do not use a secondary button in isolation and do not use a secondary button for a positive action.\n* **Warning**  - For less prominent, and sometimes independent, actions. Tertiary buttons can be used in isolation or paired with a primary button when there are multiple calls to action. Tertiary buttons can also be used for sub-tasks on a page where a primary button for the main and final action is present.\n* **Danger**  - For actions that could have destructive effects on the user’s data (for example, delete or remove).\n* **Alert**  - For actions that could impact other settings indirectly.\n* **Special**  - For special or unique actions; often used in conjunction with a primary button.\n\n### Size\n* **Small**  - For use in small viewport experiences.\n* **Medium**  - For use in medium viewport experiences.\n* **Large**  - For use in large viewport experiences.\n\n### Type\n* **Solid**  - For use in combination with primary buttons, to present a prominently emphasized call to action.\n* **Outlined**  - For use in combination with secondary and tertiary actions, to present a de-emphasized user option."
+              "# Overview\nButtons are clickable elements that are used to trigger actions. They communicate calls to action to the user and allow users to interact with pages in a variety of ways. Button labels express what action will occur when the user interacts with it.\n\n### When to use\nUse buttons to communicate actions users can take and to allow users to interact with the page. Each page should have one primary button, and any remaining calls to action should be represented as lower emphasis buttons.\n\n### When not to use\nDo not use buttons as navigational elements. Instead, use links when the desired action is to take the user to a new page."
             ],
             "columns": 1
           },
@@ -262,6 +272,11 @@
           }
         }
       ]
+    },
+    {
+      "id": "testing",
+      "title": "Testing",
+      "slices": []
     }
   ],
   "tabs": [
@@ -284,11 +299,15 @@
     {
       "type": "subPage",
       "id": "Legacy"
+    },
+    {
+      "id": "testing",
+      "type": "subPage"
     }
   ],
   "statuses": {
     "design": "ready",
-    "react": "ready",
+    "react": "needs-updated",
     "twig": "ready",
     "handlebars": "ready",
     "web-components": "needs-dev"
