@@ -35,10 +35,11 @@ slices:
   - id: ks-content-block-_f4PbvkrLK
     data:
       demo:
-        id: table-list
+        id: color-swatch
       tokens:
         name: ''
-        tags: []
+        tags:
+          - brand
         category: ''
     blockId: design-token-slice
 settings:
