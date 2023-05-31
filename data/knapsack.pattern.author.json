@@ -12,6 +12,10 @@
     {
       "id": "react",
       "type": "template"
+    },
+    {
+      "id": "overview",
+      "type": "subPage"
     }
   ],
   "title": "Author",
@@ -22,7 +26,32 @@
     "handlebars": "ready",
     "web-components": "ready"
   },
-  "subPages": [],
+  "subPages": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "slices": [
+        {
+          "id": "ks-content-block-pyHeksQkGr",
+          "data": {
+            "demoId": "main",
+            "demoSize": "landscape",
+            "patternId": "card",
+            "templateId": "react",
+            "hideControls": false,
+            "playgroundUi": {
+              "demoSize": "landscape",
+              "showSchemaForm": false,
+              "showCodeSnippet": true
+            },
+            "showSchemaForm": false,
+            "showCodeSnippet": true
+          },
+          "blockId": "pattern-template-slice"
+        }
+      ]
+    }
+  ],
   "templates": [
     {
       "id": "react",
