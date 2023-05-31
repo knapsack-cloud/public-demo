@@ -8,6 +8,10 @@
     {
       "id": "design",
       "type": "subPage"
+    },
+    {
+      "id": "community",
+      "type": "subPage"
     }
   ],
   "title": "Message",
@@ -16,7 +20,7 @@
     "react": "needs-dev",
     "design": "ready",
     "handlebars": "wont-build",
-    "web-components": "needs-dev"
+    "web-components": "wont-build"
   },
   "subPages": [
     {
@@ -48,6 +52,41 @@
             "clickToInteract": false
           },
           "blockId": "figma-slice"
+        }
+      ]
+    },
+    {
+      "id": "community",
+      "title": "Community",
+      "slices": [
+        {
+          "id": "ks-content-block-x3ZBo5k13W",
+          "data": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "text": "Hey Dev,",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "text": "Added new mesage comp. let me know what you.",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "blockId": "text-editor"
         }
       ]
     }

@@ -4,10 +4,6 @@
     {
       "id": "overview",
       "type": "subPage"
-    },
-    {
-      "id": "react",
-      "type": "template"
     }
   ],
   "title": "Prototyping Playground",
@@ -54,80 +50,7 @@
       ]
     }
   ],
-  "templates": [
-    {
-      "id": "react",
-      "path": "@knapsack-cloud/public-demo-react",
-      "spec": {
-        "props": {
-          "type": "object",
-          "$schema": "http://json-schema.org/draft-07/schema",
-          "required": [],
-          "properties": {},
-          "description": ""
-        },
-        "slots": {
-          "children": {
-            "title": "children",
-            "disallowText": true,
-            "allowedPatternIds": [
-              "layout",
-              "hero",
-              "top-nav",
-              "footer",
-              "header"
-            ]
-          }
-        }
-      },
-      "alias": "PageLayout",
-      "demos": ["jIkrNzJ0cO", "eYJV0byNIp"],
-      "title": "React",
-      "slices": [],
-      "demosById": {
-        "jIkrNzJ0cO": {
-          "id": "jIkrNzJ0cO",
-          "data": {
-            "props": {},
-            "slots": {
-              "children": [
-                {
-                  "demoId": "main",
-                  "patternId": "hero",
-                  "templateId": "react"
-                },
-                {
-                  "demoId": "eY-_KWUog4",
-                  "patternId": "layout",
-                  "templateId": "react"
-                },
-                {
-                  "demoId": "main",
-                  "patternId": "footer",
-                  "templateId": "react"
-                }
-              ]
-            }
-          },
-          "type": "data",
-          "title": "3-Column Homepage",
-          "description": "A sample homepage"
-        },
-        "eYJV0byNIp": {
-          "id": "eYJV0byNIp",
-          "data": {
-            "props": {},
-            "slots": {}
-          },
-          "type": "data",
-          "title": "Blank Template",
-          "description": "A blank page template for read-only users to use to create full page prototypes using the design system elements."
-        }
-      },
-      "templateLanguageId": "react",
-      "assetSetIds": ["default", "dark"]
-    }
-  ],
+  "templates": [],
   "description": "Use this prototyping playground to add coded components and elements to our landing page template to quickly build and launch a Home or advanced landing page using the available system.",
   "demoSize": "portrait"
 }

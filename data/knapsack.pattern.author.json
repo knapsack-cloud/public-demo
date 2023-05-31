@@ -52,7 +52,7 @@
         }
       },
       "alias": "Author",
-      "demos": ["main", "_nTCiQ1984", "hGfcj0Ksms"],
+      "demos": ["main", "_nTCiQ1984", "hGfcj0Ksms", "PE9FgPlDDu"],
       "title": "React",
       "slices": [],
       "demosById": {
@@ -102,6 +102,19 @@
           "type": "data",
           "title": "Daniela Metz",
           "description": ""
+        },
+        "PE9FgPlDDu": {
+          "id": "PE9FgPlDDu",
+          "data": {
+            "props": {
+              "date": "Sept 12, 2023",
+              "read": "6 min"
+            },
+            "slots": {}
+          },
+          "type": "data",
+          "title": "New Variation",
+          "description": "A description"
         }
       },
       "templateLanguageId": "react"
