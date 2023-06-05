@@ -87,7 +87,7 @@
         "value": "#FFFFFF"
       },
       "primary": {
-        "value": "#6436BF"
+        "value": "{color.Meh.blue.value}"
       },
       "tertiary": {
         "value": "#F3EFFB"
@@ -153,26 +153,26 @@
     }
   },
   "spacing": {
-    "2xs": {
-      "value": "2px"
-    },
-    "xs": {
-      "value": "4px"
-    },
-    "s": {
-      "value": "8px"
+    "l": {
+      "value": "32px"
     },
     "m": {
       "value": "16px"
     },
-    "l": {
-      "value": "32px"
+    "s": {
+      "value": "8px"
     },
     "xl": {
       "value": "48px"
     },
+    "xs": {
+      "value": "4px"
+    },
     "2xl": {
       "value": "64px"
+    },
+    "2xs": {
+      "value": "2px"
     }
   },
   "font-size": {
@@ -268,6 +268,10 @@
   },
   "transition": {
     "delay": {
+      "fast": {
+        "value": "2000ms",
+        "comment": ""
+      },
       "slow": {
         "value": "8000ms",
         "comment": "Used for timings that need to be fully interpreted by users, such as the Carousel autorotate delay."
