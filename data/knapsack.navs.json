@@ -236,6 +236,12 @@
       "parentId": "proposed-patterns"
     },
     {
+      "id": "new-component",
+      "name": "New Component",
+      "path": "/pattern/new-component",
+      "parentId": "proposed-patterns"
+    },
+    {
       "id": "input-field",
       "name": "Input Field",
       "path": "/pattern/input-field",

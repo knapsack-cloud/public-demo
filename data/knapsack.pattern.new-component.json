@@ -1,0 +1,20 @@
+{
+  "id": "new-component",
+  "tabs": [
+    {
+      "id": "overview",
+      "type": "subPage"
+    }
+  ],
+  "title": "New Component",
+  "statuses": {},
+  "subPages": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "slices": []
+    }
+  ],
+  "templates": [],
+  "description": ""
+}
