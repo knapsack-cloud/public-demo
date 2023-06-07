@@ -1,6 +1,30 @@
 id: welcome-to-knapsack
 title: Welcome to Knapsack
 slices:
+  - id: ks-content-block-tY2rt92bob
+    data:
+      md:
+        - >-
+          # Go further faster
+
+          Knapsack enables enterprise engineering, product, and design teams to
+          build better products faster by bringing all teams together around
+          production code and engineering workflows.
+
+
+          **Knapsack allows teams to do four main things:**
+
+
+          1. Organize your design assets around patterns
+
+          2. Connect to your code to be able to view and manipulate components
+
+          3. Document usage guidelines, history, examples, and other information
+
+          4. Ship a version controlled package of code and tools for use in
+          building applications
+      columns: 1
+    blockId: markdown-slice
   - id: 6-qXFUJ0eH
     data:
       md:
@@ -25,30 +49,6 @@ slices:
           ![](https://knapsack.imgix.net/site/demo-design-system/symbol-youtube-0wwj5mv2z5.png?w=20)
           **webinars** to learn more!
 
-      columns: 1
-    blockId: markdown-slice
-  - id: ks-content-block-tY2rt92bob
-    data:
-      md:
-        - >-
-          # Go further faster
-
-          Knapsack enables enterprise engineering, product, and design teams to
-          build better products faster by bringing all teams together around
-          production code and engineering workflows.
-
-
-          **Knapsack allows teams to do four main things:**
-
-
-          1. Organize your design assets around patterns
-
-          2. Connect to your code to be able to view and manipulate components
-
-          3. Document usage guidelines, history, examples, and other information
-
-          4. Ship a version controlled package of code and tools for use in
-          building applications
       columns: 1
     blockId: markdown-slice
   - id: ks-content-block-oa-y7sAwqr
@@ -99,6 +99,7 @@ slices:
     blockId: markdown-slice
 settings:
   pageHeader:
+    size: small
     textColorTitle:
       type: design-token
       tokenName: color-brand-primary
@@ -108,5 +109,4 @@ settings:
       type: design-token
       tokenName: color-brand-black
       colorValue: '#000000'
-    size: small
 description: The collaborative design system

@@ -30,7 +30,7 @@
     },
     "base": {
       "red": {
-        "value": "#ef5151"
+        "value": "{color.base.blue.value}"
       },
       "blue": {
         "value": "#207FF9"
@@ -153,26 +153,26 @@
     }
   },
   "spacing": {
-    "2xs": {
-      "value": "2px"
-    },
-    "xs": {
-      "value": "4px"
-    },
-    "s": {
-      "value": "8px"
+    "l": {
+      "value": "32px"
     },
     "m": {
       "value": "16px"
     },
-    "l": {
-      "value": "32px"
+    "s": {
+      "value": "8px"
     },
     "xl": {
       "value": "48px"
     },
+    "xs": {
+      "value": "4px"
+    },
     "2xl": {
       "value": "64px"
+    },
+    "2xs": {
+      "value": "2px"
     }
   },
   "font-size": {
