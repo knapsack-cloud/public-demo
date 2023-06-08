@@ -129,7 +129,8 @@
             "demoId": "main",
             "patternId": "button",
             "templateId": "react",
-            "variationId": "mode"
+            "variationId": "mode",
+            "hideBlockTitle": false
           },
           "blockId": "pattern-variations"
         },
