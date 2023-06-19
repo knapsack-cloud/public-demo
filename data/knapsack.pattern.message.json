@@ -8,6 +8,14 @@
     {
       "id": "design",
       "type": "subPage"
+    },
+    {
+      "id": "react",
+      "type": "subPage"
+    },
+    {
+      "id": "community-feedback",
+      "type": "subPage"
     }
   ],
   "title": "Message",
@@ -48,6 +56,37 @@
             "clickToInteract": false
           },
           "blockId": "figma-slice"
+        }
+      ]
+    },
+    {
+      "id": "react",
+      "title": "React",
+      "slices": []
+    },
+    {
+      "id": "community-feedback",
+      "title": "Community - Feedback",
+      "slices": [
+        {
+          "id": "ks-content-block-X7O99fi_8I",
+          "data": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "text": "Looks corners are not rounded - JW",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "blockId": "text-editor"
         }
       ]
     }

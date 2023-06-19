@@ -11,36 +11,6 @@ slices:
           docs.*
       columns: 1
     blockId: markdown-slice
-  - id: 5RQruglYiX
-    data:
-      md:
-        - >-
-          ## Overview
-
-          Using the **System** content blocks, users can create dynamic
-          documentation of component templates and specific variations. Since
-          Knapsack is wired up to the source code of your design system,
-          documentation will automatically update when changes occur.
-
-
-          Choose from a variety of formats and presentations depending on the
-          type of documentation experience you're aiming for.
-
-
-          #### Explore the different options for component presentation below:
-
-          * [Component Embed](#component-embed)
-
-          * [Component Demo](#component-demo)
-
-          * [System Overview (All Components)](#system-overview-all-components)
-
-          * [System Status Table](#system-status-table)
-
-
-          Use the below sections to browse examples of component documentation.
-      columns: 1
-    blockId: markdown-slice
   - id: ks-content-block-Fph9sYCuho
     blockId: divider-block
   - id: zlejPJh20Z
@@ -76,6 +46,36 @@ slices:
 
           A **Component Demo** shows all of the variations of a given component
           template based on a single property
+      columns: 1
+    blockId: markdown-slice
+  - id: 5RQruglYiX
+    data:
+      md:
+        - >-
+          ## Overview
+
+          Using the **System** content blocks, users can create dynamic
+          documentation of component templates and specific variations. Since
+          Knapsack is wired up to the source code of your design system,
+          documentation will automatically update when changes occur.
+
+
+          Choose from a variety of formats and presentations depending on the
+          type of documentation experience you're aiming for.
+
+
+          #### Explore the different options for component presentation below:
+
+          * [Component Embed](#component-embed)
+
+          * [Component Demo](#component-demo)
+
+          * [System Overview (All Components)](#system-overview-all-components)
+
+          * [System Status Table](#system-status-table)
+
+
+          Use the below sections to browse examples of component documentation.
       columns: 1
     blockId: markdown-slice
   - id: osLNmkYLkO
