@@ -1,16 +1,6 @@
 id: Static-Content
 title: Static Content
 slices:
-  - id: y7e0x_KAMN
-    data:
-      md:
-        - >-
-          *This section provides an overview of content formatting options in
-          Knapsack. Visit the [Design Tokens](././Design-Tokens-lNWaUqkDSo) and
-          [Components](././Components-Overview) sections for examples of asset
-          docs.*
-      columns: 1
-    blockId: markdown-slice
   - id: ks-content-block-836ZvCc7ev
     data:
       md:
@@ -56,8 +46,39 @@ slices:
 
       columns: 1
     blockId: markdown-slice
+  - id: y7e0x_KAMN
+    data:
+      md:
+        - >-
+          *This section provides an overview of content formatting options in
+          Knapsack. Visit the [Design Tokens](././Design-Tokens-lNWaUqkDSo) and
+          [Components](././Components-Overview) sections for examples of asset
+          docs.*
+      columns: 1
+    blockId: markdown-slice
   - id: ks-content-block-WPb97EJk3q
     blockId: divider-block
+  - id: ks-content-block-CP2xFIJwTx
+    blockId: divider-block
+  - id: ks-content-block-9R_EDAEKZb
+    data:
+      md:
+        - '## In-Line Images and GIFs'
+      columns: 1
+    blockId: markdown-slice
+  - id: ks-content-block-lfSX6gzrNI
+    data:
+      md:
+        - >-
+          ### Static Images
+
+          ![](https://p189.p2.n0.cdn.getcloudapp.com/items/6quZxE4g/f25d63f7-d4bc-4ea8-a7ce-7c7674c9eebc.jpg?source=viewer&v=6d70885803e9c7d57a9c7e328992fe9b?h=200&w=540)
+        - >-
+          ### Animated GIFs
+
+          ![](https://media4.giphy.com/media/lcs5BL0NIM4WMv61a9/giphy.gif?cid=ecf05e47nuxq7wzty4iymmzqu1z604dndq4owpvzqrv9ryd0&rid=giphy.gif?h=200&w=540)
+      columns: 2
+    blockId: markdown-slice
   - id: ks-content-block-3nx-x-krwF
     data:
       md:
@@ -79,27 +100,6 @@ slices:
 
           > Block quotes block quotes block quotes block quotes
       columns: 1
-    blockId: markdown-slice
-  - id: ks-content-block-CP2xFIJwTx
-    blockId: divider-block
-  - id: ks-content-block-9R_EDAEKZb
-    data:
-      md:
-        - '## In-Line Images and GIFs'
-      columns: 1
-    blockId: markdown-slice
-  - id: ks-content-block-lfSX6gzrNI
-    data:
-      md:
-        - >-
-          ### Static Images
-
-          ![](https://p189.p2.n0.cdn.getcloudapp.com/items/6quZxE4g/f25d63f7-d4bc-4ea8-a7ce-7c7674c9eebc.jpg?source=viewer&v=6d70885803e9c7d57a9c7e328992fe9b?h=200&w=540)
-        - >-
-          ### Animated GIFs
-
-          ![](https://media4.giphy.com/media/lcs5BL0NIM4WMv61a9/giphy.gif?cid=ecf05e47nuxq7wzty4iymmzqu1z604dndq4owpvzqrv9ryd0&rid=giphy.gif?h=200&w=540)
-      columns: 2
     blockId: markdown-slice
   - id: ks-content-block-Lsu6cM8BeA
     blockId: divider-block
