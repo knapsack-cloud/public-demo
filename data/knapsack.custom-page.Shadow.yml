@@ -1,4 +1,12 @@
 id: Shadow
 title: Shadow
-blockIds:
-  - eoZlp_hdgb
+slices:
+  - id: eoZlp_hdgb
+    blockId: design-token-slice
+    data:
+      tokens:
+        tags: []
+        category: shadow
+        name: box
+      demo:
+        id: box-shadow

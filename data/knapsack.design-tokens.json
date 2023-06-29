@@ -2,347 +2,293 @@
   "color": {
     "Meh": {
       "blue": {
-        "$value": "{color.base.blue}",
-        "$description": "An okayish blue"
+        "value": "{color.base.blue.value}",
+        "comment": "An okayish blue"
       },
       "black": {
-        "$value": "{color.brand.black}",
-        "$description": "They say it goes with everything... but does it go with this?"
+        "value": "{color.brand.black.value}",
+        "comment": "They say it goes with everything... but does it go with this?"
       },
       "yellow": {
-        "$value": "{color.base.yellow}",
-        "$description": "Is yellow the right color? I dunno..."
+        "value": "{color.base.yellow.value}",
+        "comment": "Is yellow the right color? I dunno..."
       }
     },
     "Wow": {
       "white": {
-        "$value": "{color.brand.white}",
-        "$description": "Love me that whitespace!"
+        "value": "{color.brand.white.value}",
+        "comment": "Love me that whitespace!"
       },
       "orange": {
-        "$value": "{color.base.orange}",
-        "$description": "Bang! That is ORANGE!"
+        "value": "{color.base.orange.value}",
+        "comment": "Bang! That is ORANGE!"
       },
       "orchid": {
-        "$value": "{color.base.orchid}",
-        "$description": "That orchid pops!"
+        "value": "{color.base.orchid.value}",
+        "comment": "That orchid pops!"
       }
     },
     "base": {
       "red": {
-        "$value": "#ef5151",
-        "$type": "color"
+        "value": "#ef5151"
       },
       "blue": {
-        "$value": "#207FF9",
-        "$type": "color"
+        "value": "#207FF9"
       },
       "green": {
-        "$value": "#3ccf91",
-        "$type": "color"
+        "value": "#3ccf91"
       },
       "orange": {
-        "$value": "#FF934F",
-        "$type": "color"
+        "value": "#FF934F"
       },
       "orchid": {
-        "$value": "#aa1baf",
-        "$type": "color"
+        "value": "#aa1baf"
       },
       "yellow": {
-        "$value": "#FCD02A",
-        "$type": "color"
+        "value": "#FCD02A"
       }
     },
     "dark": {
       "red": {
-        "$value": "#c91313",
-        "$type": "color"
+        "value": "#c91313"
       },
       "blue": {
-        "$value": "#213683",
-        "$type": "color"
+        "value": "#213683"
       },
       "green": {
-        "$value": "#21835a",
-        "$type": "color"
+        "value": "#21835a"
       },
       "orange": {
-        "$value": "#e65800",
-        "$type": "color"
+        "value": "#e65800"
       },
       "orchid": {
-        "$value": "#560e58",
-        "$type": "color"
+        "value": "#560e58"
       },
       "yellow": {
-        "$value": "#e6b400",
-        "$type": "color"
+        "value": "#e6b400"
       }
     },
     "text": {
       "link": {
-        "$value": "#2B64A8",
-        "$type": "color"
+        "value": "#2B64A8"
       },
       "default": {
-        "$value": "#222222",
-        "$type": "color"
+        "value": "#222222"
       },
       "inverse": {
-        "$value": "#f9f9f9",
-        "$type": "color"
+        "value": "#f9f9f9"
       }
     },
     "brand": {
       "black": {
-        "$value": "#000000",
-        "$type": "color"
+        "value": "#000000"
       },
       "white": {
-        "$value": "#FFFFFF",
-        "$type": "color"
+        "value": "#FFFFFF"
       },
       "primary": {
-        "$value": "#6436BF",
-        "$type": "color"
+        "value": "{color.base.blue.value}"
       },
       "tertiary": {
-        "$value": "#F3EFFB",
-        "$type": "color"
+        "value": "#F3EFFB"
       },
       "secondary": {
-        "$value": "#E43A5C",
-        "$type": "color"
+        "value": "#E43A5C"
       }
     },
     "light": {
       "red": {
-        "$value": "#f8b0b0",
-        "$type": "color"
+        "value": "#f8b0b0"
       },
       "blue": {
-        "$value": "#8d9fe2",
-        "$type": "color"
+        "value": "#8d9fe2"
       },
       "green": {
-        "$value": "#8de2bf",
-        "$type": "color"
+        "value": "#8de2bf"
       },
       "orange": {
-        "$value": "#ffd0b3",
-        "$type": "color"
+        "value": "#ffd0b3"
       },
       "orchid": {
-        "$value": "#e77bea",
-        "$type": "color"
+        "value": "#e77bea"
       },
       "yellow": {
-        "$value": "#ffeeb3",
-        "$type": "color"
+        "value": "#ffeeb3"
       }
     },
     "layout": {
       "border": {
-        "$value": "#DDDDDD",
-        "$type": "color"
+        "value": "#DDDDDD"
       },
       "primary": {
-        "$value": "#393B3E",
-        "$type": "color"
+        "value": "#393B3E"
       },
       "defaultBg": {
-        "$value": "#FFFFFF",
-        "$type": "color"
+        "value": "#FFFFFF"
       },
       "secondary": {
-        "$value": "#555555",
-        "$type": "color"
+        "value": "#555555"
       },
       "primaryHover": {
-        "$value": "#525A62",
-        "$type": "color"
+        "value": "#525A62"
       }
     }
   },
   "shadow": {
     "box": {
       "lg": {
-        "$value": "0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1)"
+        "value": "0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1)"
       },
       "md": {
-        "$value": "0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1)"
+        "value": "0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1)"
       },
       "sm": {
-        "$value": "0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1)"
+        "value": "0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1)"
       }
     },
     "text": {
       "medium": {
-        "$value": "0 1px 2px rgba(0,0,0,0.5)"
+        "value": "0 1px 2px rgba(0,0,0,0.5)"
       }
     }
   },
   "spacing": {
-    "2xs": {
-      "$value": "2px",
-      "$type": "dimension"
-    },
-    "xs": {
-      "$value": "4px",
-      "$type": "dimension"
-    },
-    "s": {
-      "$value": "8px",
-      "$type": "dimension"
+    "l": {
+      "value": "32px"
     },
     "m": {
-      "$value": "16px",
-      "$type": "dimension"
+      "value": "16px"
     },
-    "l": {
-      "$value": "32px",
-      "$type": "dimension"
+    "s": {
+      "value": "8px"
     },
     "xl": {
-      "$value": "48px",
-      "$type": "dimension"
+      "value": "48px"
+    },
+    "xs": {
+      "value": "4px"
     },
     "2xl": {
-      "$value": "64px",
-      "$type": "dimension"
+      "value": "64px"
+    },
+    "2xs": {
+      "value": "2px"
     }
   },
   "font-size": {
     "lg": {
-      "$value": "1.125rem",
-      "$type": "dimension"
+      "value": "1.125rem"
     },
     "sm": {
-      "$value": "0.875rem",
-      "$type": "dimension"
+      "value": "0.875rem"
     },
     "xl": {
-      "$value": "1.25rem",
-      "$type": "dimension"
+      "value": "1.25rem"
     },
     "xs": {
-      "$value": "0.75rem",
-      "$type": "dimension"
+      "value": "0.75rem"
     },
     "2xl": {
-      "$value": "1.5rem",
-      "$type": "dimension"
+      "value": "1.5rem"
     },
     "3xl": {
-      "$value": "1.875rem",
-      "$type": "dimension"
+      "value": "1.875rem"
     },
     "4xl": {
-      "$value": "2.25rem",
-      "$type": "dimension"
+      "value": "2.25rem"
     },
     "5xl": {
-      "$value": "3rem",
-      "$type": "dimension"
+      "value": "3rem"
     },
     "6xl": {
-      "$value": "3.75rem",
-      "$type": "dimension"
+      "value": "3.75rem"
     },
     "7xl": {
-      "$value": "4.5rem",
-      "$type": "dimension"
+      "value": "4.5rem"
     },
     "8xl": {
-      "$value": "6rem",
-      "$type": "dimension"
+      "value": "6rem"
     },
     "9xl": {
-      "$value": "8rem",
-      "$type": "dimension"
+      "value": "8rem"
     },
     "base": {
-      "$value": "1rem",
-      "$type": "dimension"
+      "value": "1rem"
     }
   },
   "breakpoint": {
     "media": {
       "query": {
         "large": {
-          "$value": "screen and (min-width: 768px)"
+          "value": "screen and (min-width: 768px)"
         },
         "small": {
-          "$value": "screen and (min-width: 330px)"
+          "value": "screen and (min-width: 330px)"
         },
         "medium": {
-          "$value": "screen and (min-width: 480px)"
+          "value": "screen and (min-width: 480px)"
         },
         "xlarge": {
-          "$value": "screen and (min-width: 992px)"
+          "value": "screen and (min-width: 992px)"
         },
         "xxlarge": {
-          "$value": "screen and (min-width: 1240px)"
+          "value": "screen and (min-width: 1240px)"
         },
         "xxxlarge": {
-          "$value": "screen and (min-width: 1440px)"
+          "value": "screen and (min-width: 1440px)"
         },
         "featuredSwap": {
-          "$value": "screen and (min-width: 850px)"
+          "value": "screen and (min-width: 850px)"
         }
       }
     },
     "width": {
       "large": {
-        "$value": "768px",
-        "$type": "dimension"
+        "value": "768px"
       },
       "small": {
-        "$value": "330px",
-        "$type": "dimension"
+        "value": "330px"
       },
       "medium": {
-        "$value": "480px",
-        "$type": "dimension"
+        "value": "480px"
       },
       "xlarge": {
-        "$value": "992px",
-        "$type": "dimension"
+        "value": "992px"
       },
       "xxlarge": {
-        "$value": "1240px",
-        "$type": "dimension"
+        "value": "1240px"
       },
       "xxxlarge": {
-        "$value": "1440px",
-        "$type": "dimension"
+        "value": "1440px"
       },
       "featuredSwap": {
-        "$value": "850px",
-        "$type": "dimension"
+        "value": "850px"
       }
     }
   },
   "transition": {
     "delay": {
+      "fast": {
+        "value": "2000ms",
+        "comment": ""
+      },
       "slow": {
-        "$value": "8000ms",
-        "$description": "Used for timings that need to be fully interpreted by users, such as the Carousel autorotate delay."
+        "value": "8000ms",
+        "comment": "Used for timings that need to be fully interpreted by users, such as the Carousel autorotate delay."
       }
     },
     "timing": {
       "default": {
-        "$value": "ease"
+        "value": "ease"
       }
     },
     "duration": {
       "slow": {
-        "$value": "600ms",
-        "$description": "Used for near full width movements, like the Carousel"
+        "value": "600ms",
+        "comment": "Used for near full width movements, like the Carousel"
       },
       "normal": {
-        "$value": "150ms"
+        "value": "150ms"
       }
     }
   }
