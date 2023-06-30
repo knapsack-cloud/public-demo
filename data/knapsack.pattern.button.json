@@ -10,7 +10,7 @@
   "templates": [
     {
       "id": "react",
-      "title": "React",
+      "title": "React v 2",
       "path": "@knapsack-cloud/public-demo-react",
       "alias": "Button",
       "templateLanguageId": "react",
@@ -92,6 +92,11 @@
       "title": "Legacy Storybook",
       "id": "Legacy",
       "blockIds": ["4gpsIFEONx", "0tYaqASlzs"]
+    },
+    {
+      "id": "3Lg0xM62GI",
+      "title": "Untitled",
+      "blockIds": []
     }
   ],
   "tabs": [
@@ -114,6 +119,10 @@
     {
       "type": "subPage",
       "id": "Legacy"
+    },
+    {
+      "id": "3Lg0xM62GI",
+      "type": "subPage"
     }
   ],
   "statuses": {

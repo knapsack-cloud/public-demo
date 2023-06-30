@@ -5892,13 +5892,13 @@ demos:
               templateId: react
               type: template-demo
       description: ''
-      height: 564
+      height: 640
       id: RN96ZpJJpY
       patternId: card
       templateId: react
       title: One Author CTA
       type: data
-      width: 543
+      width: 350
     W1Xbf7ez7T:
       data:
         props:
