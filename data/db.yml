@@ -470,16 +470,16 @@ blocks:
     1zsHlF6chs:
       blockType: pattern-template-block
       data:
-        demoId: RN96ZpJJpY
+        demoId: WXcBdSXuE9
         demoSize: landscape
         hideControls: false
         patternId: card
         playgroundUi:
           demoSize: landscape
-          showCodeSnippet: true
-          showSchemaForm: false
-        showCodeSnippet: true
-        showSchemaForm: false
+          showCodeSnippet: false
+          showSchemaForm: true
+        showCodeSnippet: false
+        showSchemaForm: true
         templateId: react
       id: 1zsHlF6chs
     26WskgYN2R:
@@ -3724,6 +3724,22 @@ blocks:
     f73-qtReZ-:
       blockType: divider-block
       id: f73-qtReZ-
+    fRBt4POTpY:
+      blockType: pattern-template-block
+      data:
+        demoId: 2CXfLJgtaC
+        demoSize: landscape
+        hideControls: false
+        patternId: button
+        playgroundUi:
+          demoSize: landscape
+          showCodeSnippet: true
+          showSchemaForm: false
+        showCodeSnippet: true
+        showSchemaForm: false
+        templateId: react
+      id: fRBt4POTpY
+      size: null
     fTtR3u4Py_:
       blockType: divider-block
       id: fTtR3u4Py_
@@ -5934,11 +5950,13 @@ demos:
         slots:
           children: []
       description: ''
+      height: 520
       id: WXcBdSXuE9
       patternId: card
       templateId: react
       title: Simple
       type: data
+      width: 506
     _nTCiQ1984:
       data:
         props:
@@ -6009,7 +6027,24 @@ demos:
     eYJV0byNIp:
       data:
         props: {}
-        slots: {}
+        slots:
+          children:
+            - demoId: 3ZA8cHaxRd
+              patternId: hero
+              templateId: react
+              type: template-demo
+            - demoId: 0cnxLKsacP
+              patternId: header
+              templateId: react
+              type: template-demo
+            - demoId: eY-_KWUog4
+              patternId: layout
+              templateId: react
+              type: template-demo
+            - demoId: DRuV9pseUR
+              patternId: footer
+              templateId: react
+              type: template-demo
       description: >-
         A blank page template for read-only users to use to create full page prototypes using the design system
         elements.
