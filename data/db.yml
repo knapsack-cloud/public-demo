@@ -5722,12 +5722,12 @@ demos:
       data:
         props:
           mode: info
-          size: medium
-          type: solid
+          size: large
+          type: outline
           url: '#url'
         slots:
           children:
-            - text: Button
+            - text: Best Button
               type: text
       height: 65
       id: 2ysfvm4ShE
@@ -5783,6 +5783,16 @@ demos:
       patternId: card
       templateId: react
       title: Two Author - No CTA
+      type: data
+    7PXqoIIpbL:
+      data:
+        props: {}
+        slots: {}
+      description: A description
+      id: 7PXqoIIpbL
+      patternId: one-pager
+      templateId: react
+      title: New Variation
       type: data
     Cmjc3yXJ_r:
       data:
