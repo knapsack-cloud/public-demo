@@ -476,12 +476,13 @@ blocks:
         patternId: card
         playgroundUi:
           demoSize: landscape
-          showCodeSnippet: true
+          showCodeSnippet: false
           showSchemaForm: false
-        showCodeSnippet: true
+        showCodeSnippet: false
         showSchemaForm: false
         templateId: react
       id: 1zsHlF6chs
+      size: small
     26WskgYN2R:
       blockType: design-token-block
       data:
