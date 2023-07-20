@@ -470,7 +470,7 @@ blocks:
     1zsHlF6chs:
       blockType: pattern-template-block
       data:
-        demoId: RN96ZpJJpY
+        demoId: 3c9C95vaFP
         demoSize: landscape
         hideControls: false
         patternId: card
@@ -2624,6 +2624,25 @@ blocks:
               type: paragraph
           type: doc
       id: PgZf2sEi0K
+    QfDjwhaBjX:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 1
+              content:
+                - text: Header status
+                  type: text
+              type: heading
+            - content:
+                - content:
+                    - type: paragraph
+                  type: listItem
+              type: bulletList
+          type: doc
+      id: QfDjwhaBjX
+      size: medium
     Qons-1E8SD:
       blockType: text-editor
       data:
@@ -4185,6 +4204,7 @@ blocks:
     n8S6Hd_tQN:
       blockType: pattern-status-table-block
       id: n8S6Hd_tQN
+      size: medium
     nFepVH2iK2:
       blockType: text-editor
       data:
