@@ -5722,12 +5722,12 @@ demos:
       data:
         props:
           mode: info
-          size: medium
-          type: solid
+          size: large
+          type: outline
           url: '#url'
         slots:
           children:
-            - text: Button
+            - text: Best Button
               type: text
       height: 65
       id: 2ysfvm4ShE
@@ -5988,6 +5988,10 @@ demos:
           bandTitle: Three Card Layout Example
         slots:
           children:
+            - demoId: 0cnxLKsacP
+              patternId: header
+              templateId: react
+              type: template-demo
             - demoId: '-2WvOX39hg'
               patternId: card
               templateId: react
@@ -5998,6 +6002,10 @@ demos:
               type: template-demo
             - demoId: 3c9C95vaFP
               patternId: card
+              templateId: react
+              type: template-demo
+            - demoId: DRuV9pseUR
+              patternId: footer
               templateId: react
               type: template-demo
       description: A description
