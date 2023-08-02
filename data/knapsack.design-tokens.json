@@ -2,7 +2,7 @@
   "color": {
     "Meh": {
       "blue": {
-        "$value": "{color.base.blue}",
+        "$value": "{color.base.blueNew}",
         "$description": "An okayish blue"
       },
       "black": {
@@ -33,10 +33,6 @@
         "$type": "color",
         "$value": "#ef5151"
       },
-      "blue": {
-        "$type": "color",
-        "$value": "#207FF9"
-      },
       "green": {
         "$type": "color",
         "$value": "#3ccf91"
@@ -52,6 +48,14 @@
       "yellow": {
         "$type": "color",
         "$value": "#FCD02A"
+      },
+      "blueNew": {
+        "$type": "color",
+        "$value": "#207FF9"
+      },
+      "My New Tokens": {
+        "type": "string",
+        "description": ""
       }
     },
     "dark": {
