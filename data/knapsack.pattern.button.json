@@ -58,7 +58,7 @@
           }
         }
       },
-      "demoIds": ["2ysfvm4ShE", "2CXfLJgtaC"],
+      "demoIds": ["2ysfvm4ShE", "2CXfLJgtaC", "JrNACKchq2"],
       "blockIds": []
     }
   ],
@@ -92,6 +92,16 @@
       "title": "Legacy Storybook",
       "id": "Legacy",
       "blockIds": ["4gpsIFEONx", "0tYaqASlzs"]
+    },
+    {
+      "id": "QkkaeuBnfI",
+      "title": "Specs",
+      "blockIds": ["X2ZkKYci4D"]
+    },
+    {
+      "id": "xAUTAFPAmj",
+      "title": "Community",
+      "blockIds": ["E96A0meBdo"]
     }
   ],
   "tabs": [
@@ -114,11 +124,19 @@
     {
       "type": "subPage",
       "id": "Legacy"
+    },
+    {
+      "id": "QkkaeuBnfI",
+      "type": "subPage"
+    },
+    {
+      "id": "xAUTAFPAmj",
+      "type": "subPage"
     }
   ],
   "statuses": {
     "design": "ready",
-    "react": "ready",
+    "react": "needs-updated",
     "twig": "ready",
     "handlebars": "ready",
     "web-components": "needs-dev"

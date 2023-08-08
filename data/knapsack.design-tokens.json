@@ -337,6 +337,11 @@
       }
     },
     "duration": {
+      "fast": {
+        "$type": "duration",
+        "$value": "100ms",
+        "$description": "Fast Transition"
+      },
       "slow": {
         "$value": "600ms",
         "$description": "Used for near full width movements, like the Carousel"
