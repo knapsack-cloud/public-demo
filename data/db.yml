@@ -470,15 +470,15 @@ blocks:
     1zsHlF6chs:
       blockType: pattern-template-block
       data:
-        demoId: RN96ZpJJpY
+        demoId: W1Xbf7ez7T
         demoSize: landscape
         hideControls: false
         patternId: card
         playgroundUi:
           demoSize: landscape
-          showCodeSnippet: true
+          showCodeSnippet: false
           showSchemaForm: false
-        showCodeSnippet: true
+        showCodeSnippet: false
         showSchemaForm: false
         templateId: react
       id: 1zsHlF6chs
