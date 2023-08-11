@@ -36,12 +36,6 @@
               ],
               "type": "string",
               "title": "Button Mode"
-            },
-            "type": {
-              "enum": ["solid", "outline"],
-              "type": "string",
-              "title": "Button Type",
-              "default": "solid"
             }
           },
           "description": ""
@@ -56,7 +50,7 @@
           }
         }
       },
-      "demoIds": ["2ysfvm4ShE", "2CXfLJgtaC"],
+      "demoIds": ["2ysfvm4ShE", "2CXfLJgtaC", "rVQYEYHpY7"],
       "blockIds": []
     }
   ],

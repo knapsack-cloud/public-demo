@@ -69,7 +69,7 @@
       },
       "orange": {
         "$type": "color",
-        "$value": "#e65800"
+        "$value": "#00e6a8"
       },
       "orchid": {
         "$type": "color",

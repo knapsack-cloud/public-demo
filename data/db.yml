@@ -5724,13 +5724,13 @@ demos:
     2ysfvm4ShE:
       data:
         props:
-          mode: success
+          mode: danger
           size: large
           type: solid
           url: '#url'
         slots:
           children:
-            - text: Button
+            - text: Best Button
               type: text
       height: 65
       id: 2ysfvm4ShE
@@ -5883,7 +5883,7 @@ demos:
           imgSrc: >-
             https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
           label: Article
-          title: Boost your conversion rate now!
+          title: ' conversion rate now!'
         slots:
           children:
             - demoId: gsI4PO5HfP
@@ -6094,6 +6094,16 @@ demos:
       patternId: top-nav
       templateId: react
       title: No Button Top Nav
+      type: data
+    rVQYEYHpY7:
+      data:
+        props: {}
+        slots: {}
+      description: A description
+      id: rVQYEYHpY7
+      patternId: button
+      templateId: react
+      title: New Variation
       type: data
     sQTUm4r36f:
       data:
