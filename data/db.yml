@@ -1546,6 +1546,10 @@ blocks:
               type: heading
           type: doc
       id: BUFKAm-2a4
+    CCgxMemntt:
+      blockType: image-block
+      id: CCgxMemntt
+      size: null
     CP2xFIJwTx:
       blockType: divider-block
       id: CP2xFIJwTx
@@ -2510,6 +2514,18 @@ blocks:
           type: doc
       id: NcqsfAA6yy
       size: medium
+    O4wvgXLR1i:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - content:
+                - text: Chromatic Test results.
+                  type: text
+              type: paragraph
+          type: doc
+      id: O4wvgXLR1i
+      size: null
     OTAnrkBzAT:
       blockType: text-editor
       data:
@@ -2737,6 +2753,10 @@ blocks:
               type: heading
           type: doc
       id: R2rGt24igX
+    R3sAUL7fDC:
+      blockType: generic-iframe
+      id: R3sAUL7fDC
+      size: null
     RX3sN_L-4o:
       blockType: text-editor
       data:
@@ -5722,12 +5742,12 @@ demos:
       data:
         props:
           mode: info
-          size: medium
-          type: solid
+          size: large
+          type: outline
           url: '#url'
         slots:
           children:
-            - text: Button
+            - text: Best Button
               type: text
       height: 65
       id: 2ysfvm4ShE
@@ -5891,8 +5911,13 @@ demos:
               patternId: button
               templateId: react
               type: template-demo
+          newSlot:
+            - demoId: _nTCiQ1984
+              patternId: author
+              templateId: react
+              type: template-demo
       description: ''
-      height: 564
+      height: 604
       id: RN96ZpJJpY
       patternId: card
       templateId: react
