@@ -1019,10 +1019,13 @@ blocks:
                 - text: >-
                     Knapsack is the next generation of design systems - flexible, scalable, and highly collaborative.
                     Knapsack powers unified product experiences by providing a central source of truth for everyone on
-                    your team. Document decisions, create tokens, build prototypes, and ship code directly to your app
-                    or website. You'll see a new level of collaboration between teams and increase velocity in just a
-                    few weeks with Knapsack's ready-to-use infrastructure. Unite design and engineering in one powerful
-                    tool that will scale with your organization for years to come.
+                    your team. Document decisions, create tokens, build prototypes,
+                  type: text
+                - marks:
+                    - type: italic
+                  text: and
+                  type: text
+                - text: " ship code directly to your app or website. You'll see a new level of collaboration between teams and increase velocity in just a few weeks with Knapsack's ready-to-use infrastructure. Unite design and engineering in one powerful tool that will scale with your organization for years to come."
                   type: text
               type: paragraph
             - content:
@@ -5721,8 +5724,8 @@ demos:
     2ysfvm4ShE:
       data:
         props:
-          mode: info
-          size: medium
+          mode: success
+          size: large
           type: solid
           url: '#url'
         slots:

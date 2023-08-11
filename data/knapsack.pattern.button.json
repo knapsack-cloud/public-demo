@@ -37,11 +37,6 @@
               "type": "string",
               "title": "Button Mode"
             },
-            "size": {
-              "enum": ["small", "medium", "large"],
-              "type": "string",
-              "title": "Size"
-            },
             "type": {
               "enum": ["solid", "outline"],
               "type": "string",
@@ -52,6 +47,9 @@
           "description": ""
         },
         "slots": {
+          "newSlot": {
+            "title": "New Slot"
+          },
           "children": {
             "title": "children",
             "isRequired": true
