@@ -92,6 +92,11 @@
       "title": "Legacy Storybook",
       "id": "Legacy",
       "blockIds": ["4gpsIFEONx", "0tYaqASlzs"]
+    },
+    {
+      "id": "S8UefCVSsu",
+      "title": "Chromatic",
+      "blockIds": ["R3sAUL7fDC", "O4wvgXLR1i", "CCgxMemntt"]
     }
   ],
   "tabs": [
@@ -114,6 +119,10 @@
     {
       "type": "subPage",
       "id": "Legacy"
+    },
+    {
+      "id": "S8UefCVSsu",
+      "type": "subPage"
     }
   ],
   "statuses": {
