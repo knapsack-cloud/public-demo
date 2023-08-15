@@ -5729,13 +5729,13 @@ demos:
           children:
             - text: Button
               type: text
-      height: 65
+      height: 144
       id: 2ysfvm4ShE
       patternId: button
       templateId: react
       title: Primary
       type: data
-      width: 227
+      width: 376
     3ZA8cHaxRd:
       data:
         props:
@@ -5871,6 +5871,18 @@ demos:
       templateId: web-components
       title: Main
       type: data
+    MN_tdK8R2a:
+      data:
+        props: {}
+        slots: {}
+      description: A description
+      height: 113
+      id: MN_tdK8R2a
+      patternId: button
+      templateId: react
+      title: New Variation
+      type: data
+      width: 402
     RN96ZpJJpY:
       data:
         props:
