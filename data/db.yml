@@ -470,15 +470,15 @@ blocks:
     1zsHlF6chs:
       blockType: pattern-template-block
       data:
-        demoId: RN96ZpJJpY
+        demoId: 3c9C95vaFP
         demoSize: landscape
         hideControls: false
         patternId: card
         playgroundUi:
           demoSize: landscape
-          showCodeSnippet: true
+          showCodeSnippet: false
           showSchemaForm: false
-        showCodeSnippet: true
+        showCodeSnippet: false
         showSchemaForm: false
         templateId: react
       id: 1zsHlF6chs
@@ -3002,6 +3002,15 @@ blocks:
     WWb1kj_yym:
       blockType: divider-block
       id: WWb1kj_yym
+    XCbwg63Pvd:
+      blockType: design-tokens
+      data:
+        demoId: color-swatch
+        groupIds:
+          - color.brand
+        tokenType: color
+      id: XCbwg63Pvd
+      size: null
     XL5vsm_l-d:
       blockType: divider-block
       id: XL5vsm_l-d
