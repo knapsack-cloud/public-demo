@@ -5722,12 +5722,12 @@ demos:
       data:
         props:
           mode: info
-          size: medium
-          type: solid
+          size: large
+          type: outline
           url: '#url'
         slots:
           children:
-            - text: Button
+            - text: Best Button
               type: text
       height: 65
       id: 2ysfvm4ShE
@@ -6091,6 +6091,16 @@ demos:
       patternId: top-nav
       templateId: react
       title: No Button Top Nav
+      type: data
+    pWbOfd13OY:
+      data:
+        props: {}
+        slots: {}
+      description: A description
+      id: pWbOfd13OY
+      patternId: button
+      templateId: react
+      title: New Variation
       type: data
     sQTUm4r36f:
       data:
