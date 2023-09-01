@@ -470,16 +470,16 @@ blocks:
     1zsHlF6chs:
       blockType: pattern-template-block
       data:
-        demoId: RN96ZpJJpY
+        demoId: 8HWJGA5yTj
         demoSize: landscape
         hideControls: false
         patternId: card
         playgroundUi:
           demoSize: landscape
-          showCodeSnippet: true
-          showSchemaForm: false
-        showCodeSnippet: true
-        showSchemaForm: false
+          showCodeSnippet: false
+          showSchemaForm: true
+        showCodeSnippet: false
+        showSchemaForm: true
         templateId: react
       id: 1zsHlF6chs
     26WskgYN2R:
@@ -1767,6 +1767,22 @@ blocks:
               type: heading
           type: doc
       id: DiHe471EgD
+    EBA_8WB5ny:
+      blockType: pattern-template-block
+      data:
+        demoId: WXcBdSXuE9
+        demoSize: landscape
+        hideControls: false
+        patternId: card
+        playgroundUi:
+          demoSize: landscape
+          showCodeSnippet: true
+          showSchemaForm: false
+        showCodeSnippet: true
+        showSchemaForm: false
+        templateId: react
+      id: EBA_8WB5ny
+      size: medium
     ERHZS37CMD:
       blockType: text-editor
       data:
@@ -2371,6 +2387,16 @@ blocks:
               type: paragraph
           type: doc
       id: MPWVYU6VPU
+      spacing: large
+    Miy-VK4SYs:
+      blockType: figma-block
+      data:
+        clickToInteract: false
+        height: '480'
+        url: >-
+          https://www.figma.com/file/zUm5kTRtnkFUh5JUsBwwWl/Demo-Design-System-Library?type=design&node-id=1%3A2&t=J79PIGIdQJqkXQkJ-1
+      id: Miy-VK4SYs
+      size: large
     MudWyP8_-E:
       blockType: text-editor
       data:
@@ -2790,6 +2816,12 @@ blocks:
           type: doc
       id: SDCFdXJ3xc
       size: medium
+    SzeKGuvJhb:
+      blockType: text-editor
+      data:
+        content: {}
+      id: SzeKGuvJhb
+      size: medium
     TPySDEPq5j:
       blockType: design-token-block
       data:
@@ -3002,6 +3034,12 @@ blocks:
     WWb1kj_yym:
       blockType: divider-block
       id: WWb1kj_yym
+    Wb0JaUid2_:
+      blockType: files-list
+      data:
+        files: []
+      id: Wb0JaUid2_
+      size: small
     XL5vsm_l-d:
       blockType: divider-block
       id: XL5vsm_l-d
@@ -4185,6 +4223,7 @@ blocks:
     n8S6Hd_tQN:
       blockType: pattern-status-table-block
       id: n8S6Hd_tQN
+      size: medium
     nFepVH2iK2:
       blockType: text-editor
       data:
@@ -4687,6 +4726,19 @@ blocks:
     qRvc5hdIxP:
       blockType: divider-block
       id: qRvc5hdIxP
+    r0cMjyczBE:
+      blockType: pattern-variations
+      data:
+        demoId: 2ysfvm4ShE
+        excludePropValue: ''
+        hideBlockTitle: false
+        includePropValue: ''
+        patternId: button
+        size: m
+        templateId: react
+        variationId: size
+      id: r0cMjyczBE
+      size: null
     rGQjPZFRdn:
       blockType: text-editor
       data:
@@ -4853,9 +4905,86 @@ blocks:
           tags: []
           type: dimension
       id: stXiHo-n46
+    swWjrg1KLZ:
+      blockType: table
+      data:
+        content:
+          content:
+            - content:
+                - content:
+                    - content:
+                        - content:
+                            - text: A
+                              type: text
+                          type: paragraph
+                      type: tableHeader
+                    - content:
+                        - content:
+                            - text: B
+                              type: text
+                          type: paragraph
+                      type: tableHeader
+                    - content:
+                        - content:
+                            - text: C
+                              type: text
+                          type: paragraph
+                      type: tableHeader
+                  type: tableRow
+                - content:
+                    - content:
+                        - content: []
+                          type: paragraph
+                      type: tableCell
+                    - content:
+                        - content: []
+                          type: paragraph
+                      type: tableCell
+                    - content:
+                        - content: []
+                          type: paragraph
+                      type: tableCell
+                  type: tableRow
+              type: table
+          type: doc
+      id: swWjrg1KLZ
+      size: null
     tA1WrvdWyM:
       blockType: pattern-list-block
       id: tA1WrvdWyM
+    tTE3VG7CHC:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 1
+              content:
+                - text: Header goes here
+                  type: text
+              type: heading
+            - content:
+                - content:
+                    - content:
+                        - text: dfd
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: dfd
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - type: paragraph
+                  type: listItem
+              type: bulletList
+            - type: paragraph
+            - type: paragraph
+          type: doc
+      id: tTE3VG7CHC
+      size: small
     tY2rt92bob:
       blockType: text-editor
       data:
@@ -5407,6 +5536,15 @@ blocks:
           type: doc
       id: xOr_nLImmZ
       size: medium
+    xiXsObiLPk:
+      blockType: design-tokens
+      data:
+        demoId: color-swatch
+        groupIds:
+          - color.brand
+        tokenType: color
+      id: xiXsObiLPk
+      size: null
     xoEhx_j556:
       blockType: text-editor
       data:
@@ -5783,6 +5921,23 @@ demos:
       patternId: card
       templateId: react
       title: Two Author - No CTA
+      type: data
+    8HWJGA5yTj:
+      data:
+        props:
+          body: >-
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint harum rerum voluptatem quo recusandae magni
+            placeat saepe molestiae, sed excepturi cumque corporis perferendis hic.
+          imgSrc: >-
+            https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+          title: Improve your customer experience
+        slots:
+          children: []
+      description: ''
+      id: 8HWJGA5yTj
+      patternId: card
+      templateId: react
+      title: Simplest
       type: data
     Cmjc3yXJ_r:
       data:

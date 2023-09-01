@@ -1,20 +1,16 @@
 id: Components-Overview
 title: Components Overview
-settings:
-  pageHeader:
-    size: auto
-    textColorTitle:
-      type: design-token
-      colorValue: '#FFFFFF'
-      tokenName: color-brand-primary
-    backgroundImage: null
-    textColorDescription:
-      type: design-token
-      colorValue: '#FFFFFF'
-      tokenName: color-brand-black
 description: Browse all available components and understand current status
 blockIds:
   - MPWVYU6VPU
+  - tTE3VG7CHC
+  - Wb0JaUid2_
+  - swWjrg1KLZ
+  - Miy-VK4SYs
   - n8S6Hd_tQN
   - rs8cIjNzhZ
   - kpr6IHseCx
+  - r0cMjyczBE
+  - EBA_8WB5ny
+  - SzeKGuvJhb
+  - xiXsObiLPk
