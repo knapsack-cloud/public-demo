@@ -1,4 +1,13 @@
 {
+  "Brand": {
+    "primary": {
+      "black": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": ""
+      }
+    }
+  },
   "color": {
     "Meh": {
       "blue": {
