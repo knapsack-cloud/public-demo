@@ -5721,13 +5721,13 @@ demos:
     2ysfvm4ShE:
       data:
         props:
-          mode: info
-          size: medium
-          type: solid
+          mode: warning
+          size: large
+          type: outline
           url: '#url'
         slots:
           children:
-            - text: Button
+            - text: Best Button
               type: text
       height: 65
       id: 2ysfvm4ShE
