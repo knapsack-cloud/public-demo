@@ -131,7 +131,7 @@ byId:
     path: /pages/brand-colors
   button:
     id: button
-    name: Button
+    name: Buttons
     parentId: Simple
     path: /pattern/button
   card:

@@ -3117,7 +3117,7 @@ blocks:
               type: paragraph
           type: doc
       id: YkyHkvdzp_
-      size: large
+      size: medium
     ZE6EJ0E78u:
       blockType: text-editor
       data:
@@ -5148,7 +5148,7 @@ blocks:
         showSchemaForm: false
         templateId: react
       id: vFalbAV-gx
-      size: small
+      size: medium
     vPbAkMHWK4:
       blockType: text-editor
       data:

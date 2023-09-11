@@ -1,19 +1,71 @@
 {
   "id": "button",
-  "title": "Button",
-  "description": "Buttons are used to initialize an action. Button labels express what action will occur when the user interacts with it.",
-  "demoWidths": [
+  "tabs": [
     {
-      "width": 180
+      "id": "Overview",
+      "type": "subPage"
+    },
+    {
+      "id": "Accessibility",
+      "type": "subPage"
+    },
+    {
+      "id": "Figma",
+      "type": "subPage"
+    },
+    {
+      "id": "react",
+      "type": "template"
+    },
+    {
+      "id": "Legacy",
+      "type": "subPage"
+    }
+  ],
+  "title": "Buttons",
+  "statuses": {
+    "twig": "ready",
+    "react": "ready",
+    "design": "ready",
+    "handlebars": "ready",
+    "web-components": "needs-dev"
+  },
+  "subPages": [
+    {
+      "id": "Overview",
+      "title": "Usage",
+      "blockIds": [
+        "YkyHkvdzp_",
+        "vFalbAV-gx",
+        "1LTGO8xsrC",
+        "-plYGPDwcr",
+        "1VyLx4PL0Q",
+        "kCs__ou9y9",
+        "PgZf2sEi0K",
+        "ERHZS37CMD",
+        "CWcgPllcdw"
+      ]
+    },
+    {
+      "id": "Accessibility",
+      "title": "Accessibility",
+      "blockIds": ["nFepVH2iK2", "9SdC5V2SSU", "KILApugMxg"]
+    },
+    {
+      "id": "Figma",
+      "title": "Figma",
+      "blockIds": ["5IKy6auf0k", "_quWnLXCar"]
+    },
+    {
+      "id": "Legacy",
+      "title": "Legacy Storybook",
+      "blockIds": ["4gpsIFEONx", "0tYaqASlzs"]
     }
   ],
   "templates": [
     {
       "id": "react",
-      "title": "React",
       "path": "@knapsack-cloud/public-demo-react",
-      "alias": "Button",
-      "templateLanguageId": "react",
       "spec": {
         "props": {
           "type": "object",
@@ -58,69 +110,17 @@
           }
         }
       },
+      "alias": "Button",
+      "title": "React",
       "demoIds": ["2ysfvm4ShE", "2CXfLJgtaC"],
-      "blockIds": []
+      "blockIds": [],
+      "templateLanguageId": "react"
     }
   ],
-  "subPages": [
+  "demoWidths": [
     {
-      "title": "Usage",
-      "id": "Overview",
-      "blockIds": [
-        "YkyHkvdzp_",
-        "vFalbAV-gx",
-        "1LTGO8xsrC",
-        "-plYGPDwcr",
-        "1VyLx4PL0Q",
-        "kCs__ou9y9",
-        "PgZf2sEi0K",
-        "ERHZS37CMD",
-        "CWcgPllcdw"
-      ]
-    },
-    {
-      "title": "Accessibility",
-      "id": "Accessibility",
-      "blockIds": ["nFepVH2iK2", "9SdC5V2SSU", "KILApugMxg"]
-    },
-    {
-      "title": "Figma",
-      "id": "Figma",
-      "blockIds": ["5IKy6auf0k", "_quWnLXCar"]
-    },
-    {
-      "title": "Legacy Storybook",
-      "id": "Legacy",
-      "blockIds": ["4gpsIFEONx", "0tYaqASlzs"]
+      "width": 180
     }
   ],
-  "tabs": [
-    {
-      "type": "subPage",
-      "id": "Overview"
-    },
-    {
-      "type": "subPage",
-      "id": "Accessibility"
-    },
-    {
-      "type": "subPage",
-      "id": "Figma"
-    },
-    {
-      "type": "template",
-      "id": "react"
-    },
-    {
-      "type": "subPage",
-      "id": "Legacy"
-    }
-  ],
-  "statuses": {
-    "design": "ready",
-    "react": "ready",
-    "twig": "ready",
-    "handlebars": "ready",
-    "web-components": "needs-dev"
-  }
+  "description": "Buttons are used to initialize an action. Button labels express what action will occur when the user interacts with it."
 }
