@@ -5,9 +5,8 @@ settings:
     size: full
     textColorTitle:
       type: design-token
-      tokenName: color-brand-primary
-      colorValue: '#000000'
-    backgroundImage: https://knapsack.imgix.net/site/public-demo/sincerely-media-dgqf1dukutm-unsplash-dvgozcedlb.jpg
+      tokenName: color.base.red
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/pen-on-paper-donm9gqnp1.jpg
     textColorDescription:
       type: value
       colorValue: '#000000'

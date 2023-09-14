@@ -23,3 +23,8 @@ blockIds:
   - j-gXbQAemM
   - s0JaYiHQlW
   - TPySDEPq5j
+settings:
+  pageHeader:
+    textColorTitle:
+      type: design-token
+      tokenName: color.base.red

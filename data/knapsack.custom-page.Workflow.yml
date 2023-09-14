@@ -7,3 +7,8 @@ blockIds:
   - UucuGVABD1
   - PB83Qahdru
   - 7aopefwYVR
+settings:
+  pageHeader:
+    textColorTitle:
+      type: design-token
+      tokenName: color.base.red

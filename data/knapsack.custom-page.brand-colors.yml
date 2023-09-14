@@ -6,3 +6,8 @@ blockIds:
   - ZIA41N3-bJ
   - DZDCl_8hOO
   - 5zXw_M1qDW
+settings:
+  pageHeader:
+    textColorTitle:
+      type: design-token
+      tokenName: color.base.red

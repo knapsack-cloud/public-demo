@@ -9,3 +9,8 @@ blockIds:
   - zaqr2o47r
   - yvaN3EVmSU
   - opywKudFQ3
+settings:
+  pageHeader:
+    textColorTitle:
+      type: design-token
+      tokenName: color.base.red

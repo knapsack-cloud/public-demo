@@ -16,7 +16,8 @@
     "react": "ready",
     "design": "ready",
     "handlebars": "wont-build",
-    "web-components": "wont-build"
+    "web-components": "wont-build",
+    "vaaLTbvsku": "needs-approval"
   },
   "subPages": [
     {

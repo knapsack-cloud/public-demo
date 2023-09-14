@@ -4,3 +4,8 @@ description: Documentation capabilities & examples
 blockIds:
   - sM9CmSLU48
   - hqtwt_qLOH
+settings:
+  pageHeader:
+    textColorTitle:
+      type: design-token
+      tokenName: color.base.red

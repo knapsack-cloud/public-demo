@@ -26,3 +26,8 @@ blockIds:
   - 1MwxUqcERn
   - ctwMU8NUmw
   - aVSS-GAb3b
+settings:
+  pageHeader:
+    textColorTitle:
+      type: design-token
+      tokenName: color.base.red

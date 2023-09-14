@@ -1,7 +1,6 @@
-id: Shadow
-title: Shadow
-blockIds:
-  - eoZlp_hdgb
+id: brand
+title: Brand
+blockIds: []
 settings:
   pageHeader:
     textColorTitle:

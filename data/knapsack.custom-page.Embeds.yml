@@ -3,5 +3,8 @@ title: Embeds
 settings:
   pageHeader:
     size: full
+    textColorTitle:
+      type: design-token
+      tokenName: color.base.red
 description: Enhance your design system by embedding content from other applications
 blockIds: []

@@ -3,3 +3,8 @@ title: Animation
 description: ''
 blockIds:
   - P333IwDxP7
+settings:
+  pageHeader:
+    textColorTitle:
+      type: design-token
+      tokenName: color.base.red

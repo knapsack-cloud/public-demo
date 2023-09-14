@@ -2624,6 +2624,62 @@ blocks:
               type: paragraph
           type: doc
       id: PgZf2sEi0K
+    QXvXqalkg3:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 1
+              content:
+                - text: Build better together
+                  type: text
+              type: heading
+            - content:
+                - text: >-
+                    Knapsack is the next generation of design systems - flexible, scalable, and highly collaborative.
+                    Knapsack powers unified product experiences by providing a central source of truth for everyone on
+                    your team. Document decisions, create tokens, build prototypes, and ship code directly to your app
+                    or website. You'll see a new level of collaboration between teams and increase velocity in just a
+                    few weeks with Knapsack's ready-to-use infrastructure. Unite design and engineering in one powerful
+                    tool that will scale with your organization for years to come.
+                  type: text
+              type: paragraph
+            - content:
+                - text: 'Visit our '
+                  type: text
+                - marks:
+                    - attrs:
+                        class: null
+                        href: https://knapsack.cloud
+                        target: _blank
+                      type: link
+                    - type: bold
+                  text: website
+                  type: text
+                - text: ', follow us on '
+                  type: text
+                - marks:
+                    - attrs:
+                        class: null
+                        href: https://twitter.com/knapsackcloud
+                        target: _blank
+                      type: link
+                    - type: bold
+                  text: Twitter
+                  type: text
+                - text: ', or check out our '
+                  type: text
+                - marks:
+                    - type: bold
+                  text: webinars
+                  type: text
+                - text: ' to learn more!'
+                  type: text
+              type: paragraph
+          type: doc
+      id: QXvXqalkg3
+      size: null
     Qons-1E8SD:
       blockType: text-editor
       data:
@@ -3158,6 +3214,61 @@ blocks:
               type: heading
           type: doc
       id: ZlCcg9r5Lk
+    _RddQ30csG:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 1
+              content:
+                - text: Build better together
+                  type: text
+              type: heading
+            - content:
+                - text: >-
+                    Knapsack is the next generation of design systems - flexible, scalable, and highly collaborative.
+                    Knapsack powers unified product experiences by providing a central source of truth for everyone on
+                    your team. Document decisions, create tokens, build prototypes, and ship code directly to your app
+                    or website. You'll see a new level of collaboration between teams and increase velocity in just a
+                    few weeks with Knapsack's ready-to-use infrastructure. Unite design and engineering in one powerful
+                    tool that will scale with your organization for years to come.
+                  type: text
+              type: paragraph
+            - content:
+                - text: 'Visit our '
+                  type: text
+                - marks:
+                    - attrs:
+                        class: null
+                        href: https://knapsack.cloud
+                        target: _blank
+                      type: link
+                    - type: bold
+                  text: website
+                  type: text
+                - text: ', follow us on '
+                  type: text
+                - marks:
+                    - attrs:
+                        class: null
+                        href: https://twitter.com/knapsackcloud
+                        target: _blank
+                      type: link
+                    - type: bold
+                  text: Twitter
+                  type: text
+                - text: ', or check out our '
+                  type: text
+                - marks:
+                    - type: bold
+                  text: webinars
+                  type: text
+                - text: ' to learn more!'
+                  type: text
+              type: paragraph
+          type: doc
+      id: _RddQ30csG
     _f4PbvkrLK:
       blockType: design-token-block
       data:
@@ -5662,7 +5773,7 @@ demos:
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus,
             eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.
           imgSrc: >-
-            https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+            https://hips.hearstapps.com/hmg-prod/images/damaged-bumpers-from-car-accident-royalty-free-image-1614876389.?resize=1200:*
           label: Article
           title: Boost your conversion rate
         slots:
@@ -5721,7 +5832,7 @@ demos:
     2ysfvm4ShE:
       data:
         props:
-          mode: info
+          mode: danger
           size: medium
           type: solid
           url: '#url'
@@ -5765,7 +5876,7 @@ demos:
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint harum rerum voluptatem quo recusandae magni
             placeat saepe molestiae, sed excepturi cumque corporis perferendis hic.
           imgSrc: >-
-            https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+            https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/home-improvement/wp-content/uploads/2022/07/download-23.jpg
           label: Case Study
           title: Improve your customer experience
         slots:
@@ -5878,7 +5989,7 @@ demos:
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus,
             eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.
           imgSrc: >-
-            https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+            https://mlzcsfm5kspt.i.optimole.com/cb:3967.51790/w:640/h:427/q:mauto/f:avif/https://1800lionlaw.com/wp-content/uploads/2018/09/Child-Safety.jpg
           label: Article
           title: Boost your conversion rate now!
         slots:
@@ -5906,7 +6017,7 @@ demos:
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus,
             eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.
           imgSrc: >-
-            https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+            https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bWFuJTIwYXQlMjBvZmZpY2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60
           label: Video
           title: How to use search engine optimization to drive sales
         slots:
@@ -6134,7 +6245,9 @@ demos:
       type: template
   settings: {}
 settings:
-  logoUrl: https://knapsack.imgix.net/site/public-demo/knapsack-logomark-primary@3x-c3fjqx5ll_.png
+  favicon: https://knapsack.imgix.net/site/public-demo/travelers_share-xqvvth3eqq.jpg
+  hideTitleInNavigation: false
+  logoUrl: https://knapsack.imgix.net/site/public-demo/travelers_share-kt5lrue1g_.jpg
   theme:
     appearance:
       customFonts:
@@ -6155,30 +6268,53 @@ settings:
       navigation:
         primaryNav:
           accentColor:
-            tokenName: color.brand.primary
+            tokenName: color.base.red
             type: design-token
           backgroundColor:
-            tokenName: color.brand.black
-            type: design-token
-          fontFamily: Inter
-          fontWeight: 800
-          hoverColor:
-            tokenName: color.brand.secondary
-            type: design-token
-          lineHeight: ''
-          textColor:
-            tokenName: color.text.inverse
-            type: design-token
-        secondaryNav:
-          accentColor:
-            tokenName: color-brand-secondary
+            tokenName: color.layout.defaultBg
             type: design-token
           fontFamily: Inter
           fontWeight: 500
-        tabs:
+          hoverColor:
+            tokenName: color.base.red
+            type: design-token
+          textColor:
+            tokenName: color.brand.black
+            type: design-token
+          textTransform: inherit
+        secondaryNav:
+          accentColor:
+            tokenName: color.base.red
+            type: design-token
+          backgroundColor:
+            tokenName: color.text.inverse
+            type: design-token
           fontFamily: Inter
+          fontWeight: 500
+          textColor:
+            tokenName: color.brand.black
+            type: design-token
+          textTransform: inherit
+        tabs:
+          accentColor:
+            tokenName: color.base.red
+            type: design-token
+          fontFamily: Inter
+          textColor:
+            tokenName: color.brand.black
+            type: design-token
+          textTransform: inherit
       pageElements:
-        bodyText: {}
+        bodyText:
+          fontFamily: Inter
+          fontSize:
+            min:
+              unit: px
+              value: 13
+          textColor:
+            tokenName: color.brand.black
+            type: design-token
+          textTransform: inherit
         headingLarge:
           fontFamily: Inter
           fontWeight: 400
@@ -6187,8 +6323,9 @@ settings:
         headingSmall:
           fontFamily: Inter
         headingXLarge:
-          fontFamily: Acme
+          fontFamily: Inter
           fontWeight: 600
+          textTransform: inherit
         headingXSmall:
           fontFamily: Inter
         link:
@@ -6201,7 +6338,8 @@ settings:
           fontFamily: Inter
           fontWeight: 400
         pageTitle:
-          fontFamily: Acme
+          fontFamily: Inter
           fontWeight: 800
+          textTransform: inherit
     version: 10
-  title: Public Demo
+  title: Traveler's TDS v 8

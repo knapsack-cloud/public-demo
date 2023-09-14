@@ -1,19 +1,20 @@
 id: homepage
-title: Welcome to Knapsack
+title: Welcome to TDS!
 settings:
   pageHeader:
-    size: full
+    size: large
     textColorTitle:
       type: design-token
-      tokenName: color-brand-primary
-      colorValue: '#FFFFFF'
-    backgroundImage: https://knapsack.imgix.net/site/public-demo/clark-van-der-beken-596baa0mpym-unsplash-o5drv55uvq.jpg
+      tokenName: color.base.red
+    backgroundImage: >-
+      https://knapsack.imgix.net/site/public-demo/insurance-concept-with-icons-for-car-home-medical-insurance-uzhbbxduhq.jpg
     textColorDescription:
       type: design-token
-      tokenName: color-Meh-black
-      colorValue: '#FFFFFF'
+      tokenName: color.brand.black
+    hideText: false
 description: |-
   A shared platform for product teams to collaborate
   on documenting, designing, building, testing, and shipping
   their digital products.
-blockIds: []
+blockIds:
+  - QXvXqalkg3

@@ -16,7 +16,8 @@
     "react": "needs-dev",
     "design": "needs-updated",
     "handlebars": "wont-build",
-    "web-components": "wont-build"
+    "web-components": "wont-build",
+    "vaaLTbvsku": "wont-build"
   },
   "subPages": [
     {

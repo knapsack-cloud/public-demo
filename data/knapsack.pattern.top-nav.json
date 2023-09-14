@@ -15,7 +15,8 @@
     "twig": "needs-dev",
     "react": "needs-qa",
     "design": "ready",
-    "web-components": "needs-dev"
+    "web-components": "needs-dev",
+    "vaaLTbvsku": "ready"
   },
   "subPages": [
     {

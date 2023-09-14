@@ -14,3 +14,8 @@ blockIds:
   - tA1WrvdWyM
   - dxsxlMQ3Yz
   - iSlOJ42w6Y
+settings:
+  pageHeader:
+    textColorTitle:
+      type: design-token
+      tokenName: color.base.red

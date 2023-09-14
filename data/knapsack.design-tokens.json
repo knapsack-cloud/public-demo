@@ -31,7 +31,7 @@
     "base": {
       "red": {
         "$type": "color",
-        "$value": "#ef5151"
+        "$value": "#e41010"
       },
       "blue": {
         "$type": "color",

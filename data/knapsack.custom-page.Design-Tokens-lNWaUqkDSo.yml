@@ -5,8 +5,7 @@ settings:
     size: auto
     textColorTitle:
       type: design-token
-      colorValue: '#000000'
-      tokenName: color-brand-primary
+      tokenName: color.base.red
     backgroundImage: null
     textColorDescription:
       type: value

@@ -10,3 +10,8 @@ blockIds:
   - 8P7SBsQLOp
   - DRNLXHrlPG
   - viPl3DHKtw
+settings:
+  pageHeader:
+    textColorTitle:
+      type: design-token
+      tokenName: color.base.red
