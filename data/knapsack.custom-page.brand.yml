@@ -1,8 +1,10 @@
 id: brand
 title: Brand
-blockIds: []
+blockIds:
+  - vs-L89E7sd
 settings:
   pageHeader:
     textColorTitle:
       type: design-token
       tokenName: color.base.red
+description: Traveler's Branding Guidelines

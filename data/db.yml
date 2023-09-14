@@ -5292,6 +5292,47 @@ blocks:
             - layout
           type: color
       id: viPl3DHKtw
+    vs-L89E7sd:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - content:
+                - text: >-
+                    Branding is an essential component of any website, as it helps to establish a unique identity for a
+                    company or organization. This is achieved through consistent use of visual elements, such as logos,
+                    color schemes, fonts, and other design elements, across the website. The branding should align with
+                    the overall values and mission of the company, and should be used to create a cohesive and memorable
+                    user experience.
+                  type: text
+              type: paragraph
+            - content:
+                - text: >-
+                    One of the key benefits of effective branding is that it helps to build trust and credibility with
+                    the website's audiences. By presenting a consistent and professional image, the website can convey a
+                    sense of reliability and stability, which can be particularly important for businesses that operate
+                    in competitive or complex markets.
+                  type: text
+              type: paragraph
+            - content:
+                - text: >-
+                    In addition to establishing a visual identity, branding can also help to reinforce the company's key
+                    messages and value proposition. By incorporating messaging and content that is consistent with the
+                    overall brand identity, the website can communicate a clear and compelling message to its audiences,
+                    which can help to differentiate it from its competitors.
+                  type: text
+              type: paragraph
+            - content:
+                - text: >-
+                    Overall, effective use of branding is an important part of building a successful website. By
+                    creating a cohesive and memorable user experience that aligns with the company's values and mission,
+                    websites can build trust and credibility with their audiences, and differentiate themselves in a
+                    crowded online marketplace.
+                  type: text
+              type: paragraph
+          type: doc
+      id: vs-L89E7sd
+      size: null
     w-2PwVDNZT:
       blockType: text-editor
       data:
@@ -6245,9 +6286,10 @@ demos:
       type: template
   settings: {}
 settings:
-  favicon: https://knapsack.imgix.net/site/public-demo/travelers_share-xqvvth3eqq.jpg
+  favicon: >-
+    https://knapsack.imgix.net/site/public-demo/logo-travelers-insurance-1484164206479-travelers-insurance-300-sq-u_ob7earif.png
   hideTitleInNavigation: false
-  logoUrl: https://knapsack.imgix.net/site/public-demo/travelers_share-kt5lrue1g_.jpg
+  logoUrl: https://knapsack.imgix.net/site/public-demo/travelers-logo-phfhktrmhl.png
   theme:
     appearance:
       customFonts:
@@ -6331,8 +6373,9 @@ settings:
         link:
           fontWeight: 600
           textColor:
-            tokenName: color-text-link
+            tokenName: color.base.red
             type: design-token
+          textTransform: inherit
           underline: true
         pageDescription:
           fontFamily: Inter
@@ -6340,6 +6383,9 @@ settings:
         pageTitle:
           fontFamily: Inter
           fontWeight: 800
+          textColor:
+            tokenName: color.base.red
+            type: design-token
           textTransform: inherit
     version: 10
-  title: Traveler's TDS v 8
+  title: Design System v8
