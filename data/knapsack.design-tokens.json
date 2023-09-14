@@ -52,6 +52,10 @@
       "yellow": {
         "$type": "color",
         "$value": "#FCD02A"
+      },
+      "Brand yellow": {
+        "$value": "{color.base.yellow}",
+        "$description": ""
       }
     },
     "dark": {
