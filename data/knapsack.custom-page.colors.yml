@@ -2,11 +2,11 @@ id: colors
 title: Colors
 settings:
   pageHeader:
-    size: full
+    size: small
     textColorTitle:
       type: value
       colorValue: '#FFFFFF'
-    backgroundImage: https://knapsack.imgix.net/site/public-demo/ddp-a2nhdrj_axq-unsplash2-xbud0zwsd1.jpg
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/62390-4ha6hn5tnl.png
     textColorDescription:
       type: value
       colorValue: '#FFFFFF'

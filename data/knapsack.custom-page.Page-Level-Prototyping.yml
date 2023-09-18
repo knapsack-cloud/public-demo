@@ -2,11 +2,11 @@ id: Page-Level-Prototyping
 title: Page-Level Prototyping
 settings:
   pageHeader:
-    size: full
+    size: medium
     textColorTitle:
       type: design-token
-      tokenName: color.base.red
-    backgroundImage: null
+      tokenName: color.layout.defaultBg
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/62390-y671rqduce.png
     textColorDescription:
       type: value
       colorValue: '#000000'

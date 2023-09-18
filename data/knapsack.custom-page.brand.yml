@@ -7,4 +7,7 @@ settings:
     textColorTitle:
       type: design-token
       tokenName: color.base.red
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/slide1-rev-560ht-jj1fymirvz.jpg
+    size: medium
+    hideText: false
 description: Traveler's Branding Guidelines

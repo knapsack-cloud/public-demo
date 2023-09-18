@@ -2,7 +2,7 @@ id: Documentation
 title: Documentation
 settings:
   pageHeader:
-    size: full
+    size: medium
     textColorTitle:
       type: design-token
       tokenName: color.base.red
@@ -11,4 +11,6 @@ settings:
       type: value
       colorValue: '#000000'
 description: Read about how to use your design system
-blockIds: []
+blockIds:
+  - 2Dzf175Svm
+  - 5RQruglYiX

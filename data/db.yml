@@ -493,6 +493,45 @@ blocks:
           tags: []
           type: dimension
       id: 26WskgYN2R
+    2Dzf175Svm:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - content:
+                - marks:
+                    - type: italic
+                  text: 'This section provides an overview of content formatting options in Knapsack. Visit the '
+                  type: text
+                - marks:
+                    - attrs:
+                        class: null
+                        href: ././Design-Tokens-lNWaUqkDSo
+                        target: _blank
+                      type: link
+                    - type: italic
+                  text: Design Tokens
+                  type: text
+                - marks:
+                    - type: italic
+                  text: ' and '
+                  type: text
+                - marks:
+                    - attrs:
+                        class: null
+                        href: ././Components-Overview
+                        target: _blank
+                      type: link
+                    - type: italic
+                  text: Components
+                  type: text
+                - marks:
+                    - type: italic
+                  text: ' sections for examples of asset docs.'
+                  type: text
+              type: paragraph
+          type: doc
+      id: 2Dzf175Svm
     2RIhkctxWB:
       blockType: text-editor
       data:
@@ -702,6 +741,19 @@ blocks:
               type: blockquote
           type: doc
       id: 3nx-x-krwF
+    46jmUME43w:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 2
+              content:
+                - text: System Overview (All Components)
+                  type: text
+              type: heading
+          type: doc
+      id: 46jmUME43w
     47VollR_2X:
       blockType: text-editor
       data:
@@ -1004,61 +1056,6 @@ blocks:
           tags:
             - brand
       id: 5zXw_M1qDW
-    6-qXFUJ0eH:
-      blockType: text-editor
-      data:
-        content:
-          content:
-            - attrs:
-                level: 1
-              content:
-                - text: Build better together
-                  type: text
-              type: heading
-            - content:
-                - text: >-
-                    Knapsack is the next generation of design systems - flexible, scalable, and highly collaborative.
-                    Knapsack powers unified product experiences by providing a central source of truth for everyone on
-                    your team. Document decisions, create tokens, build prototypes, and ship code directly to your app
-                    or website. You'll see a new level of collaboration between teams and increase velocity in just a
-                    few weeks with Knapsack's ready-to-use infrastructure. Unite design and engineering in one powerful
-                    tool that will scale with your organization for years to come.
-                  type: text
-              type: paragraph
-            - content:
-                - text: 'Visit our '
-                  type: text
-                - marks:
-                    - attrs:
-                        class: null
-                        href: https://knapsack.cloud
-                        target: _blank
-                      type: link
-                    - type: bold
-                  text: website
-                  type: text
-                - text: ', follow us on '
-                  type: text
-                - marks:
-                    - attrs:
-                        class: null
-                        href: https://twitter.com/knapsackcloud
-                        target: _blank
-                      type: link
-                    - type: bold
-                  text: Twitter
-                  type: text
-                - text: ', or check out our '
-                  type: text
-                - marks:
-                    - type: bold
-                  text: webinars
-                  type: text
-                - text: ' to learn more!'
-                  type: text
-              type: paragraph
-          type: doc
-      id: 6-qXFUJ0eH
     6eHTQ_DA5d:
       blockType: text-editor
       data:
@@ -1471,6 +1468,19 @@ blocks:
           type: doc
       id: 9Gr6Nade2w
       size: medium
+    9P1fHsH2Zp:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 2
+              content:
+                - text: System Status Table
+                  type: text
+              type: heading
+          type: doc
+      id: 9P1fHsH2Zp
     9R_EDAEKZb:
       blockType: text-editor
       data:
@@ -1504,6 +1514,9 @@ blocks:
     A2my1t53RY:
       blockType: divider-block
       id: A2my1t53RY
+    A5dYIXDVVN:
+      blockType: pattern-list-block
+      id: A5dYIXDVVN
     AfFgN5yVn:
       blockType: pattern-status-table-block
       data:
@@ -2266,6 +2279,15 @@ blocks:
         height: '800'
         url: https://www.figma.com/file/rcMETa2cNqQDFLd41cZA14/Demo-Design-System?node-id=0%3A1
       id: Hn3xvYmDXj
+    HoQ6MkbT_m:
+      blockType: pattern-variations
+      data:
+        demoId: 2ysfvm4ShE
+        patternId: button
+        size: m
+        templateId: react
+        variationId: size
+      id: HoQ6MkbT_m
     IAHMxBb9dw:
       blockType: divider-block
       id: IAHMxBb9dw
@@ -2352,6 +2374,9 @@ blocks:
     Lsu6cM8BeA:
       blockType: divider-block
       id: Lsu6cM8BeA
+    MGgfi6F6H5:
+      blockType: divider-block
+      id: MGgfi6F6H5
     MPWVYU6VPU:
       blockType: text-editor
       data:
@@ -2542,6 +2567,95 @@ blocks:
           type: doc
       id: OTAnrkBzAT
       size: medium
+    O_pdmoSJCB:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 2
+              content:
+                - text: Overview
+                  type: text
+              type: heading
+            - content:
+                - text: 'Using the '
+                  type: text
+                - marks:
+                    - type: bold
+                  text: System
+                  type: text
+                - text: ' content blocks, users can create dynamic documentation of component templates and specific variations. Since Knapsack is wired up to the source code of your design system, documentation will automatically update when changes occur.'
+                  type: text
+              type: paragraph
+            - content:
+                - text: >-
+                    Choose from a variety of formats and presentations depending on the type of documentation experience
+                    you're aiming for.
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 4
+              content:
+                - text: 'Explore the different options for component presentation below:'
+                  type: text
+              type: heading
+            - content:
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: '#component-embed'
+                                target: _blank
+                              type: link
+                          text: Component Embed
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: '#component-demo'
+                                target: _blank
+                              type: link
+                          text: Component Demo
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: '#system-overview-all-components'
+                                target: _blank
+                              type: link
+                          text: System Overview (All Components)
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: '#system-status-table'
+                                target: _blank
+                              type: link
+                          text: System Status Table
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+            - content:
+                - text: Use the below sections to browse examples of component documentation.
+                  type: text
+              type: paragraph
+          type: doc
+      id: O_pdmoSJCB
     P333IwDxP7:
       blockType: design-token-block
       data:
@@ -3174,6 +3288,29 @@ blocks:
           type: doc
       id: YkyHkvdzp_
       size: large
+    Ymv-IrgVVC:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 2
+              content:
+                - text: Component Embed
+                  type: text
+              type: heading
+            - content:
+                - text: 'A '
+                  type: text
+                - marks:
+                    - type: bold
+                  text: Component Embed
+                  type: text
+                - text: ' shows a live render of a production component, with options to display the schema form (for adjusting data + presentation) and/or the code snippet.'
+                  type: text
+              type: paragraph
+          type: doc
+      id: Ymv-IrgVVC
     ZE6EJ0E78u:
       blockType: text-editor
       data:
@@ -3201,6 +3338,45 @@ blocks:
     ZQ5Z_y9_Dx:
       blockType: divider-block
       id: ZQ5Z_y9_Dx
+    ZXFSsx_Zxh:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - content:
+                - marks:
+                    - type: italic
+                  text: 'This section provides an overview of content formatting options in Knapsack. Visit the '
+                  type: text
+                - marks:
+                    - attrs:
+                        class: null
+                        href: ././Design-Tokens-lNWaUqkDSo
+                        target: _blank
+                      type: link
+                    - type: italic
+                  text: Design Tokens
+                  type: text
+                - marks:
+                    - type: italic
+                  text: ' and '
+                  type: text
+                - marks:
+                    - attrs:
+                        class: null
+                        href: ././Components-Overview
+                        target: _blank
+                      type: link
+                    - type: italic
+                  text: Components
+                  type: text
+                - marks:
+                    - type: italic
+                  text: ' sections for examples of asset docs.'
+                  type: text
+              type: paragraph
+          type: doc
+      id: ZXFSsx_Zxh
     ZlCcg9r5Lk:
       blockType: text-editor
       data:
@@ -3286,6 +3462,15 @@ blocks:
         height: '480'
         url: https://www.figma.com/file/uXroEUE22VtrT6CiF3zQqS/tailwind-ui-figma-kit-2021-03-26?node-id=172%3A4447
       id: _quWnLXCar
+    _uZ11jlqWe:
+      blockType: pattern-variations
+      data:
+        demoId: 2ysfvm4ShE
+        patternId: button
+        size: m
+        templateId: react
+        variationId: mode
+      id: _uZ11jlqWe
     aHFCyUV-9P:
       blockType: text-editor
       data:
@@ -3734,6 +3919,29 @@ blocks:
         showSchemaForm: false
         templateId: react
       id: dsiSgOXHIC
+    dwiSjHJI2W:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 2
+              content:
+                - text: Component Demo
+                  type: text
+              type: heading
+            - content:
+                - text: 'A '
+                  type: text
+                - marks:
+                    - type: bold
+                  text: Component Demo
+                  type: text
+                - text: ' shows all of the variations of a given component template based on a single property'
+                  type: text
+              type: paragraph
+          type: doc
+      id: dwiSjHJI2W
     dxsxlMQ3Yz:
       blockType: text-editor
       data:
@@ -3832,6 +4040,21 @@ blocks:
     euHhLM0j1S:
       blockType: divider-block
       id: euHhLM0j1S
+    exjn5Z9U4A:
+      blockType: pattern-template-block
+      data:
+        demoId: 2ysfvm4ShE
+        demoSize: landscape
+        hideControls: false
+        patternId: button
+        playgroundUi:
+          demoSize: landscape
+          showCodeSnippet: false
+          showSchemaForm: false
+        showCodeSnippet: false
+        showSchemaForm: false
+        templateId: react
+      id: exjn5Z9U4A
     f73-qtReZ-:
       blockType: divider-block
       id: f73-qtReZ-
@@ -3953,6 +4176,9 @@ blocks:
           type: doc
       id: ipuRLnl7VP
       size: medium
+    irygq0sy0t:
+      blockType: pattern-status-table-block
+      id: irygq0sy0t
     ixHhgr8lh2:
       blockType: text-editor
       data:
@@ -4296,6 +4522,7 @@ blocks:
     n8S6Hd_tQN:
       blockType: pattern-status-table-block
       id: n8S6Hd_tQN
+      size: null
     nFepVH2iK2:
       blockType: text-editor
       data:
@@ -4782,6 +5009,95 @@ blocks:
           type: doc
       id: q0eLbBTio_
       size: medium
+    q2JLqFJ4UP:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 2
+              content:
+                - text: Overview
+                  type: text
+              type: heading
+            - content:
+                - text: 'Using the '
+                  type: text
+                - marks:
+                    - type: bold
+                  text: System
+                  type: text
+                - text: ' content blocks, users can create dynamic documentation of component templates and specific variations. Since Knapsack is wired up to the source code of your design system, documentation will automatically update when changes occur.'
+                  type: text
+              type: paragraph
+            - content:
+                - text: >-
+                    Choose from a variety of formats and presentations depending on the type of documentation experience
+                    you're aiming for.
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 4
+              content:
+                - text: 'Explore the different options for component presentation below:'
+                  type: text
+              type: heading
+            - content:
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: '#component-embed'
+                                target: _blank
+                              type: link
+                          text: Component Embed
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: '#component-demo'
+                                target: _blank
+                              type: link
+                          text: Component Demo
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: '#system-overview-all-components'
+                                target: _blank
+                              type: link
+                          text: System Overview (All Components)
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: '#system-status-table'
+                                target: _blank
+                              type: link
+                          text: System Status Table
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+            - content:
+                - text: Use the below sections to browse examples of component documentation.
+                  type: text
+              type: paragraph
+          type: doc
+      id: q2JLqFJ4UP
     qH06ttCq_H:
       blockType: text-editor
       data:
@@ -5832,11 +6148,13 @@ demos:
               templateId: react
               type: template-demo
       description: ''
+      height: 620
       id: '-2WvOX39hg'
       patternId: card
       templateId: react
       title: Two Author CTA
       type: data
+      width: 492
     0cnxLKsacP:
       data:
         props:
