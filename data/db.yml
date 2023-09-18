@@ -6134,7 +6134,9 @@ demos:
       type: template
   settings: {}
 settings:
-  logoUrl: https://knapsack.imgix.net/site/public-demo/knapsack-logomark-primary@3x-c3fjqx5ll_.png
+  favicon: https://knapsack.imgix.net/site/public-demo/download-vzqdlxp7kc.png
+  hideTitleInNavigation: false
+  logoUrl: https://knapsack.imgix.net/site/public-demo/download-2hpyx_scne.png
   theme:
     appearance:
       customFonts:
@@ -6155,53 +6157,98 @@ settings:
       navigation:
         primaryNav:
           accentColor:
-            tokenName: color.brand.primary
+            tokenName: color.base.blue
             type: design-token
           backgroundColor:
-            tokenName: color.brand.black
+            tokenName: color.brand.white
             type: design-token
           fontFamily: Inter
           fontWeight: 800
           hoverColor:
-            tokenName: color.brand.secondary
+            tokenName: color.base.blue
             type: design-token
-          lineHeight: ''
           textColor:
-            tokenName: color.text.inverse
+            tokenName: color.brand.almost black
             type: design-token
+          textTransform: inherit
         secondaryNav:
           accentColor:
-            tokenName: color-brand-secondary
+            tokenName: color.base.blue
             type: design-token
           fontFamily: Inter
           fontWeight: 500
+          textColor:
+            tokenName: color.brand.almost black
+            type: design-token
+          textTransform: inherit
         tabs:
+          accentColor:
+            tokenName: color.base.blue
+            type: design-token
           fontFamily: Inter
+          textColor:
+            tokenName: color.brand.almost black
+            type: design-token
+          textTransform: inherit
       pageElements:
-        bodyText: {}
+        bodyText:
+          fontFamily: Inter
+          textColor:
+            tokenName: color.brand.almost black
+            type: design-token
+          textTransform: inherit
         headingLarge:
           fontFamily: Inter
           fontWeight: 400
+          textColor:
+            tokenName: color.brand.almost black
+            type: design-token
+          textTransform: inherit
         headingMedium:
           fontFamily: Inter
+          textColor:
+            tokenName: color.brand.almost black
+            type: design-token
+          textTransform: inherit
         headingSmall:
           fontFamily: Inter
+          textColor:
+            tokenName: color.brand.almost black
+            type: design-token
+          textTransform: inherit
         headingXLarge:
-          fontFamily: Acme
+          fontFamily: Inter
           fontWeight: 600
+          textColor:
+            tokenName: color.brand.almost black
+            type: design-token
+          textTransform: inherit
         headingXSmall:
           fontFamily: Inter
+          textColor:
+            tokenName: color.brand.almost black
+            type: design-token
+          textTransform: inherit
         link:
           fontWeight: 600
           textColor:
-            tokenName: color-text-link
+            tokenName: color.base.blue
             type: design-token
+          textTransform: inherit
           underline: true
         pageDescription:
           fontFamily: Inter
           fontWeight: 400
+          textColor:
+            tokenName: color.brand.almost black
+            type: design-token
+          textTransform: inherit
         pageTitle:
-          fontFamily: Acme
+          fontFamily: Inter
           fontWeight: 800
+          textColor:
+            tokenName: color.brand.almost black
+            type: design-token
+          textTransform: inherit
     version: 10
-  title: Public Demo
+  title: ProgLeasing DS v1

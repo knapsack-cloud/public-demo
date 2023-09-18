@@ -35,7 +35,7 @@
       },
       "blue": {
         "$type": "color",
-        "$value": "#207FF9"
+        "$value": "#20caf7"
       },
       "green": {
         "$type": "color",
@@ -114,6 +114,11 @@
       "secondary": {
         "$type": "color",
         "$value": "#E43A5C"
+      },
+      "almost black": {
+        "$type": "color",
+        "$value": "#020202a3",
+        "$description": ""
       }
     },
     "light": {

@@ -1,0 +1,20 @@
+id: welcome-to-ds-v1
+title: Welcome to DS v1
+blockIds:
+  - 6-qXFUJ0eH
+  - tY2rt92bob
+  - oa-y7sAwqr
+  - j6lFMtQipq
+  - 0m76iAbMDZ
+  - 7Y7v_lnZJh
+settings:
+  pageHeader:
+    size: small
+    textColorTitle:
+      type: design-token
+      tokenName: color.base.blue
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/progressive-shopping-bags-cqvz98rwvk.jpg
+    textColorDescription:
+      type: design-token
+      tokenName: color.brand.almost black
+description: The collaborative design system

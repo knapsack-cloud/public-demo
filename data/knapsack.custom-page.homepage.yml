@@ -1,17 +1,18 @@
 id: homepage
-title: Welcome to Knapsack
+title: Welcome to Progressive Leasing's Design System
 settings:
   pageHeader:
     size: full
     textColorTitle:
       type: design-token
-      tokenName: color-brand-primary
-      colorValue: '#FFFFFF'
-    backgroundImage: https://knapsack.imgix.net/site/public-demo/clark-van-der-beken-596baa0mpym-unsplash-o5drv55uvq.jpg
+      tokenName: color.base.blue
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/application-process-image-z2bkzuqqxf.jpg
     textColorDescription:
       type: design-token
-      tokenName: color-Meh-black
-      colorValue: '#FFFFFF'
+      tokenName: color.brand.almost black
+    backgroundColor:
+      type: design-token
+      tokenName: color.brand.almost black
 description: |-
   A shared platform for product teams to collaborate
   on documenting, designing, building, testing, and shipping

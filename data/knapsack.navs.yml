@@ -214,14 +214,14 @@ byId:
     name: Top Nav
     parentId: Complex
     path: /pattern/top-nav
-  welcome-to-knapsack:
-    id: welcome-to-knapsack
-    name: Welcome to Knapsack
+  welcome-to-ds-v1:
+    id: welcome-to-ds-v1
+    name: Welcome to DS v1
     parentId: getting-started
-    path: /pages/welcome-to-knapsack
+    path: /pages/welcome-to-ds-v1
 order:
   - getting-started
-  - welcome-to-knapsack
+  - welcome-to-ds-v1
   - guidance
   - knapsack's-publishing-workflow
   - adding-design-tokens
