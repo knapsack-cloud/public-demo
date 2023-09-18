@@ -35,7 +35,7 @@
       },
       "blue": {
         "$type": "color",
-        "$value": "#20caf7"
+        "$value": "#1d9ac2"
       },
       "green": {
         "$type": "color",

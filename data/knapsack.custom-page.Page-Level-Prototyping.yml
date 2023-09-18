@@ -5,12 +5,11 @@ settings:
     size: full
     textColorTitle:
       type: design-token
-      colorValue: '#000000'
-      tokenName: color-brand-primary
-    backgroundImage: null
+      tokenName: color.brand.white
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/shades-of-blue-og0mfyon9t.jpg
     textColorDescription:
-      type: value
-      colorValue: '#000000'
+      type: design-token
+      tokenName: color.brand.almost black
 description: |-
   Work with patterns to create new experiences.
   Collaborate to build, share, and test your ideas with real code!

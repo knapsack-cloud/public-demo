@@ -9,7 +9,7 @@ blockIds:
   - 7Y7v_lnZJh
 settings:
   pageHeader:
-    size: small
+    size: full
     textColorTitle:
       type: design-token
       tokenName: color.base.blue
