@@ -2,7 +2,7 @@
   "color": {
     "Meh": {
       "blue": {
-        "$value": "{color.base.blue}",
+        "$value": "{color.base.dark.blue}",
         "$description": "An okayish blue"
       },
       "black": {
@@ -33,9 +33,11 @@
         "$type": "color",
         "$value": "#ef5151"
       },
-      "blue": {
-        "$type": "color",
-        "$value": "#207FF9"
+      "dark": {
+        "blue": {
+          "$type": "color",
+          "$value": "#207FF9"
+        }
       },
       "green": {
         "$type": "color",
@@ -352,5 +354,14 @@
         "$value": "150ms"
       }
     }
+  },
+  "Fast Transition": {
+    "$type": "transition",
+    "$value": {
+      "delay": "50ms",
+      "duration": "50ms",
+      "timingFunction": [0, 0, 1, 1]
+    },
+    "$description": "Description here."
   }
 }
