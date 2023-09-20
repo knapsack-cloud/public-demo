@@ -470,16 +470,16 @@ blocks:
     1zsHlF6chs:
       blockType: pattern-template-block
       data:
-        demoId: RN96ZpJJpY
+        demoId: dWjGkdoX8-
         demoSize: landscape
         hideControls: false
         patternId: card
         playgroundUi:
           demoSize: landscape
-          showCodeSnippet: true
-          showSchemaForm: false
-        showCodeSnippet: true
-        showSchemaForm: false
+          showCodeSnippet: false
+          showSchemaForm: true
+        showCodeSnippet: false
+        showSchemaForm: true
         templateId: react
       id: 1zsHlF6chs
     26WskgYN2R:
@@ -3141,6 +3141,7 @@ blocks:
           name: ''
           tags:
             - brand
+            - base
       id: ZIA41N3-bJ
     ZQ5Z_y9_Dx:
       blockType: divider-block
@@ -5978,6 +5979,28 @@ demos:
       patternId: layout
       templateId: react
       title: 2-Column Card Example
+      type: data
+    dWjGkdoX8-:
+      data:
+        props:
+          body: >-
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint harum rerum voluptatem quo recusandae magni
+            placeat saepe molestiae, sed excepturi cumque corporis perferendis hic.
+          imgSrc: >-
+            https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+          label: Case Study
+          title: Improve your customer experience
+        slots:
+          children:
+            - demoId: 2CXfLJgtaC
+              patternId: button
+              templateId: react
+              type: template-demo
+      description: ''
+      id: dWjGkdoX8-
+      patternId: card
+      templateId: react
+      title: Simplest
       type: data
     eY-_KWUog4:
       data:
