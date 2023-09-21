@@ -1,3 +1,23 @@
+# v0.1.55 (Thu Sep 21 2023)
+
+#### ⚠️ Pushed to `main`
+
+- `@knapsack-cloud/public-demo-react`
+  - remove shared types import (s.kimball@ss-macbook-pro.lan)
+
+#### 📝 Documentation
+
+- TOC removal from Components Overview [#174](https://github.com/knapsack-cloud/public-demo/pull/174) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+- new font [#169](https://github.com/knapsack-cloud/public-demo/pull/169) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+- site style updates [#168](https://github.com/knapsack-cloud/public-demo/pull/168) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+
+#### Authors: 2
+
+- [@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot])
+- S. Kimball (s.kimball@ss-macbook-pro.lan)
+
+---
+
 # v0.1.54 (Tue Sep 05 2023)
 
 #### 🐛 Bug Fix
