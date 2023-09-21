@@ -1,3 +1,16 @@
+# v0.1.58 (Thu Sep 21 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Britt says Wow and Meh were the worst names. ([@skim-at-knapsack](https://github.com/skim-at-knapsack))
+- Removed Meh theme because Jake told me to. Yell at him for this. I am just a pawn in all this. ([@skim-at-knapsack](https://github.com/skim-at-knapsack))
+
+#### Authors: 1
+
+- Skim Kimball ([@skim-at-knapsack](https://github.com/skim-at-knapsack))
+
+---
+
 # v0.1.57 (Thu Sep 21 2023)
 
 #### ⚠️ Pushed to `main`
