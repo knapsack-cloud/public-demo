@@ -10,9 +10,8 @@
     "start": "yarn build --watch"
   },
   "dependencies": {
-    "@knapsack-cloud/public-demo-design-tokens": "^0.1.55",
-    "@knapsack-cloud/public-demo-shared-types": "^0.1.55",
-    "@knapsack-cloud/public-demo-styles": "^0.1.55",
+    "@knapsack-cloud/public-demo-design-tokens": "^0.1.54",
+    "@knapsack-cloud/public-demo-styles": "^0.1.54",
     "classnames": "^2.3.1"
   },
   "devDependencies": {
