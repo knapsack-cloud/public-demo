@@ -1,3 +1,15 @@
+# v0.1.56 (Thu Sep 21 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Removed Shared Types package (s.kimball@ss-macbook-pro.lan)
+
+#### Authors: 1
+
+- S. Kimball (s.kimball@ss-macbook-pro.lan)
+
+---
+
 # v0.1.55 (Thu Sep 21 2023)
 
 #### ⚠️ Pushed to `main`

@@ -1,3 +1,19 @@
+# v0.1.56 (Thu Sep 21 2023)
+
+#### ⚠️ Pushed to `main`
+
+- `@knapsack-cloud/public-demo-react`
+  - Removed Shared Types package (s.kimball@ss-macbook-pro.lan)
+- `@knapsack-cloud/public-demo-shared-types`
+  - Removed Shared Types package ([@skim-at-knapsack](https://github.com/skim-at-knapsack))
+
+#### Authors: 2
+
+- S. Kimball (s.kimball@ss-macbook-pro.lan)
+- Skim Kimball ([@skim-at-knapsack](https://github.com/skim-at-knapsack))
+
+---
+
 # v0.1.55 (Thu Sep 21 2023)
 
 #### ⚠️ Pushed to `main`
