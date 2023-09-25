@@ -164,6 +164,11 @@ byId:
     name: Getting Started
     parentId: root
     path: ''
+  getting-started-dwzqrpmcjv:
+    id: getting-started-dwzqrpmcjv
+    name: Getting Started
+    parentId: getting-started
+    path: /pages/getting-started-dwzqrpmcjv
   guidance:
     id: guidance
     name: Guidance
@@ -214,14 +219,9 @@ byId:
     name: Top Nav
     parentId: Complex
     path: /pattern/top-nav
-  welcome-to-knapsack:
-    id: welcome-to-knapsack
-    name: Welcome to Knapsack
-    parentId: getting-started
-    path: /pages/welcome-to-knapsack
 order:
   - getting-started
-  - welcome-to-knapsack
+  - getting-started-dwzqrpmcjv
   - guidance
   - knapsack's-publishing-workflow
   - adding-design-tokens

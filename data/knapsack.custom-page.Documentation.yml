@@ -2,12 +2,12 @@ id: Documentation
 title: Documentation
 settings:
   pageHeader:
-    size: full
+    size: medium
     textColorTitle:
       type: design-token
       tokenName: color-brand-primary
       colorValue: '#000000'
-    backgroundImage: https://knapsack.imgix.net/site/public-demo/sincerely-media-dgqf1dukutm-unsplash-dvgozcedlb.jpg
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/doctors_0004_istock-949812160-1200x800-1-mzkycupppx.jpg
     textColorDescription:
       type: value
       colorValue: '#000000'

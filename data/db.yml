@@ -5662,7 +5662,7 @@ demos:
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus,
             eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.
           imgSrc: >-
-            https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+            https://www.zebra.com/content/dam/zebra_dam/global/photography/application/0006/healthcare-photography-application-et40-hc-et45-hc-patient-identification-bedside-4x3-3600.jpg
           label: Article
           title: Boost your conversion rate
         slots:
@@ -5721,7 +5721,7 @@ demos:
     2ysfvm4ShE:
       data:
         props:
-          mode: info
+          mode: success
           size: medium
           type: solid
           url: '#url'
@@ -5764,8 +5764,7 @@ demos:
           body: >-
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint harum rerum voluptatem quo recusandae magni
             placeat saepe molestiae, sed excepturi cumque corporis perferendis hic.
-          imgSrc: >-
-            https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+          imgSrc: https://www.cdc.gov/niosh/programs/hcsa/images/GettyImages-1297322906_Cropped_1.jpg?_=68791
           label: Case Study
           title: Improve your customer experience
         slots:
@@ -5878,7 +5877,7 @@ demos:
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus,
             eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.
           imgSrc: >-
-            https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+            https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/WORKPLACEV9CMS/2bgqjhmw_0iifqf_p8twtq.jpg
           label: Article
           title: Boost your conversion rate now!
         slots:
@@ -5905,8 +5904,7 @@ demos:
           body: >-
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus,
             eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.
-          imgSrc: >-
-            https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+          imgSrc: https://healthcarentsickcare.com/cdn/shop/articles/what-is-healthcare-707998.png?v=1677580538
           label: Video
           title: How to use search engine optimization to drive sales
         slots:
@@ -6134,7 +6132,9 @@ demos:
       type: template
   settings: {}
 settings:
-  logoUrl: https://knapsack.imgix.net/site/public-demo/knapsack-logomark-primary@3x-c3fjqx5ll_.png
+  favicon: https://knapsack.imgix.net/site/public-demo/1_8taoj-keamnlm6qzcygy3w-lxdnlp5x-p.png
+  hideTitleInNavigation: false
+  logoUrl: https://knapsack.imgix.net/site/public-demo/1_8taoj-keamnlm6qzcygy3w-jtwhgf1z5k.png
   theme:
     appearance:
       customFonts:
@@ -6155,20 +6155,20 @@ settings:
       navigation:
         primaryNav:
           accentColor:
-            tokenName: color.brand.primary
+            tokenName: color.brand.secondary
             type: design-token
           backgroundColor:
-            tokenName: color.brand.black
+            tokenName: color.brand.white
             type: design-token
           fontFamily: Inter
           fontWeight: 800
           hoverColor:
             tokenName: color.brand.secondary
             type: design-token
-          lineHeight: ''
           textColor:
-            tokenName: color.text.inverse
+            tokenName: color.brand.primary
             type: design-token
+          textTransform: inherit
         secondaryNav:
           accentColor:
             tokenName: color-brand-secondary
@@ -6176,32 +6176,73 @@ settings:
           fontFamily: Inter
           fontWeight: 500
         tabs:
+          accentColor:
+            tokenName: color.brand.primary
+            type: design-token
           fontFamily: Inter
+          textColor:
+            tokenName: color.brand.black
+            type: design-token
+          textTransform: inherit
       pageElements:
-        bodyText: {}
+        bodyText:
+          fontFamily: Inter
+          textColor:
+            tokenName: color.brand.black
+            type: design-token
+          textTransform: inherit
         headingLarge:
           fontFamily: Inter
           fontWeight: 400
+          textColor:
+            tokenName: color.brand.primary
+            type: design-token
+          textTransform: inherit
         headingMedium:
           fontFamily: Inter
+          textColor:
+            tokenName: color.brand.primary
+            type: design-token
+          textTransform: inherit
         headingSmall:
           fontFamily: Inter
+          textColor:
+            tokenName: color.brand.primary
+            type: design-token
+          textTransform: inherit
         headingXLarge:
-          fontFamily: Acme
+          fontFamily: Inter
           fontWeight: 600
+          textColor:
+            tokenName: color.brand.primary
+            type: design-token
+          textTransform: inherit
         headingXSmall:
           fontFamily: Inter
+          textColor:
+            tokenName: color.brand.primary
+            type: design-token
+          textTransform: inherit
         link:
           fontWeight: 600
           textColor:
-            tokenName: color-text-link
+            tokenName: color.brand.secondary
             type: design-token
+          textTransform: inherit
           underline: true
         pageDescription:
           fontFamily: Inter
           fontWeight: 400
+          textColor:
+            tokenName: color.brand.primary
+            type: design-token
+          textTransform: inherit
         pageTitle:
-          fontFamily: Acme
+          fontFamily: Inter
           fontWeight: 800
+          textColor:
+            tokenName: color.brand.primary
+            type: design-token
+          textTransform: inherit
     version: 10
-  title: Public Demo
+  title: athenahealth DS

@@ -2,15 +2,17 @@ id: Page-Level-Prototyping
 title: Page-Level Prototyping
 settings:
   pageHeader:
-    size: full
+    size: medium
     textColorTitle:
       type: design-token
-      colorValue: '#000000'
-      tokenName: color-brand-primary
+      tokenName: color.brand.white
     backgroundImage: null
     textColorDescription:
-      type: value
-      colorValue: '#000000'
+      type: design-token
+      tokenName: color.brand.white
+    backgroundColor:
+      type: design-token
+      tokenName: color.brand.primary
 description: |-
   Work with patterns to create new experiences.
   Collaborate to build, share, and test your ideas with real code!

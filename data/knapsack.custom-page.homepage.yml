@@ -1,5 +1,5 @@
 id: homepage
-title: Welcome to Knapsack
+title: Welcome to athenahealth DS
 settings:
   pageHeader:
     size: full
@@ -7,11 +7,10 @@ settings:
       type: design-token
       tokenName: color-brand-primary
       colorValue: '#FFFFFF'
-    backgroundImage: https://knapsack.imgix.net/site/public-demo/clark-van-der-beken-596baa0mpym-unsplash-o5drv55uvq.jpg
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/doctor-using-tablet-1920-jul6geycgj.jpg
     textColorDescription:
       type: design-token
-      tokenName: color-Meh-black
-      colorValue: '#FFFFFF'
+      tokenName: color.brand.black
 description: |-
   A shared platform for product teams to collaborate
   on documenting, designing, building, testing, and shipping

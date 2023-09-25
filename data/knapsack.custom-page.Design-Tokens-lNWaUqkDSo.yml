@@ -2,15 +2,15 @@ id: Design-Tokens-lNWaUqkDSo
 title: Design Tokens
 settings:
   pageHeader:
-    size: auto
+    size: medium
     textColorTitle:
       type: design-token
-      colorValue: '#000000'
-      tokenName: color-brand-primary
-    backgroundImage: null
+      tokenName: color.brand.white
+    backgroundImage: >-
+      https://knapsack.imgix.net/site/public-demo/videoblocks-3d-molecules-atoms-floating-organic-seamless-looping-motion-background-purple_hm9xvbg3_thumbnail-1080_01-38uroei3fv.png
     textColorDescription:
-      type: value
-      colorValue: '#000000'
+      type: design-token
+      tokenName: color.brand.white
 description: Building blocks of your digital brand
 blockIds:
   - RX3sN_L-4o

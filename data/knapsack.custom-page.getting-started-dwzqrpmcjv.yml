@@ -1,0 +1,23 @@
+id: getting-started-dwzqrpmcjv
+title: Getting Started
+blockIds:
+  - 6-qXFUJ0eH
+  - tY2rt92bob
+  - oa-y7sAwqr
+  - j6lFMtQipq
+  - 0m76iAbMDZ
+  - 7Y7v_lnZJh
+settings:
+  pageHeader:
+    size: medium
+    textColorTitle:
+      type: design-token
+      tokenName: color-brand-primary
+      colorValue: '#6A4CEC'
+    backgroundImage: >-
+      https://knapsack.imgix.net/site/public-demo/637e4081cd90332dbf156ff6_16-quality-measures-in-healthcare-runa887ha8.jpeg
+    textColorDescription:
+      type: design-token
+      tokenName: color-brand-black
+      colorValue: '#000000'
+description: The collaborative design system
