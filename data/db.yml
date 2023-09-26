@@ -4,6 +4,7 @@ blocks:
       blockType: pattern-variations
       data:
         demoId: 2ysfvm4ShE
+        hideBlockTitle: false
         patternId: button
         size: s
         templateId: react
@@ -3162,9 +3163,9 @@ blocks:
       blockType: design-token-block
       data:
         demo:
-          id: table-list
+          id: color-swatch
         tokens:
-          category: ''
+          category: color
           name: ''
           tags: []
       id: _f4PbvkrLK
@@ -3471,6 +3472,50 @@ blocks:
               type: table
           type: doc
       id: ctwMU8NUmw
+      size: null
+    d3yV6_dxBl:
+      blockType: table
+      data:
+        content:
+          content:
+            - content:
+                - content:
+                    - content:
+                        - content:
+                            - text: A
+                              type: text
+                          type: paragraph
+                      type: tableHeader
+                    - content:
+                        - content:
+                            - text: B
+                              type: text
+                          type: paragraph
+                      type: tableHeader
+                    - content:
+                        - content:
+                            - text: C
+                              type: text
+                          type: paragraph
+                      type: tableHeader
+                  type: tableRow
+                - content:
+                    - content:
+                        - content: []
+                          type: paragraph
+                      type: tableCell
+                    - content:
+                        - content: []
+                          type: paragraph
+                      type: tableCell
+                    - content:
+                        - content: []
+                          type: paragraph
+                      type: tableCell
+                  type: tableRow
+              type: table
+          type: doc
+      id: d3yV6_dxBl
       size: null
     dWwXgDQUjj:
       blockType: divider-block
