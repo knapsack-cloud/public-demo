@@ -1,3 +1,15 @@
+# v0.1.59 (Tue Sep 26 2023)
+
+#### ⚠️ Pushed to `main`
+
+- update knapsack packages ([@rockymountainhigh1943](https://github.com/rockymountainhigh1943))
+
+#### Authors: 1
+
+- Jake Love ([@rockymountainhigh1943](https://github.com/rockymountainhigh1943))
+
+---
+
 # v0.1.58 (Thu Sep 21 2023)
 
 #### ⚠️ Pushed to `main`
