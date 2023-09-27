@@ -6145,10 +6145,10 @@ settings:
                 https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hiJ-Ek-_EeA.woff2
               type: url
           style: normal
-        - family: Acme
+        - family: Nunito
           src:
             - format: woff2
-              path: https://fonts.gstatic.com/s/acme/v25/RrQfboBx-C5_XxrBbk_m3Lg.woff2
+              path: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3j6zbXWjgeg.woff2
               type: url
           style: normal
           weight: 400
@@ -6183,12 +6183,14 @@ settings:
           fontFamily: Inter
           fontWeight: 400
         headingMedium:
-          fontFamily: Inter
+          fontFamily: Nunito
+          textTransform: inherit
         headingSmall:
           fontFamily: Inter
         headingXLarge:
-          fontFamily: Acme
+          fontFamily: Nunito
           fontWeight: 600
+          textTransform: inherit
         headingXSmall:
           fontFamily: Inter
         link:
@@ -6201,7 +6203,8 @@ settings:
           fontFamily: Inter
           fontWeight: 400
         pageTitle:
-          fontFamily: Acme
+          fontFamily: Nunito
           fontWeight: 800
+          textTransform: inherit
     version: 10
   title: Public Demo
