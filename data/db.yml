@@ -1135,7 +1135,7 @@ blocks:
                   type: listItem
                 - content:
                     - content:
-                        - text: "In Knapsack's Token Manager, click the "
+                        - text: 'In Knapsack''s Token Manager, click the '
                           type: text
                         - marks:
                             - type: bold
@@ -1293,7 +1293,7 @@ blocks:
                   type: text
               type: paragraph
             - content:
-                - text: "If you're not familiar with Markdown, "
+                - text: 'If you''re not familiar with Markdown, '
                   type: text
                 - marks:
                     - attrs:
@@ -1767,6 +1767,12 @@ blocks:
               type: heading
           type: doc
       id: DiHe471EgD
+    EB99-pfIlg:
+      blockType: text-editor
+      data:
+        content: {}
+      id: EB99-pfIlg
+      size: null
     ERHZS37CMD:
       blockType: text-editor
       data:
@@ -2295,6 +2301,19 @@ blocks:
               type: paragraph
           type: doc
       id: J7G5qpbLIh
+    JY8jCm03Wh:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                alt: ''
+                src: https://knapsack.imgix.net/site/public-demo/screenshot-2023-02-17-at-12.49.30-pm-fzzlxeuxj0.png?w=400
+                title: null
+              type: image
+          type: doc
+      id: JY8jCm03Wh
+      size: medium
     K-6A8f88Qu:
       blockType: text-editor
       data:
@@ -2790,6 +2809,78 @@ blocks:
           type: doc
       id: SDCFdXJ3xc
       size: medium
+    SnfJ3r7TN2:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 2
+              content:
+                - text: Add Pages
+                  type: text
+              type: heading
+            - content:
+                - text: 'Pages can be added in-context via the '
+                  type: text
+                - marks:
+                    - type: bold
+                  text: + Add Page
+                  type: text
+                - text: ' button in the main navigation and the '
+                  type: text
+                - marks:
+                    - type: bold
+                  text: + Add Subpage
+                  type: text
+                - text: ' button in the left side menu, or via the '
+                  type: text
+                - marks:
+                    - type: bold
+                  text: Manage Nav
+                  type: text
+                - text: ' feature available at the far right of the main navigation.'
+                  type: text
+              type: paragraph
+            - content:
+                - text: 'Three options are available when building out your IA:'
+                  type: text
+              type: paragraph
+            - content:
+                - content:
+                    - content:
+                        - marks:
+                            - type: bold
+                          text: 'Page:'
+                          type: text
+                        - text: ' A standard page for any type of content'
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - type: bold
+                          text: 'Pattern:'
+                          type: text
+                        - text: ' A page for documenting components, with statuses and tabs for connecting coded templates'
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - type: bold
+                          text: 'Group:'
+                          type: text
+                        - text: ' A folder for organizing patterns in the navigation'
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+          type: doc
+      id: SnfJ3r7TN2
+      size: medium
     TPySDEPq5j:
       blockType: design-token-block
       data:
@@ -2802,6 +2893,64 @@ blocks:
             - brand
           type: color
       id: TPySDEPq5j
+    TXMwLaBu-i:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 2
+              content:
+                - text: Introduction
+                  type: text
+              type: heading
+            - content:
+                - text: >-
+                    Knapsack enables teams to work together to collaborative create their design system documentation as
+                    they design and build the design system. Use the steps below to begin adding pages, connecting
+                    design and code, and coordinating across teams with your new central source of truth!
+                  type: text
+              type: paragraph
+            - content:
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: '#add-pages'
+                                target: _blank
+                              type: link
+                          text: Add Pages
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: '#add-content-blocks'
+                                target: _blank
+                              type: link
+                          text: Add Content
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: '#customize-your-page-headers'
+                                target: _blank
+                              type: link
+                          text: Customize Page Headers
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+          type: doc
+      id: TXMwLaBu-i
     US4_sofbxi:
       blockType: text-editor
       data:
@@ -3062,6 +3211,19 @@ blocks:
           type: doc
       id: YKDDAnqI45
       size: medium
+    YV5uKRzIkV:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                alt: ''
+                src: https://knapsack.imgix.net/site/uxdsf/screenshot-2022-12-23-at-11.58.24-am-uplc45mrsl.png?w=350
+                title: null
+              type: image
+          type: doc
+      id: YV5uKRzIkV
+      size: medium
     YkyHkvdzp_:
       blockType: text-editor
       data:
@@ -3118,6 +3280,94 @@ blocks:
           type: doc
       id: YkyHkvdzp_
       size: large
+    YoKIc0J18f:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 2
+              content:
+                - text: Add Content Blocks
+                  type: text
+              type: heading
+            - content:
+                - text: 'Static and dynamic content is createed in Knapsack using our system of '
+                  type: text
+                - marks:
+                    - type: bold
+                  text: Content Blocks
+                  type: text
+                - text: >-
+                    . These blocks allow Admin and Contributor users to add or connect text, media, and third-party
+                    (e.g. Figma, Xd, Airtable) assets to Knapsack.
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 4
+              content:
+                - text: Adding & Configuring Content Blocks
+                  type: text
+              type: heading
+            - attrs:
+                start: 1
+              content:
+                - content:
+                    - content:
+                        - text: 'Click the '
+                          type: text
+                        - marks:
+                            - type: bold
+                          text: +
+                          type: text
+                        - text: ' button to display the content block menu'
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: Select the content block for your desired content type
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: Use the ⚙️ icon in the top-right of each content block to adjust settings
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: orderedList
+            - attrs:
+                level: 4
+              content:
+                - text: Looking for Inspiration?
+                  type: text
+              type: heading
+            - content:
+                - text: 'For example of how to leverage content blocks, check out '
+                  type: text
+                - marks:
+                    - attrs:
+                        class: null
+                        href: https://app.knapsack.cloud/site/public-demo/latest/pages/Documentation
+                        target: _blank
+                      type: link
+                  text: our demo workspace
+                  type: text
+                - text: ' or email '
+                  type: text
+                - marks:
+                    - attrs:
+                        class: null
+                        href: mailto:help@knapsack.cloud
+                        target: _blank
+                      type: link
+                  text: help@knapsack.cloud
+                  type: text
+              type: paragraph
+          type: doc
+      id: YoKIc0J18f
+      size: medium
     ZE6EJ0E78u:
       blockType: text-editor
       data:
@@ -3931,7 +4181,7 @@ blocks:
                   type: text
               type: paragraph
             - content:
-                - text: "Changes you've made will be add to Git once you follow "
+                - text: 'Changes you''ve made will be add to Git once you follow '
                   type: text
                 - marks:
                     - attrs:
@@ -5722,12 +5972,12 @@ demos:
       data:
         props:
           mode: success
-          size: medium
-          type: solid
+          size: large
+          type: outline
           url: '#url'
         slots:
           children:
-            - text: Button
+            - text: Best Button
               type: text
       height: 65
       id: 2ysfvm4ShE
@@ -6062,6 +6312,10 @@ demos:
               patternId: layout
               templateId: react
               type: template-demo
+            - demoId: aMFkBNIHU2
+              patternId: layout
+              templateId: react
+              type: template-demo
             - demoId: DRuV9pseUR
               patternId: footer
               templateId: react
@@ -6245,4 +6499,4 @@ settings:
             type: design-token
           textTransform: inherit
     version: 10
-  title: athenahealth DS
+  title: Forge Design System

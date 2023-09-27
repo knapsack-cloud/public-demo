@@ -92,35 +92,44 @@
       "title": "Legacy Storybook",
       "id": "Legacy",
       "blockIds": ["4gpsIFEONx", "0tYaqASlzs"]
+    },
+    {
+      "id": "gi2fXM-pWO",
+      "title": "Community",
+      "blockIds": ["EB99-pfIlg"]
     }
   ],
   "tabs": [
     {
-      "type": "subPage",
-      "id": "Overview"
+      "id": "Overview",
+      "type": "subPage"
     },
     {
-      "type": "subPage",
-      "id": "Accessibility"
+      "id": "Accessibility",
+      "type": "subPage"
     },
     {
-      "type": "subPage",
-      "id": "Figma"
+      "id": "Figma",
+      "type": "subPage"
     },
     {
-      "type": "template",
-      "id": "react"
+      "id": "react",
+      "type": "template"
     },
     {
-      "type": "subPage",
-      "id": "Legacy"
+      "id": "gi2fXM-pWO",
+      "type": "subPage"
+    },
+    {
+      "id": "Legacy",
+      "type": "subPage"
     }
   ],
   "statuses": {
     "design": "ready",
-    "react": "ready",
+    "react": "needs-updated",
     "twig": "ready",
     "handlebars": "ready",
-    "web-components": "needs-dev"
+    "web-components": "needs-approval"
   }
 }
