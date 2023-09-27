@@ -5871,6 +5871,16 @@ demos:
       templateId: web-components
       title: Main
       type: data
+    Q76cedKcFG:
+      data:
+        props: {}
+        slots: {}
+      description: A description
+      id: Q76cedKcFG
+      patternId: card
+      templateId: react
+      title: New Variation
+      type: data
     RN96ZpJJpY:
       data:
         props:
