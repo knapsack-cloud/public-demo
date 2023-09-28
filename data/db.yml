@@ -391,6 +391,15 @@ blocks:
         templateId: react
         variationId: size
       id: 1VyLx4PL0Q
+    1YmByay7C-:
+      blockType: design-tokens
+      data:
+        demoId: color-swatch
+        groupIds:
+          - color.brand
+        tokenType: color
+      id: 1YmByay7C-
+      size: null
     1ZGT33uyBJ:
       blockType: text-editor
       data:
@@ -5729,7 +5738,7 @@ demos:
           children:
             - text: Button
               type: text
-      height: 65
+      height: 58
       id: 2ysfvm4ShE
       patternId: button
       templateId: react
@@ -5855,6 +5864,16 @@ demos:
       templateId: react
       title: Main
       type: data
+    H01vVmMOdA:
+      data:
+        props: {}
+        slots: {}
+      description: A description
+      id: H01vVmMOdA
+      patternId: card
+      templateId: react
+      title: New Variation
+      type: data
     HV3OGy5ho_:
       data:
         props:
@@ -5892,7 +5911,7 @@ demos:
               templateId: react
               type: template-demo
       description: ''
-      height: 564
+      height: 552
       id: RN96ZpJJpY
       patternId: card
       templateId: react
@@ -6134,7 +6153,9 @@ demos:
       type: template
   settings: {}
 settings:
-  logoUrl: https://knapsack.imgix.net/site/public-demo/knapsack-logomark-primary@3x-c3fjqx5ll_.png
+  favicon: https://knapsack.imgix.net/site/public-demo/slalom-logo-for-seo-jo836oc8tx.png
+  hideTitleInNavigation: false
+  logoUrl: https://knapsack.imgix.net/site/public-demo/slalom-logo-white-gmpm0bovo0.png
   theme:
     appearance:
       customFonts:
@@ -6155,28 +6176,33 @@ settings:
       navigation:
         primaryNav:
           accentColor:
-            tokenName: color.brand.primary
+            tokenName: color.brand.secondary
             type: design-token
           backgroundColor:
-            tokenName: color.brand.black
+            tokenName: color.base.blue
             type: design-token
           fontFamily: Inter
           fontWeight: 800
           hoverColor:
-            tokenName: color.brand.secondary
+            tokenName: color.light.blue
             type: design-token
-          lineHeight: ''
           textColor:
             tokenName: color.text.inverse
             type: design-token
+          textTransform: inherit
         secondaryNav:
           accentColor:
-            tokenName: color-brand-secondary
+            tokenName: color.base.blue
             type: design-token
           fontFamily: Inter
           fontWeight: 500
+          textTransform: inherit
         tabs:
+          accentColor:
+            tokenName: color.brand.primary
+            type: design-token
           fontFamily: Inter
+          textTransform: inherit
       pageElements:
         bodyText: {}
         headingLarge:
@@ -6207,4 +6233,4 @@ settings:
           fontWeight: 800
           textTransform: inherit
     version: 10
-  title: Public Demo
+  title: MUI Design System
