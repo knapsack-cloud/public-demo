@@ -9,7 +9,7 @@
   "title": "Footer",
   "statuses": {
     "twig": "wont-build",
-    "react": "ready",
+    "react": "needs-qa",
     "design": "ready",
     "handlebars": "wont-build",
     "web-components": "needs-dev"
