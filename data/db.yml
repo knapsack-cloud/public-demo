@@ -1086,7 +1086,7 @@ blocks:
       blockType: design-token-block
       data:
         demo:
-          id: color-swatch
+          id: text-color
         tokens:
           category: color
           name: ''
@@ -1400,6 +1400,7 @@ blocks:
               type: paragraph
           type: doc
       id: 836ZvCc7ev
+      size: medium
     87U-rc0g9a:
       blockType: text-editor
       data:
@@ -5459,6 +5460,7 @@ blocks:
               type: paragraph
           type: doc
       id: y7e0x_KAMN
+      size: medium
     y9KZVrKgpx:
       blockType: text-editor
       data:
@@ -5722,12 +5724,12 @@ demos:
       data:
         props:
           mode: info
-          size: medium
-          type: solid
+          size: large
+          type: outline
           url: '#url'
         slots:
           children:
-            - text: Button
+            - text: Best Button
               type: text
       height: 65
       id: 2ysfvm4ShE
@@ -6061,6 +6063,10 @@ demos:
               templateId: react
               type: template-demo
             - demoId: eY-_KWUog4
+              patternId: layout
+              templateId: react
+              type: template-demo
+            - demoId: aMFkBNIHU2
               patternId: layout
               templateId: react
               type: template-demo
