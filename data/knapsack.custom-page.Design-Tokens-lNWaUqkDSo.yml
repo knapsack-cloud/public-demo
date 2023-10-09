@@ -2,12 +2,12 @@ id: Design-Tokens-lNWaUqkDSo
 title: Design Tokens
 settings:
   pageHeader:
-    size: auto
+    size: full
     textColorTitle:
       type: design-token
       colorValue: '#000000'
       tokenName: color-brand-primary
-    backgroundImage: null
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/medium_f2380df9-f0ff-4eab-89d8-e78184815958_2048x2048-pdvyrubybj.jpg
     textColorDescription:
       type: value
       colorValue: '#000000'

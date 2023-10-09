@@ -17,7 +17,7 @@
   "title": "Author",
   "statuses": {
     "twig": "ready",
-    "react": "ready",
+    "react": "needs-updated",
     "design": "needs-design",
     "handlebars": "ready",
     "web-components": "ready"

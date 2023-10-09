@@ -1,0 +1,22 @@
+id: welcome-to-the-printify-design-system
+title: Welcome to the Printify Design System
+blockIds:
+  - 6-qXFUJ0eH
+  - tY2rt92bob
+  - oa-y7sAwqr
+  - j6lFMtQipq
+  - 0m76iAbMDZ
+  - 7Y7v_lnZJh
+settings:
+  pageHeader:
+    size: full
+    textColorTitle:
+      type: design-token
+      tokenName: color.base.green
+    backgroundImage: >-
+      https://knapsack.imgix.net/site/public-demo/black-coffee-or-espresso-in-a-white-coffee-mug-with-a-saucer-there-is-smoke-or-steam-rising-hot-coffee-on-white-table-as-it-reflects-and-black-background-3d-rendering-free-photo-ndom9ofwkf.jpeg
+    textColorDescription:
+      type: design-token
+      tokenName: color-brand-black
+      colorValue: '#000000'
+description: The collaborative design system

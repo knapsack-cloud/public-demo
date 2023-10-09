@@ -214,14 +214,14 @@ byId:
     name: Top Nav
     parentId: Complex
     path: /pattern/top-nav
-  welcome-to-knapsack:
-    id: welcome-to-knapsack
-    name: Welcome to Knapsack
+  welcome-to-the-printify-design-system:
+    id: welcome-to-the-printify-design-system
+    name: Welcome to the Printify Design System
     parentId: getting-started
-    path: /pages/welcome-to-knapsack
+    path: /pages/welcome-to-the-printify-design-system
 order:
   - getting-started
-  - welcome-to-knapsack
+  - welcome-to-the-printify-design-system
   - guidance
   - knapsack's-publishing-workflow
   - adding-design-tokens

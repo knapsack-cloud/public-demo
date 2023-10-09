@@ -7,7 +7,7 @@ settings:
       type: design-token
       tokenName: color-brand-primary
       colorValue: '#000000'
-    backgroundImage: https://knapsack.imgix.net/site/public-demo/sincerely-media-dgqf1dukutm-unsplash-dvgozcedlb.jpg
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/knowledgebasesoftware-5-wgdzxwcf77.jpg
     textColorDescription:
       type: value
       colorValue: '#000000'
