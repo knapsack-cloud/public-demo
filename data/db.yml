@@ -5721,13 +5721,13 @@ demos:
     2ysfvm4ShE:
       data:
         props:
-          mode: info
-          size: medium
-          type: solid
+          mode: warning
+          size: large
+          type: outline
           url: '#url'
         slots:
           children:
-            - text: Button
+            - text: Best Button
               type: text
       height: 65
       id: 2ysfvm4ShE
@@ -5870,6 +5870,22 @@ demos:
       patternId: author
       templateId: web-components
       title: Main
+      type: data
+    O2bKs8D1P8:
+      data:
+        props:
+          mode: success
+          size: large
+          type: solid
+        slots:
+          children:
+            - text: New Button
+              type: text
+      description: A description
+      id: O2bKs8D1P8
+      patternId: button
+      templateId: react
+      title: New Variation
       type: data
     RN96ZpJJpY:
       data:
@@ -6060,6 +6076,10 @@ demos:
               patternId: hero
               templateId: react
               type: template-demo
+            - demoId: aMFkBNIHU2
+              patternId: layout
+              templateId: react
+              type: template-demo
             - demoId: eY-_KWUog4
               patternId: layout
               templateId: react
@@ -6134,7 +6154,9 @@ demos:
       type: template
   settings: {}
 settings:
-  logoUrl: https://knapsack.imgix.net/site/public-demo/knapsack-logomark-primary@3x-c3fjqx5ll_.png
+  favicon: https://knapsack.imgix.net/site/public-demo/download-(1)-drn2bbff9z.png
+  hideTitleInNavigation: false
+  logoUrl: https://knapsack.imgix.net/site/public-demo/download-(1)-6rcgljaqxd.png
   theme:
     appearance:
       customFonts:
@@ -6155,56 +6177,77 @@ settings:
       navigation:
         primaryNav:
           accentColor:
-            tokenName: color.brand.primary
+            tokenName: color.base.green
             type: design-token
           backgroundColor:
-            tokenName: color.brand.black
+            tokenName: color.brand.white
             type: design-token
-          fontFamily: Inter
+          fontFamily: Nunito
           fontWeight: 800
           hoverColor:
-            tokenName: color.brand.secondary
+            tokenName: color.base.green
             type: design-token
-          lineHeight: ''
           textColor:
-            tokenName: color.text.inverse
+            tokenName: color.brand.black
             type: design-token
+          textTransform: inherit
         secondaryNav:
           accentColor:
-            tokenName: color-brand-secondary
+            tokenName: color.base.green
             type: design-token
-          fontFamily: Inter
+          backgroundColor:
+            tokenName: color.brand.white
+            type: design-token
+          fontFamily: Nunito
           fontWeight: 500
+          textColor:
+            tokenName: color.brand.black
+            type: design-token
+          textTransform: inherit
         tabs:
-          fontFamily: Inter
+          accentColor:
+            tokenName: color.base.green
+            type: design-token
+          fontFamily: Nunito
+          textColor:
+            tokenName: color.brand.black
+            type: design-token
+          textTransform: inherit
       pageElements:
-        bodyText: {}
+        bodyText:
+          fontFamily: Nunito
+          textTransform: inherit
         headingLarge:
-          fontFamily: Inter
+          fontFamily: Nunito
           fontWeight: 400
+          textTransform: inherit
         headingMedium:
           fontFamily: Nunito
           textTransform: inherit
         headingSmall:
-          fontFamily: Inter
+          fontFamily: Nunito
+          textTransform: inherit
         headingXLarge:
           fontFamily: Nunito
           fontWeight: 600
           textTransform: inherit
         headingXSmall:
-          fontFamily: Inter
+          fontFamily: Nunito
+          textTransform: inherit
         link:
           fontWeight: 600
           textColor:
-            tokenName: color-text-link
+            tokenName: color.brand.secondary
             type: design-token
+          textTransform: inherit
           underline: true
         pageDescription:
-          fontFamily: Inter
+          fontFamily: Nunito
           fontWeight: 400
+          textTransform: inherit
         pageTitle:
           fontFamily: Nunito
           fontWeight: 800
           textTransform: inherit
     version: 10
-  title: Public Demo
+  title: Printify Design System

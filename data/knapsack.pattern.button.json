@@ -58,7 +58,7 @@
           }
         }
       },
-      "demoIds": ["2ysfvm4ShE", "2CXfLJgtaC"],
+      "demoIds": ["2ysfvm4ShE", "2CXfLJgtaC", "O2bKs8D1P8"],
       "blockIds": []
     }
   ],
@@ -118,9 +118,9 @@
   ],
   "statuses": {
     "design": "ready",
-    "react": "ready",
+    "react": "needs-updated",
     "twig": "ready",
     "handlebars": "ready",
-    "web-components": "needs-dev"
+    "web-components": "needs-updated"
   }
 }
