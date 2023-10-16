@@ -35,7 +35,7 @@
       },
       "blue": {
         "$type": "color",
-        "$value": "#1d9ac2"
+        "$value": "{color.base.orchid}"
       },
       "green": {
         "$type": "color",
