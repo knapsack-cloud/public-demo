@@ -118,9 +118,9 @@
   ],
   "statuses": {
     "design": "ready",
-    "react": "ready",
+    "react": "needs-updated",
     "twig": "ready",
     "handlebars": "ready",
-    "web-components": "needs-dev"
+    "web-components": "needs-updated"
   }
 }
