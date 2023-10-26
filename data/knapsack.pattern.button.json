@@ -41,12 +41,6 @@
               "enum": ["small", "medium", "large"],
               "type": "string",
               "title": "Size"
-            },
-            "type": {
-              "enum": ["solid", "outline"],
-              "type": "string",
-              "title": "Button Type",
-              "default": "solid"
             }
           },
           "description": ""

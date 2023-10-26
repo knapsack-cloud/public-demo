@@ -1086,12 +1086,12 @@ blocks:
       blockType: design-token-block
       data:
         demo:
-          id: color-swatch
+          id: text-color
         tokens:
-          category: color
+          category: ''
           name: ''
-          tags:
-            - base
+          tags: []
+          type: color
       id: 7-9Z3dxHft
     7-_Pn7r-MG:
       blockType: text-editor
@@ -1400,6 +1400,8 @@ blocks:
               type: paragraph
           type: doc
       id: 836ZvCc7ev
+      size: small
+      spacing: small
     87U-rc0g9a:
       blockType: text-editor
       data:
@@ -3785,6 +3787,24 @@ blocks:
           type: doc
       id: gh8d7YnVNh
       size: medium
+    gu1kxhAXgy:
+      blockType: pattern-template-block
+      data:
+        allowResizing: false
+        demoId: gsI4PO5HfP
+        demoSize: landscape
+        hideControls: false
+        patternId: author
+        playgroundUi:
+          allowResizing: false
+          demoSize: landscape
+          showCodeSnippet: false
+          showSchemaForm: false
+        showCodeSnippet: false
+        showSchemaForm: false
+        templateId: react
+      id: gu1kxhAXgy
+      size: small
     h5pUADysUw:
       blockType: divider-block
       id: h5pUADysUw
@@ -5459,6 +5479,7 @@ blocks:
               type: paragraph
           type: doc
       id: y7e0x_KAMN
+      size: small
     y9KZVrKgpx:
       blockType: text-editor
       data:
@@ -5721,13 +5742,13 @@ demos:
     2ysfvm4ShE:
       data:
         props:
-          mode: info
-          size: medium
+          mode: danger
+          size: large
           type: solid
           url: '#url'
         slots:
           children:
-            - text: Button
+            - text: Best Button
               type: text
       height: 65
       id: 2ysfvm4ShE
