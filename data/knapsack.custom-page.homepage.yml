@@ -1,19 +1,17 @@
 id: homepage
-title: Welcome to Knapsack
-settings:
-  pageHeader:
-    size: full
-    textColorTitle:
-      type: design-token
-      tokenName: color-brand-primary
-      colorValue: '#FFFFFF'
-    backgroundImage: https://knapsack.imgix.net/site/public-demo/clark-van-der-beken-596baa0mpym-unsplash-o5drv55uvq.jpg
-    textColorDescription:
-      type: design-token
-      tokenName: color-Meh-black
-      colorValue: '#FFFFFF'
+title: WELCOME TO THE ALLEGION DESIGN SYSTEM
 description: |-
   A shared platform for product teams to collaborate
   on documenting, designing, building, testing, and shipping
   their digital products.
 blockIds: []
+settings:
+  pageHeader:
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/allegion-n3kzw6wqqo.webp
+    backgroundSize: contain
+    backgroundPosition: right
+    size: full
+    textColorDescription:
+      type: design-token
+      tokenName: color.base.orange
+    backgroundOverlay: false

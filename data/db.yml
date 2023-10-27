@@ -506,6 +506,22 @@ blocks:
               type: heading
           type: doc
       id: 2RIhkctxWB
+    2bWF6IWUzx:
+      blockType: pattern-template-block
+      data:
+        demoId: 2ysfvm4ShE
+        demoSize: landscape
+        hideControls: false
+        patternId: button
+        playgroundUi:
+          demoSize: landscape
+          showCodeSnippet: false
+          showSchemaForm: false
+        showCodeSnippet: false
+        showSchemaForm: false
+        templateId: react
+      id: 2bWF6IWUzx
+      size: medium
     2c9-R7CZYc:
       blockType: design-token-block
       data:
@@ -808,6 +824,24 @@ blocks:
         height: '800'
         url: https://www.figma.com/file/uXroEUE22VtrT6CiF3zQqS/tailwind-ui-figma-kit-2021-03-26?node-id=752%3A32
       id: 5IKy6auf0k
+    5PdQIAIpVs:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 1
+              content:
+                - text: The text is over here!
+                  type: text
+              type: heading
+            - content:
+                - text: The button is over there...
+                  type: text
+              type: paragraph
+          type: doc
+      id: 5PdQIAIpVs
+      size: medium
     5RQruglYiX:
       blockType: text-editor
       data:
@@ -1501,6 +1535,32 @@ blocks:
         height: '700'
         url: https://www.figma.com/file/uXroEUE22VtrT6CiF3zQqS/tailwind-ui-figma-kit-2021-03-26?node-id=699%3A19588
       id: 9bVy_rzlTP
+    9vv7vmskj_:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 2
+              content:
+                - text: Code Blocks
+                  type: text
+              type: heading
+            - attrs:
+                language: null
+              content:
+                - text: |
+                    .ks-transition-demo--normal {
+                        background-color: var(--color-brand-primary);
+                        transition: background-color var(--transition-duration-normal) var(--transition-timing-default);
+                    }
+                    .ks-transition-demo--normal:hover {
+                        background-color: var(--color-brand-secondary);
+                    }
+                  type: text
+              type: codeBlock
+          type: doc
+      id: 9vv7vmskj_
     A2my1t53RY:
       blockType: divider-block
       id: A2my1t53RY
@@ -1846,6 +1906,135 @@ blocks:
               type: image
           type: doc
       id: ERHZS37CMD
+    EYsOH9edvR:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 2
+              content:
+                - text: Overview
+                  type: text
+              type: heading
+            - content:
+                - text: 'Using the '
+                  type: text
+                - marks:
+                    - type: bold
+                  text: Markdown
+                  type: text
+                - text: ' content block, users can create simple static documentation. Whether for documenting usage guidelines, defining processes, or providing access and reference to other resources, Markdown is a simple and flexible way to add your documentation to Knapsack.'
+                  type: text
+              type: paragraph
+            - content:
+                - text: 'If you''re not familiar with Markdown, '
+                  type: text
+                - marks:
+                    - attrs:
+                        class: null
+                        href: https://www.w3.org/community/markdown/wiki/Syntax
+                        target: _blank
+                      type: link
+                  text: check out the W3C guide to Markdown
+                  type: text
+                - text: ' to get started.'
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 4
+              content:
+                - text: 'Explore the different options for static content formatting below:'
+                  type: text
+              type: heading
+            - content:
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: '#basic-text-formatting'
+                                target: _blank
+                              type: link
+                          text: Basic text formatting
+                          type: text
+                        - text: ' (headers, bulleted List, etc.)'
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: '#in-line-images-and-gifs'
+                                target: _blank
+                              type: link
+                          text: In-line images and GIFs
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: '#multi-column-support'
+                                target: _blank
+                              type: link
+                          text: Multi-Column Support
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: '#code-blocks'
+                                target: _blank
+                              type: link
+                          text: Code blocks
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: '#horizontal-dividers'
+                                target: _blank
+                              type: link
+                          text: Horizontal dividers
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: '#tables'
+                                target: _blank
+                              type: link
+                          text: Tables
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: Links (anchor, relative and full) - like those above!
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+            - content:
+                - text: Use the below sections to browse examples of markdown content formatting.
+                  type: text
+              type: paragraph
+          type: doc
+      id: EYsOH9edvR
     FaBVdJC1P7:
       blockType: text-editor
       data:
@@ -2464,6 +2653,45 @@ blocks:
           type: doc
       id: MudWyP8_-E
       size: medium
+    N8veTXypD0:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - content:
+                - marks:
+                    - type: italic
+                  text: 'This section provides an overview of content formatting options in Knapsack. Visit the '
+                  type: text
+                - marks:
+                    - attrs:
+                        class: null
+                        href: ././Design-Tokens-lNWaUqkDSo
+                        target: _blank
+                      type: link
+                    - type: italic
+                  text: Design Tokens
+                  type: text
+                - marks:
+                    - type: italic
+                  text: ' and '
+                  type: text
+                - marks:
+                    - attrs:
+                        class: null
+                        href: ././Components-Overview
+                        target: _blank
+                      type: link
+                    - type: italic
+                  text: Components
+                  type: text
+                - marks:
+                    - type: italic
+                  text: ' sections for examples of asset docs.'
+                  type: text
+              type: paragraph
+          type: doc
+      id: N8veTXypD0
     NQNG4vxZ0M:
       blockType: text-editor
       data:
@@ -5650,6 +5878,19 @@ blocks:
               type: paragraph
           type: doc
       id: zlejPJh20Z
+    zzVnx-kdY0:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 2
+              content:
+                - text: Multi-Column Support
+                  type: text
+              type: heading
+          type: doc
+      id: zzVnx-kdY0
   settings:
     tokens:
       rootFontSize: 16px
@@ -5661,8 +5902,7 @@ demos:
           body: >-
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus,
             eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.
-          imgSrc: >-
-            https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+          imgSrc: https://www.allegion.com/content/dam/allegion-corp/migration/news/evergreen/Allegion%20logo.png
           label: Article
           title: Boost your conversion rate
         slots:
@@ -5721,7 +5961,7 @@ demos:
     2ysfvm4ShE:
       data:
         props:
-          mode: info
+          mode: warning
           size: medium
           type: solid
           url: '#url'
@@ -5878,7 +6118,7 @@ demos:
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus,
             eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.
           imgSrc: >-
-            https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+            https://www.allegion.com/content/dam/allegion-corp/migration/news/evergreen/Blue-laser.jpeg.thumb.319.319.png
           label: Article
           title: Boost your conversion rate now!
         slots:
@@ -6134,7 +6374,9 @@ demos:
       type: template
   settings: {}
 settings:
-  logoUrl: https://knapsack.imgix.net/site/public-demo/knapsack-logomark-primary@3x-c3fjqx5ll_.png
+  favicon: https://knapsack.imgix.net/site/public-demo/allegion-s0rot_ia3b.webp
+  hideTitleInNavigation: false
+  logoUrl: https://knapsack.imgix.net/site/public-demo/allegion-yaffocu8js.webp
   theme:
     appearance:
       customFonts:
@@ -6155,56 +6397,80 @@ settings:
       navigation:
         primaryNav:
           accentColor:
-            tokenName: color.brand.primary
+            tokenName: color.base.orange
             type: design-token
           backgroundColor:
-            tokenName: color.brand.black
+            tokenName: color.brand.white
             type: design-token
           fontFamily: Inter
           fontWeight: 800
           hoverColor:
-            tokenName: color.brand.secondary
+            tokenName: color.base.orange
             type: design-token
-          lineHeight: ''
           textColor:
-            tokenName: color.text.inverse
+            tokenName: color.brand.black
             type: design-token
+          textTransform: inherit
         secondaryNav:
           accentColor:
-            tokenName: color-brand-secondary
+            tokenName: color.base.orange
+            type: design-token
+          backgroundColor:
+            tokenName: color.brand.white
             type: design-token
           fontFamily: Inter
           fontWeight: 500
+          textColor:
+            tokenName: color.brand.black
+            type: design-token
+          textTransform: inherit
         tabs:
+          accentColor:
+            tokenName: color.base.orange
+            type: design-token
           fontFamily: Inter
+          textColor:
+            tokenName: color.brand.black
+            type: design-token
+          textTransform: capitalize
       pageElements:
-        bodyText: {}
+        bodyText:
+          fontFamily: Inter
+          textTransform: inherit
         headingLarge:
           fontFamily: Inter
           fontWeight: 400
         headingMedium:
-          fontFamily: Nunito
+          fontFamily: Inter
           textTransform: inherit
         headingSmall:
           fontFamily: Inter
         headingXLarge:
-          fontFamily: Nunito
+          fontFamily: Inter
           fontWeight: 600
+          textColor:
+            tokenName: color.brand.black
+            type: design-token
           textTransform: inherit
         headingXSmall:
           fontFamily: Inter
         link:
           fontWeight: 600
           textColor:
-            tokenName: color-text-link
+            tokenName: color.base.orange
             type: design-token
+          textTransform: inherit
           underline: true
         pageDescription:
           fontFamily: Inter
-          fontWeight: 400
+          fontWeight: 700
+          textTransform: inherit
         pageTitle:
-          fontFamily: Nunito
+          fontFamily: Inter
           fontWeight: 800
+          textColor:
+            tokenName: color.brand.black
+            type: design-token
           textTransform: inherit
     version: 10
-  title: Public Demo
+  title: ALLEGION DESIGN SYSTEM

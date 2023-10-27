@@ -1,17 +1,19 @@
 id: welcome-to-knapsack
-title: Welcome to Knapsack
+title: WELCOME TO ADS!
 settings:
   pageHeader:
     textColorTitle:
       type: design-token
-      tokenName: color-brand-primary
-      colorValue: '#6A4CEC'
-    backgroundImage: null
+      tokenName: color.brand.black
+    backgroundImage: >-
+      https://knapsack.imgix.net/site/public-demo/pngtree-bunch-of-keys-old-fashioned-picture-image_13157371-t1zmcvd6vp.png
     textColorDescription:
       type: design-token
-      tokenName: color-brand-black
-      colorValue: '#000000'
-    size: small
+      tokenName: color.light.orange
+    size: large
+    backgroundSize: contain
+    backgroundPosition: right
+    backgroundOverlay: true
 description: The collaborative design system
 blockIds:
   - 6-qXFUJ0eH

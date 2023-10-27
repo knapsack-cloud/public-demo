@@ -21,12 +21,12 @@ byId:
     path: /pages/Components
   Components-Overview:
     id: Components-Overview
-    name: Components Overview
+    name: COMPONENTS OVERVIEW
     parentId: Components-aPh3G1bbrX
     path: /pages/Components-Overview
   Components-aPh3G1bbrX:
     id: Components-aPh3G1bbrX
-    name: Components
+    name: COMPONENTS
     parentId: root
     path: ''
   Design-Files:
@@ -46,12 +46,12 @@ byId:
     path: /pages/Design-Tokens
   Design-Tokens-lNWaUqkDSo:
     id: Design-Tokens-lNWaUqkDSo
-    name: Design Tokens
+    name: DESIGN TOKENS
     parentId: root
     path: /pages/Design-Tokens-lNWaUqkDSo
   Documentation:
     id: Documentation
-    name: Documentation
+    name: DOCUMENTATON
     parentId: root
     path: /pages/Documentation
   Embeds:
@@ -71,12 +71,12 @@ byId:
     path: ''
   Page-Level-Prototyping:
     id: Page-Level-Prototyping
-    name: Page-Level Prototyping
+    name: PAGE-LEVEL PROTOTYPING
     parentId: Prototyping
     path: /pages/Page-Level-Prototyping
   Prototyping:
     id: Prototyping
-    name: Prototyping
+    name: PROTOTYPING
     parentId: root
     path: ''
   Shadow:
@@ -161,7 +161,7 @@ byId:
     path: /pattern/footer
   getting-started:
     id: getting-started
-    name: Getting Started
+    name: GETTING STARTED
     parentId: root
     path: ''
   guidance:
@@ -216,7 +216,7 @@ byId:
     path: /pattern/top-nav
   welcome-to-knapsack:
     id: welcome-to-knapsack
-    name: Welcome to Knapsack
+    name: WELCOME TO ADS!
     parentId: getting-started
     path: /pages/welcome-to-knapsack
 order:
