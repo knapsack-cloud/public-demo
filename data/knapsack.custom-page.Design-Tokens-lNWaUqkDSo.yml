@@ -11,9 +11,9 @@ settings:
     textColorDescription:
       type: value
       colorValue: '#000000'
+  hideTableOfContents: true
 description: Building blocks of your digital brand
 blockIds:
   - RX3sN_L-4o
-  - V0Jm0DWi9c
   - R2rGt24igX
-  - _f4PbvkrLK
+  - gj39O-amnh

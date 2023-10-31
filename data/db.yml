@@ -4,10 +4,11 @@ blocks:
       blockType: pattern-variations
       data:
         demoId: 2ysfvm4ShE
+        hideBlockTitle: false
         patternId: button
         size: s
         templateId: react
-        variationId: mode
+        variationId: size
       id: '-plYGPDwcr'
     '-r73qPCQoZ':
       blockType: text-editor
@@ -716,6 +717,72 @@ blocks:
           type: doc
       id: 47VollR_2X
       size: medium
+    4KYi9QhxHN:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 2
+              content:
+                - text: Mission statement
+                  type: text
+              type: heading
+            - content:
+                - text: >-
+                    Knapsack's content programs reflect Knapsack's mission: to help teams build better digital products
+                    faster. Knapsack believes that improving collaboration, empowering individual contributors,
+                    encouraging independent work, and reducing "oops, I did it again" will let teams build
+                    higher-quality products faster.
+                  type: text
+              type: paragraph
+            - content:
+                - text: >-
+                    The folks at Knapsack are experienced digital product builders and we know that the
+                    design-development process is a minefield of jargon, miscommunications, and inefficiencies. Our job
+                    is to make sure the language we use in our content and product reflects the simplicity we're trying
+                    to create for our users.
+                  type: text
+              type: paragraph
+            - content:
+                - text: 'Knapsack''s content creation and distribution goals are:'
+                  type: text
+              type: paragraph
+            - content:
+                - content:
+                    - content:
+                        - marks:
+                            - type: bold
+                          text: Help people build and develop their careers
+                          type: text
+                        - text: ' by learning how to work and collaborate better.'
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - type: bold
+                          text: Engender brand loyalty
+                          type: text
+                        - text: ' by providing product- and industry-related content that brings actual value to consumers.'
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - type: bold
+                          text: Create and define a category
+                          type: text
+                        - text: ' so we can own the pattern-based design and thinking space, while still actively participating in the design system community.'
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+          type: doc
+      id: 4KYi9QhxHN
+      size: null
     4gpsIFEONx:
       blockType: text-editor
       data:
@@ -741,6 +808,84 @@ blocks:
               type: paragraph
           type: doc
       id: 4gpsIFEONx
+    5Glgj2iI19:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 2
+              content:
+                - marks:
+                    - type: bold
+                  text: What are Brand Colors
+                  type: text
+              type: heading
+            - content:
+                - text: >-
+                    “Brand colors” are a key component to a brand’s visual identity. Typically, there are 3-8 designated
+                    colors that create a color palette complimentary to the brand’s personality and style.
+                  type: text
+              type: paragraph
+            - content:
+                - text: 'There are two different types of brand colors: primary brand colors and secondary brand colors.'
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 3
+              content:
+                - marks:
+                    - type: bold
+                  text: Primary Brand Colors
+                  type: text
+              type: heading
+            - content:
+                - text: >-
+                    Primary brand colors are the main, consistent colors used in all graphics, publications, signage,
+                    etc. Primary brand color rarely change because they are central to the brand’s visual identity.
+                  type: text
+              type: paragraph
+            - content:
+                - text: >-
+                    The primary brand color can be tightly associated with the logo. A great example of this is
+                    Coca-Cola. When I say Coke-Cola what color came to mind?
+                  type: text
+              type: paragraph
+            - content:
+                - text: >-
+                    Chances are, you thought of red. Red is the primary brand color for the Coca-Cola Company and is use
+                    consistently and frequently in all marketing.
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 3
+              content:
+                - marks:
+                    - type: bold
+                  text: Secondary Brand Colors
+                  type: text
+              type: heading
+            - content:
+                - text: >-
+                    Secondary brand colors act as a complimentary color pallet to the primary brand colors. These colors
+                    are updated more frequently and often change to reflect strategy trends and marketing goals.
+                  type: text
+              type: paragraph
+            - content:
+                - text: >-
+                    For example, if you want to target younger clients, then you may adjust your secondary color palette
+                    to reflect current color trends that appeal to a younger demographic.
+                  type: text
+              type: paragraph
+            - content:
+                - text: >-
+                    The secondary brand colors can be used throughout your brand’s website, social media, and packaging,
+                    but should not consist of more than 50% of the overall design.
+                  type: text
+              type: paragraph
+          type: doc
+      id: 5Glgj2iI19
+      size: large
     5HTGtGc_jn:
       blockType: text-editor
       data:
@@ -804,10 +949,12 @@ blocks:
     5IKy6auf0k:
       blockType: figma-block
       data:
-        clickToInteract: false
-        height: '800'
-        url: https://www.figma.com/file/uXroEUE22VtrT6CiF3zQqS/tailwind-ui-figma-kit-2021-03-26?node-id=752%3A32
+        clickToInteract: true
+        height: '600'
+        url: >-
+          https://www.figma.com/file/heKu7HqdbjHV9pQoRrd0mx/HQY-UI-Component-library?type=design&node-id=1%3A136&mode=design&t=VqLM1AVYMDhao76p-1
       id: 5IKy6auf0k
+      size: null
     5RQruglYiX:
       blockType: text-editor
       data:
@@ -1082,6 +1229,15 @@ blocks:
               type: paragraph
           type: doc
       id: 6eHTQ_DA5d
+    6uYxxGNiZY:
+      blockType: design-tokens
+      data:
+        demoId: table-list
+        groupIds:
+          - shadow.text
+        tokenType: string
+      id: 6uYxxGNiZY
+      size: null
     7-9Z3dxHft:
       blockType: design-token-block
       data:
@@ -1533,6 +1689,15 @@ blocks:
           type: doc
       id: BEXQmvutV0
       size: medium
+    BSkgEtqWiv:
+      blockType: files-list
+      data:
+        files:
+          - a7c687a2-4be2-4300-97ba-6635baaaedda
+          - 731674a9-5f52-4e36-89c1-0896b139920d
+          - bb8b725c-d944-4dab-b9c7-aa7fc0a1dad4
+      id: BSkgEtqWiv
+      size: null
     BUFKAm-2a4:
       blockType: text-editor
       data:
@@ -1546,6 +1711,15 @@ blocks:
               type: heading
           type: doc
       id: BUFKAm-2a4
+    BibrqEsUdt:
+      blockType: design-tokens
+      data:
+        demoId: color-swatch
+        groupIds:
+          - color.brand
+        tokenType: ''
+      id: BibrqEsUdt
+      size: small
     CP2xFIJwTx:
       blockType: divider-block
       id: CP2xFIJwTx
@@ -2542,16 +2716,6 @@ blocks:
           type: doc
       id: OTAnrkBzAT
       size: medium
-    P333IwDxP7:
-      blockType: design-token-block
-      data:
-        demo:
-          id: table-list
-        tokens:
-          category: transition
-          name: ''
-          tags: []
-      id: P333IwDxP7
     PB83Qahdru:
       blockType: text-editor
       data:
@@ -2724,6 +2888,15 @@ blocks:
               type: bulletList
           type: doc
       id: QuqCPgR26m
+    R-T9sgGBEB:
+      blockType: design-tokens
+      data:
+        demoId: box-shadow
+        groupIds:
+          - transition
+        tokenType: string
+      id: R-T9sgGBEB
+      size: null
     R2rGt24igX:
       blockType: text-editor
       data:
@@ -2732,7 +2905,7 @@ blocks:
             - attrs:
                 level: 2
               content:
-                - text: All Design Tokens
+                - text: All Color Tokens
                   type: text
               type: heading
           type: doc
@@ -2863,81 +3036,6 @@ blocks:
     UucuGVABD1:
       blockType: divider-block
       id: UucuGVABD1
-    V0Jm0DWi9c:
-      blockType: text-editor
-      data:
-        content:
-          content:
-            - attrs:
-                level: 2
-              content:
-                - text: Tokens by Category
-                  type: text
-              type: heading
-            - content:
-                - content:
-                    - content:
-                        - marks:
-                            - attrs:
-                                class: null
-                                href: ./colors
-                                target: _blank
-                              type: link
-                          text: Colors
-                          type: text
-                      type: paragraph
-                  type: listItem
-                - content:
-                    - content:
-                        - marks:
-                            - attrs:
-                                class: null
-                                href: ./Breakpoints
-                                target: _blank
-                              type: link
-                          text: Breakpoints
-                          type: text
-                      type: paragraph
-                  type: listItem
-                - content:
-                    - content:
-                        - marks:
-                            - attrs:
-                                class: null
-                                href: ./spacing
-                                target: _blank
-                              type: link
-                          text: Spacing
-                          type: text
-                      type: paragraph
-                  type: listItem
-                - content:
-                    - content:
-                        - marks:
-                            - attrs:
-                                class: null
-                                href: ./Shadow
-                                target: _blank
-                              type: link
-                          text: Shadow
-                          type: text
-                      type: paragraph
-                  type: listItem
-                - content:
-                    - content:
-                        - marks:
-                            - attrs:
-                                class: null
-                                href: ./Animation
-                                target: _blank
-                              type: link
-                          text: Animation
-                          type: text
-                      type: paragraph
-                  type: listItem
-              type: bulletList
-          type: doc
-      id: V0Jm0DWi9c
     W3DCGlaM2N:
       blockType: text-editor
       data:
@@ -3158,16 +3256,6 @@ blocks:
               type: heading
           type: doc
       id: ZlCcg9r5Lk
-    _f4PbvkrLK:
-      blockType: design-token-block
-      data:
-        demo:
-          id: table-list
-        tokens:
-          category: ''
-          name: ''
-          tags: []
-      id: _f4PbvkrLK
     _quWnLXCar:
       blockType: figma-block
       data:
@@ -3785,6 +3873,15 @@ blocks:
           type: doc
       id: gh8d7YnVNh
       size: medium
+    gj39O-amnh:
+      blockType: design-tokens
+      data:
+        demoId: color-swatch
+        groupIds: []
+        tokenType: color
+      id: gj39O-amnh
+      size: null
+      spacing: small
     h5pUADysUw:
       blockType: divider-block
       id: h5pUADysUw
@@ -5094,6 +5191,15 @@ blocks:
         templateId: react
         variationId: mode
       id: udJZJ73YSH
+    uhXLw8ggc0:
+      blockType: figma-block
+      data:
+        clickToInteract: false
+        height: '480'
+        url: >-
+          https://www.figma.com/file/heKu7HqdbjHV9pQoRrd0mx/HQY-UI-Component-library?type=design&node-id=0%3A1&mode=design&t=VqLM1AVYMDhao76p-1
+      id: uhXLw8ggc0
+      size: null
     uhsXkgwka1:
       blockType: text-editor
       data:
@@ -5136,11 +5242,13 @@ blocks:
     vFalbAV-gx:
       blockType: pattern-template-block
       data:
+        allowResizing: false
         demoId: 2ysfvm4ShE
         demoSize: landscape
         hideControls: false
         patternId: button
         playgroundUi:
+          allowResizing: false
           demoSize: landscape
           showCodeSnippet: false
           showSchemaForm: false
@@ -5705,7 +5813,7 @@ demos:
     2CXfLJgtaC:
       data:
         props:
-          mode: special
+          mode: info
           size: medium
           type: outline
           url: '#url'
@@ -6064,6 +6172,10 @@ demos:
               patternId: layout
               templateId: react
               type: template-demo
+            - demoId: gsI4PO5HfP
+              patternId: author
+              templateId: react
+              type: template-demo
             - demoId: DRuV9pseUR
               patternId: footer
               templateId: react
@@ -6134,7 +6246,9 @@ demos:
       type: template
   settings: {}
 settings:
-  logoUrl: https://knapsack.imgix.net/site/public-demo/knapsack-logomark-primary@3x-c3fjqx5ll_.png
+  favicon: https://knapsack.imgix.net/site/public-demo/hq-logo-p31aoaow3q.png
+  hideTitleInNavigation: true
+  logoUrl: https://knapsack.imgix.net/site/public-demo/hqy_big.d-(2)-uh0q_ghezt.png
   theme:
     appearance:
       customFonts:
@@ -6155,20 +6269,20 @@ settings:
       navigation:
         primaryNav:
           accentColor:
-            tokenName: color.brand.primary
+            tokenName: color.brand.tertiary
             type: design-token
           backgroundColor:
-            tokenName: color.brand.black
+            tokenName: color.brand.primary
             type: design-token
           fontFamily: Inter
           fontWeight: 800
           hoverColor:
             tokenName: color.brand.secondary
             type: design-token
-          lineHeight: ''
           textColor:
             tokenName: color.text.inverse
             type: design-token
+          textTransform: inherit
         secondaryNav:
           accentColor:
             tokenName: color-brand-secondary
@@ -6207,4 +6321,4 @@ settings:
           fontWeight: 800
           textTransform: inherit
     version: 10
-  title: Public Demo
+  title: 'HealthEquity DS '

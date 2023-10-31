@@ -1,31 +1,37 @@
 {
-  "color": {
-    "base": {
-      "red": {
-        "$type": "color",
-        "$value": "#ef5151"
-      },
-      "blue": {
-        "$type": "color",
-        "$value": "#207FF9"
-      },
-      "green": {
-        "$type": "color",
-        "$value": "#3ccf91"
-      },
-      "orange": {
-        "$type": "color",
-        "$value": "#ff924f"
-      },
-      "orchid": {
-        "$type": "color",
-        "$value": "#aa1baf"
-      },
-      "yellow": {
-        "$type": "color",
-        "$value": "#FCD02A"
+  "bold": {
+    "$type": "fontWeight",
+    "$value": "Bold"
+  },
+  "test": {
+    "color": {
+      "base": {
+        "healthequity": {
+          "Spruce": {
+            "$type": "color",
+            "$value": "#006c7d"
+          },
+          "Tyrian": {
+            "$type": "color",
+            "$value": "#3a1d56"
+          },
+          "Cerulean": {
+            "$type": "color",
+            "$value": "#0d3047"
+          },
+          "Lavender": {
+            "$type": "color",
+            "$value": "#c095e8"
+          },
+          "HQY Purple": {
+            "$type": "color",
+            "$value": "#592c82"
+          }
+        }
       }
-    },
+    }
+  },
+  "color": {
     "dark": {
       "red": {
         "$type": "color",
@@ -52,6 +58,28 @@
         "$value": "#e6b400"
       }
     },
+    "reds": {
+      "red": {
+        "$type": "color",
+        "$value": "#d80443"
+      },
+      "pink": {
+        "$type": "color",
+        "$value": "#f7d5df"
+      },
+      "ruby": {
+        "$type": "color",
+        "$value": "#ff3370"
+      },
+      "fairy": {
+        "$type": "color",
+        "$value": "#fff5f8"
+      },
+      "carmine": {
+        "$type": "color",
+        "$value": "#3d0b1a"
+      }
+    },
     "text": {
       "link": {
         "$type": "color",
@@ -66,6 +94,28 @@
         "$value": "#f9f9f9"
       }
     },
+    "blues": {
+      "ice": {
+        "$type": "color",
+        "$value": "#f2f7fb"
+      },
+      "blue": {
+        "$type": "color",
+        "$value": "#0070b9"
+      },
+      "capri": {
+        "$type": "color",
+        "$value": "#2fa2ed"
+      },
+      "powder": {
+        "$type": "color",
+        "$value": "#d4e5f0"
+      },
+      "cerulean": {
+        "$type": "color",
+        "$value": "#0d3047"
+      }
+    },
     "brand": {
       "black": {
         "$type": "color",
@@ -77,7 +127,7 @@
       },
       "primary": {
         "$type": "color",
-        "$value": "#6436BF"
+        "$value": "{color.purple.hqy purple}"
       },
       "tertiary": {
         "$type": "color",
@@ -85,7 +135,7 @@
       },
       "secondary": {
         "$type": "color",
-        "$value": "#E43A5C"
+        "$value": "{color.reds.ruby}"
       }
     },
     "light": {
@@ -135,7 +185,33 @@
         "$type": "color",
         "$value": "#525A62"
       }
+    },
+    "purple": {
+      "tyrian": {
+        "$type": "color",
+        "$value": "#3a1d56"
+      },
+      "violet": {
+        "$type": "color",
+        "$value": "#8959b5"
+      },
+      "thistle": {
+        "$type": "color",
+        "$value": "#e7e0ed"
+      },
+      "lavendar": {
+        "$type": "color",
+        "$value": "#c096e8"
+      },
+      "hqy purple": {
+        "$type": "color",
+        "$value": "#592c82"
+      }
     }
+  },
+  "medium": {
+    "$type": "fontWeight",
+    "$value": "Medium"
   },
   "shadow": {
     "box": {
@@ -154,6 +230,10 @@
         "$value": "0 1px 2px rgba(0,0,0,0.5)"
       }
     }
+  },
+  "Regular": {
+    "$type": "fontWeight",
+    "$value": "Regular"
   },
   "content": {
     "legalese": {
@@ -191,6 +271,10 @@
       "$type": "dimension",
       "$value": "2px"
     }
+  },
+  "semiBold": {
+    "$type": "fontWeight",
+    "$value": "Semi Bold"
   },
   "font-size": {
     "lg": {
@@ -244,7 +328,8 @@
     "base": {
       "$type": "dimension",
       "$value": "1rem"
-    }
+    },
+    "$type": "boolean"
   },
   "breakpoint": {
     "media": {
@@ -324,5 +409,57 @@
         "$value": "150ms"
       }
     }
+  },
+  "primaryFont": {
+    "$type": "string",
+    "$value": "Inter"
+  },
+  "fontSizeLarge": {
+    "$type": "dimension",
+    "$value": "24px"
+  },
+  "fontSizeSmall": {
+    "$type": "dimension",
+    "$value": "14px"
+  },
+  "fontSizeMedium": {
+    "$type": "dimension",
+    "$value": "20px"
+  },
+  "fontSizeXlarge": {
+    "$type": "dimension",
+    "$value": "28px"
+  },
+  "lineHeightLarge": {
+    "$type": "dimension",
+    "$value": "30px"
+  },
+  "lineHeightSmall": {
+    "$type": "dimension",
+    "$value": "20px"
+  },
+  "lineHeightMedium": {
+    "$type": "dimension",
+    "$value": "25px"
+  },
+  "lineHeightXlarge": {
+    "$type": "dimension",
+    "$value": "35px"
+  },
+  "letterSpacingLarge": {
+    "$type": "dimension",
+    "$value": "-1%"
+  },
+  "letterSpacingSmall": {
+    "$type": "dimension",
+    "$value": "2%"
+  },
+  "letterSpacingMedium": {
+    "$type": "dimension",
+    "$value": "1%"
+  },
+  "letterSpacingXlarge": {
+    "$type": "dimension",
+    "$value": "-2%"
   }
 }

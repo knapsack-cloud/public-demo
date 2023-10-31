@@ -64,8 +64,8 @@
   ],
   "subPages": [
     {
-      "title": "Usage",
       "id": "Overview",
+      "title": "Usage",
       "blockIds": [
         "YkyHkvdzp_",
         "vFalbAV-gx",
@@ -79,41 +79,41 @@
       ]
     },
     {
-      "title": "Accessibility",
       "id": "Accessibility",
+      "title": "Accessibility",
       "blockIds": ["nFepVH2iK2", "9SdC5V2SSU", "KILApugMxg"]
     },
     {
-      "title": "Figma",
       "id": "Figma",
+      "title": "Figma",
       "blockIds": ["5IKy6auf0k", "_quWnLXCar"]
     },
     {
-      "title": "Legacy Storybook",
       "id": "Legacy",
+      "title": "Legacy Storybook",
       "blockIds": ["4gpsIFEONx", "0tYaqASlzs"]
     }
   ],
   "tabs": [
     {
-      "type": "subPage",
-      "id": "Overview"
+      "id": "Overview",
+      "type": "subPage"
     },
     {
-      "type": "subPage",
-      "id": "Accessibility"
+      "id": "Accessibility",
+      "type": "subPage"
     },
     {
-      "type": "subPage",
-      "id": "Figma"
+      "id": "Figma",
+      "type": "subPage"
     },
     {
-      "type": "template",
-      "id": "react"
+      "id": "react",
+      "type": "template"
     },
     {
-      "type": "subPage",
-      "id": "Legacy"
+      "id": "Legacy",
+      "type": "subPage"
     }
   ],
   "statuses": {

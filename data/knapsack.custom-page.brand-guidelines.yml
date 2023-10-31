@@ -1,0 +1,15 @@
+id: brand-guidelines
+title: Brand Guidelines
+blockIds:
+  - 4KYi9QhxHN
+settings:
+  pageHeader:
+    backgroundColor:
+      type: design-token
+      tokenName: color.brand.primary
+    textColorTitle:
+      type: design-token
+      tokenName: color.brand.white
+    textColorDescription:
+      type: design-token
+      tokenName: color.brand.white

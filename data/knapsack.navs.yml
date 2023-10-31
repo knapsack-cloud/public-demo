@@ -114,6 +114,12 @@ byId:
     name: Adding Documentation
     parentId: guidance
     path: /pages/adding-documentation
+  admin:
+    hidden: true
+    id: admin
+    name: Admin
+    parentId: root
+    path: /pages/admin
   author:
     id: author
     name: Author
@@ -129,6 +135,16 @@ byId:
     name: Brand Colors
     parentId: colors
     path: /pages/brand-colors
+  brand-colors-zl7zndzjsp:
+    id: brand-colors-zl7zndzjsp
+    name: Brand Colors
+    parentId: Documentation
+    path: /pages/brand-colors-zl7zndzjsp
+  brand-guidelines:
+    id: brand-guidelines
+    name: Brand Guidelines
+    parentId: Documentation
+    path: /pages/brand-guidelines
   button:
     id: button
     name: Button
@@ -229,6 +245,8 @@ order:
   - connecting-coded-components
   - customizing-the-workspace
   - Documentation
+  - brand-guidelines
+  - brand-colors-zl7zndzjsp
   - Design-System
   - Static-Content
   - Design-Tokens
@@ -264,3 +282,4 @@ order:
   - Page-Level-Prototyping
   - Page-Builders
   - one-pager
+  - admin

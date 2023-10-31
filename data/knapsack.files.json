@@ -1,3 +1,25 @@
 {
-  "files": {}
+  "files": {
+    "a7c687a2-4be2-4300-97ba-6635baaaedda": {
+      "id": "a7c687a2-4be2-4300-97ba-6635baaaedda",
+      "url": "https://knapsack.imgix.net/site/public-demo/hq-logo-gw_jmkucm_.png",
+      "size": "3 KB",
+      "title": "HQ-logo.png",
+      "mimetype": "image/png"
+    },
+    "731674a9-5f52-4e36-89c1-0896b139920d": {
+      "id": "731674a9-5f52-4e36-89c1-0896b139920d",
+      "url": "https://knapsack.imgix.net/site/public-demo/purple-bg-logo-5nhl2fijbk.svg",
+      "size": "5.1 KB",
+      "title": "purple-bg-logo.svg",
+      "mimetype": "image/svg+xml"
+    },
+    "bb8b725c-d944-4dab-b9c7-aa7fc0a1dad4": {
+      "id": "bb8b725c-d944-4dab-b9c7-aa7fc0a1dad4",
+      "url": "https://knapsack.imgix.net/site/public-demo/hq-logo-transparent-lsijwgg052.png",
+      "size": "851 Bytes",
+      "title": "HQ-logo-transparent.png",
+      "mimetype": "image/png"
+    }
+  }
 }
