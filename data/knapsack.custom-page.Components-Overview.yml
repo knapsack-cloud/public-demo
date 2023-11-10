@@ -4,17 +4,18 @@ settings:
   pageHeader:
     size: auto
     textColorTitle:
-      type: design-token
-      colorValue: '#FFFFFF'
-      tokenName: color-brand-primary
+      type: value
+      colorValue: '#ff914f'
     backgroundImage: null
     textColorDescription:
       type: design-token
       colorValue: '#FFFFFF'
       tokenName: color-brand-black
+  hideTableOfContents: true
 description: Browse all available components and understand current status
 blockIds:
   - MPWVYU6VPU
   - n8S6Hd_tQN
   - rs8cIjNzhZ
   - kpr6IHseCx
+  - coirvk7QOj

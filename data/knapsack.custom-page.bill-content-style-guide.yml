@@ -1,0 +1,16 @@
+id: bill-content-style-guide
+title: BILL Content Style Guide
+blockIds:
+  - LTXEIV27ms
+settings:
+  pageHeader:
+    size: medium
+    hideText: false
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/csg-lg-ejdr2iudld.png
+    backgroundSize: cover
+    backgroundOverlay: false
+    backgroundColor:
+      type: value
+      colorValue: '#feece2'
+    backgroundPosition: right
+  hideTableOfContents: true

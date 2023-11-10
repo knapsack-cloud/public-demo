@@ -1,0 +1,29 @@
+{
+  "id": "component-template",
+  "tabs": [
+    {
+      "id": "overview",
+      "type": "subPage"
+    },
+    {
+      "id": "m1JlRNkkp1",
+      "type": "subPage"
+    }
+  ],
+  "title": "Component Template",
+  "statuses": {},
+  "subPages": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "blockIds": ["PbhWgV7x8D", "BjZ7KCtyWd", "eyINFhlTHc", "gQK-T4kj1C"]
+    },
+    {
+      "id": "m1JlRNkkp1",
+      "title": "Code",
+      "blockIds": ["x8lw0KWrn9", "tLVKD5NZFl"]
+    }
+  ],
+  "templates": [],
+  "description": "Status |  Documentation | Rendered Version"
+}

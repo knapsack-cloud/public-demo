@@ -171,13 +171,6 @@ blocks:
           type: doc
       id: 0kF8YOFFhc
       size: medium
-    0m76iAbMDZ:
-      blockType: youtube-block
-      data:
-        clickToInteract: true
-        height: '480'
-        url: https://www.youtube.com/watch?v=oFXaV-xXG5s
-      id: 0m76iAbMDZ
     0tYaqASlzs:
       blockType: generic-iframe
       data:
@@ -214,6 +207,46 @@ blocks:
               type: heading
           type: doc
       id: 10pdmPU4A2
+    15y4RSDpg3:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 2
+              content:
+                - marks:
+                    - type: bold
+                  text: Company name
+                  type: text
+              type: heading
+            - content:
+                - text: 'When writing about our company, use upper case letters; BILL. Not '
+                  type: text
+                - marks:
+                    - attrs:
+                        class: null
+                        href: http://Bill.com
+                        target: _blank
+                      type: link
+                  text: Bill.com
+                  type: text
+                - text: ', '
+                  type: text
+                - marks:
+                    - attrs:
+                        class: null
+                        href: http://bill.com
+                        target: _blank
+                      type: link
+                  text: bill.com
+                  type: text
+                - text: ', or BDC.'
+                  type: text
+              type: paragraph
+          type: doc
+      id: 15y4RSDpg3
+      size: null
     1LTGO8xsrC:
       blockType: text-editor
       data:
@@ -493,6 +526,20 @@ blocks:
           tags: []
           type: dimension
       id: 26WskgYN2R
+    2KziEfdlBX:
+      blockType: code-snippet
+      data:
+        content:
+          content:
+            - attrs:
+                language: javascript
+              content:
+                - text: "import '@bdc-libs/trinity.themes';\n...\n\n/* \n\t...\n\trender() {\n    \t<tri-theme-container theme=\"bdc\">\n\t\t\t<App></App>\n        </tri-theme-container>\n\t}\n*/"
+                  type: text
+              type: codeBlock
+          type: doc
+      id: 2KziEfdlBX
+      size: null
     2RIhkctxWB:
       blockType: text-editor
       data:
@@ -1017,12 +1064,12 @@ blocks:
               type: heading
             - content:
                 - text: >-
-                    Knapsack is the next generation of design systems - flexible, scalable, and highly collaborative.
-                    Knapsack powers unified product experiences by providing a central source of truth for everyone on
-                    your team. Document decisions, create tokens, build prototypes, and ship code directly to your app
-                    or website. You'll see a new level of collaboration between teams and increase velocity in just a
-                    few weeks with Knapsack's ready-to-use infrastructure. Unite design and engineering in one powerful
-                    tool that will scale with your organization for years to come.
+                    Trinity on Knapsack is the next generation of design systems - flexible, scalable, and highly
+                    collaborative. Knapsack powers unified product experiences by providing a central source of truth
+                    for everyone on your team. Document decisions, create tokens, build prototypes, and ship code
+                    directly to your app or website. You'll see a new level of collaboration between teams and increase
+                    velocity in just a few weeks with Knapsack's ready-to-use infrastructure. Unite design and
+                    engineering in one powerful tool that will scale with your organization for years to come.
                   type: text
               type: paragraph
             - content:
@@ -1082,6 +1129,785 @@ blocks:
               type: paragraph
           type: doc
       id: 6eHTQ_DA5d
+    6zd8fqLl0g:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'What: '
+                  type: text
+                - text: "These voice and tone guidelines are a tool to help us communicate to our customers (existing and future). They provide universal truths—that are always applicable—about what we say, and how we say it.\_"
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'Why:'
+                  type: text
+                - text: ' To inspire trust, it’s important that all of our communications are clear, consistent, and true to our brand.'
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'How to use:'
+                  type: text
+                - text: ' Consider these guidelines as top-level guidance. Check out our "'
+                  type: text
+                - marks:
+                    - attrs:
+                        class: null
+                        href: https://content.bill.design/94b48113c/p/706e35
+                        target: _blank
+                      type: link
+                    - type: underline
+                  text: Guidelines by content type
+                  type: text
+                - text: >-
+                    " for detailed style guidance for specific touchpoints along the customer journey (e.g. social,
+                    emails, pendo, etc.).
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 2
+              content:
+                - marks:
+                    - type: bold
+                  text: Voice and tone definitions
+                  type: text
+              type: heading
+            - content:
+                - text: 'Our '
+                  type: text
+                - marks:
+                    - type: bold
+                  text: 'voice '
+                  type: text
+                - text: reflects the personality of our brand—helping us connect, stand out, and be memorable.
+                  type: text
+                - marks:
+                    - type: bold
+                  text: ' '
+                  type: text
+                - text: "Like your own voice, our BILL voice is unique to us, and should be consistent across communications.\_"
+                  type: text
+              type: paragraph
+            - content:
+                - text: Our
+                  type: text
+                - marks:
+                    - type: bold
+                  text: ' tone '
+                  type: text
+                - text: expresses our brand personality, but
+                  type: text
+                - marks:
+                    - type: bold
+                  text: ' '
+                  type: text
+                - text: >-
+                    shifts depending on context. A person’s tone may shift depending on the occasion (for example,
+                    talking to a colleague during a work meeting vs talking with a close friend at a party), but will
+                    always sound like the same person. So too will BILL’s tone shift. We’ll dial it up or down,
+                    depending on the situation. But we should always sound like BILL.
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 2
+              content:
+                - marks:
+                    - type: bold
+                  text: Voice
+                  type: text
+              type: heading
+            - content:
+                - text: >-
+                    Our brand personality shapes our voice. We are human, passionate, transparent, proactive, and
+                    collaborative. We want to come across like a loyal, experienced friend, guiding and cheering our
+                    customers on through the ups and downs of managing business finances.
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 2
+              content:
+                - marks:
+                    - type: bold
+                  text: Brand personality and attributes
+                  type: text
+              type: heading
+            - attrs:
+                level: 3
+              content:
+                - marks:
+                    - type: bold
+                  text: Human
+                  type: text
+              type: heading
+            - content:
+                - text: "Our software solutions allow SMBs to customize their financial workflows to their unique needs.\_We strive to connect directly with our customers, letting them know that we understand their challenges and are committed to their success—whatever success looks like for them.\_"
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: '✔ '
+                  type: text
+                - text: 'We are: empathetic, humble, trustworthy, relatable, friendly, conversational, authentic'
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'x '
+                  type: text
+                - text: 'We are not: contrived, braggy, overly technical'
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: "Ask yourself:\_"
+                  type: text
+              type: paragraph
+            - content:
+                - content:
+                    - content:
+                        - text: >-
+                            Do I sound like a friendly person in direct conversation with another person (whom I can
+                            envision)?
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: "Am I taking into consideration who my audience is and what they need/want to know right now?\_"
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: "Am I making my audience feel seen and understood?\_\_"
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+            - content:
+                - marks:
+                    - type: bold
+                  text: "Tips:\_"
+                  type: text
+              type: paragraph
+            - content:
+                - content:
+                    - content:
+                        - text: Don’t use jargon
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: Don’t talk at your audience
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: Do use short sentences that are easy to understand
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: >-
+                            Especially in customer support situations, show empathy and that we are there to help not
+                            just inform
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+            - content:
+                - marks:
+                    - type: bold
+                  text: "Example:\_"
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'Yes: '
+                  type: text
+                - text: "Upload an invoice and our artificial intelligence immediately begins reading it and entering in data—so you don't have to manually enter payment information.\_"
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'No: '
+                  type: text
+                - text: "BILL’s AI for AP is used by business professionals from midmarket companies.\_"
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'Why: '
+                  type: text
+                - text: "Write copy that is benefit-focused, not BILL-focused. Speak directly to the audience in a compelling way. And don’t use acronyms without explaining them.\_"
+                  type: text
+              type: paragraph
+            - type: paragraph
+            - attrs:
+                level: 3
+              content:
+                - marks:
+                    - type: bold
+                  text: Passionate
+                  type: text
+              type: heading
+            - content:
+                - text: We’re passionate about helping small businesses. We’re fueled by our customers’ passions.
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: '✔ '
+                  type: text
+                - text: 'We are:'
+                  type: text
+                - marks:
+                    - type: bold
+                  text: ' '
+                  type: text
+                - text: positive, optimistic, empowering, energetic
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'x '
+                  type: text
+                - text: 'We are not: intimidating, demanding, negative, dry, uncaring'
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: "Ask yourself:\_"
+                  type: text
+              type: paragraph
+            - content:
+                - content:
+                    - content:
+                        - text: Am I making our customers feel like I’m excited about what they’re doing?
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: "Do I sound enthusiastic about helping small businesses achieve their goals?\_"
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: "Do I sound excited to be a champion of small businesses?\_"
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+            - content:
+                - marks:
+                    - type: bold
+                  text: "Tips:\_"
+                  type: text
+              type: paragraph
+            - content:
+                - content:
+                    - content:
+                        - text: 'Emphasize the positive (without leaning into “FUD”: Fear, Uncertainty, Doubt)'
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: Be an optimistic cheerleader
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: Don’t write long copy that our readers will get lost in
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+            - content:
+                - marks:
+                    - type: bold
+                  text: "Example:\_"
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'Yes:'
+                  type: text
+                - text: ' Earn card rewards and better manage cash flow when you make payments with Pay By Card.'
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'No:'
+                  type: text
+                - text: " If you don’t implement Pay By Card by [x/x/xxxx], we will automatically make the change for you so that all payments will default to your card on file.\_"
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'Why: '
+                  type: text
+                - text: "Give customers an opportunity to be excited about the value that BILL can provide.\_"
+                  type: text
+              type: paragraph
+            - type: paragraph
+            - attrs:
+                level: 3
+              content:
+                - marks:
+                    - type: bold
+                  text: Transparent
+                  type: text
+              type: heading
+            - content:
+                - text: "We’re clear, accurate and authentic in our communications. And our products give our customers more transparency into their payables, corporate card spending, employee expenses and receivables. This transparency into their cash flows helps our customers make better business decisions. This transparency drives trust with our customers.\_"
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: '✔ '
+                  type: text
+                - text: 'We are: authentic, trustworthy, clear, understandable'
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'x '
+                  type: text
+                - text: 'We are not: academic, vague, jargon-y'
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: "Ask yourself:\_"
+                  type: text
+              type: paragraph
+            - content:
+                - content:
+                    - content:
+                        - text: "Am I being as clear as possible, getting right to the point, and not making my reader work too hard to understand what I’m saying?\_"
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: Does what I’m saying—and how I’m saying it—inspire trust?
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: "Can my intended audience—whether that’s a controller in a midsize company, a small business owner, or a partner at an accounting firm—understand what I’m communicating?\_"
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'Tips:'
+                  type: text
+              type: paragraph
+            - content:
+                - content:
+                    - content:
+                        - text: Avoid jargon
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: Be accurate
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: "Don’t try to bury the main point (especially if we’re acknowledging an error we made)\_"
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: Do not provide claims which are not substantiated
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+            - content:
+                - marks:
+                    - type: bold
+                  text: "Example:\_"
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'Yes:'
+                  type: text
+                - text: " To ensure that you don’t experience any payment interruptions on auto charges, please move your remaining auto charge payments from Vantage to BILL by [date].\_"
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'No:'
+                  type: text
+                - text: ' Switch over to this upgraded experience to accept card payments from your customers that’s built in and powered by BILL.'
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'Why: '
+                  type: text
+                - text: "Focus on the value to the customer without trying to “spin” important information. Be really clear about the “what” and the “why.”\_"
+                  type: text
+              type: paragraph
+            - type: paragraph
+            - attrs:
+                level: 3
+              content:
+                - marks:
+                    - type: bold
+                  text: Proactive
+                  type: text
+              type: heading
+            - content:
+                - text: "We always try to stay one step ahead of what our customers need. We provide reminders, notifications, and actionable insights that help our customers save time, be more efficient, and make better business decisions.\_"
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: '✔ '
+                  type: text
+                - text: 'We are: visionary, innovative, knowledgeable'
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'x '
+                  type: text
+                - text: 'We are not: old-fashioned, unprepared, slow'
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: "Ask yourself:\_"
+                  type: text
+              type: paragraph
+            - content:
+                - content:
+                    - content:
+                        - text: "Am I delivering the right content at the right time?\_"
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: "Am I anticipating what customers want before they even ask?\_"
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+            - content:
+                - marks:
+                    - type: bold
+                  text: "Tips:\_"
+                  type: text
+              type: paragraph
+            - content:
+                - content:
+                    - content:
+                        - text: Write with purpose
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: >-
+                            Provide educational information in a clear fashion that can meet customers where they are
+                            (and maybe even one step ahead of them)
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: Explain up front why they are receiving a communication from you
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: If it’s something customers need to know for their business, be clear and tell them up front
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: Do not make customers “work” to find the lead or your point
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+            - content:
+                - marks:
+                    - type: bold
+                  text: "Example:\_"
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'Yes: '
+                  type: text
+                - text: >-
+                    Where is my payment? We’ll send you an email notification when your payment is on the way. If you
+                    haven’t received a notification yet, you should reach out to your customer to confirm that they’ve
+                    scheduled your payment.
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'No:'
+                  type: text
+                - text: " Looking for your payments? In BILL, you can pay your vendors by check, ePayments, or Vendor Direct virtual cards.\_"
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'Why:'
+                  type: text
+                - text: " Try to get inside the customer’s brain to understand what they are thinking, what they want to do, what they need, and how they are feeling—and deliver content accordingly.\_"
+                  type: text
+              type: paragraph
+            - type: paragraph
+            - attrs:
+                level: 3
+              content:
+                - marks:
+                    - type: bold
+                  text: Collaborative
+                  type: text
+              type: heading
+            - content:
+                - text: "We strive to help our customers help their customers, partners, and vendors. Our products provide more visibility into financial workflows within an organization and enable commenting, re-routing and approvals, all of which foster a greater sense of collaboration between teams. And our seamless platform integrations with accounting software and financial tools provide a single, trusted source of information for our customers.\_"
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: '✔ '
+                  type: text
+                - text: 'We are: helpful, supportive, humble, cooperative, welcoming, loyal'
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'x '
+                  type: text
+                - text: 'We are not: condescending, patronizing, BILL-focused'
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: "Ask yourself:\_"
+                  type: text
+              type: paragraph
+            - content:
+                - content:
+                    - content:
+                        - text: "Am I clearly communicating that I understand and care about the goals, needs, and pain points of small businesses and accounting firms?\_"
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: "Am I treating this customer like a valued partner?\_"
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: >-
+                            Am I showing customers that we are here to serve them and achieve their goals—whatever their
+                            goals may be.
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+            - content:
+                - marks:
+                    - type: bold
+                  text: "Tips:\_"
+                  type: text
+              type: paragraph
+            - content:
+                - content:
+                    - content:
+                        - text: >-
+                            Think through what a customer needs to know as a result of this communication and provide
+                            that level of information
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: Communicate like a trusted advisor
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: >-
+                            Offer additional ways to get their questions answered. Do not assume one form of
+                            communication is sufficient. How else can you offer to help, e.g. FAQ, video, etc.
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+            - content:
+                - marks:
+                    - type: bold
+                  text: "Examples:\_"
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'Yes:'
+                  type: text
+                - text: ' Let''s streamline your financial operations this year. We’re here to help with weekend support, product updates, and more.'
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'No: '
+                  type: text
+                - text: "We do not offer live phone support on holidays.\_"
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'Why: '
+                  type: text
+                - text: >-
+                    Of course we need to be clear about our offerings, and not try to “spin” negatives. But this only
+                    offers half the picture. If customers can’t get live phone support on holidays, how and where can
+                    they get support? Lean into the positive and the ways that we partner with our customers.
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 2
+              content:
+                - marks:
+                    - type: bold
+                  text: Tone
+                  type: text
+              type: heading
+            - content:
+                - text: "Our tone will change depending on:\_"
+                  type: text
+              type: paragraph
+            - content:
+                - content:
+                    - content:
+                        - text: Who we’re addressing
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: (e.g. SMB prospect or accounting firm customer)
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: At what stage in the customer journey
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: (e.g. someone who’s unfamiliar with BILL vs an existing customer)
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: "What we’re trying to achieve\_"
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: (e.g. build brand awareness or resolve a customer issue)
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: "Via what type of content\_"
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: (e.g. paid advertising or help article)
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+            - attrs:
+                level: 2
+              content:
+                - marks:
+                    - type: bold
+                  text: Calibrating tone across the customer journey
+                  type: text
+              type: heading
+            - type: paragraph
+          type: doc
+      id: 6zd8fqLl0g
+      size: null
     7-9Z3dxHft:
       blockType: design-token-block
       data:
@@ -1135,7 +1961,7 @@ blocks:
                   type: listItem
                 - content:
                     - content:
-                        - text: "In Knapsack's Token Manager, click the "
+                        - text: 'In Knapsack''s Token Manager, click the '
                           type: text
                         - marks:
                             - type: bold
@@ -1210,41 +2036,6 @@ blocks:
           type: doc
       id: 71J1844txR
       size: medium
-    7Y7v_lnZJh:
-      blockType: text-editor
-      data:
-        content:
-          content:
-            - attrs:
-                level: 1
-              content:
-                - text: About Us
-                  type: text
-              type: heading
-            - content:
-                - text: >-
-                    We're a passionate group of designers, engineers, and former design system consultants. Our team has
-                    helped some of the largest companies build and implement design systems that solve their unique
-                    challenges. Our mission is to simplify the design system experience so teams can spend more time
-                    creating and less time rebuilding or struggling to keep their design and code in sync.
-                  type: text
-              type: paragraph
-            - content:
-                - text: We're backed by Google, Slack, and other world-class investors who see our vision for the future.
-                  type: text
-              type: paragraph
-            - content:
-                - text: 'Our focus is modernizing digital production through collaborative tooling and workflows that '
-                  type: text
-                - marks:
-                    - type: bold
-                  text: make it easy to reuse code
-                  type: text
-                - text: .
-                  type: text
-              type: paragraph
-          type: doc
-      id: 7Y7v_lnZJh
     7aopefwYVR:
       blockType: lucidchart-block
       id: 7aopefwYVR
@@ -1293,7 +2084,7 @@ blocks:
                   type: text
               type: paragraph
             - content:
-                - text: "If you're not familiar with Markdown, "
+                - text: 'If you''re not familiar with Markdown, '
                   type: text
                 - marks:
                     - attrs:
@@ -1451,6 +2242,42 @@ blocks:
           tags:
             - box
       id: 8DUW-7h2bt
+    8DeKWLbL0Y:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 2
+              content:
+                - marks:
+                    - type: bold
+                  text: Example
+                  type: text
+              type: heading
+            - content:
+                - text: 'Inspect the embed below and change the theme container '
+                  type: text
+                - marks:
+                    - type: code
+                  text: theme
+                  type: text
+                - text: ' prop to see changes in style. Try changing '
+                  type: text
+                - marks:
+                    - type: code
+                  text: '''bdc'''
+                  type: text
+                - text: ' to '
+                  type: text
+                - marks:
+                    - type: code
+                  text: '''divvy'''
+                  type: text
+              type: paragraph
+          type: doc
+      id: 8DeKWLbL0Y
+      size: null
     8P7SBsQLOp:
       blockType: design-token-block
       data:
@@ -1504,6 +2331,17 @@ blocks:
     A2my1t53RY:
       blockType: divider-block
       id: A2my1t53RY
+    A4TXevTxIT:
+      blockType: image-block
+      data:
+        imageSize: s
+        images:
+          - caption: Bill-Logo.svg
+            src: https://knapsack.imgix.net/site/public-demo/bill-logo-4bii8bbys8.svg
+          - caption: bill-logo-black.svg
+            src: https://knapsack.imgix.net/site/public-demo/bill-logo-black-de9842qowu.svg
+      id: A4TXevTxIT
+      size: null
     AfFgN5yVn:
       blockType: pattern-status-table-block
       data:
@@ -1546,6 +2384,19 @@ blocks:
               type: heading
           type: doc
       id: BUFKAm-2a4
+    BjZ7KCtyWd:
+      blockType: callout
+      data:
+        content:
+          content:
+            - content:
+                - text: DO
+                  type: text
+              type: paragraph
+          type: doc
+        type: success
+      id: BjZ7KCtyWd
+      size: null
     CP2xFIJwTx:
       blockType: divider-block
       id: CP2xFIJwTx
@@ -1682,6 +2533,19 @@ blocks:
         showSchemaForm: false
         templateId: react
       id: CyJBGzdohK
+    CyzobwBxDy:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - content:
+                - text: BILL
+                  type: text
+              type: paragraph
+          type: doc
+      id: CyzobwBxDy
+      size: medium
+      spacing: null
     D3--o8Cp5d:
       blockType: text-editor
       data:
@@ -2012,6 +2876,20 @@ blocks:
           type: doc
       id: FzPBc1o1wW
       size: medium
+    GG1MY_C--2:
+      blockType: callout
+      data:
+        content:
+          content:
+            - content:
+                - text: Don't
+                  type: text
+              type: paragraph
+          type: doc
+        type: error
+      id: GG1MY_C--2
+      size: small
+      spacing: null
     GQORAXftB-:
       blockType: text-editor
       data:
@@ -2224,6 +3102,20 @@ blocks:
     Gf9WN2NueF:
       blockType: divider-block
       id: Gf9WN2NueF
+    GfPQtSZSti:
+      blockType: callout
+      data:
+        content:
+          content:
+            - content:
+                - text: Do
+                  type: text
+              type: paragraph
+          type: doc
+        type: success
+      id: GfPQtSZSti
+      size: small
+      spacing: null
     Gi0ksblxCb:
       blockType: text-editor
       data:
@@ -2259,6 +3151,19 @@ blocks:
     H4_9NLT2TE:
       blockType: divider-block
       id: H4_9NLT2TE
+    HW51wm4_b0:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - content:
+                - text: Bill.com; BDC
+                  type: text
+              type: paragraph
+          type: doc
+      id: HW51wm4_b0
+      size: small
+      spacing: null
     Hn3xvYmDXj:
       blockType: figma-block
       data:
@@ -2269,6 +3174,29 @@ blocks:
     IAHMxBb9dw:
       blockType: divider-block
       id: IAHMxBb9dw
+    Ikv-KdcOVi:
+      blockType: image-block
+      data:
+        imageSize: full
+        images:
+          - caption: Trinity-Enagle Figma Library screen2.png
+            src: https://knapsack.imgix.net/site/public-demo/trinity-enagle-figma-library-screen2-aaqgi03azx.png
+      id: Ikv-KdcOVi
+      size: medium
+    J-LyQ6iD9m:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 2
+              content:
+                - text: Enabling Trinity Libraries
+                  type: text
+              type: heading
+          type: doc
+      id: J-LyQ6iD9m
+      size: null
     J7G5qpbLIh:
       blockType: text-editor
       data:
@@ -2319,6 +3247,14 @@ blocks:
               type: heading
           type: doc
       id: KILApugMxg
+    KXhg_6iRn8:
+      blockType: generic-iframe
+      data:
+        clickToInteract: false
+        height: '480'
+        url: https://trinity.dev.a.bill.com/wc/storybook/main/index.html
+      id: KXhg_6iRn8
+      size: null
     KhZqH0AlAe:
       blockType: divider-block
       id: KhZqH0AlAe
@@ -2349,6 +3285,129 @@ blocks:
             - type: horizontalRule
           type: doc
       id: LBMso-6f-6
+    LTXEIV27ms:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 2
+              content:
+                - marks:
+                    - type: bold
+                  text: Welcome!
+                  type: text
+              type: heading
+            - content:
+                - text: >-
+                    This guide was built with you in mind. Yes, you. Everyone at BILL uses language to communicate to
+                    our customers and partners in some way shape or form. The Content Style Guide is the source of truth
+                    that helps us bring clarity, consistency, and a good amount of BILL style to every touchpoint.
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 2
+              content:
+                - marks:
+                    - type: bold
+                  text: Latest updates
+                  type: text
+              type: heading
+            - content:
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: https://content.bill.design/94b48113c/p/63fa4f
+                                target: _blank
+                              type: link
+                            - type: underline
+                          text: Word list
+                          type: text
+                        - text: ' - New additions to the list.'
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: https://content.bill.design/94b48113c/p/47ec0e
+                                target: _blank
+                              type: link
+                            - type: underline
+                          text: Punctuation
+                          type: text
+                        - text: ' - Added rules for pound sign and plus symbols.'
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: https://content.bill.design/94b48113c/p/245168
+                                target: _blank
+                              type: link
+                            - type: underline
+                          text: Accessibility
+                          type: text
+                        - text: ' - Added rules for pound sign and plus symbols.'
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: https://content.bill.design/94b48113c/p/64b0ea-formatting
+                                target: _blank
+                              type: link
+                            - type: underline
+                          text: Formatting
+                          type: text
+                        - text: ' - Included new BILL terminology, logo, and trademarks.'
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: https://content.bill.design/94b48113c/p/0523b2-voice-and-tone
+                                target: _blank
+                              type: link
+                            - type: underline
+                          text: Voice and tone
+                          type: text
+                        - text: ' - Updated brand attributes to accommodate new branding guidelines.'
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+            - content:
+                - text: 'If you have any questions, feedback, or great suggestions, drop us a note at '
+                  type: text
+                - marks:
+                    - attrs:
+                        class: null
+                        href: mailto:styleguide@hq.bill.com
+                        target: _blank
+                      type: link
+                    - type: underline
+                  text: styleguide@hq.bill.com
+                  type: text
+                - text: .
+                  type: text
+              type: paragraph
+          type: doc
+      id: LTXEIV27ms
+      size: null
     Lsu6cM8BeA:
       blockType: divider-block
       id: Lsu6cM8BeA
@@ -2371,6 +3430,15 @@ blocks:
               type: paragraph
           type: doc
       id: MPWVYU6VPU
+    MZYD_5XdeI:
+      blockType: image-block
+      data:
+        imageSize: full
+        images:
+          - caption: Trinity-Enagle Figma Library screen.png
+            src: https://knapsack.imgix.net/site/public-demo/trinity-enagle-figma-library-screen-x8356asfvn.png
+      id: MZYD_5XdeI
+      size: null
     MudWyP8_-E:
       blockType: text-editor
       data:
@@ -2569,6 +3637,62 @@ blocks:
               type: paragraph
           type: doc
       id: PB83Qahdru
+    PbhWgV7x8D:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 3
+              content:
+                - marks:
+                    - type: bold
+                  text: Definition
+                  type: text
+              type: heading
+            - content:
+                - text: "A general TL;DR of the component.\_"
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 2
+              content:
+                - marks:
+                    - type: bold
+                  text: Guidelines
+                  type: text
+              type: heading
+            - attrs:
+                level: 3
+              content:
+                - marks:
+                    - type: bold
+                  text: Usage
+                  type: text
+              type: heading
+            - content:
+                - text: Define when to use the component and when not to use the component.
+                  type: text
+              type: paragraph
+            - type: paragraph
+            - attrs:
+                level: 3
+              content:
+                - marks:
+                    - type: bold
+                  text: Do's and Don'ts
+                  type: text
+              type: heading
+            - content:
+                - text: >-
+                    Define what you can and can't do with the component. Designers should be super prescriptive in this
+                    area. Additionally, this is where designers will define overflow behavior for all the elements of
+                    the component.
+                  type: text
+              type: paragraph
+          type: doc
+      id: PbhWgV7x8D
+      size: null
     PgZf2sEi0K:
       blockType: text-editor
       data:
@@ -3002,6 +4126,435 @@ blocks:
     WWb1kj_yym:
       blockType: divider-block
       id: WWb1kj_yym
+    XJcu3KKSGs:
+      blockType: table
+      data:
+        content:
+          content:
+            - content:
+                - content:
+                    - attrs:
+                        colspan: 1
+                        colwidth: null
+                        rowspan: 1
+                      content:
+                        - content:
+                            - marks:
+                                - type: bold
+                              text: Journey phase
+                              type: text
+                          type: paragraph
+                      type: tableCell
+                    - attrs:
+                        colspan: 1
+                        colwidth: null
+                        rowspan: 1
+                      content:
+                        - content:
+                            - marks:
+                                - type: bold
+                              text: Awareness
+                              type: text
+                          type: paragraph
+                      type: tableHeader
+                    - attrs:
+                        colspan: 1
+                        colwidth: null
+                        rowspan: 1
+                      content:
+                        - content:
+                            - marks:
+                                - type: bold
+                              text: Consideration
+                              type: text
+                          type: paragraph
+                      type: tableHeader
+                    - attrs:
+                        colspan: 1
+                        colwidth: null
+                        rowspan: 1
+                      content:
+                        - content:
+                            - marks:
+                                - type: bold
+                              text: Decision
+                              type: text
+                          type: paragraph
+                      type: tableHeader
+                    - attrs:
+                        colspan: 1
+                        colwidth: null
+                        rowspan: 1
+                      content:
+                        - content:
+                            - marks:
+                                - type: bold
+                              text: Customer
+                              type: text
+                          type: paragraph
+                      type: tableHeader
+                  type: tableRow
+                - content:
+                    - attrs:
+                        colspan: 1
+                        colwidth: null
+                        rowspan: 1
+                      content:
+                        - type: paragraph
+                      type: tableCell
+                    - attrs:
+                        colspan: 1
+                        colwidth: null
+                        rowspan: 1
+                      content:
+                        - content:
+                            - text: Prospect doesn’t know about BILL—or is just starting to learn about BILL.
+                              type: text
+                          type: paragraph
+                      type: tableCell
+                    - attrs:
+                        colspan: 1
+                        colwidth: null
+                        rowspan: 1
+                      content:
+                        - content:
+                            - text: Customer is researching and shows an interest in what BILL can provide.
+                              type: text
+                          type: paragraph
+                      type: tableCell
+                    - attrs:
+                        colspan: 1
+                        colwidth: null
+                        rowspan: 1
+                      content:
+                        - content:
+                            - text: Customer is making a decision to purchase BILL (vs a competitor).
+                              type: text
+                          type: paragraph
+                      type: tableCell
+                    - attrs:
+                        colspan: 1
+                        colwidth: null
+                        rowspan: 1
+                      content:
+                        - content:
+                            - text: >-
+                                Customer is an actual BILL customer—and hopefully on their way to becoming an advocate
+                                for BILL!
+                              type: text
+                          type: paragraph
+                      type: tableCell
+                  type: tableRow
+                - content:
+                    - attrs:
+                        colspan: 1
+                        colwidth: null
+                        rowspan: 1
+                      content:
+                        - content:
+                            - text: Common touchpoints
+                              type: text
+                          type: paragraph
+                      type: tableCell
+                    - attrs:
+                        colspan: 1
+                        colwidth: null
+                        rowspan: 1
+                      content:
+                        - content:
+                            - text: >-
+                                OOH, radio, podcasts, print, OTT video, TV, digital prospecting, organic social, PR,
+                                paid ads,
+                              type: text
+                          type: paragraph
+                        - content:
+                            - text: thought-leadership content, direct mail
+                              type: text
+                          type: paragraph
+                        - type: paragraph
+                        - type: paragraph
+                      type: tableCell
+                    - attrs:
+                        colspan: 1
+                        colwidth: null
+                        rowspan: 1
+                      content:
+                        - content:
+                            - text: Paid ads (search, social, remessaging and retargeting, etc), review sites,
+                              type: text
+                          type: paragraph
+                        - content:
+                            - text: >-
+                                organic search, educational content, thought leadership, webinars, email, promotions,
+                                video, website/landing pages
+                              type: text
+                          type: paragraph
+                      type: tableCell
+                    - attrs:
+                        colspan: 1
+                        colwidth: null
+                        rowspan: 1
+                      content:
+                        - content:
+                            - text: Paid ads (search, social, remessaging and retargeting, etc),
+                              type: text
+                          type: paragraph
+                        - content:
+                            - text: Review sites,
+                              type: text
+                          type: paragraph
+                        - content:
+                            - text: Organic Search Demo Webinars, Whitepapers, Email, Promotions, Video, Website
+                              type: text
+                          type: paragraph
+                        - type: paragraph
+                      type: tableCell
+                    - attrs:
+                        colspan: 1
+                        colwidth: null
+                        rowspan: 1
+                      content:
+                        - content:
+                            - text: In-product, Pendo, email,
+                              type: text
+                          type: paragraph
+                        - content:
+                            - text: organic social, website, webinars
+                              type: text
+                          type: paragraph
+                        - type: paragraph
+                        - type: paragraph
+                      type: tableCell
+                  type: tableRow
+                - content:
+                    - attrs:
+                        colspan: 1
+                        colwidth: null
+                        rowspan: 1
+                      content:
+                        - content:
+                            - text: Creative implications
+                              type: text
+                          type: paragraph
+                      type: tableCell
+                    - attrs:
+                        colspan: 1
+                        colwidth: null
+                        rowspan: 1
+                      content:
+                        - content:
+                            - text: "Copy is generally more expressive.\_"
+                              type: text
+                          type: paragraph
+                        - type: paragraph
+                        - content:
+                            - text: "Copy is top-level and may be aspirational and emotive.\_"
+                              type: text
+                          type: paragraph
+                        - type: paragraph
+                        - content:
+                            - text: >-
+                                It should express the basic ideas (BILL is a product that offers real benefits for
+                                SMBs), but does not necessarily need to go deep on reasons to believe.
+                              type: text
+                          type: paragraph
+                      type: tableCell
+                    - attrs:
+                        colspan: 1
+                        colwidth: null
+                        rowspan: 1
+                      content:
+                        - content:
+                            - text: "Copy is generally more functional.\_"
+                              type: text
+                          type: paragraph
+                        - type: paragraph
+                        - content:
+                            - text: "Copy should be educational and benefit-focused.\_"
+                              type: text
+                          type: paragraph
+                        - type: paragraph
+                        - content:
+                            - text: "It should outline common pain points of SMBs and how BILL solves them. We should go deeper on reasons to believe.\_"
+                              type: text
+                          type: paragraph
+                        - type: paragraph
+                      type: tableCell
+                    - attrs:
+                        colspan: 1
+                        colwidth: null
+                        rowspan: 1
+                      content:
+                        - content:
+                            - text: Copy is more functional.
+                              type: text
+                          type: paragraph
+                        - type: paragraph
+                        - content:
+                            - text: "Copy should be benefit-focused and compelling.\_"
+                              type: text
+                          type: paragraph
+                        - type: paragraph
+                        - content:
+                            - text: >-
+                                It should provide specific details as to how BILL helps SMBs. This is where we would
+                                lean into product and feature descriptions.
+                              type: text
+                          type: paragraph
+                        - type: paragraph
+                      type: tableCell
+                    - attrs:
+                        colspan: 1
+                        colwidth: null
+                        rowspan: 1
+                      content:
+                        - content:
+                            - text: "Copy is functional when it’s transactional, but can be expressive when we’re trying to inspire our customers.\_"
+                              type: text
+                          type: paragraph
+                        - type: paragraph
+                        - content:
+                            - text: "Copy should clearly address customer needs.\_"
+                              type: text
+                          type: paragraph
+                        - type: paragraph
+                        - content:
+                            - text: It should provide specific instructions and education to help our customers.
+                              type: text
+                          type: paragraph
+                      type: tableCell
+                  type: tableRow
+                - content:
+                    - attrs:
+                        colspan: 1
+                        colwidth: null
+                        rowspan: 1
+                      content:
+                        - content:
+                            - text: Tone examples
+                              type: text
+                          type: paragraph
+                      type: tableCell
+                    - attrs:
+                        colspan: 1
+                        colwidth: null
+                        rowspan: 1
+                      content:
+                        - content:
+                            - text: Billboard
+                              type: text
+                          type: paragraph
+                        - type: paragraph
+                        - content:
+                            - text: Inspirational
+                              type: text
+                          type: paragraph
+                        - type: paragraph
+                        - content:
+                            - text: >-
+                                Gets people’s attention by making an allusion to how much time manual data entry
+                                takes—and what it takes time away from
+                              type: text
+                          type: paragraph
+                        - type: paragraph
+                        - content:
+                            - text: "Less time on manual data entry.\_"
+                              type: text
+                          type: paragraph
+                        - type: paragraph
+                        - content:
+                            - text: More time with your dog Daisy.
+                              type: text
+                          type: paragraph
+                      type: tableCell
+                    - attrs:
+                        colspan: 1
+                        colwidth: null
+                        rowspan: 1
+                      content:
+                        - content:
+                            - text: eBook
+                              type: text
+                          type: paragraph
+                        - type: paragraph
+                        - content:
+                            - text: Educational
+                              type: text
+                          type: paragraph
+                        - type: paragraph
+                        - content:
+                            - text: >-
+                                Provides information about what manual data entry keeps you from doing and how finance
+                                automation eliminates manual data entry
+                              type: text
+                          type: paragraph
+                        - type: paragraph
+                        - content:
+                            - text: 8 ways to spend more time growing your firm and less time on administrative tasks
+                              type: text
+                          type: paragraph
+                      type: tableCell
+                    - attrs:
+                        colspan: 1
+                        colwidth: null
+                        rowspan: 1
+                      content:
+                        - content:
+                            - text: Paid ad
+                              type: text
+                          type: paragraph
+                        - type: paragraph
+                        - content:
+                            - text: Communicating benefits
+                              type: text
+                          type: paragraph
+                        - type: paragraph
+                        - content:
+                            - text: Explains how finance automation works to eliminate manual data entry
+                              type: text
+                          type: paragraph
+                        - type: paragraph
+                        - content:
+                            - text: >-
+                                Take the 5-minute BILL tour to see how finance automation can help eliminate data entry
+                                and streamline the bill creation process.
+                              type: text
+                          type: paragraph
+                      type: tableCell
+                    - attrs:
+                        colspan: 1
+                        colwidth: null
+                        rowspan: 1
+                      content:
+                        - content:
+                            - text: Help article
+                              type: text
+                          type: paragraph
+                        - type: paragraph
+                        - content:
+                            - text: Demonstrates how to derive value from BILL
+                              type: text
+                          type: paragraph
+                        - type: paragraph
+                        - content:
+                            - text: >-
+                                Provides explanations and instructions for how to use automation to eliminate manual
+                                data entry
+                              type: text
+                          type: paragraph
+                        - type: paragraph
+                        - content:
+                            - text: >-
+                                Automatically extract bill information from documents in your BILL inbox to turn them
+                                into a bill in minutes—with no manual data entry.
+                              type: text
+                          type: paragraph
+                      type: tableCell
+                  type: tableRow
+              type: table
+          type: doc
+      id: XJcu3KKSGs
+      size: null
     XL5vsm_l-d:
       blockType: divider-block
       id: XL5vsm_l-d
@@ -3346,6 +4899,15 @@ blocks:
           type: doc
       id: cO5Vcc2NHd
       size: medium
+    coirvk7QOj:
+      blockType: generic-iframe
+      data:
+        clickToInteract: true
+        height: '480'
+        url: >-
+          https://docs.google.com/spreadsheets/d/e/2PACX-1vSBWk5qgovCDU6DOReP8lw2SG5NW9NSLX29QrR3is74jwh6X1Qh_lHLN-0eEtoPyEdyXNH-lQ3s_V2m/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false
+      id: coirvk7QOj
+      size: null
     ctwMU8NUmw:
       blockType: table
       data:
@@ -3636,6 +5198,64 @@ blocks:
               type: heading
           type: doc
       id: dxsxlMQ3Yz
+    e0IsgB7X5B:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - content:
+                - marks:
+                    - type: bold
+                  text: From the Assets Panel
+                  type: text
+              type: paragraph
+            - content:
+                - text: >-
+                    Go the the Assets Panel, open the Libraries window, and select the Trinity Libraries you want to
+                    use.
+                  type: text
+              type: paragraph
+            - content:
+                - text: For Web and Mobile Web Designers we recommend the libraries listed below
+                  type: text
+              type: paragraph
+            - content:
+                - content:
+                    - content:
+                        - marks:
+                            - type: bold
+                          text: Trinity.Core.Foundations
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - type: bold
+                          text: Trinity.Core.Icon
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - type: bold
+                          text: Trinity.Core.Illustrations
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - type: bold
+                          text: Trinity.Core.Web.Components
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+          type: doc
+      id: e0IsgB7X5B
+      size: medium
     eGax35Ka9v:
       blockType: text-editor
       data:
@@ -3708,6 +5328,15 @@ blocks:
           type: doc
       id: eGax35Ka9v
       size: medium
+    ei-YskVmtj:
+      blockType: figma-block
+      data:
+        clickToInteract: true
+        height: '600'
+        url: >-
+          https://www.figma.com/file/SeCuEHB6ZLzybKoeMJFoiz/DSM-Tools---Evaluation-Knapsack-2023?type=whiteboard&node-id=0%3A1&t=0WlUMmURd473O8vq-1
+      id: ei-YskVmtj
+      size: null
     eoZlp_hdgb:
       blockType: design-token-block
       data:
@@ -3721,12 +5350,67 @@ blocks:
     euHhLM0j1S:
       blockType: divider-block
       id: euHhLM0j1S
+    eyINFhlTHc:
+      blockType: callout
+      data:
+        content:
+          content:
+            - content:
+                - text: Don't
+                  type: text
+              type: paragraph
+          type: doc
+        type: error
+      id: eyINFhlTHc
+      size: null
     f73-qtReZ-:
       blockType: divider-block
       id: f73-qtReZ-
     fTtR3u4Py_:
       blockType: divider-block
       id: fTtR3u4Py_
+    fUSNIqfLdF:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 2
+              content:
+                - marks:
+                    - type: bold
+                  text: Company logo
+                  type: text
+              type: heading
+            - content:
+                - text: The company logo will be in lower case, with the "b" icon styled accordingly.
+                  type: text
+              type: paragraph
+            - attrs:
+                alt: Lower case with b icon.
+                src: https://knapsack.imgix.net/site/public-demo/bill-logo-4bii8bbys8.svg
+                title: Lower case with b icon.
+              type: image
+            - content:
+                - marks:
+                    - type: bold
+                  text: Lower case with b icon.
+                  type: text
+              type: paragraph
+            - attrs:
+                alt: Logo in black letters.
+                src: https://knapsack.imgix.net/site/public-demo/bill-logo-black-de9842qowu.svg
+                title: Logo in black letters.
+              type: image
+            - content:
+                - marks:
+                    - type: bold
+                  text: Logo in black letters.
+                  type: text
+              type: paragraph
+          type: doc
+      id: fUSNIqfLdF
+      size: medium
     gAEGVw3JV2:
       blockType: text-editor
       data:
@@ -3740,6 +5424,41 @@ blocks:
           type: doc
       id: gAEGVw3JV2
       size: medium
+    gQK-T4kj1C:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 3
+              content:
+                - marks:
+                    - type: bold
+                  text: Interactions
+                  type: text
+              type: heading
+            - content:
+                - text: Define how the user interacts with the component with mouse, keyboard, and touch.
+                  type: text
+              type: paragraph
+            - type: paragraph
+            - attrs:
+                level: 3
+              content:
+                - marks:
+                    - type: bold
+                  text: Accessibility
+                  type: text
+              type: heading
+            - content:
+                - text: >-
+                    Define how the user will use keyboard controls to fully interact with the component in the event
+                    that they do not have a mouse. Define alt tags and region tags for usage with screen readers.
+                  type: text
+              type: paragraph
+          type: doc
+      id: gQK-T4kj1C
+      size: null
     gV88tSjKGe:
       blockType: text-editor
       data:
@@ -3785,6 +5504,48 @@ blocks:
           type: doc
       id: gh8d7YnVNh
       size: medium
+    h16KwoJBAZ:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 2
+              content:
+                - marks:
+                    - type: bold
+                  text: Audience
+                  type: text
+              type: heading
+            - content:
+                - text: "As noted, tone—and content—will change depending on our audience. When you specifically know who your audience is, modulate accordingly.\_"
+                  type: text
+              type: paragraph
+            - content:
+                - text: "For example, if you’re writing to an audience of CFOs for midmarket companies, assume a deeper level of knowledge than if you were writing to a small business owner without a finance background.\_"
+                  type: text
+              type: paragraph
+            - content:
+                - text: >-
+                    If you are writing to a general BILL audience, without knowing specific audience details (role?
+                    industry? company size?), assume you are writing for our 
+                  type: text
+                - marks:
+                    - attrs:
+                        class: null
+                        href: >-
+                          https://billcom.atlassian.net/wiki/spaces/BDCMarketing/pages/2642018520/ICP+Segment+definitions
+                        target: _blank
+                      type: link
+                    - type: underline
+                  text: ICP (ideal customer profile)
+                  type: text
+                - text: .
+                  type: text
+              type: paragraph
+          type: doc
+      id: h16KwoJBAZ
+      size: null
     h5pUADysUw:
       blockType: divider-block
       id: h5pUADysUw
@@ -3931,7 +5692,7 @@ blocks:
                   type: text
               type: paragraph
             - content:
-                - text: "Changes you've made will be add to Git once you follow "
+                - text: 'Changes you''ve made will be add to Git once you follow '
                   type: text
                 - marks:
                     - attrs:
@@ -4222,6 +5983,36 @@ blocks:
               type: heading
           type: doc
       id: ncyDgsT_tf
+    nneT7fYfUP:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - content:
+                - marks:
+                    - type: bold
+                  text: In Settings
+                  type: text
+              type: paragraph
+            - content:
+                - text: 'Select '
+                  type: text
+                - marks:
+                    - type: bold
+                  text: Settings
+                  type: text
+                - text: ' in the dropdown menu from your avatar in the Figma Home screen. Under account, select '
+                  type: text
+                - marks:
+                    - type: bold
+                  text: enable libraries
+                  type: text
+                - text: .
+                  type: text
+              type: paragraph
+          type: doc
+      id: nneT7fYfUP
+      size: large
     npKePci3kr:
       blockType: text-editor
       data:
@@ -4635,6 +6426,15 @@ blocks:
               type: bulletList
           type: doc
       id: pR3IAfgqBA
+    pTun9qRid5:
+      blockType: design-tokens
+      data:
+        demoId: color-swatch
+        groupIds:
+          - color.brand
+        tokenType: ''
+      id: pTun9qRid5
+      size: null
     pnwrmGuYfT:
       blockType: text-editor
       data:
@@ -4687,6 +6487,71 @@ blocks:
     qRvc5hdIxP:
       blockType: divider-block
       id: qRvc5hdIxP
+    qXIWxDCbRV:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 2
+              content:
+                - marks:
+                    - type: bold
+                  text: Theme Container
+                  type: text
+              type: heading
+            - content:
+                - text: Theme Container is used to provide BDC and associate partner theming to any application.
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 2
+              content:
+                - marks:
+                    - type: bold
+                  text: Summary
+                  type: text
+              type: heading
+            - content:
+                - text: >-
+                    The Theme Container is meant to be used in conjunction with the web-component library, but can be
+                    used to provide BDC and associate partners' themes as CSS variables to any application.
+                  type: text
+              type: paragraph
+            - content:
+                - text: 'More information on available themes can be found in the '
+                  type: text
+                - marks:
+                    - attrs:
+                        class: null
+                        href: >-
+                          https://gitlab.devops.a.bill.com/des-engineering/web-components/-/tree/master/src/util/theming/themes
+                        target: _blank
+                      type: link
+                    - type: underline
+                  text: themes
+                  type: text
+                - text: ' folder of the web-component library.'
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 2
+              content:
+                - marks:
+                    - type: bold
+                  text: Usage
+                  type: text
+              type: heading
+            - content:
+                - text: >-
+                    To utilize the Theme Container, import it into your project and wrap your root with it. It's
+                    recommended to wrap the root so that you only have to declare the container and the css variables
+                    once.
+                  type: text
+              type: paragraph
+          type: doc
+      id: qXIWxDCbRV
+      size: null
     rGQjPZFRdn:
       blockType: text-editor
       data:
@@ -4856,6 +6721,20 @@ blocks:
     tA1WrvdWyM:
       blockType: pattern-list-block
       id: tA1WrvdWyM
+    tLVKD5NZFl:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 1
+              content:
+                - text: Accessibility
+                  type: text
+              type: heading
+          type: doc
+      id: tLVKD5NZFl
+      size: null
     tY2rt92bob:
       blockType: text-editor
       data:
@@ -5136,11 +7015,13 @@ blocks:
     vFalbAV-gx:
       blockType: pattern-template-block
       data:
+        allowResizing: false
         demoId: 2ysfvm4ShE
         demoSize: landscape
         hideControls: false
         patternId: button
         playgroundUi:
+          allowResizing: false
           demoSize: landscape
           showCodeSnippet: false
           showSchemaForm: false
@@ -5374,6 +7255,20 @@ blocks:
               type: paragraph
           type: doc
       id: wwkLIOf27t
+    x8lw0KWrn9:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 1
+              content:
+                - text: API
+                  type: text
+              type: heading
+          type: doc
+      id: x8lw0KWrn9
+      size: null
     xC4g9J20wL:
       blockType: text-editor
       data:
@@ -5598,6 +7493,338 @@ blocks:
               type: paragraph
           type: doc
       id: y9KZVrKgpx
+    yGqRYV-Cf7:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - content:
+                - marks:
+                    - type: bold
+                  text: Our customers always come first
+                  type: text
+              type: paragraph
+            - content:
+                - text: >-
+                    Our customers have a lot at stake, and they have a lot on their plates. It's about their success,
+                    not ours.
+                  type: text
+              type: paragraph
+            - type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: Customers should feel like they're having a face-to-face conversation with us
+                  type: text
+              type: paragraph
+            - content:
+                - text: >-
+                    In conversational language, less is more. Jargon or technical terms should be expressed in the
+                    simplest terms possible.
+                  type: text
+              type: paragraph
+            - type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: We convey a voice that combines approachability and credibility
+                  type: text
+              type: paragraph
+            - content:
+                - text: >-
+                    We should be friendly, open, and conversational, but remain professional and dignified. We shouldn't
+                    cross over into overly-casual words or phrases, slang, or too-familiar language, nor should we seem
+                    stuffy or unapproachable.
+                  type: text
+              type: paragraph
+            - type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: We're collaborative and use language to emphasize a supportive relationship
+                  type: text
+              type: paragraph
+            - content:
+                - text: >-
+                    Statements such as "we'll be there," "we'll work with you," and "together we'll" demonstrate a
+                    collaborative nature and helps to provide reassurance.
+                  type: text
+              type: paragraph
+            - type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: We don't condescend or judge
+                  type: text
+              type: paragraph
+            - content:
+                - text: All customers should be treated with kindness, respect, and compassion.
+                  type: text
+              type: paragraph
+            - type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: We care about shared success
+                  type: text
+              type: paragraph
+            - content:
+                - text: >-
+                    It's not just about getting the job done. It's also about helping customers to feel like we're
+                    partners in making important decisions.
+                  type: text
+              type: paragraph
+            - type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: We celebrate what really matters
+                  type: text
+              type: paragraph
+            - content:
+                - text: >-
+                    Look for chances to make customers feel good. High-fives for completing tasks, cheers for finishing
+                    tough jobs, and celebrations for milestones.
+                  type: text
+              type: paragraph
+            - type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: Always write with purpose.
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: '✔ Yes: '
+                  type: text
+                - text: "You’ll always know when a payment is on the way because we will send you an email notification with detailed information.\_"
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'x No:'
+                  type: text
+                - text: ' We’ll send you email notifications with important information.'
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: '? Why'
+                  type: text
+                - text: ": In the first example, we anticipate what the customer wants to know and provide that exact information. In the second example, it’s not clear what the benefit is of these email notifications.\_"
+                  type: text
+              type: paragraph
+            - type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: "Be customer-focused, not BILL focused.\_"
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: '✔ Yes: '
+                  type: text
+                - text: Take control of your business budgets with BILL Spend & Expense.
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'x No: '
+                  type: text
+                - text: BILL Spend & Expense is budgeting software made up of customizable spend controls and policies
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: '? Why: '
+                  type: text
+                - text: "The focus should be on the customer whom you’re speaking to directly. How will they benefit? What do they need to know?\_"
+                  type: text
+              type: paragraph
+            - type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: "Be benefits focused, not feature focused.\_"
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: '✔ Yes: '
+                  type: text
+                - text: "Streamline your approval process with BILL finance automation.\_"
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'x No: '
+                  type: text
+                - text: "Our features include automated approvals.\_"
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: '? Why: '
+                  type: text
+                - text: >-
+                    In the first example, we’re telling them the benefit of finance automation. In the second sentence,
+                    we’re naming a specific BILL feature without explaining the value. Depending on context, sometimes
+                    you will need to provide detailed features alongside benefits, but generally speaking you want to
+                    lean into benefits.
+                  type: text
+              type: paragraph
+            - type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: Emphasize the positive—the desired outcome—not the problem.
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: '✔ Yes: '
+                  type: text
+                - text: Choose a template that best suits your brand and service to easily create professional invoices.
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: 'x No: '
+                  type: text
+                - text: "Don’t scare away customers with unprofessional invoices.\_"
+                  type: text
+              type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: '? Why: '
+                  type: text
+                - text: "The goal isn’t to make our customers feel badly about their current practices or lean into fear. Instead focus on the desired end state customers will achieve on BILL.\_"
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 2
+              content:
+                - marks:
+                    - type: bold
+                  text: Questions to ask yourself when writing
+                  type: text
+              type: heading
+            - content:
+                - marks:
+                    - type: bold
+                  text: Is the overall message and tone relatable?
+                  type: text
+              type: paragraph
+            - content:
+                - content:
+                    - content:
+                        - text: Will users feel understood—like we know, understand, and care about them?
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: >-
+                            Will users believe we anticipate and satisfy their needs, and that we’re after their best
+                            interests?
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: Does our approach represent a conversation you’d have in person?
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+            - type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: Is the copy easy to understand and follow?
+                  type: text
+              type: paragraph
+            - content:
+                - content:
+                    - content:
+                        - text: Are you using plain language? Is it clear and concise?
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: Do we call out the important information?
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: Will users know what action is required or who to contact if they have questions?
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+            - type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: Does the language feel sincere and believable?
+                  type: text
+              type: paragraph
+            - content:
+                - content:
+                    - content:
+                        - text: Are we using an appropriate tone given the context?
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: >-
+                            Do we convey a genuine understanding of the user’s needs and concerns, and that we care to
+                            help them?
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+            - type: paragraph
+            - content:
+                - marks:
+                    - type: bold
+                  text: Do we build credibility with the user?
+                  type: text
+              type: paragraph
+            - content:
+                - content:
+                    - content:
+                        - text: Have we provided relevant information that will help users make more informed choices?
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: Are we being open? Does it feel like we’re trying to hide or gloss over important details?
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+          type: doc
+      id: yGqRYV-Cf7
+      size: null
     yvaN3EVmSU:
       blockType: text-editor
       data:
@@ -5721,7 +7948,7 @@ demos:
     2ysfvm4ShE:
       data:
         props:
-          mode: info
+          mode: warning
           size: medium
           type: solid
           url: '#url'
@@ -6134,7 +8361,9 @@ demos:
       type: template
   settings: {}
 settings:
-  logoUrl: https://knapsack.imgix.net/site/public-demo/knapsack-logomark-primary@3x-c3fjqx5ll_.png
+  favicon: https://knapsack.imgix.net/site/public-demo/bill-logo-uget7e5xl3.svg
+  hideTitleInNavigation: false
+  logoUrl: https://knapsack.imgix.net/site/public-demo/bill-logo-nftgn9rpf4.svg
   theme:
     appearance:
       customFonts:
@@ -6155,53 +8384,58 @@ settings:
       navigation:
         primaryNav:
           accentColor:
-            tokenName: color.brand.primary
+            tokenName: color.light.orange
             type: design-token
           backgroundColor:
-            tokenName: color.brand.black
+            tokenName: color.layout.defaultBg
             type: design-token
           fontFamily: Inter
           fontWeight: 800
           hoverColor:
-            tokenName: color.brand.secondary
+            tokenName: color.base.orange
             type: design-token
-          lineHeight: ''
           textColor:
-            tokenName: color.text.inverse
+            tokenName: color.Meh.black
             type: design-token
+          textTransform: inherit
         secondaryNav:
           accentColor:
-            tokenName: color-brand-secondary
+            tokenName: color.base.orange
             type: design-token
           fontFamily: Inter
           fontWeight: 500
+          textTransform: inherit
         tabs:
+          accentColor:
+            tokenName: color.light.orange
+            type: design-token
           fontFamily: Inter
+          textTransform: inherit
       pageElements:
         bodyText: {}
         headingLarge:
-          fontFamily: Inter
-          fontWeight: 400
-        headingMedium:
-          fontFamily: Inter
-        headingSmall:
-          fontFamily: Inter
-        headingXLarge:
-          fontFamily: Acme
-          fontWeight: 600
-        headingXSmall:
-          fontFamily: Inter
-        link:
-          fontWeight: 600
           textColor:
-            tokenName: color-text-link
-            type: design-token
-          underline: true
-        pageDescription:
-          fontFamily: Inter
-          fontWeight: 400
+            colorValue: '#ff914f'
+            type: value
+          textTransform: inherit
+        headingMedium:
+          textColor:
+            colorValue: '#ff914f'
+            type: value
+          textTransform: inherit
+        headingSmall: {}
+        headingXLarge:
+          textColor:
+            colorValue: '#ff914f'
+            type: value
+          textTransform: inherit
+        headingXSmall: {}
+        link: {}
+        pageDescription: {}
         pageTitle:
-          fontFamily: Acme
-          fontWeight: 800
+          textColor:
+            colorValue: '#ff914f'
+            type: value
+          textTransform: inherit
     version: 10
-  title: Public Demo
+  title: Trinity Knapsack Demo

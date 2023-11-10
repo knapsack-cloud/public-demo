@@ -4,9 +4,8 @@ settings:
   pageHeader:
     size: auto
     textColorTitle:
-      type: design-token
-      colorValue: '#000000'
-      tokenName: color-brand-primary
+      type: value
+      colorValue: '#ff914f'
     backgroundImage: null
     textColorDescription:
       type: value

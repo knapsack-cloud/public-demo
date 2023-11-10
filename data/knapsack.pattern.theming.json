@@ -1,0 +1,32 @@
+{
+  "id": "theming",
+  "tabs": [
+    {
+      "id": "overview",
+      "type": "subPage"
+    },
+    {
+      "id": "T1DMhpivgR",
+      "type": "subPage"
+    }
+  ],
+  "title": "Theming",
+  "statuses": {},
+  "subPages": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "blockIds": ["qXIWxDCbRV", "2KziEfdlBX", "8DeKWLbL0Y"]
+    },
+    {
+      "id": "T1DMhpivgR",
+      "title": "Theming",
+      "blockIds": []
+    }
+  ],
+  "templates": [],
+  "description": "",
+  "settings": {
+    "hideTableOfContents": true
+  }
+}

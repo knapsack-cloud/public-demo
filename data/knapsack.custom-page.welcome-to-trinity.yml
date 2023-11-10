@@ -1,0 +1,21 @@
+id: welcome-to-trinity
+title: Welcome to Trinity
+blockIds:
+  - 6-qXFUJ0eH
+  - tY2rt92bob
+  - oa-y7sAwqr
+  - j6lFMtQipq
+  - ei-YskVmtj
+settings:
+  pageHeader:
+    size: small
+    textColorTitle:
+      type: value
+      colorValue: '#ff914f'
+    backgroundImage: null
+    textColorDescription:
+      type: design-token
+      tokenName: color-brand-black
+      colorValue: '#000000'
+  hideTableOfContents: false
+description: Trinity v3.0 contains 53 components.  Design Tokens and used and support partner theming.

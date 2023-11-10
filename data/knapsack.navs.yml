@@ -37,7 +37,7 @@ byId:
   Design-System:
     id: Design-System
     name: Design System
-    parentId: Documentation
+    parentId: documentation-rkzaamrj6t
     path: /pages/Design-System
   Design-Tokens:
     id: Design-Tokens
@@ -49,15 +49,10 @@ byId:
     name: Design Tokens
     parentId: root
     path: /pages/Design-Tokens-lNWaUqkDSo
-  Documentation:
-    id: Documentation
-    name: Documentation
-    parentId: root
-    path: /pages/Documentation
   Embeds:
     id: Embeds
     name: Embeds
-    parentId: Documentation
+    parentId: documentation-rkzaamrj6t
     path: /pages/Embeds
   Layout:
     id: Layout
@@ -105,15 +100,24 @@ byId:
     parentId: Embeds
     path: /pages/Workflow
   adding-design-tokens:
+    hidden: true
     id: adding-design-tokens
     name: Adding Design Tokens
     parentId: guidance
     path: /pages/adding-design-tokens
   adding-documentation:
+    hidden: true
     id: adding-documentation
     name: Adding Documentation
     parentId: guidance
     path: /pages/adding-documentation
+  admin:
+    hidden: true
+    id: admin
+    minRoleNeeded: ADMIN
+    name: Admin
+    parentId: root
+    path: /pages/admin
   author:
     id: author
     name: Author
@@ -124,6 +128,11 @@ byId:
     name: Base Colors
     parentId: colors
     path: /pages/base-colors
+  bill-content-style-guide:
+    id: bill-content-style-guide
+    name: BILL Content Style Guide
+    parentId: content-style-guid
+    path: /pages/bill-content-style-guide
   brand-colors:
     id: brand-colors
     name: Brand Colors
@@ -144,29 +153,73 @@ byId:
     name: Colors
     parentId: Design-Tokens-lNWaUqkDSo
     path: /pages/colors
+  component-template:
+    id: component-template
+    name: /pattern/component-template
+    parentId: Components-Overview
+    path: /pattern/component-template
   connecting-coded-components:
+    hidden: true
     id: connecting-coded-components
     name: Connecting Coded Components
     parentId: guidance
     path: /pages/connecting-coded-components
+  content-principles:
+    id: content-principles
+    name: Content principles
+    parentId: bill-content-style-guide
+    path: /pages/content-principles
+  content-style-guid:
+    id: content-style-guid
+    name: Content Style Guide
+    parentId: root
+    path: ''
   customizing-the-workspace:
+    hidden: true
     id: customizing-the-workspace
     name: Customizing the Workspace
     parentId: guidance
     path: /pages/customizing-the-workspace
+  documentation-rkzaamrj6t:
+    id: documentation-rkzaamrj6t
+    name: Documentation
+    parentId: root
+    path: /pages/documentation-rkzaamrj6t
   footer:
     id: footer
     name: Footer
     parentId: Complex
     path: /pattern/footer
+  for-designers-whuskhfg1n:
+    id: for-designers-whuskhfg1n
+    name: For Designers
+    parentId: overview
+    path: ''
+  for-engineers:
+    id: for-engineers
+    name: For Engineers
+    parentId: overview
+    path: ''
+  formatting:
+    id: formatting
+    name: Formatting
+    parentId: language-and-mechanics
+    path: /pages/formatting
+  foundations:
+    id: foundations
+    name: Foundations
+    parentId: root
+    path: ''
   getting-started:
     id: getting-started
     name: Getting Started
     parentId: root
     path: ''
   guidance:
+    hidden: true
     id: guidance
-    name: Guidance
+    minRoleNeeded: CONTRIBUTOR
+    name: Knapsack Demo
     parentId: getting-started
     path: ''
   hero:
@@ -180,10 +233,16 @@ byId:
     parentId: proposed-patterns
     path: /pattern/input-field
   knapsack's-publishing-workflow:
+    hidden: true
     id: knapsack's-publishing-workflow
     name: Knapsack's Publishing Workflow
     parentId: guidance
     path: /pages/knapsack's-publishing-workflow
+  language-and-mechanics:
+    id: language-and-mechanics
+    name: Language and Mechanics
+    parentId: bill-content-style-guide
+    path: ''
   layout:
     id: layout
     name: Layout
@@ -199,6 +258,16 @@ byId:
     name: One-Pager
     parentId: Page-Builders
     path: /pattern/one-pager
+  overview:
+    id: overview
+    name: Overview
+    parentId: welcome-to-trinity
+    path: /pages/overview
+  overview-j7fvklg9vk:
+    id: overview-j7fvklg9vk
+    name: Overview
+    parentId: for-engineers
+    path: /pages/overview-j7fvklg9vk
   proposed-patterns:
     id: proposed-patterns
     name: Proposed Patterns
@@ -209,44 +278,68 @@ byId:
     name: Spacing
     parentId: Design-Tokens-lNWaUqkDSo
     path: /pages/spacing
+  storybook-test:
+    id: storybook-test
+    name: Storybook Test
+    parentId: Components-Overview
+    path: /pages/storybook-test
+  theming:
+    id: theming
+    name: Theming
+    parentId: for-engineers
+    path: /pattern/theming
+  tokens:
+    id: tokens
+    name: Tokens
+    parentId: foundations
+    path: /pages/tokens
   top-nav:
     id: top-nav
     name: Top Nav
     parentId: Complex
     path: /pattern/top-nav
-  welcome-to-knapsack:
-    id: welcome-to-knapsack
-    name: Welcome to Knapsack
+  trinity-figma-libraries:
+    id: trinity-figma-libraries
+    name: Trinity Figma Libraries
+    parentId: for-designers-whuskhfg1n
+    path: /pages/trinity-figma-libraries
+  voice-and-tone:
+    id: voice-and-tone
+    name: Voice & Tone
+    parentId: bill-content-style-guide
+    path: /pages/voice-and-tone
+  welcome-to-trinity:
+    id: welcome-to-trinity
+    name: Welcome to Trinity
     parentId: getting-started
-    path: /pages/welcome-to-knapsack
+    path: /pages/welcome-to-trinity
 order:
+  - content-style-guid
+  - bill-content-style-guide
+  - voice-and-tone
+  - content-principles
+  - language-and-mechanics
+  - formatting
   - getting-started
-  - welcome-to-knapsack
+  - welcome-to-trinity
+  - overview
+  - for-designers-whuskhfg1n
+  - trinity-figma-libraries
+  - for-engineers
+  - overview-j7fvklg9vk
+  - theming
   - guidance
   - knapsack's-publishing-workflow
   - adding-design-tokens
   - adding-documentation
   - connecting-coded-components
   - customizing-the-workspace
-  - Documentation
-  - Design-System
-  - Static-Content
-  - Design-Tokens
-  - Components
-  - Embeds
-  - Design-Files
-  - Videos
-  - Workflow
-  - Design-Tokens-lNWaUqkDSo
-  - colors
-  - base-colors
-  - brand-colors
-  - spacing
-  - Breakpoints
-  - Shadow
-  - Animation
+  - foundations
+  - tokens
   - Components-aPh3G1bbrX
   - Components-Overview
+  - storybook-test
+  - component-template
   - Simple
   - author
   - button
@@ -260,7 +353,25 @@ order:
   - proposed-patterns
   - message
   - input-field
+  - Design-Tokens-lNWaUqkDSo
+  - colors
+  - base-colors
+  - brand-colors
+  - spacing
+  - Breakpoints
+  - Shadow
+  - Animation
   - Prototyping
   - Page-Level-Prototyping
   - Page-Builders
   - one-pager
+  - admin
+  - documentation-rkzaamrj6t
+  - Design-System
+  - Static-Content
+  - Design-Tokens
+  - Components
+  - Embeds
+  - Design-Files
+  - Videos
+  - Workflow

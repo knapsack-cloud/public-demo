@@ -1,19 +1,17 @@
 id: homepage
-title: Welcome to Knapsack
-settings:
-  pageHeader:
-    size: full
-    textColorTitle:
-      type: design-token
-      tokenName: color-brand-primary
-      colorValue: '#FFFFFF'
-    backgroundImage: https://knapsack.imgix.net/site/public-demo/clark-van-der-beken-596baa0mpym-unsplash-o5drv55uvq.jpg
-    textColorDescription:
-      type: design-token
-      tokenName: color-Meh-black
-      colorValue: '#FFFFFF'
+title: Trinity Design System
 description: |-
   A shared platform for product teams to collaborate
   on documenting, designing, building, testing, and shipping
   their digital products.
 blockIds: []
+settings:
+  pageHeader:
+    textColorTitle:
+      type: value
+      colorValue: '#ff914f'
+    textColorDescription:
+      type: design-token
+      tokenName: color.brand.black
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/bill-trinity-cx0e2wephc.png
+    size: full
