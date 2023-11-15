@@ -181,6 +181,7 @@ byId:
     parentId: guidance
     path: /pages/customizing-the-workspace
   documentation-rkzaamrj6t:
+    hidden: true
     id: documentation-rkzaamrj6t
     name: Documentation
     parentId: root
@@ -279,6 +280,7 @@ byId:
     parentId: Design-Tokens-lNWaUqkDSo
     path: /pages/spacing
   storybook-test:
+    hidden: true
     id: storybook-test
     name: Storybook Test
     parentId: Components-Overview
@@ -355,8 +357,8 @@ order:
   - input-field
   - Design-Tokens-lNWaUqkDSo
   - colors
-  - base-colors
   - brand-colors
+  - base-colors
   - spacing
   - Breakpoints
   - Shadow

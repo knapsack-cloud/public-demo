@@ -17,14 +17,42 @@
       "alias": "Card",
       "templateLanguageId": "react",
       "spec": {
-        "isInferred": true
+        "props": {
+          "type": "object",
+          "$schema": "http://json-schema.org/draft-07/schema",
+          "required": [],
+          "properties": {
+            "body": {
+              "type": "string",
+              "description": "Content to fill out ONE paragraph"
+            },
+            "label": {
+              "type": "string"
+            },
+            "title": {
+              "type": "string"
+            },
+            "imgSrc": {
+              "type": "string"
+            }
+          },
+          "description": "Cards contain content and actions about a single subject."
+        },
+        "slots": {
+          "children": {
+            "title": "children",
+            "description": "undefined. Only use: author, button",
+            "allowedPatternIds": ["author", "button"]
+          }
+        }
       },
       "demoIds": [
         "RN96ZpJJpY",
         "-2WvOX39hg",
         "W1Xbf7ez7T",
         "3c9C95vaFP",
-        "WXcBdSXuE9"
+        "WXcBdSXuE9",
+        "MpHBsQvRDC"
       ],
       "blockIds": []
     }
@@ -51,7 +79,14 @@
     {
       "id": "Overview",
       "title": "Usage",
-      "blockIds": ["GUshucXGiO", "1zsHlF6chs", "wwkLIOf27t", "aqVaPpg6o5"]
+      "blockIds": [
+        "GUshucXGiO",
+        "5elXw1l_ju",
+        "kGaheooMQK",
+        "1zsHlF6chs",
+        "wwkLIOf27t",
+        "aqVaPpg6o5"
+      ]
     },
     {
       "id": "Accessibility",

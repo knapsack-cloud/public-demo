@@ -1,5 +1,11 @@
 blocks:
   byId:
+    '-0Ez1-13q_':
+      blockType: text-editor
+      data:
+        content: {}
+      id: '-0Ez1-13q_'
+      size: null
     '-plYGPDwcr':
       blockType: pattern-variations
       data:
@@ -419,6 +425,7 @@ blocks:
       blockType: pattern-variations
       data:
         demoId: 2ysfvm4ShE
+        hideBlockTitle: false
         patternId: button
         size: s
         templateId: react
@@ -503,18 +510,21 @@ blocks:
     1zsHlF6chs:
       blockType: pattern-template-block
       data:
-        demoId: RN96ZpJJpY
+        allowResizing: false
+        demoId: WXcBdSXuE9
         demoSize: landscape
         hideControls: false
         patternId: card
         playgroundUi:
+          allowResizing: false
           demoSize: landscape
-          showCodeSnippet: true
-          showSchemaForm: false
-        showCodeSnippet: true
-        showSchemaForm: false
+          showCodeSnippet: false
+          showSchemaForm: true
+        showCodeSnippet: false
+        showSchemaForm: true
         templateId: react
       id: 1zsHlF6chs
+      size: medium
     26WskgYN2R:
       blockType: design-token-block
       data:
@@ -944,6 +954,15 @@ blocks:
               type: paragraph
           type: doc
       id: 5RQruglYiX
+    5elXw1l_ju:
+      blockType: design-tokens
+      data:
+        demoId: color-swatch
+        groupIds:
+          - color.brand
+        tokenType: ''
+      id: 5elXw1l_ju
+      size: null
     5vJm5kT6wh:
       blockType: text-editor
       data:
@@ -2311,16 +2330,6 @@ blocks:
               type: heading
           type: doc
       id: 9R_EDAEKZb
-    9SdC5V2SSU:
-      blockType: text-editor
-      data:
-        content:
-          content:
-            - attrs:
-                level: 1
-              type: heading
-          type: doc
-      id: 9SdC5V2SSU
     9bVy_rzlTP:
       blockType: figma-block
       data:
@@ -3237,16 +3246,6 @@ blocks:
               type: paragraph
           type: doc
       id: K-6A8f88Qu
-    KILApugMxg:
-      blockType: text-editor
-      data:
-        content:
-          content:
-            - attrs:
-                level: 1
-              type: heading
-          type: doc
-      id: KILApugMxg
     KXhg_6iRn8:
       blockType: generic-iframe
       data:
@@ -4615,6 +4614,20 @@ blocks:
           type: doc
       id: YKDDAnqI45
       size: medium
+    Yaq264ZMeX:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                textAlign: left
+              content:
+                - text: Needs Development
+                  type: text
+              type: paragraph
+          type: doc
+      id: Yaq264ZMeX
+      size: null
     YkyHkvdzp_:
       blockType: text-editor
       data:
@@ -4670,7 +4683,7 @@ blocks:
               type: paragraph
           type: doc
       id: YkyHkvdzp_
-      size: large
+      size: medium
     ZE6EJ0E78u:
       blockType: text-editor
       data:
@@ -5332,7 +5345,7 @@ blocks:
       blockType: figma-block
       data:
         clickToInteract: true
-        height: '600'
+        height: '60'
         url: >-
           https://www.figma.com/file/SeCuEHB6ZLzybKoeMJFoiz/DSM-Tools---Evaluation-Knapsack-2023?type=whiteboard&node-id=0%3A1&t=0WlUMmURd473O8vq-1
       id: ei-YskVmtj
@@ -5726,12 +5739,19 @@ blocks:
     kCs__ou9y9:
       blockType: pattern-variations
       data:
-        demoId: 2CXfLJgtaC
+        demoId: 2ysfvm4ShE
+        hideBlockTitle: false
         patternId: button
         size: s
         templateId: react
         variationId: type
       id: kCs__ou9y9
+    kGaheooMQK:
+      blockType: shortcut-tiles
+      data:
+        shortcuts: []
+      id: kGaheooMQK
+      size: null
     kKTr9MvIOY:
       blockType: figma-block
       data:
@@ -5946,16 +5966,6 @@ blocks:
     n8S6Hd_tQN:
       blockType: pattern-status-table-block
       id: n8S6Hd_tQN
-    nFepVH2iK2:
-      blockType: text-editor
-      data:
-        content:
-          content:
-            - attrs:
-                level: 1
-              type: heading
-          type: doc
-      id: nFepVH2iK2
     nV_Eryo1YN:
       blockType: text-editor
       data:
@@ -6370,6 +6380,15 @@ blocks:
         templateId: react
         variationId: size
       id: osLNmkYLkO
+    pB-7Fbx3gO:
+      blockType: design-tokens
+      data:
+        demoId: color-swatch
+        groupIds:
+          - color.brand
+        tokenType: color
+      id: pB-7Fbx3gO
+      size: null
     pR3IAfgqBA:
       blockType: text-editor
       data:
@@ -6721,20 +6740,6 @@ blocks:
     tA1WrvdWyM:
       blockType: pattern-list-block
       id: tA1WrvdWyM
-    tLVKD5NZFl:
-      blockType: text-editor
-      data:
-        content:
-          content:
-            - attrs:
-                level: 1
-              content:
-                - text: Accessibility
-                  type: text
-              type: heading
-          type: doc
-      id: tLVKD5NZFl
-      size: null
     tY2rt92bob:
       blockType: text-editor
       data:
@@ -7015,13 +7020,13 @@ blocks:
     vFalbAV-gx:
       blockType: pattern-template-block
       data:
-        allowResizing: false
+        allowResizing: true
         demoId: 2ysfvm4ShE
         demoSize: landscape
-        hideControls: false
+        hideControls: true
         patternId: button
         playgroundUi:
-          allowResizing: false
+          allowResizing: true
           demoSize: landscape
           showCodeSnippet: false
           showSchemaForm: false
@@ -7029,7 +7034,7 @@ blocks:
         showSchemaForm: false
         templateId: react
       id: vFalbAV-gx
-      size: small
+      size: medium
     vPbAkMHWK4:
       blockType: text-editor
       data:
@@ -7255,20 +7260,6 @@ blocks:
               type: paragraph
           type: doc
       id: wwkLIOf27t
-    x8lw0KWrn9:
-      blockType: text-editor
-      data:
-        content:
-          content:
-            - attrs:
-                level: 1
-              content:
-                - text: API
-                  type: text
-              type: heading
-          type: doc
-      id: x8lw0KWrn9
-      size: null
     xC4g9J20wL:
       blockType: text-editor
       data:
@@ -7954,7 +7945,7 @@ demos:
           url: '#url'
         slots:
           children:
-            - text: Button
+            - text: Button Stories!
               type: text
       height: 65
       id: 2ysfvm4ShE
@@ -8020,7 +8011,7 @@ demos:
             - '#2|Features'
             - Marketplace
             - Company
-          logo: https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg
+          logo: https://knapsack.imgix.net/site/public-demo/bill-logo-4bii8bbys8.svg
         slots: {}
       description: This Top Nav variation contains a logo, links, and a button.
       id: Cmjc3yXJ_r
@@ -8098,6 +8089,18 @@ demos:
       templateId: web-components
       title: Main
       type: data
+    MpHBsQvRDC:
+      data:
+        props: {}
+        slots: {}
+      description: A description
+      height: 616
+      id: MpHBsQvRDC
+      patternId: card
+      templateId: react
+      title: New Variation
+      type: data
+      width: 417
     RN96ZpJJpY:
       data:
         props:
@@ -8159,13 +8162,23 @@ demos:
           label: Case Study
           title: Improve your customer experience
         slots:
-          children: []
+          children:
+            - demoId: hGfcj0Ksms
+              patternId: author
+              templateId: react
+              type: template-demo
+            - demoId: 2ysfvm4ShE
+              patternId: button
+              templateId: react
+              type: template-demo
       description: ''
+      height: 616
       id: WXcBdSXuE9
       patternId: card
       templateId: react
       title: Simple
       type: data
+      width: 488
     _nTCiQ1984:
       data:
         props:
@@ -8311,7 +8324,7 @@ demos:
             - '#2|Features'
             - Marketplace
             - Company
-          logo: https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg
+          logo: https://knapsack.imgix.net/site/public-demo/bill-logo-4bii8bbys8.svg
         slots: {}
       description: This Top Nav variation contains a logo and links.
       id: o7iL4YT_dA
