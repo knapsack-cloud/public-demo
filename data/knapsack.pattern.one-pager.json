@@ -21,7 +21,7 @@
   "subPages": [
     {
       "id": "overview",
-      "title": "Overview",
+      "title": "Examples",
       "blockIds": ["vPbAkMHWK4", "dsiSgOXHIC"]
     }
   ],
@@ -52,10 +52,10 @@
         }
       },
       "alias": "PageLayout",
-      "title": "React",
+      "title": "Playground",
       "templateLanguageId": "react",
       "assetSetIds": ["default", "dark"],
-      "demoIds": ["jIkrNzJ0cO", "eYJV0byNIp"],
+      "demoIds": ["eYJV0byNIp", "jIkrNzJ0cO"],
       "blockIds": []
     }
   ],
