@@ -228,7 +228,7 @@ byId:
     path: /pattern/top-nav
   welcome-to-knapsack:
     id: welcome-to-knapsack
-    name: Welcome to Knapsack
+    name: Welcome to PDS
     parentId: getting-started
     path: /pages/welcome-to-knapsack
 order:

@@ -1,5 +1,5 @@
 id: homepage
-title: Welcome to Knapsack
+title: Welcome to PDS
 settings:
   pageHeader:
     size: full
@@ -7,11 +7,13 @@ settings:
       type: design-token
       tokenName: color-brand-primary
       colorValue: '#FFFFFF'
-    backgroundImage: https://knapsack.imgix.net/site/public-demo/clark-van-der-beken-596baa0mpym-unsplash-o5drv55uvq.jpg
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/holiday-hub-skipandsave-dogwithbeds-909-1018-dqntdc93nz.avif
     textColorDescription:
       type: design-token
       tokenName: color-Meh-black
       colorValue: '#FFFFFF'
+    backgroundSize: contain
+    backgroundPosition: right
 description: |-
   A shared platform for product teams to collaborate
   on documenting, designing, building, testing, and shipping
