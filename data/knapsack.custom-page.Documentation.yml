@@ -7,9 +7,14 @@ settings:
       type: design-token
       tokenName: color-brand-primary
       colorValue: '#000000'
-    backgroundImage: https://knapsack.imgix.net/site/public-demo/sincerely-media-dgqf1dukutm-unsplash-dvgozcedlb.jpg
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/81ccpba-nal._ac_sl1500_-afc3mlvivu.jpg
     textColorDescription:
       type: value
       colorValue: '#000000'
+    backgroundSize: contain
+    backgroundPosition: right
 description: Read about how to use your design system
-blockIds: []
+blockIds:
+  - y7e0x_KAMN
+  - 3nx-x-krwF
+  - 836ZvCc7ev

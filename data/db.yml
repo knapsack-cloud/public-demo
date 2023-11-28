@@ -386,6 +386,7 @@ blocks:
       blockType: pattern-variations
       data:
         demoId: 2ysfvm4ShE
+        hideBlockTitle: false
         patternId: button
         size: s
         templateId: react
@@ -1400,6 +1401,7 @@ blocks:
               type: paragraph
           type: doc
       id: 836ZvCc7ev
+      size: medium
     87U-rc0g9a:
       blockType: text-editor
       data:
@@ -2266,6 +2268,45 @@ blocks:
         height: '800'
         url: https://www.figma.com/file/rcMETa2cNqQDFLd41cZA14/Demo-Design-System?node-id=0%3A1
       id: Hn3xvYmDXj
+    HxAzv2Hh2d:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - content:
+                - marks:
+                    - type: italic
+                  text: 'This section provides an overview of content formatting options in Knapsack. Visit the '
+                  type: text
+                - marks:
+                    - attrs:
+                        class: null
+                        href: ././Design-Tokens-lNWaUqkDSo
+                        target: _blank
+                      type: link
+                    - type: italic
+                  text: Design Tokens
+                  type: text
+                - marks:
+                    - type: italic
+                  text: ' and '
+                  type: text
+                - marks:
+                    - attrs:
+                        class: null
+                        href: ././Components-Overview
+                        target: _blank
+                      type: link
+                    - type: italic
+                  text: Components
+                  type: text
+                - marks:
+                    - type: italic
+                  text: ' sections for examples of asset docs.'
+                  type: text
+              type: paragraph
+          type: doc
+      id: HxAzv2Hh2d
     IAHMxBb9dw:
       blockType: divider-block
       id: IAHMxBb9dw
@@ -2352,6 +2393,16 @@ blocks:
     Lsu6cM8BeA:
       blockType: divider-block
       id: Lsu6cM8BeA
+    MCfidMjiAt:
+      blockType: pattern-variations
+      data:
+        demoId: 2ysfvm4ShE
+        excludePropValue: ''
+        includePropValue: ''
+        patternId: button
+        templateId: react
+        variationId: ''
+      id: MCfidMjiAt
     MPWVYU6VPU:
       blockType: text-editor
       data:
@@ -3018,6 +3069,91 @@ blocks:
           type: doc
       id: XpB9TVIOvh
       size: medium
+    XtY77w3k7G:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 2
+              content:
+                - text: Basic Text Formatting
+                  type: text
+              type: heading
+            - attrs:
+                level: 1
+              content:
+                - text: Heading 1
+                  type: text
+              type: heading
+            - attrs:
+                level: 2
+              content:
+                - text: Heading 2
+                  type: text
+              type: heading
+            - attrs:
+                level: 3
+              content:
+                - text: Heading 3
+                  type: text
+              type: heading
+            - attrs:
+                level: 4
+              content:
+                - text: Heading 4
+                  type: text
+              type: heading
+            - content:
+                - content:
+                    - content:
+                        - text: Bulleted List 1
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: Bulleted List 2
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: Bulleted List 3
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+            - attrs:
+                start: 1
+              content:
+                - content:
+                    - content:
+                        - text: Numbered List 1
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: Numbered List 2
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: Numbered List 3
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: orderedList
+            - content:
+                - content:
+                    - text: Block quotes block quotes block quotes block quotes
+                      type: text
+                  type: paragraph
+              type: blockquote
+          type: doc
+      id: XtY77w3k7G
     XvSFjTcPwH:
       blockType: design-token-block
       data:
@@ -3158,6 +3294,22 @@ blocks:
               type: heading
           type: doc
       id: ZlCcg9r5Lk
+    _Y3TByWRsG:
+      blockType: pattern-template-block
+      data:
+        allowResizing: true
+        demoId: 2ysfvm4ShE
+        hideControls: false
+        patternId: button
+        playgroundUi:
+          allowResizing: true
+          demoSize: landscape
+          showCodeSnippet: true
+          showSchemaForm: true
+        showCodeSnippet: true
+        showSchemaForm: true
+        templateId: react
+      id: _Y3TByWRsG
     _f4PbvkrLK:
       blockType: design-token-block
       data:
@@ -4687,6 +4839,135 @@ blocks:
     qRvc5hdIxP:
       blockType: divider-block
       id: qRvc5hdIxP
+    r3MT98CXbI:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 2
+              content:
+                - text: Overview
+                  type: text
+              type: heading
+            - content:
+                - text: 'Using the '
+                  type: text
+                - marks:
+                    - type: bold
+                  text: Markdown
+                  type: text
+                - text: ' content block, users can create simple static documentation. Whether for documenting usage guidelines, defining processes, or providing access and reference to other resources, Markdown is a simple and flexible way to add your documentation to Knapsack.'
+                  type: text
+              type: paragraph
+            - content:
+                - text: 'If you''re not familiar with Markdown, '
+                  type: text
+                - marks:
+                    - attrs:
+                        class: null
+                        href: https://www.w3.org/community/markdown/wiki/Syntax
+                        target: _blank
+                      type: link
+                  text: check out the W3C guide to Markdown
+                  type: text
+                - text: ' to get started.'
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 4
+              content:
+                - text: 'Explore the different options for static content formatting below:'
+                  type: text
+              type: heading
+            - content:
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: '#basic-text-formatting'
+                                target: _blank
+                              type: link
+                          text: Basic text formatting
+                          type: text
+                        - text: ' (headers, bulleted List, etc.)'
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: '#in-line-images-and-gifs'
+                                target: _blank
+                              type: link
+                          text: In-line images and GIFs
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: '#multi-column-support'
+                                target: _blank
+                              type: link
+                          text: Multi-Column Support
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: '#code-blocks'
+                                target: _blank
+                              type: link
+                          text: Code blocks
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: '#horizontal-dividers'
+                                target: _blank
+                              type: link
+                          text: Horizontal dividers
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - marks:
+                            - attrs:
+                                class: null
+                                href: '#tables'
+                                target: _blank
+                              type: link
+                          text: Tables
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - content:
+                        - text: Links (anchor, relative and full) - like those above!
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+            - content:
+                - text: Use the below sections to browse examples of markdown content formatting.
+                  type: text
+              type: paragraph
+          type: doc
+      id: r3MT98CXbI
     rGQjPZFRdn:
       blockType: text-editor
       data:
@@ -5661,8 +5942,7 @@ demos:
           body: >-
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus,
             eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.
-          imgSrc: >-
-            https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+          imgSrc: https://assets.petco.com/petco/image/upload/f_auto,q_auto:best/services-holiday-training
           label: Article
           title: Boost your conversion rate
         slots:
@@ -5722,12 +6002,12 @@ demos:
       data:
         props:
           mode: info
-          size: medium
-          type: solid
+          size: large
+          type: outline
           url: '#url'
         slots:
           children:
-            - text: Button
+            - text: Best Button
               type: text
       height: 65
       id: 2ysfvm4ShE
@@ -5764,8 +6044,7 @@ demos:
           body: >-
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint harum rerum voluptatem quo recusandae magni
             placeat saepe molestiae, sed excepturi cumque corporis perferendis hic.
-          imgSrc: >-
-            https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+          imgSrc: https://assets.petco.com/petco/image/upload/f_auto,q_auto:best/services-holiday-vetco-vaccination
           label: Case Study
           title: Improve your customer experience
         slots:
@@ -5877,8 +6156,7 @@ demos:
           body: >-
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus,
             eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.
-          imgSrc: >-
-            https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+          imgSrc: https://assets.petco.com/petco/image/upload/f_auto,q_auto:best/services-holiday-grooming-112623
           label: Article
           title: Boost your conversion rate now!
         slots:
@@ -5905,8 +6183,7 @@ demos:
           body: >-
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus,
             eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.
-          imgSrc: >-
-            https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+          imgSrc: https://assets.petco.com/petco/image/upload/f_auto,q_auto:best/services-holiday-vetco-total
           label: Video
           title: How to use search engine optimization to drive sales
         slots:
@@ -6017,6 +6294,16 @@ demos:
       patternId: one-pager
       templateId: react
       title: Blank Template
+      type: data
+    gOMz0bbs5K:
+      data:
+        props: {}
+        slots: {}
+      description: A description
+      id: gOMz0bbs5K
+      patternId: button
+      templateId: react
+      title: New Variation
       type: data
     gsI4PO5HfP:
       data:
@@ -6134,7 +6421,9 @@ demos:
       type: template
   settings: {}
 settings:
-  logoUrl: https://knapsack.imgix.net/site/public-demo/knapsack-logomark-primary@3x-c3fjqx5ll_.png
+  favicon: https://knapsack.imgix.net/site/public-demo/petco-logo_691777-17-37tw_ylcdm.avif
+  hideTitleInNavigation: false
+  logoUrl: https://knapsack.imgix.net/site/public-demo/petco-logo-701rczohqd.png
   theme:
     appearance:
       customFonts:
@@ -6155,26 +6444,33 @@ settings:
       navigation:
         primaryNav:
           accentColor:
-            tokenName: color.brand.primary
+            tokenName: color.base.blue
             type: design-token
           backgroundColor:
-            tokenName: color.brand.black
+            tokenName: color.dark.blue
             type: design-token
-          fontFamily: Inter
+          fontFamily: Nunito
           fontWeight: 800
           hoverColor:
-            tokenName: color.brand.secondary
+            tokenName: color.base.red
             type: design-token
-          lineHeight: ''
           textColor:
             tokenName: color.text.inverse
             type: design-token
+          textTransform: inherit
         secondaryNav:
           accentColor:
-            tokenName: color-brand-secondary
+            tokenName: color.base.blue
+            type: design-token
+          backgroundColor:
+            tokenName: color.brand.white
             type: design-token
           fontFamily: Inter
           fontWeight: 500
+          textColor:
+            tokenName: color.brand.primary
+            type: design-token
+          textTransform: inherit
         tabs:
           fontFamily: Inter
       pageElements:
@@ -6207,4 +6503,4 @@ settings:
           fontWeight: 800
           textTransform: inherit
     version: 10
-  title: Public Demo
+  title: Petco Design System
