@@ -24,6 +24,11 @@
       "yellow": {
         "$type": "color",
         "$value": "#FCD02A"
+      },
+      "Holidat Lt Blue": {
+        "$type": "color",
+        "$value": "#2d6995",
+        "$description": ""
       }
     },
     "dark": {
@@ -77,7 +82,7 @@
       },
       "primary": {
         "$type": "color",
-        "$value": "{color.dark.blue}"
+        "$value": "{color.base.Holidat Lt Blue}"
       },
       "tertiary": {
         "$type": "color",

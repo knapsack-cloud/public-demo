@@ -386,6 +386,7 @@ blocks:
       blockType: pattern-variations
       data:
         demoId: 2ysfvm4ShE
+        hideBlockTitle: false
         patternId: button
         size: s
         templateId: react
@@ -1400,6 +1401,7 @@ blocks:
               type: paragraph
           type: doc
       id: 836ZvCc7ev
+      size: medium
     87U-rc0g9a:
       blockType: text-editor
       data:
@@ -2391,6 +2393,16 @@ blocks:
     Lsu6cM8BeA:
       blockType: divider-block
       id: Lsu6cM8BeA
+    MCfidMjiAt:
+      blockType: pattern-variations
+      data:
+        demoId: 2ysfvm4ShE
+        excludePropValue: ''
+        includePropValue: ''
+        patternId: button
+        templateId: react
+        variationId: ''
+      id: MCfidMjiAt
     MPWVYU6VPU:
       blockType: text-editor
       data:
@@ -3282,6 +3294,22 @@ blocks:
               type: heading
           type: doc
       id: ZlCcg9r5Lk
+    _Y3TByWRsG:
+      blockType: pattern-template-block
+      data:
+        allowResizing: true
+        demoId: 2ysfvm4ShE
+        hideControls: false
+        patternId: button
+        playgroundUi:
+          allowResizing: true
+          demoSize: landscape
+          showCodeSnippet: true
+          showSchemaForm: true
+        showCodeSnippet: true
+        showSchemaForm: true
+        templateId: react
+      id: _Y3TByWRsG
     _f4PbvkrLK:
       blockType: design-token-block
       data:
@@ -5974,12 +6002,12 @@ demos:
       data:
         props:
           mode: info
-          size: medium
-          type: solid
+          size: large
+          type: outline
           url: '#url'
         slots:
           children:
-            - text: Button
+            - text: Best Button
               type: text
       height: 65
       id: 2ysfvm4ShE
@@ -6266,6 +6294,16 @@ demos:
       patternId: one-pager
       templateId: react
       title: Blank Template
+      type: data
+    gOMz0bbs5K:
+      data:
+        props: {}
+        slots: {}
+      description: A description
+      id: gOMz0bbs5K
+      patternId: button
+      templateId: react
+      title: New Variation
       type: data
     gsI4PO5HfP:
       data:
