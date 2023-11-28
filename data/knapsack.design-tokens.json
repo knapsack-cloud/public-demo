@@ -82,7 +82,7 @@
       },
       "primary": {
         "$type": "color",
-        "$value": "{color.base.Holidat Lt Blue}"
+        "$value": "{color.dark.blue}"
       },
       "tertiary": {
         "$type": "color",
