@@ -7,7 +7,7 @@
       },
       "blue": {
         "$type": "color",
-        "$value": "#207FF9"
+        "$value": "{color.base.orange}"
       },
       "green": {
         "$type": "color",
