@@ -45,6 +45,10 @@
     {
       "id": "react",
       "type": "template"
+    },
+    {
+      "id": "HerFzTnRBY",
+      "type": "subPage"
     }
   ],
   "subPages": [
@@ -62,6 +66,11 @@
       "id": "Figma",
       "title": "Figma",
       "blockIds": ["Hn3xvYmDXj"]
+    },
+    {
+      "id": "HerFzTnRBY",
+      "title": "Untitled",
+      "blockIds": []
     }
   ]
 }

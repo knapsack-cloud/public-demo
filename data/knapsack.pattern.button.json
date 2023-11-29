@@ -51,12 +51,7 @@
           },
           "description": ""
         },
-        "slots": {
-          "children": {
-            "title": "children",
-            "isRequired": true
-          }
-        }
+        "slots": {}
       },
       "demoIds": ["2ysfvm4ShE", "2CXfLJgtaC"],
       "blockIds": []
