@@ -2624,6 +2624,27 @@ blocks:
               type: paragraph
           type: doc
       id: PgZf2sEi0K
+    QQurOIEo57:
+      blockType: callout
+      data:
+        content:
+          content:
+            - content:
+                - marks:
+                    - type: bold
+                  text: Understanding Component Status
+                  type: text
+              type: paragraph
+            - content:
+                - text: "dlihdilkfhd djhfdj\_"
+                  type: text
+              type: paragraph
+          type: doc
+        type: info
+      header:
+        showHeader: false
+      id: QQurOIEo57
+      size: medium
     Qons-1E8SD:
       blockType: text-editor
       data:
@@ -3018,6 +3039,14 @@ blocks:
           type: doc
       id: XpB9TVIOvh
       size: medium
+    XqFYqfM9Hh:
+      blockType: design-tokens
+      data:
+        demoId: color-swatch
+        groupIds:
+          - color.brand
+        tokenType: ''
+      id: XqFYqfM9Hh
     XvSFjTcPwH:
       blockType: design-token-block
       data:
@@ -4185,6 +4214,7 @@ blocks:
     n8S6Hd_tQN:
       blockType: pattern-status-table-block
       id: n8S6Hd_tQN
+      size: medium
     nFepVH2iK2:
       blockType: text-editor
       data:
