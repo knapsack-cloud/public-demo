@@ -470,16 +470,18 @@ blocks:
     1zsHlF6chs:
       blockType: pattern-template-block
       data:
-        demoId: RN96ZpJJpY
+        allowResizing: false
+        demoId: WXcBdSXuE9
         demoSize: landscape
         hideControls: false
         patternId: card
         playgroundUi:
+          allowResizing: false
           demoSize: landscape
-          showCodeSnippet: true
-          showSchemaForm: false
-        showCodeSnippet: true
-        showSchemaForm: false
+          showCodeSnippet: false
+          showSchemaForm: true
+        showCodeSnippet: false
+        showSchemaForm: true
         templateId: react
       id: 1zsHlF6chs
     26WskgYN2R:
@@ -518,6 +520,10 @@ blocks:
             - brand
           type: color
       id: 2c9-R7CZYc
+    2e5UtkHPN_:
+      blockType: guidelines
+      data: {}
+      id: 2e5UtkHPN_
     3JP6lsPzm5:
       blockType: divider-block
       id: 3JP6lsPzm5
@@ -3158,6 +3164,14 @@ blocks:
               type: heading
           type: doc
       id: ZlCcg9r5Lk
+    _7npxkXokf:
+      blockType: design-tokens
+      data:
+        demoId: color-swatch
+        groupIds:
+          - color.brand
+        tokenType: color
+      id: _7npxkXokf
     _f4PbvkrLK:
       blockType: design-token-block
       data:
