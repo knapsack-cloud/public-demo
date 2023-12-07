@@ -2,7 +2,7 @@ id: Documentation
 title: Documentation
 settings:
   pageHeader:
-    size: full
+    size: medium
     textColorTitle:
       type: design-token
       tokenName: color-brand-primary
