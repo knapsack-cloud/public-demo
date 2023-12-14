@@ -382,6 +382,14 @@ blocks:
           type: doc
       id: 1MwxUqcERn
       size: null
+    1QoMk5jBvt:
+      blockType: design-tokens
+      data:
+        demoId: color-swatch
+        groupIds:
+          - color.brand
+        tokenType: color
+      id: 1QoMk5jBvt
     1VyLx4PL0Q:
       blockType: pattern-variations
       data:
@@ -470,29 +478,28 @@ blocks:
     1zsHlF6chs:
       blockType: pattern-template-block
       data:
-        demoId: RN96ZpJJpY
+        allowResizing: false
+        demoId: WXcBdSXuE9
         demoSize: landscape
         hideControls: false
         patternId: card
         playgroundUi:
+          allowResizing: false
           demoSize: landscape
-          showCodeSnippet: true
-          showSchemaForm: false
-        showCodeSnippet: true
-        showSchemaForm: false
+          showCodeSnippet: false
+          showSchemaForm: true
+        showCodeSnippet: false
+        showSchemaForm: true
         templateId: react
       id: 1zsHlF6chs
-    26WskgYN2R:
-      blockType: design-token-block
+    2-zFZy1Qc:
+      blockType: design-tokens
       data:
-        demo:
-          id: media-query
-        tokens:
-          category: breakpoint
-          name: ''
-          tags: []
-          type: dimension
-      id: 26WskgYN2R
+        demoId: media-query
+        groupIds:
+          - breakpoint
+        tokenType: dimension
+      id: 2-zFZy1Qc
     2RIhkctxWB:
       blockType: text-editor
       data:
@@ -506,21 +513,288 @@ blocks:
               type: heading
           type: doc
       id: 2RIhkctxWB
-    2c9-R7CZYc:
-      blockType: design-token-block
-      data:
-        demo:
-          id: color-swatch
-        tokens:
-          category: color
-          name: ''
-          tags:
-            - brand
-          type: color
-      id: 2c9-R7CZYc
     3JP6lsPzm5:
       blockType: divider-block
       id: 3JP6lsPzm5
+    3VBKJaReOG:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                start: 1
+              content:
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - marks:
+                            - type: bold
+                          text: Explore the Design System
+                          type: text
+                        - text: >-
+                            : Familiarize yourself with our design system. Understand the components, patterns,
+                            guidelines, and usage principles.
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - marks:
+                            - type: bold
+                          text: Identify Opportunities
+                          type: text
+                        - text: >-
+                            : If you spot an area for improvement, a new component idea, or a refinement to an existing
+                            element, you're ready to contribute!
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - marks:
+                            - type: bold
+                          text: Make Your Changes
+                          type: text
+                        - text: >-
+                            : Use our design tools to create or modify components. Ensure your design aligns with our
+                            system's principles and guidelines.
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - marks:
+                            - type: bold
+                          text: Document Your Work
+                          type: text
+                        - text: >-
+                            : Clearly document your design rationale, usage guidelines, and any other relevant
+                            information. This documentation is crucial for understanding your contribution.
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - marks:
+                            - type: bold
+                          text: Submit for Review
+                          type: text
+                        - text: ': Once you''re ready, use the '
+                          type: text
+                        - marks:
+                            - type: bold
+                          text: '"Publish Change"'
+                          type: text
+                        - text: ' button in Knapsack. This will submit your contribution for review.'
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: orderedList
+            - attrs:
+                level: 4
+                textAlign: start
+              content:
+                - marks:
+                    - type: bold
+                  text: Using the "Publish Change" Button in Knapsack
+                  type: text
+              type: heading
+            - content:
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - marks:
+                            - type: bold
+                          text: Step 1
+                          type: text
+                        - text: ': After making your changes in Knapsack, locate the '
+                          type: text
+                        - marks:
+                            - type: bold
+                          text: '"Publish Change"'
+                          type: text
+                        - text: ' button.'
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - marks:
+                            - type: bold
+                          text: Step 2
+                          type: text
+                        - text: ': Click the button to open the submission form.'
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - marks:
+                            - type: bold
+                          text: Step 3
+                          type: text
+                        - text: >-
+                            : Fill in the details of your contribution, including a brief description and any relevant
+                            comments.
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - marks:
+                            - type: bold
+                          text: Step 4
+                          type: text
+                        - text: ': Submit your changes for review.'
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+            - attrs:
+                level: 4
+                textAlign: start
+              content:
+                - marks:
+                    - type: bold
+                  text: What Happens Next?
+                  type: text
+              type: heading
+            - content:
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - marks:
+                            - type: bold
+                          text: Review Process
+                          type: text
+                        - text: >-
+                            : Our design system team will review your submission. We may reach out for further
+                            discussion or clarification.
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - marks:
+                            - type: bold
+                          text: Approval and Integration
+                          type: text
+                        - text: ': Once approved, your contribution will be integrated into the design system.'
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - marks:
+                            - type: bold
+                          text: Acknowledgment
+                          type: text
+                        - text: >-
+                            : Contributors like you are vital to our system's growth. We ensure to acknowledge your
+                            valuable input.
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+            - attrs:
+                level: 4
+                textAlign: start
+              content:
+                - marks:
+                    - type: bold
+                  text: Guidelines for Contribution
+                  type: text
+              type: heading
+            - content:
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - marks:
+                            - type: bold
+                          text: Consistency
+                          type: text
+                        - text: ': Ensure your contribution aligns with existing components and styles.'
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - marks:
+                            - type: bold
+                          text: Accessibility
+                          type: text
+                        - text: ': Prioritize accessibility in your designs.'
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - marks:
+                            - type: bold
+                          text: Scalability
+                          type: text
+                        - text: ': Consider how your design scales in different contexts.'
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - marks:
+                            - type: bold
+                          text: Collaboration
+                          type: text
+                        - text: ': Feel free to collaborate with others. Teamwork often leads to the best outcomes.'
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: bulletList
+            - attrs:
+                level: 4
+                textAlign: start
+              content:
+                - marks:
+                    - type: bold
+                  text: Thank You for Your Contribution!
+                  type: text
+              type: heading
+            - attrs:
+                textAlign: start
+              content:
+                - text: >-
+                    Your expertise and insights are what make our design system robust and user-friendly. We appreciate
+                    your commitment to improving our collective work.
+                  type: text
+              type: paragraph
+          type: doc
+      id: 3VBKJaReOG
     3gJ6FcaTSt:
       blockType: text-editor
       data:
@@ -702,20 +976,6 @@ blocks:
               type: blockquote
           type: doc
       id: 3nx-x-krwF
-    47VollR_2X:
-      blockType: text-editor
-      data:
-        content:
-          content:
-            - attrs:
-                alt: ''
-                src: >-
-                  https://p189.p2.n0.cdn.getcloudapp.com/items/6quZxE4g/f25d63f7-d4bc-4ea8-a7ce-7c7674c9eebc.jpg?source=viewer&v=6d70885803e9c7d57a9c7e328992fe9b?h=200&w=540
-                title: null
-              type: image
-          type: doc
-      id: 47VollR_2X
-      size: medium
     4gpsIFEONx:
       blockType: text-editor
       data:
@@ -993,17 +1253,6 @@ blocks:
           type: doc
       id: 5vJm5kT6wh
       size: medium
-    5zXw_M1qDW:
-      blockType: design-token-block
-      data:
-        demo:
-          id: table-list
-        tokens:
-          category: ''
-          name: ''
-          tags:
-            - brand
-      id: 5zXw_M1qDW
     6-qXFUJ0eH:
       blockType: text-editor
       data:
@@ -1082,17 +1331,6 @@ blocks:
               type: paragraph
           type: doc
       id: 6eHTQ_DA5d
-    7-9Z3dxHft:
-      blockType: design-token-block
-      data:
-        demo:
-          id: color-swatch
-        tokens:
-          category: color
-          name: ''
-          tags:
-            - base
-      id: 7-9Z3dxHft
     7-_Pn7r-MG:
       blockType: text-editor
       data:
@@ -1251,6 +1489,16 @@ blocks:
     7arudKsMF0:
       blockType: divider-block
       id: 7arudKsMF0
+    80MRBY3E66:
+      blockType: shortcut-tiles
+      data:
+        shortcuts:
+          - id: ioFGVffi48
+            link:
+              name: Knapsack's Publishing Workflow
+              path: /pages/knapsack's-publishing-workflow
+            title: Knapsack's Publishing Workflow
+      id: 80MRBY3E66
     82vqfNsnx0:
       blockType: text-editor
       data:
@@ -1715,6 +1963,21 @@ blocks:
               type: paragraph
           type: doc
       id: DQJfjlsVyS
+    DRLQ9gSxMB:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                alt: null
+                src: https://knapsack.imgix.net/site/public-demo/new-pattern-journey-x165eoi73tpng-tuydlkukclpng
+                title: null
+              type: image
+            - attrs:
+                textAlign: left
+              type: paragraph
+          type: doc
+      id: DRLQ9gSxMB
     DRNLXHrlPG:
       blockType: text-editor
       data:
@@ -1846,6 +2109,10 @@ blocks:
               type: image
           type: doc
       id: ERHZS37CMD
+    FQmvgkauhv:
+      blockType: pattern-list-block
+      data: {}
+      id: FQmvgkauhv
     FaBVdJC1P7:
       blockType: text-editor
       data:
@@ -2105,85 +2372,21 @@ blocks:
           content:
             - attrs:
                 level: 2
+                textAlign: left
               content:
                 - text: Overview
                   type: text
               type: heading
-            - content:
+            - attrs:
+                textAlign: left
+              content:
                 - text: Use card layouts to present a high-level summary of content related to a single topic.
                   type: text
               type: paragraph
             - attrs:
                 level: 3
-              content:
-                - text: 'Do:'
-                  type: text
+                textAlign: left
               type: heading
-            - content:
-                - content:
-                    - content:
-                        - text: >-
-                            Consider and choose text and visual elements carefully. Test your cards with the minimal
-                            content and only add additional content or graphics where they give needed context to the
-                            user
-                          type: text
-                      type: paragraph
-                  type: listItem
-                - content:
-                    - content:
-                        - text: Use headlines that set clear expectations about the content being linked to
-                          type: text
-                      type: paragraph
-                  type: listItem
-                - content:
-                    - content:
-                        - text: Use one style of card per module, don't mix and match
-                          type: text
-                      type: paragraph
-                  type: listItem
-                - content:
-                    - content:
-                        - text: Feature one piece of information per card
-                          type: text
-                      type: paragraph
-                  type: listItem
-                - content:
-                    - content:
-                        - text: >-
-                            Outline the main idea with the minimal possible information, don't overload with information
-                            as the card links to more detail
-                          type: text
-                      type: paragraph
-                  type: listItem
-              type: bulletList
-            - attrs:
-                level: 3
-              content:
-                - text: 'Do not:'
-                  type: text
-              type: heading
-            - content:
-                - content:
-                    - content:
-                        - text: Mix card styles within the same module
-                          type: text
-                      type: paragraph
-                  type: listItem
-                - content:
-                    - content:
-                        - text: Overload with information as the card links to more detail
-                          type: text
-                      type: paragraph
-                  type: listItem
-                - content:
-                    - content:
-                        - text: >-
-                            Add inline text links, the card itself is clickable and should link to a single piece of
-                            information, consider using content blocks in this instance
-                          type: text
-                      type: paragraph
-                  type: listItem
-              type: bulletList
           type: doc
       id: GUshucXGiO
     Gal6UXZEiQ:
@@ -2256,6 +2459,29 @@ blocks:
               type: heading
           type: doc
       id: Gtf7ERAcuu
+    GvQo9NkfJ:
+      blockType: callout
+      data:
+        content:
+          content:
+            - content:
+                - marks:
+                    - type: bold
+                  text: Contributions are only open to JPMC team members
+                  type: text
+              type: paragraph
+            - content:
+                - text: 'At the moment, we''re only accepting contributions from internal JPMC employees. '
+                  type: text
+                - type: hardBreak
+                - text: >-
+                    If you're an external maker and have some feedback, let us know in the feedback collector below, and
+                    we'll take it on board.
+                  type: text
+              type: paragraph
+          type: doc
+        type: info
+      id: GvQo9NkfJ
     H4_9NLT2TE:
       blockType: divider-block
       id: H4_9NLT2TE
@@ -2352,6 +2578,14 @@ blocks:
     Lsu6cM8BeA:
       blockType: divider-block
       id: Lsu6cM8BeA
+    MJ-lkq1v24:
+      blockType: design-tokens
+      data:
+        demoId: color-swatch
+        groupIds:
+          - color
+        tokenType: color
+      id: MJ-lkq1v24
     MPWVYU6VPU:
       blockType: text-editor
       data:
@@ -2371,6 +2605,14 @@ blocks:
               type: paragraph
           type: doc
       id: MPWVYU6VPU
+    MjATrc-fbe:
+      blockType: figma-block
+      data:
+        clickToInteract: false
+        height: '52'
+        url: >-
+          https://www.figma.com/file/1qrmW2zpaOAfQfvvqiNEsH/Design-System-Component-Contribution---Playground-File-(Community)?type=design&node-id=1%3A81&mode=design&t=mAh4XQsm5QZ7QKRS-1
+      id: MjATrc-fbe
     MudWyP8_-E:
       blockType: text-editor
       data:
@@ -2802,6 +3044,14 @@ blocks:
             - brand
           type: color
       id: TPySDEPq5j
+    U0nbweP2oD:
+      blockType: design-tokens
+      data:
+        demoId: spacing
+        groupIds:
+          - spacing
+        tokenType: dimension
+      id: U0nbweP2oD
     US4_sofbxi:
       blockType: text-editor
       data:
@@ -3131,17 +3381,6 @@ blocks:
               type: heading
           type: doc
       id: ZE6EJ0E78u
-    ZIA41N3-bJ:
-      blockType: design-token-block
-      data:
-        demo:
-          id: color-swatch
-        tokens:
-          category: color
-          name: ''
-          tags:
-            - brand
-      id: ZIA41N3-bJ
     ZQ5Z_y9_Dx:
       blockType: divider-block
       id: ZQ5Z_y9_Dx
@@ -3158,16 +3397,6 @@ blocks:
               type: heading
           type: doc
       id: ZlCcg9r5Lk
-    _f4PbvkrLK:
-      blockType: design-token-block
-      data:
-        demo:
-          id: table-list
-        tokens:
-          category: ''
-          name: ''
-          tags: []
-      id: _f4PbvkrLK
     _quWnLXCar:
       blockType: figma-block
       data:
@@ -3175,6 +3404,14 @@ blocks:
         height: '480'
         url: https://www.figma.com/file/uXroEUE22VtrT6CiF3zQqS/tailwind-ui-figma-kit-2021-03-26?node-id=172%3A4447
       id: _quWnLXCar
+    a-Mx04azMa:
+      blockType: design-tokens
+      data:
+        demoId: table-list
+        groupIds:
+          - color.brand
+        tokenType: color
+      id: a-Mx04azMa
     aHFCyUV-9P:
       blockType: text-editor
       data:
@@ -3188,20 +3425,6 @@ blocks:
               type: heading
           type: doc
       id: aHFCyUV-9P
-    aOXHzURtCq:
-      blockType: text-editor
-      data:
-        content:
-          content:
-            - attrs:
-                alt: ''
-                src: >-
-                  https://p189.p2.n0.cdn.getcloudapp.com/items/6quZxE4g/f25d63f7-d4bc-4ea8-a7ce-7c7674c9eebc.jpg?source=viewer&v=6d70885803e9c7d57a9c7e328992fe9b?h=200&w=540
-                title: null
-              type: image
-          type: doc
-      id: aOXHzURtCq
-      size: medium
     aVSS-GAb3b:
       blockType: divider-block
       id: aVSS-GAb3b
@@ -3636,6 +3859,10 @@ blocks:
               type: heading
           type: doc
       id: dxsxlMQ3Yz
+    eFD4Rn2ztb:
+      blockType: design-tokens
+      data: {}
+      id: eFD4Rn2ztb
     eGax35Ka9v:
       blockType: text-editor
       data:
@@ -3721,12 +3948,63 @@ blocks:
     euHhLM0j1S:
       blockType: divider-block
       id: euHhLM0j1S
+    f0dl4erIny:
+      blockType: pattern-list-block
+      data: {}
+      id: f0dl4erIny
     f73-qtReZ-:
       blockType: divider-block
       id: f73-qtReZ-
     fTtR3u4Py_:
       blockType: divider-block
       id: fTtR3u4Py_
+    faaT3IB3v9:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                textAlign: left
+              content:
+                - text: "This is an example community template that contains valuable tools to help designers share component proposals with their design systems team.\_"
+                  type: text
+              type: paragraph
+            - attrs:
+                textAlign: start
+              content:
+                - text: 'This Figma playground file includes:'
+                  type: text
+              type: paragraph
+            - attrs:
+                start: 1
+              content:
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - text: A checklist for proposing component initiatives
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - text: A space for the use case
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - text: A space for research results
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: orderedList
+          type: doc
+      id: faaT3IB3v9
     gAEGVw3JV2:
       blockType: text-editor
       data:
@@ -3802,20 +4080,14 @@ blocks:
         height: '480'
         url: https://www.youtube.com/watch?v=pyeX5l2TE1o
       id: hqtwt_qLOH
-    hryTVxhrpj:
-      blockType: text-editor
+    i4duYMq76w:
+      blockType: design-tokens
       data:
-        content:
-          content:
-            - attrs:
-                alt: ''
-                src: >-
-                  https://p189.p2.n0.cdn.getcloudapp.com/items/6quZxE4g/f25d63f7-d4bc-4ea8-a7ce-7c7674c9eebc.jpg?source=viewer&v=6d70885803e9c7d57a9c7e328992fe9b?h=200&w=540
-                title: null
-              type: image
-          type: doc
-      id: hryTVxhrpj
-      size: medium
+        demoId: color-swatch
+        groupIds:
+          - color.brand
+        tokenType: color
+      id: i4duYMq76w
     iSlOJ42w6Y:
       blockType: pattern-status-table-block
       id: iSlOJ42w6Y
@@ -3946,6 +4218,14 @@ blocks:
               type: paragraph
           type: doc
       id: jBOFirAff_
+    jFhHeNtZpS:
+      blockType: design-tokens
+      data:
+        demoId: media-query
+        groupIds:
+          - breakpoint
+        tokenType: dimension
+      id: jFhHeNtZpS
     jMitUgSuUP:
       blockType: divider-block
       id: jMitUgSuUP
@@ -4195,20 +4475,88 @@ blocks:
               type: heading
           type: doc
       id: nFepVH2iK2
-    nV_Eryo1YN:
-      blockType: text-editor
+    nayGe9qHLQ:
+      blockType: guidelines
       data:
-        content:
-          content:
-            - attrs:
-                alt: ''
-                src: >-
-                  https://p189.p2.n0.cdn.getcloudapp.com/items/6quZxE4g/f25d63f7-d4bc-4ea8-a7ce-7c7674c9eebc.jpg?source=viewer&v=6d70885803e9c7d57a9c7e328992fe9b?h=200&w=540
-                title: null
-              type: image
-          type: doc
-      id: nV_Eryo1YN
-      size: medium
+        gridStyles:
+          centered: false
+          columns: '2'
+        guidelines:
+          - content:
+              content:
+                - content:
+                    - content:
+                        - content:
+                            - text: >-
+                                Consider and choose text and visual elements carefully. Test your cards with the minimal
+                                content and only add additional content or graphics where they give needed context to
+                                the user
+                              type: text
+                          type: paragraph
+                      type: listItem
+                    - content:
+                        - content:
+                            - text: Use headlines that set clear expectations about the content being linked to
+                              type: text
+                          type: paragraph
+                      type: listItem
+                    - content:
+                        - content:
+                            - text: Use one style of card per module, don't mix and match
+                              type: text
+                          type: paragraph
+                      type: listItem
+                    - content:
+                        - content:
+                            - text: Feature one piece of information per card
+                              type: text
+                          type: paragraph
+                      type: listItem
+                    - content:
+                        - content:
+                            - text: >-
+                                Outline the main idea with the minimal possible information, don't overload with
+                                information as the card links to more detail
+                              type: text
+                          type: paragraph
+                      type: listItem
+                  type: bulletList
+              type: doc
+            id: 7hKoMkJNix
+            type: do
+          - content:
+              content:
+                - content:
+                    - content:
+                        - content:
+                            - text: Mix card styles within the same module
+                              type: text
+                          type: paragraph
+                      type: listItem
+                    - content:
+                        - content:
+                            - text: Overload with information as the card links to more detail
+                              type: text
+                          type: paragraph
+                      type: listItem
+                    - content:
+                        - content:
+                            - text: >-
+                                Add inline text links, the card itself is clickable and should link to a single piece of
+                                information, consider using content blocks in this instance
+                              type: text
+                          type: paragraph
+                      type: listItem
+                  type: bulletList
+              type: doc
+            id: lZ73kjQ5aO
+            type: dont
+        tileStyles:
+          headerBeforeImage: false
+          imageOutlined: true
+          imageRounded: true
+          imageSize: none
+      id: nayGe9qHLQ
     ncyDgsT_tf:
       blockType: text-editor
       data:
@@ -4687,6 +5035,22 @@ blocks:
     qRvc5hdIxP:
       blockType: divider-block
       id: qRvc5hdIxP
+    qSav8Qzpix:
+      blockType: pattern-template-block
+      data:
+        allowResizing: false
+        demoId: ''
+        demoSize: landscape
+        hideControls: false
+        playgroundUi:
+          allowResizing: false
+          demoSize: landscape
+          showCodeSnippet: false
+          showSchemaForm: true
+        showCodeSnippet: false
+        showSchemaForm: true
+        templateId: ''
+      id: qSav8Qzpix
     rGQjPZFRdn:
       blockType: text-editor
       data:
@@ -4842,17 +5206,6 @@ blocks:
     sTKJUiVlGX:
       blockType: divider-block
       id: sTKJUiVlGX
-    stXiHo-n46:
-      blockType: design-token-block
-      data:
-        demo:
-          id: media-query
-        tokens:
-          category: breakpoint
-          name: ''
-          tags: []
-          type: dimension
-      id: stXiHo-n46
     tA1WrvdWyM:
       blockType: pattern-list-block
       id: tA1WrvdWyM
@@ -5618,15 +5971,6 @@ blocks:
     yw09CUQi5_:
       blockType: divider-block
       id: yw09CUQi5_
-    zaqr2o47r:
-      blockType: design-token-block
-      data:
-        demo:
-          id: spacing
-        tokens:
-          category: spacing
-          tags: []
-      id: zaqr2o47r
     zlejPJh20Z:
       blockType: text-editor
       data:
@@ -6027,12 +6371,13 @@ demos:
           read: 6 min read
         slots:
           children:
-            - text: Roel Aufderehar
+            - text: |
+                John Smith
               type: text
       id: gsI4PO5HfP
       patternId: author
       templateId: react
-      title: Roel Aufderehar
+      title: John Smith
       type: data
     hGfcj0Ksms:
       data:
@@ -6134,7 +6479,8 @@ demos:
       type: template
   settings: {}
 settings:
-  logoUrl: https://knapsack.imgix.net/site/public-demo/knapsack-logomark-primary@3x-c3fjqx5ll_.png
+  favicon: https://knapsack.imgix.net/site/public-demo/screenshot-2023-12-14-at-81035-am-ha2qpdklgrpng
+  logoUrl: https://knapsack.imgix.net/site/public-demo/screenshot-2023-12-14-at-81035-am-auqdishudbpng
   theme:
     appearance:
       customFonts:
@@ -6155,26 +6501,27 @@ settings:
       navigation:
         primaryNav:
           accentColor:
-            tokenName: color.brand.primary
+            tokenName: color.brand.white
             type: design-token
           backgroundColor:
-            tokenName: color.brand.black
+            tokenName: color.brand.primary
             type: design-token
           fontFamily: Inter
           fontWeight: 800
           hoverColor:
-            tokenName: color.brand.secondary
+            tokenName: color.text.inverse
             type: design-token
-          lineHeight: ''
           textColor:
             tokenName: color.text.inverse
             type: design-token
+          textTransform: inherit
         secondaryNav:
           accentColor:
-            tokenName: color-brand-secondary
+            tokenName: color.brand.primary
             type: design-token
           fontFamily: Inter
           fontWeight: 500
+          textTransform: inherit
         tabs:
           fontFamily: Inter
       pageElements:
@@ -6207,4 +6554,4 @@ settings:
           fontWeight: 800
           textTransform: inherit
     version: 10
-  title: Public Demo
+  title: 'Manhattan Design System '

@@ -1,0 +1,16 @@
+id: community
+title: Community
+blockIds:
+  - GvQo9NkfJ
+settings:
+  pageHeader:
+    hideText: false
+    size: large
+    backgroundOverlay: true
+    backgroundImage: >-
+      https://knapsack.imgix.net/site/public-demo/dalle-2023-12-14-142921-illustrate-a-man-and-a-woman-with-their-backs-turned-towards-the-viewer-implying-collaboration-they-are-both-dressed-in-business-attire-the-man-in-uuppfkm4iypng
+    backgroundSize: contain
+    backgroundPosition: right
+description: |-
+  We all go further faster when we
+  share, learn, and create together.

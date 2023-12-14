@@ -1,7 +1,7 @@
 {
   "id": "card",
   "title": "Card",
-  "description": "Cards contain content and actions about a single subject.",
+  "description": "Cards contain content and actions about a single subject!",
   "statuses": {
     "design": "ready",
     "twig": "needs-updated",
@@ -51,7 +51,14 @@
     {
       "id": "Overview",
       "title": "Usage",
-      "blockIds": ["GUshucXGiO", "1zsHlF6chs", "wwkLIOf27t", "aqVaPpg6o5"]
+      "blockIds": [
+        "GUshucXGiO",
+        "nayGe9qHLQ",
+        "80MRBY3E66",
+        "1zsHlF6chs",
+        "wwkLIOf27t",
+        "aqVaPpg6o5"
+      ]
     },
     {
       "id": "Accessibility",

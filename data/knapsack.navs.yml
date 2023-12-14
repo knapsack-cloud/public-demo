@@ -1,4 +1,10 @@
 byId:
+  Admin:
+    hidden: true
+    id: Admin
+    name: Admin
+    parentId: root
+    path: /pages/Admin
   Animation:
     id: Animation
     name: Animation
@@ -74,6 +80,12 @@ byId:
     name: Page-Level Prototyping
     parentId: Prototyping
     path: /pages/Page-Level-Prototyping
+  Private-Pages:
+    hidden: true
+    id: Private-Pages
+    name: Private Pages
+    parentId: Admin
+    path: /pages/Private-Pages
   Prototyping:
     id: Prototyping
     name: Prototyping
@@ -144,6 +156,16 @@ byId:
     name: Colors
     parentId: Design-Tokens-lNWaUqkDSo
     path: /pages/colors
+  community:
+    id: community
+    name: Community
+    parentId: root
+    path: /pages/community
+  community-contributions:
+    id: community-contributions
+    name: Community Contributions
+    parentId: community
+    path: /pages/community-contributions
   connecting-coded-components:
     id: connecting-coded-components
     name: Connecting Coded Components
@@ -154,6 +176,11 @@ byId:
     name: Customizing the Workspace
     parentId: guidance
     path: /pages/customizing-the-workspace
+  design:
+    id: design
+    name: Design
+    parentId: how-to-contribute
+    path: /pages/design
   footer:
     id: footer
     name: Footer
@@ -174,6 +201,11 @@ byId:
     name: Hero
     parentId: Layout
     path: /pattern/hero
+  how-to-contribute:
+    id: how-to-contribute
+    name: How to Contribute
+    parentId: community
+    path: /pages/how-to-contribute
   input-field:
     id: input-field
     name: Input Field
@@ -261,6 +293,12 @@ order:
   - message
   - input-field
   - Prototyping
+  - community
   - Page-Level-Prototyping
   - Page-Builders
   - one-pager
+  - Admin
+  - Private-Pages
+  - how-to-contribute
+  - design
+  - community-contributions

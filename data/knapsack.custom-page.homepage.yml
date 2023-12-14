@@ -1,5 +1,5 @@
 id: homepage
-title: Welcome to Knapsack
+title: Manhattan Design System
 settings:
   pageHeader:
     size: full
@@ -7,7 +7,7 @@ settings:
       type: design-token
       tokenName: color-brand-primary
       colorValue: '#FFFFFF'
-    backgroundImage: https://knapsack.imgix.net/site/public-demo/clark-van-der-beken-596baa0mpym-unsplash-o5drv55uvq.jpg
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/untitled-design-1-dppn4brv1png
     textColorDescription:
       type: design-token
       tokenName: color-Meh-black
