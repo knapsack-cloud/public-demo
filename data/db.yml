@@ -4,6 +4,7 @@ blocks:
       blockType: pattern-variations
       data:
         demoId: 2ysfvm4ShE
+        hideBlockTitle: false
         patternId: button
         size: s
         templateId: react
@@ -58,6 +59,11 @@ blocks:
     08Q2X2v2Wi:
       blockType: divider-block
       id: 08Q2X2v2Wi
+    0Aa7zBcN6e:
+      blockType: callout
+      data: {}
+      id: 0Aa7zBcN6e
+      size: large
     0SzNx3d12Z:
       blockType: text-editor
       data:
@@ -5154,11 +5160,13 @@ blocks:
     vFalbAV-gx:
       blockType: pattern-template-block
       data:
+        allowResizing: false
         demoId: 2ysfvm4ShE
         demoSize: landscape
         hideControls: false
         patternId: button
         playgroundUi:
+          allowResizing: false
           demoSize: landscape
           showCodeSnippet: false
           showSchemaForm: false
@@ -5424,6 +5432,26 @@ blocks:
               type: image
           type: doc
       id: xOr_nLImmZ
+      size: medium
+    xTKTt6KEFo:
+      blockType: guidelines
+      data:
+        gridStyles:
+          centered: false
+          columns: '2'
+        guidelines:
+          - id: pJDNaKx7QJ
+            type: do
+          - id: 8FjRwGEcnX
+            type: dont
+        tileStyles:
+          headerBeforeImage: false
+          imageOutlined: true
+          imageRounded: true
+          imageSize: none
+      header:
+        showHeader: true
+      id: xTKTt6KEFo
       size: medium
     xoEhx_j556:
       blockType: text-editor
