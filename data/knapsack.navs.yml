@@ -206,6 +206,12 @@ byId:
     name: Message
     parentId: proposed-patterns
     path: /pattern/message
+  new-component-in-progress:
+    id: new-component-in-progress
+    minRoleNeeded: ADMIN
+    name: New Component (in progress)
+    parentId: Admin
+    path: /pattern/new-component-in-progress
   one-pager:
     id: one-pager
     name: One-Pager
@@ -278,3 +284,4 @@ order:
   - one-pager
   - Admin
   - Private-Pages
+  - new-component-in-progress

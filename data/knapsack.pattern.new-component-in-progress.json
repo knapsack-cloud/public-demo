@@ -1,0 +1,20 @@
+{
+  "id": "new-component-in-progress",
+  "tabs": [
+    {
+      "id": "overview",
+      "type": "subPage"
+    }
+  ],
+  "title": "New Component (in progress)",
+  "statuses": {},
+  "subPages": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "blockIds": ["yekNm1CQc7"]
+    }
+  ],
+  "templates": [],
+  "description": ""
+}
