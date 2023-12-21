@@ -5616,6 +5616,19 @@ blocks:
               type: paragraph
           type: doc
       id: y9KZVrKgpx
+    yekNm1CQc7:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                textAlign: left
+              content:
+                - text: This page is created to demonstrate role-based access. Only Admin users can see this page's content.
+                  type: text
+              type: paragraph
+          type: doc
+      id: yekNm1CQc7
     yvaN3EVmSU:
       blockType: text-editor
       data:
