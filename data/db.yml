@@ -4,10 +4,11 @@ blocks:
       blockType: pattern-variations
       data:
         demoId: 2ysfvm4ShE
+        hideBlockTitle: false
         patternId: button
         size: s
         templateId: react
-        variationId: mode
+        variationId: size
       id: '-plYGPDwcr'
     '-r73qPCQoZ':
       blockType: text-editor
@@ -470,16 +471,18 @@ blocks:
     1zsHlF6chs:
       blockType: pattern-template-block
       data:
-        demoId: RN96ZpJJpY
+        allowResizing: false
+        demoId: WXcBdSXuE9
         demoSize: landscape
         hideControls: false
         patternId: card
         playgroundUi:
+          allowResizing: false
           demoSize: landscape
-          showCodeSnippet: true
-          showSchemaForm: false
-        showCodeSnippet: true
-        showSchemaForm: false
+          showCodeSnippet: false
+          showSchemaForm: true
+        showCodeSnippet: false
+        showSchemaForm: true
         templateId: react
       id: 1zsHlF6chs
     26WskgYN2R:
