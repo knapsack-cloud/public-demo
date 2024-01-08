@@ -1,19 +1,19 @@
 id: welcome-to-knapsack
-title: Welcome to Knapsack
+title: Welcome to CORE
 settings:
   pageHeader:
     textColorTitle:
       type: design-token
-      tokenName: color-brand-primary
-      colorValue: '#6A4CEC'
-    backgroundImage: null
+      tokenName: color.brand.white
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/homepageherov2-rhi5tc4ll0jpeg
     textColorDescription:
       type: design-token
-      tokenName: color-brand-black
-      colorValue: '#000000'
-    size: small
+      tokenName: color.brand.white
+    size: large
 description: The collaborative design system
 blockIds:
+  - 1VQTqYLHE9
+  - 4YeJnrYNZs
   - 6-qXFUJ0eH
   - tY2rt92bob
   - oa-y7sAwqr

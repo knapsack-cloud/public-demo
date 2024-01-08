@@ -382,6 +382,40 @@ blocks:
           type: doc
       id: 1MwxUqcERn
       size: null
+    1VQTqYLHE9:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 1
+                textAlign: start
+              content:
+                - marks:
+                    - type: bold
+                  text: Design Principles
+                  type: text
+              type: heading
+            - attrs:
+                textAlign: left
+              content:
+                - text: >-
+                    Design principles are foundational philosophies that guide the design decisions we make as a
+                    company. These help ensure consistency, a unified identity, and an overall better experience for our
+                    users. It also helps us internally as it improves design decision processes: reducing arguments,
+                    forcing clarity, and aligning teams on what matters.
+                  type: text
+              type: paragraph
+            - attrs:
+                textAlign: left
+              type: paragraph
+            - attrs:
+                alt: ''
+                src: https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/5f91e2e917d63b14a4ac2107_dp_intro.png
+                title: null
+              type: image
+          type: doc
+      id: 1VQTqYLHE9
     1VyLx4PL0Q:
       blockType: pattern-variations
       data:
@@ -716,6 +750,225 @@ blocks:
           type: doc
       id: 47VollR_2X
       size: medium
+    4YeJnrYNZs:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 3
+                textAlign: left
+              content:
+                - text: Principle 1
+                  type: text
+              type: heading
+            - attrs:
+                alt: ''
+                src: >-
+                  https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/5fcfb871eda3d210e07b4de0_principle%201.png
+                title: null
+              type: image
+            - attrs:
+                level: 2
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Design for the construction industry first
+                  type: text
+              type: heading
+            - attrs:
+                textAlign: left
+              content:
+                - text: >-
+                    Our design decisions should favor our customers and the construction industry. Being
+                    customer-obsessed is key to Procore's success. We lean on our internal construction pros, we
+                    schedule job site visits and hold impromptu calls. We gather feedback from our users every step of
+                    the way to validate ideas.
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 3
+                textAlign: left
+              content:
+                - text: Principle 2
+                  type: text
+              type: heading
+            - attrs:
+                level: 2
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Build trust at every touchpoint
+                  type: text
+              type: heading
+            - attrs:
+                textAlign: left
+              content:
+                - text: >-
+                    We never leave our users hanging. We support our user on every screen of our product, ensuring that
+                    no matter where the user is, they are always given a next step or a link to where they can learn
+                    more. We reassure our users that we will always take sensitive information seriously and handle it
+                    with care.
+                  type: text
+                - type: hardBreak
+                - text: ‍
+                  type: text
+                - type: hardBreak
+                - text: >-
+                    We strive for consistency across all Procore interactions to increase learnability, usability, and
+                    comfort within our products.
+                  type: text
+                - type: hardBreak
+                - text: ‍
+                  type: text
+                - type: hardBreak
+                - text: >-
+                    We design with internationalization and accessibility in mind, making sure that every user is as
+                    comfortable in this product as in the next.
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 3
+                textAlign: left
+              content:
+                - text: Principle 3
+                  type: text
+              type: heading
+            - attrs:
+                level: 2
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Design to get the job done
+                  type: text
+              type: heading
+            - attrs:
+                textAlign: left
+              content:
+                - text: >-
+                    Procore aims to be the most time-saving tool in the construction industry. We design all workflows
+                    around efficiency by presenting users concise, timely, and relevant information when they need it.
+                  type: text
+                - type: hardBreak
+                - text: ‍
+                  type: text
+                - type: hardBreak
+                - text: >-
+                    Our goal is to get users in and out of the product as quickly and efficiently as possible so they
+                    can focus on building the world. We do this by streamlining unnecessary steps and workflows and
+                    designing all screens with a clear hierarchy, making the most important functions defined and easily
+                    accessible. Keep it Simple!
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 3
+                textAlign: left
+              content:
+                - text: Principle 4
+                  type: text
+              type: heading
+            - attrs:
+                alt: ''
+                src: https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/5f91e2e666bec88099adcee3_dp_4.png
+                title: null
+              type: image
+            - attrs:
+                level: 2
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Be dependable across platforms
+                  type: text
+              type: heading
+            - attrs:
+                textAlign: left
+              content:
+                - text: "Our users are constantly collaborating with each other and comparing information, often using different platforms. \_Our goal is to ensure that users can find information easily, so when we build experiences, we design screens for all platforms. Features are thoughtful and helpful for each platform. This ensures that the overall experience feels the same and information is presented in a similar way, no matter what platform the user is using."
+                  type: text
+                - type: hardBreak
+                - text: ‍
+                  type: text
+                - type: hardBreak
+                - text: >-
+                    Knowing that, we also work to stay true to each platform while staying on brand. All platforms may
+                    not have the same features and interactions, but all features that exist across platforms should
+                    look and function similarly.
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 3
+                textAlign: left
+              content:
+                - text: Principle 5
+                  type: text
+              type: heading
+            - attrs:
+                alt: ''
+                src: https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/5f91e2e8fc842a0859301a90_dp_5.png
+                title: null
+              type: image
+            - attrs:
+                level: 2
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Lead the industry by rethinking traditional processes
+                  type: text
+              type: heading
+            - attrs:
+                textAlign: left
+              content:
+                - text: "We strive to deeply understand the processes, boundaries, and rules of the construction industry so that we can innovate and make those processes better. \_We aim to do more than simply “digitize current processes”."
+                  type: text
+                - type: hardBreak
+                - text: ‍
+                  type: text
+                - type: hardBreak
+                - text: >-
+                    A seamless experience is important, so whenever possible, we look to connect users, tools,
+                    workflows, and 3rd party applications together.
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 3
+                textAlign: left
+              content:
+                - text: Principle 6
+                  type: text
+              type: heading
+            - attrs:
+                level: 2
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Balance being futuristic and pragmatic
+                  type: text
+              type: heading
+            - attrs:
+                textAlign: left
+              content:
+                - text: >-
+                    We endeavor to balance bringing the future of technology into our designs while designing what is
+                    practical and important for our users and our internal resources at the time. We constantly set
+                    goals and have a north star we are working towards. This ensures that we can have grand visions
+                    while taking realistic steps that fit our customers short term needs.
+                  type: text
+                - type: hardBreak
+                - type: hardBreak
+                - text: >-
+                    Construction is complex and ever changing, so our interfaces need to be designed in a way that can
+                    adapt and change to the industry’s needs overtime. To do this, we always build off of and contribute
+                    new ideas to our design system, so our product can be updated at an agile pace.
+                  type: text
+              type: paragraph
+          type: doc
+      id: 4YeJnrYNZs
     4gpsIFEONx:
       blockType: text-editor
       data:
@@ -1744,6 +1997,19 @@ blocks:
     DeXFydGBxW:
       blockType: divider-block
       id: DeXFydGBxW
+    DevWyMSBqW:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                textAlign: left
+              content:
+                - text: sdfgsfgs
+                  type: text
+              type: paragraph
+          type: doc
+      id: DevWyMSBqW
     DiHe471EgD:
       blockType: text-editor
       data:
@@ -2400,6 +2666,194 @@ blocks:
           type: doc
       id: MudWyP8_-E
       size: medium
+    NLsRXz837E:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 1
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Product Writing Guide
+                  type: text
+              type: heading
+            - attrs:
+                textAlign: left
+              content:
+                - text: >-
+                    The world’s leading construction companies rely on Procore’s product to get their job done. As our
+                    product continues to grow and mature, the content in our product must evolve to support more
+                    seamless, consistent, and translatable user experiences.
+                  type: text
+              type: paragraph
+            - attrs:
+                alt: ''
+                src: >-
+                  https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/60a6e6e48deb7f1c91b4a202_writing_overview_intro.png
+                title: null
+              type: image
+            - attrs:
+                textAlign: left
+              content:
+                - text: >-
+                    This guide is a central resource for anyone who writes or edits copy in Procore’s product, and is
+                    comprised of 6 sections.
+                  type: text
+              type: paragraph
+            - attrs:
+                start: 1
+              content:
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - marks:
+                            - attrs:
+                                class: link_inline
+                                href: https://design.procore.com/writing-personality
+                                target: _blank
+                              type: link
+                          text: "Product’s Personality\L"
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - marks:
+                            - attrs:
+                                class: link_inline
+                                href: https://design.procore.com/writing-best-practices
+                                target: _blank
+                              type: link
+                          text: "Writing Best Practices All Designers Should Know\L"
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - marks:
+                            - attrs:
+                                class: link_inline
+                                href: https://design.procore.com/writing-globally
+                                target: _blank
+                              type: link
+                          text: Writing Globally
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - marks:
+                            - attrs:
+                                class: link_inline
+                                href: https://design.procore.com/writing-grammar-rules
+                                target: _blank
+                              type: link
+                          text: Procore's Grammar Rules
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - marks:
+                            - attrs:
+                                class: link_inline
+                                href: https://design.procore.com/form-error-validation
+                                target: _blank
+                              type: link
+                          text: "In-Line Error Validation \Lon Submit"
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - marks:
+                            - attrs:
+                                class: link_inline
+                                href: https://design.procore.com/writing-glossaries
+                                target: _blank
+                              type: link
+                          text: Glossary of Common Words
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: orderedList
+            - attrs:
+                level: 2
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Additional Resources
+                  type: text
+              type: heading
+            - attrs:
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Got a quick question?
+                  type: text
+                - text: ' Slack the UX Content team at '
+                  type: text
+                - marks:
+                    - attrs:
+                        class: link_inline
+                        href: https://procoretech.slack.com/archives/CKACDV9PC
+                        target: _blank
+                      type: link
+                  text: '#ux-content'
+                  type: text
+                - type: hardBreak
+                - marks:
+                    - type: bold
+                  text: ‍
+                  type: text
+                - marks:
+                    - type: bold
+                  type: hardBreak
+                - marks:
+                    - type: bold
+                  text: Need help on a longer project?
+                  type: text
+                - text: ' Our '
+                  type: text
+                - marks:
+                    - attrs:
+                        class: link_inline
+                        href: https://procoretech.atlassian.net/servicedesk/customer/portal/50
+                        target: _blank
+                      type: link
+                  text: UX Content Strategy Service Desk
+                  type: text
+                - text: ' is the best place to start.'
+                  type: text
+                - type: hardBreak
+                - text: ‍
+                  type: text
+                - type: hardBreak
+                - marks:
+                    - type: bold
+                  text: Looking for content guidelines for a specific component?
+                  type: text
+                - text: ' Look through the components on the rest of this site to see component-specific content guidelines.'
+                  type: text
+              type: paragraph
+          type: doc
+      id: NLsRXz837E
     NQNG4vxZ0M:
       blockType: text-editor
       data:
@@ -2978,6 +3432,14 @@ blocks:
               type: heading
           type: doc
       id: Y6lDP3j81a
+    Y8Rqa60oi3:
+      blockType: figma-block
+      data:
+        clickToInteract: false
+        height: '480'
+        url: >-
+          https://www.figma.com/file/uXroEUE22VtrT6CiF3zQqS/tailwind-ui-figma-kit-2021-03-26?type=design&node-id=752%3A32&mode=design&t=8jA8wq18YJjQY5br-1
+      id: Y8Rqa60oi3
     YEkgV9IhxW:
       blockType: figma-block
       data:
@@ -3124,6 +3586,371 @@ blocks:
               type: heading
           type: doc
       id: aHFCyUV-9P
+    aKvYgcedgD:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 1
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Color
+                  type: text
+              type: heading
+            - attrs:
+                textAlign: left
+              content:
+                - text: >-
+                    Procore’s color palette is comprised of neutrals that compliment our primary orange color. It’s
+                    important to understand the context of when & where these colors are used. Below are our most common
+                    colors used in Procore. The full library can be found in the Web Library in Figma.
+                  type: text
+              type: paragraph
+            - attrs:
+                alt: Color page intro image.
+                src: >-
+                  https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/5f88998494e19eb8e9f1a607_color_intro.png
+                title: null
+              type: image
+            - attrs:
+                level: 2
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Primary Colors
+                  type: text
+              type: heading
+            - attrs:
+                level: 3
+                textAlign: left
+              content:
+                - text: Brand
+                  type: text
+              type: heading
+            - attrs:
+                alt: Example of orange 50
+                src: https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/6204289eca3979d05f3f2d54_orange50.png
+                title: null
+              type: image
+            - attrs:
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Orange 50
+                  type: text
+              type: paragraph
+            - attrs:
+                textAlign: left
+              content:
+                - text: This is our primary brand color.
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 3
+                textAlign: left
+              content:
+                - text: Text
+                  type: text
+              type: heading
+            - attrs:
+                alt: Example of grey 15
+                src: https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/6204297c310eecb5a8dccc5f_grey15.png
+                title: null
+              type: image
+            - attrs:
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Grey 15
+                  type: text
+              type: paragraph
+            - attrs:
+                textAlign: left
+              content:
+                - text: Default text color.
+                  type: text
+              type: paragraph
+            - attrs:
+                alt: Example of grey 45
+                src: https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/6204297c91656be79ba06cf1_grey45.png
+                title: null
+              type: image
+            - attrs:
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Grey 45
+                  type: text
+              type: paragraph
+            - attrs:
+                textAlign: left
+              content:
+                - text: Secondary or de-emphasized text or UI.
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 3
+                textAlign: left
+              content:
+                - text: Backgrounds
+                  type: text
+              type: heading
+            - attrs:
+                alt: Example of white
+                src: https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/6204297c8502ea90e1576d81_white.png
+                title: null
+              type: image
+            - attrs:
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: White
+                  type: text
+              type: paragraph
+            - attrs:
+                textAlign: left
+              content:
+                - text: Component background color in light themes.
+                  type: text
+              type: paragraph
+            - attrs:
+                alt: Example of grey 96
+                src: https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/6204297dcfed5d73b4909159_grey96.png
+                title: null
+              type: image
+            - attrs:
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Grey 96
+                  type: text
+              type: paragraph
+            - attrs:
+                textAlign: left
+              content:
+                - text: Page background color in light themes.
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 3
+                textAlign: left
+              content:
+                - text: Interactive
+                  type: text
+              type: heading
+            - attrs:
+                alt: Example of blue 45
+                src: https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/6204297cce75a1b279ec1c01_blue50.png
+                title: null
+              type: image
+            - attrs:
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Blue 45
+                  type: text
+              type: paragraph
+            - attrs:
+                textAlign: left
+              content:
+                - text: Used for text links.
+                  type: text
+              type: paragraph
+            - attrs:
+                alt: Example of blue 50
+                src: >-
+                  https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/5fac39d73b5220eb72552dc3_color_primary_blue_1.png
+                title: null
+              type: image
+            - attrs:
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Blue 50
+                  type: text
+              type: paragraph
+            - attrs:
+                textAlign: left
+              content:
+                - text: Used for text links.
+                  type: text
+              type: paragraph
+            - attrs:
+                alt: Example of blue 40
+                src: https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/6204297dfba2ead8f91c8719_blue40.png
+                title: null
+              type: image
+            - attrs:
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Blue 40
+                  type: text
+              type: paragraph
+            - attrs:
+                textAlign: left
+              content:
+                - text: Use for focus.
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 2
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Semantic Colors
+                  type: text
+              type: heading
+            - attrs:
+                alt: Example of green 30
+                src: https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/6204297c6b64eabce2df0503_green.png
+                title: null
+              type: image
+            - attrs:
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Green 30
+                  type: text
+              type: paragraph
+            - attrs:
+                textAlign: left
+              content:
+                - text: Green is used to indicate success or to celebrate an achievement.
+                  type: text
+                - type: hardBreak
+                - text: For example, you’ll see green used in our success toasts and banners.
+                  type: text
+              type: paragraph
+            - attrs:
+                alt: Example of yellow 40
+                src: https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/6204297cdac3541d50148f3f_yellow.png
+                title: null
+              type: image
+            - attrs:
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Yellow 40
+                  type: text
+              type: paragraph
+            - attrs:
+                textAlign: left
+              content:
+                - text: Yellow is used for warning or caution states. You will see yellows
+                  type: text
+                - type: hardBreak
+                - text: in pills and banners.
+                  type: text
+              type: paragraph
+            - attrs:
+                alt: Example of red 50
+                src: https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/6204297c028abff40f0a10d4_red.png
+                title: null
+              type: image
+            - attrs:
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Red 50
+                  type: text
+              type: paragraph
+            - attrs:
+                textAlign: left
+              content:
+                - text: Red is used for error states. For example, error banners.
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 2
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Accent Colors
+                  type: text
+              type: heading
+            - attrs:
+                alt: Example of purple
+                src: https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/6204297dcfed5d16c990915a_purple.png
+                title: null
+              type: image
+            - attrs:
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Purple
+                  type: text
+              type: paragraph
+            - attrs:
+                alt: Example of magenta
+                src: https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/6204297ddd094374f69bb6df_magenta.png
+                title: null
+              type: image
+            - attrs:
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Magenta
+                  type: text
+              type: paragraph
+            - attrs:
+                alt: Example of cyan
+                src: https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/6204297c20dcc7c14ad1781f_cyan.png
+                title: null
+              type: image
+            - attrs:
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Cyan
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 2
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Other Mappings
+                  type: text
+              type: heading
+            - attrs:
+                textAlign: left
+              content:
+                - text: There are plenty of other color mappings used in Procore and more to be defined
+                  type: text
+                - type: hardBreak
+                - text: on the way!
+                  type: text
+                - type: hardBreak
+                - text: ‍
+                  type: text
+                - type: hardBreak
+                - text: 'As always, slack us at #design-system-support for any questions you may have.'
+                  type: text
+              type: paragraph
+          type: doc
+      id: aKvYgcedgD
     aOXHzURtCq:
       blockType: text-editor
       data:
@@ -3282,6 +4109,34 @@ blocks:
           type: doc
       id: cO5Vcc2NHd
       size: medium
+    clZTzT6SZ:
+      blockType: shortcut-tiles
+      data:
+        shortcuts:
+          - description: Use our components to build out your specific use cases.
+            id: dO9iJbjydM
+            image: https://knapsack.imgix.net/site/public-demo/61e1faf063c4bc60226b0bfdcontactitemintro-p-800-b9txnsdjfdpng
+            link:
+              name: Components
+              path: /pages/Components
+            title: Components
+          - description: Foundational philosophies that guide the design decisions we make as a company.
+            id: 0f6muYg3BV
+            image: https://knapsack.imgix.net/site/public-demo/5f91e2e8fc842a0859301a90dp5-p-800-4hn5c7rxtapng
+            link:
+              name: Welcome to CORE
+              path: /pages/welcome-to-knapsack
+            title: Design Principles
+          - description: >-
+              Foundational Tokens allow Procore to keep consistency across all products. This section of the platform
+              allows designers and engineers to collaboratively define and manage tokens.
+            id: mlXUxopSr2
+            image: https://knapsack.imgix.net/site/public-demo/5f88998494e19eb8e9f1a607colorintro-p-800-8y6acqoiyipng
+            link:
+              name: Foundation
+              path: /pages/Design-Tokens-lNWaUqkDSo
+            title: Foundation
+      id: clZTzT6SZ
     ctwMU8NUmw:
       blockType: table
       data:
@@ -3572,6 +4427,350 @@ blocks:
               type: heading
           type: doc
       id: dxsxlMQ3Yz
+    e1zraart:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 1
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Detail Layout
+                  type: text
+              type: heading
+            - attrs:
+                textAlign: left
+              content:
+                - text: >-
+                    A detail page is used when an object is selected from a list page. The layout can adhere to varying
+                    predefined widths depending on use case.
+                  type: text
+              type: paragraph
+            - attrs:
+                alt: ''
+                src: >-
+                  https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/5fab53e25eea03cd28135bbe_detail_intro.png
+                title: null
+              type: image
+            - attrs:
+                textAlign: left
+              content:
+                - marks:
+                    - attrs:
+                        class: link_inline overview
+                        href: https://core.procore.com/latest/web/layout/detail-page/react/
+                        target: _blank
+                      type: link
+                  text: Demo and Developer Guidelines
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 2
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Anatomy
+                  type: text
+              type: heading
+            - attrs:
+                textAlign: left
+              content:
+                - text: "The detail page layout offers more functionality compared to the standard page template. A detail page is used to display extensive amounts of content for a \Lsingle object."
+                  type: text
+              type: paragraph
+            - attrs:
+                alt: ''
+                src: >-
+                  https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/6182e6f97b27546ca0c9ca33_detail_anatomy.png
+                title: null
+              type: image
+            - attrs:
+                level: 3
+                textAlign: left
+              content:
+                - text: Header
+                  type: text
+              type: heading
+            - attrs:
+                textAlign: left
+              content:
+                - text: >-
+                    Actions used in the header should be performed on the object level. An action like ‘Edit’ should be
+                    used in the sections within the body.
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 3
+                textAlign: left
+              content:
+                - text: Body
+                  type: text
+              type: heading
+            - attrs:
+                textAlign: left
+              content:
+                - text: "The body is considered the primary content area of the page. Any page level action should \_be placed within the body. The body segment can include a header, body and footer sub-segments if necessary. More information on how the body can be ulitilized can be found on the Page Template."
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 3
+                textAlign: left
+              content:
+                - text: Object Level and Section Level Actions
+                  type: text
+              type: heading
+            - attrs:
+                textAlign: left
+              content:
+                - text: 'Actions used in the header should be performed on the '
+                  type: text
+                - marks:
+                    - type: bold
+                  text: object level
+                  type: text
+                - text: . An action like ‘Edit’ should be used in the sections within the body.
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 2
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Section and Subsections
+                  type: text
+              type: heading
+            - attrs:
+                textAlign: left
+              content:
+                - text: 'The sections within the body will use the '
+                  type: text
+                - marks:
+                    - attrs:
+                        class: link_inline
+                        href: https://design.procore.com/content-flow
+                        target: _blank
+                      type: link
+                  text: Content Flow
+                  type: text
+                - text: " structure to ensure clear hierarchy. Content within a container should have a heading. The section heading \Lcan use the "
+                  type: text
+                - marks:
+                    - attrs:
+                        class: link_inline
+                        href: https://design.procore.com/title-lockup
+                        target: _blank
+                      type: link
+                  text: Title Lockup
+                  type: text
+                - text: " pattern if there is a need for actions for the section. Subsections \Lwill always have a divider above the subsection title."
+                  type: text
+              type: paragraph
+            - attrs:
+                alt: ''
+                src: >-
+                  https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/6182eacb311aea2890015be4_section_1.png
+                title: null
+              type: image
+            - attrs:
+                textAlign: left
+              content:
+                - text: >-
+                    If there is a data table or data list within the card it will align with the section heading. The
+                    table controls will be placed within the section content, not the section title.
+                  type: text
+              type: paragraph
+            - attrs:
+                alt: ''
+                src: https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/6182ebb51e08e4248147f5b3_section2.png
+                title: null
+              type: image
+            - attrs:
+                level: 3
+                textAlign: left
+              content:
+                - text: Collapsable Sections
+                  type: text
+              type: heading
+            - attrs:
+                textAlign: left
+              content:
+                - text: "Sections and subsections can be collapsable. The background card will resize depending on the visible content. If the title pattern is used and the section title has \La button, the button can hide or remain visible when collapsed. Collapsing a section will collapse it's subsections."
+                  type: text
+              type: paragraph
+            - attrs:
+                alt: ''
+                src: https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/6182ec2283bb7367686c1268_section3.png
+                title: null
+              type: image
+            - attrs:
+                textAlign: left
+              content:
+                - marks:
+                    - type: italic
+                  text: Example of expanded section with a visible button and a collapsed subsection.
+                  type: text
+              type: paragraph
+            - attrs:
+                alt: ''
+                src: https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/6182ec6e2fae133a8851acbb_section4.png
+                title: null
+              type: image
+            - attrs:
+                textAlign: left
+              content:
+                - marks:
+                    - type: italic
+                  text: Example of collapsed section with a hidden button.
+                  type: text
+              type: paragraph
+            - attrs:
+                alt: ''
+                src: https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/6182ec7a0222843e9b89fca6_section5.png
+                title: null
+              type: image
+            - attrs:
+                textAlign: left
+              content:
+                - marks:
+                    - type: italic
+                  text: Example of collapsed section with an avatar and a hidden button.
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 2
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Edit
+                  type: text
+              type: heading
+            - attrs:
+                textAlign: left
+              content:
+                - text: The edit pattern for the detail page can happen at the
+                  type: text
+                - marks:
+                    - type: bold
+                  text: ' object level or section level '
+                  type: text
+                - text: >-
+                    depending on the use case. Editing within a sections occurs in a modal or other overlay once
+                    triggered by the edit button in a section. Edit at the object level will trigger a full page Edit
+                    mode.
+                  type: text
+              type: paragraph
+            - attrs:
+                alt: ''
+                src: >-
+                  https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/6182ecf219a630d19b861da6_edit-image.png
+                title: null
+              type: image
+            - attrs:
+                level: 2
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Responsiveness
+                  type: text
+              type: heading
+            - attrs:
+                textAlign: left
+              content:
+                - text: The content and container will have a max width of
+                  type: text
+                - marks:
+                    - type: bold
+                  text: ' 672px and 792px, respectively'
+                  type: text
+                - text: ". When the view port has a 768px width the minimum for the body and container will be is 640px and 736px, respectively.\L"
+                  type: text
+                - type: hardBreak
+                - type: hardBreak
+                - text: This does not apply to list pages, but it applies to most other layouts.
+                  type: text
+              type: paragraph
+            - attrs:
+                alt: ''
+                src: https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/6182ed3392c6da578b767deb_resp1.png
+                title: null
+              type: image
+            - attrs:
+                textAlign: left
+              content:
+                - text: The maximum padding between the content and the card edge is 60px. Minimum padding is 24px.
+                  type: text
+              type: paragraph
+            - attrs:
+                alt: ''
+                src: >-
+                  https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/65775f299fea0642719216a6_responsive24px.png
+                title: null
+              type: image
+            - attrs:
+                level: 2
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Specifications
+                  type: text
+              type: heading
+            - attrs:
+                level: 3
+                textAlign: left
+              content:
+                - text: Page
+                  type: text
+              type: heading
+            - attrs:
+                alt: ''
+                src: https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/618376c12ebe1639ce807253_spec1.png
+                title: null
+              type: image
+            - attrs:
+                level: 3
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Expanded
+                  type: text
+              type: heading
+            - attrs:
+                level: 3
+                textAlign: left
+              content:
+                - text: Section
+                  type: text
+              type: heading
+            - attrs:
+                alt: ''
+                src: https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/618377bd177be0ce64a9c9f2_expanded.png
+                title: null
+              type: image
+            - attrs:
+                level: 3
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Collapsable
+                  type: text
+              type: heading
+            - attrs:
+                alt: ''
+                src: https://assets-global.website-files.com/5f5298baab4c43a7f0640b67/618377bd177be0ce64a9c9f2_expanded.png
+                title: null
+              type: image
+          type: doc
+      id: e1zraart
     eGax35Ka9v:
       blockType: text-editor
       data:
@@ -3926,6 +5125,14 @@ blocks:
       id: kQbnNha0mC
     kpr6IHseCx:
       blockType: pattern-list-block
+      data:
+        excludePatterns:
+          - input-field
+          - new-component-in-progress
+          - one-pager
+          - message
+        itemSize: large
+        showDescriptions: true
       id: kpr6IHseCx
     ku1o7HKQcH:
       blockType: text-editor
@@ -5693,7 +6900,7 @@ demos:
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus,
             eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.
           imgSrc: >-
-            https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+            https://images.ctfassets.net/8pep15rt0kef/45HuneTe9MuqI0MAjgqZFy/600cb7902628ee84decb6f66b9a4b414/2022_ROI_LP_Hero_1280x720_eBookTile?fit=fill&f=center&w=768&h=432
           label: Article
           title: Boost your conversion rate
         slots:
@@ -5752,7 +6959,7 @@ demos:
     2ysfvm4ShE:
       data:
         props:
-          mode: info
+          mode: warning
           size: medium
           type: solid
           url: '#url'
@@ -5796,7 +7003,7 @@ demos:
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint harum rerum voluptatem quo recusandae magni
             placeat saepe molestiae, sed excepturi cumque corporis perferendis hic.
           imgSrc: >-
-            https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+            https://images.ctfassets.net/8pep15rt0kef/5y5RJ0KrA2nOaysD5s41pj/87f8751324ca337a52c240b8247d84a4/CST-Oxford_WebAsset_4?fit=fill&f=center&w=768&h=432
           label: Case Study
           title: Improve your customer experience
         slots:
@@ -5909,7 +7116,7 @@ demos:
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus,
             eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.
           imgSrc: >-
-            https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+            https://images.ctfassets.net/8pep15rt0kef/1qJW5Otz8RN7rDgconLyqR/4ff59ca0788d65708cc3f46b7afc8ec1/ConstructionSoftwareBuyersGuide_keyart_1920x1080?fit=fill&f=center&w=768&h=432
           label: Article
           title: Boost your conversion rate now!
         slots:
@@ -5937,7 +7144,7 @@ demos:
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus,
             eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.
           imgSrc: >-
-            https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+            https://images.ctfassets.net/8pep15rt0kef/2NhO9ZrCCydm5fgcWuB5zx/9720fd07f9ff3625ff83184826b3ddfc/profservices_hero?fit=fill&f=center&w=768&h=432
           label: Video
           title: How to use search engine optimization to drive sales
         slots:
@@ -6165,7 +7372,9 @@ demos:
       type: template
   settings: {}
 settings:
-  logoUrl: https://knapsack.imgix.net/site/public-demo/knapsack-logomark-primary@3x-c3fjqx5ll_.png
+  favicon: https://knapsack.imgix.net/site/public-demo/download-2-crsorl3sdpng
+  hideTitleInNavigation: true
+  logoUrl: https://knapsack.imgix.net/site/public-demo/620aaccc2f27a31cad5780a8core-logo-cohdwpo1mhsvg
   theme:
     appearance:
       customFonts:
@@ -6189,37 +7398,46 @@ settings:
             tokenName: color.brand.primary
             type: design-token
           backgroundColor:
-            tokenName: color.brand.black
+            tokenName: color.base.almost-black
             type: design-token
           fontFamily: Inter
           fontWeight: 800
           hoverColor:
-            tokenName: color.brand.secondary
+            tokenName: color.brand.primary
             type: design-token
-          lineHeight: ''
           textColor:
             tokenName: color.text.inverse
             type: design-token
+          textTransform: inherit
         secondaryNav:
           accentColor:
-            tokenName: color-brand-secondary
+            tokenName: color.layout.border
+            type: design-token
+          backgroundColor:
+            tokenName: color.base.almost-black
             type: design-token
           fontFamily: Inter
           fontWeight: 500
+          textColor:
+            tokenName: color.brand.white
+            type: design-token
+          textTransform: inherit
         tabs:
           fontFamily: Inter
       pageElements:
-        bodyText: {}
+        bodyText:
+          fontFamily: Inter
+          textTransform: inherit
         headingLarge:
           fontFamily: Inter
           fontWeight: 400
         headingMedium:
-          fontFamily: Nunito
+          fontFamily: Inter
           textTransform: inherit
         headingSmall:
           fontFamily: Inter
         headingXLarge:
-          fontFamily: Nunito
+          fontFamily: Inter
           fontWeight: 600
           textTransform: inherit
         headingXSmall:
@@ -6227,15 +7445,16 @@ settings:
         link:
           fontWeight: 600
           textColor:
-            tokenName: color-text-link
+            tokenName: color.base.orange-procore
             type: design-token
+          textTransform: inherit
           underline: true
         pageDescription:
           fontFamily: Inter
           fontWeight: 400
         pageTitle:
-          fontFamily: Nunito
+          fontFamily: Inter
           fontWeight: 800
           textTransform: inherit
     version: 10
-  title: Public Demo
+  title: CORE Design System
