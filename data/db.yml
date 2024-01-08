@@ -4103,8 +4103,8 @@ blocks:
             id: 0f6muYg3BV
             image: https://knapsack.imgix.net/site/public-demo/5f91e2e8fc842a0859301a90dp5-p-800-4hn5c7rxtapng
             link:
-              name: Documentation
-              path: /pages/Documentation
+              name: Welcome to CORE
+              path: /pages/welcome-to-knapsack
             title: Design Principles
           - description: >-
               Foundational Tokens allow Procore to keep consistency across all products. This section of the platform
