@@ -52,7 +52,7 @@ byId:
     path: /pages/Design-Tokens
   Design-Tokens-lNWaUqkDSo:
     id: Design-Tokens-lNWaUqkDSo
-    name: Design Tokens
+    name: Foundation
     parentId: root
     path: /pages/Design-Tokens-lNWaUqkDSo
   Documentation:
@@ -189,7 +189,7 @@ byId:
   input-field:
     id: input-field
     name: Input Field
-    parentId: proposed-patterns
+    parentId: Components-aPh3G1bbrX
     path: /pattern/input-field
   knapsack's-publishing-workflow:
     id: knapsack's-publishing-workflow
@@ -204,7 +204,7 @@ byId:
   message:
     id: message
     name: Message
-    parentId: proposed-patterns
+    parentId: Components-aPh3G1bbrX
     path: /pattern/message
   new-component-in-progress:
     id: new-component-in-progress
@@ -217,11 +217,6 @@ byId:
     name: One-Pager
     parentId: Page-Builders
     path: /pattern/one-pager
-  proposed-patterns:
-    id: proposed-patterns
-    name: Proposed Patterns
-    parentId: Components-aPh3G1bbrX
-    path: ''
   spacing:
     id: spacing
     name: Spacing
@@ -234,7 +229,7 @@ byId:
     path: /pattern/top-nav
   welcome-to-knapsack:
     id: welcome-to-knapsack
-    name: Welcome to Knapsack
+    name: Welcome to CORE
     parentId: getting-started
     path: /pages/welcome-to-knapsack
 order:
@@ -275,7 +270,6 @@ order:
   - Layout
   - hero
   - layout
-  - proposed-patterns
   - message
   - input-field
   - Prototyping

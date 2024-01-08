@@ -2,16 +2,16 @@ id: Page-Level-Prototyping
 title: Page-Level Prototyping
 settings:
   pageHeader:
-    size: full
+    size: large
     textColorTitle:
       type: design-token
-      colorValue: '#000000'
-      tokenName: color-brand-primary
-    backgroundImage: null
+      tokenName: color.brand.white
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/hero-sc-desktop-z9-auzvtfjpeg
     textColorDescription:
-      type: value
-      colorValue: '#000000'
+      type: design-token
+      tokenName: color.brand.white
 description: |-
   Work with patterns to create new experiences.
   Collaborate to build, share, and test your ideas with real code!
-blockIds: []
+blockIds:
+  - e1zraart

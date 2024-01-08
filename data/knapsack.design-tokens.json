@@ -13,17 +13,22 @@
         "$type": "color",
         "$value": "#3ccf91"
       },
-      "orange": {
-        "$type": "color",
-        "$value": "#ff924f"
-      },
-      "orchid": {
-        "$type": "color",
-        "$value": "#aa1baf"
-      },
       "yellow": {
         "$type": "color",
         "$value": "#FCD02A"
+      },
+      "almost-black": {
+        "$type": "color",
+        "$value": "#373737",
+        "$description": ""
+      },
+      "orange-procore": {
+        "$type": "color",
+        "$value": "#FF5200"
+      },
+      "purple-procore": {
+        "$type": "color",
+        "$value": "#003fab"
       }
     },
     "dark": {
@@ -77,15 +82,15 @@
       },
       "primary": {
         "$type": "color",
-        "$value": "#6436BF"
+        "$value": "{color.base.orange-procore}"
       },
       "tertiary": {
         "$type": "color",
-        "$value": "#F3EFFB"
+        "$value": "{color.base.purple-procore}"
       },
       "secondary": {
         "$type": "color",
-        "$value": "#E43A5C"
+        "$value": "{color.base.almost-black}"
       }
     },
     "light": {

@@ -2,14 +2,14 @@ id: Documentation
 title: Documentation
 settings:
   pageHeader:
-    size: full
+    size: large
     textColorTitle:
       type: design-token
-      tokenName: color-brand-primary
-      colorValue: '#000000'
-    backgroundImage: https://knapsack.imgix.net/site/public-demo/sincerely-media-dgqf1dukutm-unsplash-dvgozcedlb.jpg
+      tokenName: color.brand.white
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/civilinfrastructurehero-pmi3dqey2jpg
     textColorDescription:
-      type: value
-      colorValue: '#000000'
+      type: design-token
+      tokenName: color.brand.white
 description: Read about how to use your design system
-blockIds: []
+blockIds:
+  - NLsRXz837E
