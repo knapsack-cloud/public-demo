@@ -77,7 +77,8 @@
       },
       "primary": {
         "$type": "color",
-        "$value": "#6436BF"
+        "$value": "{color.base.orange}",
+        "$description": "dsfgsd"
       },
       "tertiary": {
         "$type": "color",

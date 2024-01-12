@@ -126,6 +126,11 @@ byId:
     name: Adding Documentation
     parentId: guidance
     path: /pages/adding-documentation
+  asset-manager:
+    id: asset-manager
+    name: Asset Manager
+    parentId: root
+    path: /pages/asset-manager
   author:
     id: author
     name: Author
@@ -285,3 +290,4 @@ order:
   - Admin
   - Private-Pages
   - new-component-in-progress
+  - asset-manager
