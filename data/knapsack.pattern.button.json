@@ -70,9 +70,10 @@
         "YkyHkvdzp_",
         "vFalbAV-gx",
         "1LTGO8xsrC",
-        "idE5OOByo",
         "-plYGPDwcr",
         "1VyLx4PL0Q",
+        "rEZGaOutN",
+        "1LWn3e3b7u",
         "kCs__ou9y9",
         "PgZf2sEi0K",
         "ERHZS37CMD",
@@ -93,28 +94,41 @@
       "title": "Legacy Storybook",
       "id": "Legacy",
       "blockIds": ["4gpsIFEONx", "0tYaqASlzs"]
+    },
+    {
+      "id": "hNeIOzJuBp",
+      "title": "Untitled",
+      "blockIds": ["CIROfj2J65"]
     }
   ],
   "tabs": [
     {
-      "type": "subPage",
-      "id": "Overview"
+      "id": "Overview",
+      "type": "subPage"
     },
     {
-      "type": "subPage",
-      "id": "Accessibility"
+      "id": "Accessibility",
+      "type": "subPage"
     },
     {
-      "type": "subPage",
-      "id": "Figma"
+      "id": "Figma",
+      "type": "subPage"
     },
     {
-      "type": "template",
-      "id": "react"
+      "id": "react",
+      "type": "template"
     },
     {
-      "type": "subPage",
-      "id": "Legacy"
+      "id": "Legacy",
+      "type": "subPage"
+    },
+    {
+      "id": "IS5SuZZtNM",
+      "type": "designSrc"
+    },
+    {
+      "id": "hNeIOzJuBp",
+      "type": "subPage"
     }
   ],
   "statuses": {
@@ -123,5 +137,13 @@
     "twig": "ready",
     "handlebars": "ready",
     "web-components": "needs-dev"
+  },
+  "designSrcComponentsById": {
+    "IS5SuZZtNM": {
+      "id": "IS5SuZZtNM",
+      "title": "Figma Component",
+      "fileId": "H3Jj1cltfXiGWijrYOaGBi",
+      "componentId": "2:18"
+    }
   }
 }

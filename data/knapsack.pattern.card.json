@@ -45,6 +45,10 @@
     {
       "id": "react",
       "type": "template"
+    },
+    {
+      "id": "kVLbA8v87t",
+      "type": "designSrc"
     }
   ],
   "subPages": [
@@ -69,5 +73,13 @@
       "title": "Figma",
       "blockIds": ["Hn3xvYmDXj"]
     }
-  ]
+  ],
+  "designSrcComponentsById": {
+    "kVLbA8v87t": {
+      "id": "kVLbA8v87t",
+      "title": "Figma Component",
+      "fileId": "H3Jj1cltfXiGWijrYOaGBi",
+      "componentId": "41:95"
+    }
+  }
 }

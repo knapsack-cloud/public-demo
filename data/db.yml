@@ -8,7 +8,7 @@ blocks:
         patternId: button
         size: s
         templateId: react
-        variationId: size
+        variationId: mode
       id: '-plYGPDwcr'
     '-r73qPCQoZ':
       blockType: text-editor
@@ -369,6 +369,19 @@ blocks:
               type: bulletList
           type: doc
       id: 1LTGO8xsrC
+    1LWn3e3b7u:
+      blockType: design-src-tiles
+      data:
+        columns: '4'
+        items:
+          - fileId: H3Jj1cltfXiGWijrYOaGBi
+            nodeId: '21:12'
+          - fileId: H3Jj1cltfXiGWijrYOaGBi
+            nodeId: '21:37'
+          - fileId: H3Jj1cltfXiGWijrYOaGBi
+            nodeId: '21:9'
+        showComponentProps: false
+      id: 1LWn3e3b7u
     1MwxUqcERn:
       blockType: text-editor
       data:
@@ -387,6 +400,7 @@ blocks:
       blockType: pattern-variations
       data:
         demoId: 2ysfvm4ShE
+        hideBlockTitle: false
         patternId: button
         size: s
         templateId: react
@@ -1549,6 +1563,18 @@ blocks:
               type: heading
           type: doc
       id: BUFKAm-2a4
+    CIROfj2J65:
+      blockType: pattern-variations
+      data:
+        demoId: 2ysfvm4ShE
+        excludePropValue: ''
+        hideBlockTitle: false
+        includePropValue: ''
+        patternId: button
+        size: m
+        templateId: react
+        variationId: size
+      id: CIROfj2J65
     CP2xFIJwTx:
       blockType: divider-block
       id: CP2xFIJwTx
@@ -3758,14 +3784,6 @@ blocks:
     iSlOJ42w6Y:
       blockType: pattern-status-table-block
       id: iSlOJ42w6Y
-    idE5OOByo:
-      blockType: design-tokens
-      data:
-        demoId: color-swatch
-        groupIds:
-          - color.brand
-        tokenType: color
-      id: idE5OOByo
     ipuRLnl7VP:
       blockType: text-editor
       data:
@@ -4716,6 +4734,23 @@ blocks:
     qRvc5hdIxP:
       blockType: divider-block
       id: qRvc5hdIxP
+    rEZGaOutN:
+      blockType: design-src-tiles
+      data:
+        columns: '4'
+        imageStyles:
+          seamless: false
+        items:
+          - fileId: H3Jj1cltfXiGWijrYOaGBi
+            nodeId: '21:33'
+          - fileId: H3Jj1cltfXiGWijrYOaGBi
+            nodeId: '21:35'
+            title: Blue
+          - fileId: H3Jj1cltfXiGWijrYOaGBi
+            nodeId: '21:37'
+            title: Large
+        showComponentProps: false
+      id: rEZGaOutN
     rGQjPZFRdn:
       blockType: text-editor
       data:
@@ -6176,6 +6211,13 @@ demos:
       type: template
   settings: {}
 settings:
+  designSrcs:
+    files:
+      - fileId: H3Jj1cltfXiGWijrYOaGBi
+        name: KS - Figma Rest API
+        type: figma
+        url: https://www.figma.com/file/H3Jj1cltfXiGWijrYOaGBi?version-id=4988435680
+        version: '4988435680'
   logoUrl: https://knapsack.imgix.net/site/public-demo/knapsack-logomark-primary@3x-c3fjqx5ll_.png
   theme:
     appearance:
