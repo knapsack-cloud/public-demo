@@ -316,6 +316,11 @@
       }
     },
     "duration": {
+      "Long": {
+        "$type": "duration",
+        "$value": "1000ms",
+        "$description": ""
+      },
       "slow": {
         "$value": "600ms",
         "$description": "Used for near full width movements, like the Carousel"

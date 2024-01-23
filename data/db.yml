@@ -808,6 +808,8 @@ blocks:
         height: '800'
         url: https://www.figma.com/file/uXroEUE22VtrT6CiF3zQqS/tailwind-ui-figma-kit-2021-03-26?node-id=752%3A32
       id: 5IKy6auf0k
+      size: small
+      spacing: small
     5RQruglYiX:
       blockType: text-editor
       data:
@@ -1011,27 +1013,33 @@ blocks:
           content:
             - attrs:
                 level: 1
+                textAlign: left
               content:
                 - text: Build better together
                   type: text
               type: heading
-            - content:
+            - attrs:
+                textAlign: left
+              content:
                 - text: >-
                     Knapsack is the next generation of design systems - flexible, scalable, and highly collaborative.
                     Knapsack powers unified product experiences by providing a central source of truth for everyone on
-                    your team. Document decisions, create tokens, build prototypes, and ship code directly to your app
-                    or website. You'll see a new level of collaboration between teams and increase velocity in just a
-                    few weeks with Knapsack's ready-to-use infrastructure. Unite design and engineering in one powerful
-                    tool that will scale with your organization for years to come.
+                    your team. Document decisions, create tokdsghdfghens, build prototypes, and ship code directly to
+                    your app or website. You'll see a new level of collaboration between teams and increase velocity in
+                    just a few weeks with Knapsack's ready-to-use infrastructure. Unite design and engineering in one
+                    powerful tool that will scale with your organization for years to come.
                   type: text
               type: paragraph
-            - content:
+            - attrs:
+                textAlign: left
+              content:
                 - text: 'Visit our '
                   type: text
                 - marks:
                     - attrs:
                         class: null
                         href: https://knapsack.cloud
+                        rel: noopener noreferrer nofollow
                         target: _blank
                       type: link
                     - type: bold
@@ -1043,6 +1051,7 @@ blocks:
                     - attrs:
                         class: null
                         href: https://twitter.com/knapsackcloud
+                        rel: noopener noreferrer nofollow
                         target: _blank
                       type: link
                     - type: bold
@@ -1086,7 +1095,7 @@ blocks:
       blockType: design-token-block
       data:
         demo:
-          id: color-swatch
+          id: text-color
         tokens:
           category: color
           name: ''
@@ -5639,6 +5648,20 @@ blocks:
               type: paragraph
           type: doc
       id: y9KZVrKgpx
+    yTO3fOPY7Z:
+      blockType: pattern-variations
+      data:
+        assetSetId: default
+        demoId: 2ysfvm4ShE
+        excludePropValue: ''
+        hideBlockTitle: false
+        includePropValue: ''
+        patternId: button
+        size: m
+        templateId: react
+        variationId: size
+      id: yTO3fOPY7Z
+      size: small
     yekNm1CQc7:
       blockType: text-editor
       data:
@@ -5775,12 +5798,12 @@ demos:
       data:
         props:
           mode: info
-          size: medium
-          type: solid
+          size: large
+          type: outline
           url: '#url'
         slots:
           children:
-            - text: Button
+            - text: Best Button
               type: text
       height: 65
       id: 2ysfvm4ShE
@@ -5989,6 +6012,16 @@ demos:
       patternId: card
       templateId: react
       title: Simple
+      type: data
+    XrZ2DZLZkz:
+      data:
+        props: {}
+        slots: {}
+      description: A description
+      id: XrZ2DZLZkz
+      patternId: button
+      templateId: react
+      title: New Variation
       type: data
     _nTCiQ1984:
       data:

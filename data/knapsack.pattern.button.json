@@ -58,7 +58,7 @@
           }
         }
       },
-      "demoIds": ["2ysfvm4ShE", "2CXfLJgtaC"],
+      "demoIds": ["2ysfvm4ShE", "2CXfLJgtaC", "XrZ2DZLZkz"],
       "blockIds": []
     }
   ],
@@ -86,7 +86,7 @@
     {
       "title": "Figma",
       "id": "Figma",
-      "blockIds": ["5IKy6auf0k", "_quWnLXCar"]
+      "blockIds": ["5IKy6auf0k", "yTO3fOPY7Z", "_quWnLXCar"]
     },
     {
       "title": "Legacy Storybook",

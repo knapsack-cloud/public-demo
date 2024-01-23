@@ -18,7 +18,7 @@
   "statuses": {
     "twig": "ready",
     "react": "ready",
-    "design": "needs-design",
+    "design": "needs-updated",
     "handlebars": "ready",
     "web-components": "ready"
   },
