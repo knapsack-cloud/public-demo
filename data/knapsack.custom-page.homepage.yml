@@ -1,19 +1,25 @@
 id: homepage
-title: Welcome to Knapsack
+title: The Vonage Design System
 settings:
   pageHeader:
-    size: full
+    size: large
     textColorTitle:
       type: design-token
       tokenName: color-brand-primary
       colorValue: '#FFFFFF'
-    backgroundImage: https://knapsack.imgix.net/site/public-demo/clark-van-der-beken-596baa0mpym-unsplash-o5drv55uvq.jpg
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/videocallmedical-rl9ikj6b61svg
     textColorDescription:
       type: design-token
       tokenName: color-Meh-black
       colorValue: '#FFFFFF'
+    backgroundColor:
+      type: design-token
+      tokenName: color.brand.white
+    backgroundSize: contain
+    backgroundPosition: right
 description: |-
   A shared platform for product teams to collaborate
   on documenting, designing, building, testing, and shipping
   their digital products.
-blockIds: []
+blockIds:
+  - s4Ux0E4M-y

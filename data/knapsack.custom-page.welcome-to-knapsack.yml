@@ -6,13 +6,16 @@ settings:
       type: design-token
       tokenName: color-brand-primary
       colorValue: '#6A4CEC'
-    backgroundImage: null
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/financial-services-6gd1qb0zjnsvg
     textColorDescription:
       type: design-token
       tokenName: color-brand-black
       colorValue: '#000000'
-    size: small
-description: The collaborative design system
+    size: full
+    backgroundOverlay: true
+    backgroundSize: contain
+    backgroundPosition: right
+description: The collaborative platform
 blockIds:
   - 6-qXFUJ0eH
   - tY2rt92bob

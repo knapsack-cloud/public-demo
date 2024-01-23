@@ -77,7 +77,7 @@
       },
       "primary": {
         "$type": "color",
-        "$value": "#6436BF"
+        "$value": "#684ba2"
       },
       "tertiary": {
         "$type": "color",
@@ -85,7 +85,7 @@
       },
       "secondary": {
         "$type": "color",
-        "$value": "#E43A5C"
+        "$value": "#9c8bbf"
       }
     },
     "light": {

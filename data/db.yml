@@ -4812,6 +4812,29 @@ blocks:
               type: heading
           type: doc
       id: s0JaYiHQlW
+    s4Ux0E4M-y:
+      blockType: shortcut-tiles
+      data:
+        shortcuts:
+          - id: LKSQG1rPbi
+            image: https://knapsack.imgix.net/site/public-demo/financial-services-mtr4gv5zrqsvg
+            link:
+              name: Welcome to Knapsack
+              path: /pages/welcome-to-knapsack
+            title: Welcome to Knapsack
+          - id: zd6w8ebfut
+            image: https://knapsack.imgix.net/site/public-demo/education-qdwylwnsssvg
+            link:
+              name: Documentation
+              path: /pages/Documentation
+            title: Documentation
+          - id: lqHuR1tQuq
+            image: https://knapsack.imgix.net/site/public-demo/vonage-api-platform-eu13zfdnkjsvg
+            link:
+              name: Components Overview
+              path: /pages/Components-Overview
+            title: Components Overview
+      id: s4Ux0E4M-y
     sM9CmSLU48:
       blockType: text-editor
       data:
@@ -5692,8 +5715,7 @@ demos:
           body: >-
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus,
             eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.
-          imgSrc: >-
-            https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+          imgSrc: https://www.vonage.com/content/dam/vonage/us-en/resources/imagery/article-imagery/CostBenefitsOfAPIs_840.svg
           label: Article
           title: Boost your conversion rate
         slots:
@@ -5795,8 +5817,7 @@ demos:
           body: >-
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint harum rerum voluptatem quo recusandae magni
             placeat saepe molestiae, sed excepturi cumque corporis perferendis hic.
-          imgSrc: >-
-            https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+          imgSrc: https://www.vonage.com/content/dam/vonage/us-en/api/imagery/AI-Studio_WhatsappChat.png
           label: Case Study
           title: Improve your customer experience
         slots:
@@ -5908,8 +5929,7 @@ demos:
           body: >-
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus,
             eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.
-          imgSrc: >-
-            https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+          imgSrc: https://www.vonage.com/content/dam/vonage/us-en/resources/imagery/article-imagery/CommsAPIs_840.svg
           label: Article
           title: Boost your conversion rate now!
         slots:
@@ -5937,7 +5957,7 @@ demos:
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus,
             eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.
           imgSrc: >-
-            https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+            https://www.vonage.com/content/dam/vonage/us-en/resources/imagery/article-imagery/VoiceVideo%20Verify_840.svg
           label: Video
           title: How to use search engine optimization to drive sales
         slots:
@@ -6165,7 +6185,9 @@ demos:
       type: template
   settings: {}
 settings:
-  logoUrl: https://knapsack.imgix.net/site/public-demo/knapsack-logomark-primary@3x-c3fjqx5ll_.png
+  favicon: https://knapsack.imgix.net/site/public-demo/download-4-mkbhc2xg6png
+  hideTitleInNavigation: false
+  logoUrl: https://knapsack.imgix.net/site/public-demo/vonagelogoprimaryblack-h4jy8vatj7png
   theme:
     appearance:
       customFonts:
@@ -6189,53 +6211,95 @@ settings:
             tokenName: color.brand.primary
             type: design-token
           backgroundColor:
-            tokenName: color.brand.black
+            tokenName: color.brand.white
             type: design-token
           fontFamily: Inter
           fontWeight: 800
           hoverColor:
             tokenName: color.brand.secondary
             type: design-token
-          lineHeight: ''
           textColor:
-            tokenName: color.text.inverse
+            tokenName: color.brand.black
             type: design-token
+          textTransform: inherit
         secondaryNav:
           accentColor:
-            tokenName: color-brand-secondary
+            tokenName: color.brand.primary
             type: design-token
           fontFamily: Inter
           fontWeight: 500
+          textColor:
+            tokenName: color.brand.black
+            type: design-token
+          textTransform: inherit
         tabs:
+          accentColor:
+            tokenName: color.brand.primary
+            type: design-token
           fontFamily: Inter
+          textColor:
+            tokenName: color.brand.black
+            type: design-token
+          textTransform: inherit
       pageElements:
-        bodyText: {}
+        bodyText:
+          fontFamily: Inter
+          textColor:
+            tokenName: color.brand.black
+            type: design-token
+          textTransform: inherit
         headingLarge:
           fontFamily: Inter
           fontWeight: 400
+          textColor:
+            tokenName: color.brand.black
+            type: design-token
+          textTransform: inherit
         headingMedium:
-          fontFamily: Nunito
+          fontFamily: Inter
+          textColor:
+            tokenName: color.brand.black
+            type: design-token
           textTransform: inherit
         headingSmall:
           fontFamily: Inter
+          textColor:
+            tokenName: color.brand.black
+            type: design-token
+          textTransform: inherit
         headingXLarge:
-          fontFamily: Nunito
+          fontFamily: Inter
           fontWeight: 600
+          textColor:
+            tokenName: color.brand.black
+            type: design-token
           textTransform: inherit
         headingXSmall:
           fontFamily: Inter
+          textColor:
+            tokenName: color.brand.black
+            type: design-token
+          textTransform: inherit
         link:
           fontWeight: 600
           textColor:
-            tokenName: color-text-link
+            tokenName: color.brand.primary
             type: design-token
+          textTransform: inherit
           underline: true
         pageDescription:
           fontFamily: Inter
           fontWeight: 400
+          textColor:
+            tokenName: color.brand.black
+            type: design-token
+          textTransform: inherit
         pageTitle:
-          fontFamily: Nunito
+          fontFamily: Inter
           fontWeight: 800
+          textColor:
+            tokenName: color.brand.black
+            type: design-token
           textTransform: inherit
     version: 10
-  title: Public Demo
+  title: Design System
