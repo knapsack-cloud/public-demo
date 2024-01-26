@@ -4,6 +4,7 @@ blocks:
       blockType: pattern-variations
       data:
         demoId: 2ysfvm4ShE
+        hideBlockTitle: false
         patternId: button
         size: s
         templateId: react
@@ -470,16 +471,18 @@ blocks:
     1zsHlF6chs:
       blockType: pattern-template-block
       data:
-        demoId: RN96ZpJJpY
+        allowResizing: false
+        demoId: EHiQqpR8um
         demoSize: landscape
         hideControls: false
         patternId: card
         playgroundUi:
+          allowResizing: false
           demoSize: landscape
-          showCodeSnippet: true
-          showSchemaForm: false
-        showCodeSnippet: true
-        showSchemaForm: false
+          showCodeSnippet: false
+          showSchemaForm: true
+        showCodeSnippet: false
+        showSchemaForm: true
         templateId: react
       id: 1zsHlF6chs
     26WskgYN2R:
@@ -1059,6 +1062,14 @@ blocks:
               type: paragraph
           type: doc
       id: 6-qXFUJ0eH
+    62AWcVh5aZ:
+      blockType: design-tokens
+      data:
+        demoId: color-swatch
+        groupIds:
+          - color.brand
+        tokenType: color
+      id: 62AWcVh5aZ
     6eHTQ_DA5d:
       blockType: text-editor
       data:
@@ -5733,6 +5744,16 @@ demos:
       templateId: react
       title: Main
       type: data
+    1-xXgrbDIp:
+      data:
+        props: {}
+        slots: {}
+      description: A description
+      id: 1-xXgrbDIp
+      patternId: button
+      templateId: react
+      title: New Variation
+      type: data
     2CXfLJgtaC:
       data:
         props:
@@ -5885,6 +5906,16 @@ demos:
       patternId: footer
       templateId: react
       title: Main
+      type: data
+    EHiQqpR8um:
+      data:
+        props: {}
+        slots: {}
+      description: A description
+      id: EHiQqpR8um
+      patternId: card
+      templateId: react
+      title: New Variation
       type: data
     HV3OGy5ho_:
       data:
