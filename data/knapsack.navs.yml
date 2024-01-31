@@ -212,6 +212,11 @@ byId:
     name: New Component (in progress)
     parentId: Admin
     path: /pattern/new-component-in-progress
+  new-page:
+    id: new-page
+    name: new page
+    parentId: Components-aPh3G1bbrX
+    path: /pages/new-page
   one-pager:
     id: one-pager
     name: One-Pager
@@ -285,3 +290,4 @@ order:
   - Admin
   - Private-Pages
   - new-component-in-progress
+  - new-page
