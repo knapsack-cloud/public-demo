@@ -470,16 +470,18 @@ blocks:
     1zsHlF6chs:
       blockType: pattern-template-block
       data:
+        allowResizing: false
         demoId: RN96ZpJJpY
         demoSize: landscape
         hideControls: false
         patternId: card
         playgroundUi:
+          allowResizing: false
           demoSize: landscape
-          showCodeSnippet: true
-          showSchemaForm: false
-        showCodeSnippet: true
-        showSchemaForm: false
+          showCodeSnippet: false
+          showSchemaForm: true
+        showCodeSnippet: false
+        showSchemaForm: true
         templateId: react
       id: 1zsHlF6chs
     26WskgYN2R:
@@ -4150,7 +4152,7 @@ blocks:
       data:
         gridStyles:
           centered: false
-          columns: '2'
+          columns: '4'
         guidelines:
           - content:
               content:
@@ -4225,7 +4227,7 @@ blocks:
           headerBeforeImage: false
           imageOutlined: true
           imageRounded: true
-          imageSize: none
+          imageSize: large
       id: nayGe9qHLQ
     ncyDgsT_tf:
       blockType: text-editor
