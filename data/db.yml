@@ -385,7 +385,8 @@ blocks:
     1VyLx4PL0Q:
       blockType: pattern-variations
       data:
-        demoId: 2ysfvm4ShE
+        demoId: VGP6N0-XE
+        hideBlockTitle: false
         patternId: button
         size: s
         templateId: react
@@ -5653,10 +5654,11 @@ blocks:
       blockType: design-token-block
       data:
         demo:
-          id: spacing
+          id: color-swatch
         tokens:
-          category: spacing
-          tags: []
+          category: color
+          tags:
+            - brand
       id: zaqr2o47r
     zlejPJh20Z:
       blockType: text-editor
@@ -5930,6 +5932,24 @@ demos:
       title: One Author CTA
       type: data
       width: 543
+    VGP6N0-XE:
+      data:
+        props:
+          mode: danger
+          size: medium
+          type: solid
+          url: '#url'
+        slots:
+          children:
+            - text: Don't click this!
+              type: text
+      height: 65
+      id: VGP6N0-XE
+      patternId: button
+      templateId: react
+      title: Primary Danger
+      type: data
+      width: 227
     W1Xbf7ez7T:
       data:
         props:
@@ -6139,6 +6159,16 @@ demos:
       templateId: react
       title: No Logo Top Nav w/ Button
       type: data
+    vahFgnabrD:
+      data:
+        props: {}
+        slots: {}
+      description: A description
+      id: vahFgnabrD
+      patternId: card
+      templateId: react
+      title: New Variation
+      type: data
     ysDZjRo0Yd:
       data:
         props:
@@ -6202,10 +6232,17 @@ settings:
             type: design-token
         secondaryNav:
           accentColor:
-            tokenName: color-brand-secondary
+            tokenName: color.base.green
             type: design-token
-          fontFamily: Inter
-          fontWeight: 500
+          backgroundColor:
+            tokenName: color.light.orange
+            type: design-token
+          fontFamily: Nunito
+          fontWeight: 800
+          textColor:
+            tokenName: color.brand.black
+            type: design-token
+          textTransform: inherit
         tabs:
           fontFamily: Inter
       pageElements:
