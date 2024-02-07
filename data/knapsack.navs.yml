@@ -141,6 +141,11 @@ byId:
     name: Brand Colors
     parentId: colors
     path: /pages/brand-colors
+  brand-standards:
+    id: brand-standards
+    name: Our Brand Story
+    parentId: root
+    path: /pages/brand-standards
   button:
     id: button
     name: Button
@@ -238,6 +243,7 @@ byId:
     parentId: getting-started
     path: /pages/welcome-to-knapsack
 order:
+  - brand-standards
   - getting-started
   - welcome-to-knapsack
   - guidance

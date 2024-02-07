@@ -1,19 +1,23 @@
 id: homepage
-title: Welcome to Knapsack
+title: Welcome to Petronas Design System
 settings:
   pageHeader:
-    size: full
+    size: large
     textColorTitle:
       type: design-token
       tokenName: color-brand-primary
       colorValue: '#FFFFFF'
-    backgroundImage: https://knapsack.imgix.net/site/public-demo/clark-van-der-beken-596baa0mpym-unsplash-o5drv55uvq.jpg
+    backgroundImage: >-
+      https://knapsack.imgix.net/site/public-demo/prev-desktoppetronas-motorsports-what-do-they-do-for-malaysia-81360000000006318b298e2c028654a718b839be0107697b1-jiqznip0jpng
     textColorDescription:
       type: design-token
       tokenName: color-Meh-black
       colorValue: '#FFFFFF'
-description: |-
-  A shared platform for product teams to collaborate
-  on documenting, designing, building, testing, and shipping
-  their digital products.
-blockIds: []
+    backgroundSize: contain
+    backgroundOverlay: false
+    backgroundPosition: right
+description: Accelerating product teams and reducing work.
+blockIds:
+  - wdh0eyY5A
+  - qttPR-zmYW
+  - mJ1HUwSf0G

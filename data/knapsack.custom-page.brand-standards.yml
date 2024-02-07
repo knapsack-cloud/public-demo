@@ -1,0 +1,15 @@
+id: brand-standards
+title: Our Brand Story
+blockIds:
+  - 52lusWgd8q
+  - JdpEKY8930
+settings:
+  pageHeader:
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/petronas-dynamic-flexible-branding-kit-main-2j4jluhycnjpg
+    size: large
+    textColorTitle:
+      type: design-token
+      tokenName: color.base.green
+    backgroundSize: cover
+    backgroundOverlay: false
+description: ''

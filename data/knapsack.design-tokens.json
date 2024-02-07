@@ -11,7 +11,7 @@
       },
       "green": {
         "$type": "color",
-        "$value": "#3ccf91"
+        "$value": "#00a19c"
       },
       "orange": {
         "$type": "color",
@@ -77,7 +77,7 @@
       },
       "primary": {
         "$type": "color",
-        "$value": "#6436BF"
+        "$value": "{color.base.green}"
       },
       "tertiary": {
         "$type": "color",
@@ -85,7 +85,7 @@
       },
       "secondary": {
         "$type": "color",
-        "$value": "#E43A5C"
+        "$value": "#6C4196"
       }
     },
     "light": {

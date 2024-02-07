@@ -741,6 +741,22 @@ blocks:
               type: paragraph
           type: doc
       id: 4gpsIFEONx
+    52lusWgd8q:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                textAlign: left
+              content:
+                - text: >-
+                    Discover PETRONAS brand story from the start of our humble beginnings to where we are as PETRONAS is
+                    passionate in building a sustainable future, delivering progress to our nation, communities, and
+                    organisation.
+                  type: text
+              type: paragraph
+          type: doc
+      id: 52lusWgd8q
     5HTGtGc_jn:
       blockType: text-editor
       data:
@@ -2231,6 +2247,16 @@ blocks:
               type: paragraph
           type: doc
       id: J7G5qpbLIh
+    JdpEKY8930:
+      blockType: image-block
+      data:
+        imageSize: l
+        images:
+          - caption: PETRONAS Logo.png
+            src: https://knapsack.imgix.net/site/public-demo/petronas-logo-nlugakx8rhpng
+      id: JdpEKY8930
+      size: large
+      spacing: small
     K-6A8f88Qu:
       blockType: text-editor
       data:
@@ -4020,6 +4046,26 @@ blocks:
               type: bulletList
           type: doc
       id: mDLeEkWYGa
+    mJ1HUwSf0G:
+      blockType: shortcut-tiles
+      data:
+        gridStyles:
+          centered: false
+          columns: '3'
+        shortcuts:
+          - id: LlZfWYBaQm
+            link:
+              name: Design Tokens
+              path: /pages/Design-Tokens
+            title: Design Tokens
+        tileStyles:
+          imageSize: medium
+          outlined: true
+          rounded: true
+          titleSize: xsmall
+      id: mJ1HUwSf0G
+      size: small
+      spacing: small
     mf8RBOFi4q:
       blockType: divider-block
       id: mf8RBOFi4q
@@ -4705,6 +4751,25 @@ blocks:
     qRvc5hdIxP:
       blockType: divider-block
       id: qRvc5hdIxP
+    qttPR-zmYW:
+      blockType: shortcut-tiles
+      data:
+        gridStyles:
+          centered: false
+          columns: '3'
+        shortcuts:
+          - id: TJ7MpktE4B
+            link:
+              name: Components Overview
+              path: /pages/Components-Overview
+            title: Components Overview
+        tileStyles:
+          imageSize: medium
+          outlined: true
+          rounded: true
+          titleSize: xsmall
+      id: qttPR-zmYW
+      size: small
     rGQjPZFRdn:
       blockType: text-editor
       data:
@@ -5341,6 +5406,26 @@ blocks:
           type: doc
       id: wYH2eUqWc8
       size: small
+    wdh0eyY5A:
+      blockType: shortcut-tiles
+      data:
+        gridStyles:
+          centered: false
+          columns: '3'
+        shortcuts:
+          - id: fWAgGuj0hM
+            link:
+              name: Brand Standards
+              path: /pages/brand-standards
+            title: Brand Standards
+        tileStyles:
+          imageSize: medium
+          outlined: true
+          rounded: true
+          titleSize: xsmall
+      id: wdh0eyY5A
+      size: small
+      spacing: small
     wwkLIOf27t:
       blockType: text-editor
       data:
@@ -6165,7 +6250,9 @@ demos:
       type: template
   settings: {}
 settings:
-  logoUrl: https://knapsack.imgix.net/site/public-demo/knapsack-logomark-primary@3x-c3fjqx5ll_.png
+  favicon: https://knapsack.imgix.net/site/public-demo/petronasdrop2013flat-q38iunltpzpng
+  hideTitleInNavigation: false
+  logoUrl: https://knapsack.imgix.net/site/public-demo/petronasdrop2013flat-uigr3icmlnpng
   theme:
     appearance:
       customFonts:
@@ -6189,17 +6276,17 @@ settings:
             tokenName: color.brand.primary
             type: design-token
           backgroundColor:
-            tokenName: color.brand.black
+            tokenName: color.brand.secondary
             type: design-token
           fontFamily: Inter
           fontWeight: 800
           hoverColor:
-            tokenName: color.brand.secondary
+            tokenName: color.brand.primary
             type: design-token
-          lineHeight: ''
           textColor:
             tokenName: color.text.inverse
             type: design-token
+          textTransform: inherit
         secondaryNav:
           accentColor:
             tokenName: color-brand-secondary
@@ -6238,4 +6325,4 @@ settings:
           fontWeight: 800
           textTransform: inherit
     version: 10
-  title: Public Demo
+  title: Petronas Design System
