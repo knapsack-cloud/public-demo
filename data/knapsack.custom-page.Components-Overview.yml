@@ -2,18 +2,21 @@ id: Components-Overview
 title: Components Overview
 settings:
   pageHeader:
-    size: auto
+    size: large
     textColorTitle:
       type: design-token
-      colorValue: '#FFFFFF'
-      tokenName: color-brand-primary
-    backgroundImage: null
+      tokenName: color.brand.secondary
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/generative-branding-system-05-ynftssyowmjpg
     textColorDescription:
       type: design-token
       colorValue: '#FFFFFF'
       tokenName: color-brand-black
+    backgroundSize: cover
+    backgroundPosition: center
+    hideText: true
+    backgroundOverlay: false
   hideTableOfContents: true
-description: Browse all available components and understand current status
+description: ''
 blockIds:
   - MPWVYU6VPU
   - n8S6Hd_tQN

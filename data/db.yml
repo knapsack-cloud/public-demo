@@ -176,7 +176,7 @@ blocks:
       data:
         clickToInteract: true
         height: '480'
-        url: https://www.youtube.com/watch?v=oFXaV-xXG5s
+        url: https://www.youtube.com/watch?v=SMPVaSQoQ1s
       id: 0m76iAbMDZ
     0tYaqASlzs:
       blockType: generic-iframe
@@ -769,7 +769,6 @@ blocks:
     593kB8hOuM:
       blockType: text-editor
       data:
-        autoFocus: true
         content:
           content:
             - attrs:
@@ -2478,6 +2477,26 @@ blocks:
           type: doc
       id: MudWyP8_-E
       size: medium
+    MvDcwO2Ws6:
+      blockType: shortcut-tiles
+      data:
+        gridStyles:
+          centered: false
+          columns: '3'
+        shortcuts:
+          - id: cD7MTvVLvZ
+            image: https://knapsack.imgix.net/site/public-demo/pexels-pixabay-51944-fybiqapnnjpg
+            link:
+              name: Welcome to PDS
+              path: /pages/welcome-to-knapsack
+            title: Getting Started
+        tileStyles:
+          imageSize: medium
+          outlined: true
+          rounded: true
+          titleSize: xsmall
+      id: MvDcwO2Ws6
+      size: small
     NQNG4vxZ0M:
       blockType: text-editor
       data:
@@ -3741,6 +3760,25 @@ blocks:
     fTtR3u4Py_:
       blockType: divider-block
       id: fTtR3u4Py_
+    fXQdsaj6X:
+      blockType: shortcut-tiles
+      data:
+        gridStyles:
+          centered: false
+          columns: '3'
+        shortcuts:
+          - id: TJ7MpktE4B
+            link:
+              name: Components Overview
+              path: /pages/Components-Overview
+            title: Components Overview
+        tileStyles:
+          imageSize: medium
+          outlined: true
+          rounded: true
+          titleSize: xsmall
+      id: fXQdsaj6X
+      size: small
     gAEGVw3JV2:
       blockType: text-editor
       data:
@@ -4098,26 +4136,6 @@ blocks:
               type: bulletList
           type: doc
       id: mDLeEkWYGa
-    mJ1HUwSf0G:
-      blockType: shortcut-tiles
-      data:
-        gridStyles:
-          centered: false
-          columns: '3'
-        shortcuts:
-          - id: LlZfWYBaQm
-            link:
-              name: Design Tokens
-              path: /pages/Design-Tokens
-            title: Design Tokens
-        tileStyles:
-          imageSize: medium
-          outlined: true
-          rounded: true
-          titleSize: xsmall
-      id: mJ1HUwSf0G
-      size: small
-      spacing: small
     mf8RBOFi4q:
       blockType: divider-block
       id: mf8RBOFi4q
@@ -4777,7 +4795,6 @@ blocks:
     pxG7gc1kXI:
       blockType: text-editor
       data:
-        autoFocus: true
         content:
           content:
             - attrs:
@@ -4854,25 +4871,6 @@ blocks:
     qRvc5hdIxP:
       blockType: divider-block
       id: qRvc5hdIxP
-    qttPR-zmYW:
-      blockType: shortcut-tiles
-      data:
-        gridStyles:
-          centered: false
-          columns: '3'
-        shortcuts:
-          - id: TJ7MpktE4B
-            link:
-              name: Components Overview
-              path: /pages/Components-Overview
-            title: Components Overview
-        tileStyles:
-          imageSize: medium
-          outlined: true
-          rounded: true
-          titleSize: xsmall
-      id: qttPR-zmYW
-      size: small
     rGQjPZFRdn:
       blockType: text-editor
       data:
@@ -5517,6 +5515,7 @@ blocks:
           columns: '3'
         shortcuts:
           - id: fWAgGuj0hM
+            image: https://knapsack.imgix.net/site/public-demo/petronas-dynamic-flexible-branding-kit-main-r3culvd8r0jpg
             link:
               name: Brand Standards
               path: /pages/brand-standards
@@ -5881,7 +5880,7 @@ demos:
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus,
             eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.
           imgSrc: >-
-            https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+            https://www.ft.com/__origami/service/image/v2/images/raw/ftcms%3A78e7b130-1a19-11e3-93e8-00144feab7de?source=next-article&fit=scale-down&quality=highest&width=700&dpr=2
           label: Article
           title: Boost your conversion rate
         slots:
@@ -5983,8 +5982,7 @@ demos:
           body: >-
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint harum rerum voluptatem quo recusandae magni
             placeat saepe molestiae, sed excepturi cumque corporis perferendis hic.
-          imgSrc: >-
-            https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+          imgSrc: https://www.dealernews.com/portals/dealernews/PETRONAS%20Energica1.jpg
           label: Case Study
           title: Improve your customer experience
         slots:
@@ -6097,7 +6095,7 @@ demos:
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus,
             eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.
           imgSrc: >-
-            https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+            https://assets.spe.org/dims4/default/d414588/2147483647/strip/true/crop/1024x647+0+0/resize/1600x1010!/quality/90/?url=http%3A%2F%2Fspe-brightspot.s3.us-east-2.amazonaws.com%2F6c%2Fa3%2F5f0cde61abd545ba96aeb9517e2e%2Fjpt-2019-4-petronas-yetagun-platform-01-hero.png
           label: Article
           title: Boost your conversion rate now!
         slots:
@@ -6124,8 +6122,7 @@ demos:
           body: >-
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus,
             eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.
-          imgSrc: >-
-            https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+          imgSrc: https://www.esgtoday.com/wp-content/uploads/2022/06/Solar-Petronas.jpg
           label: Video
           title: How to use search engine optimization to drive sales
         slots:
@@ -6396,10 +6393,20 @@ settings:
             type: design-token
           fontFamily: Inter
           fontWeight: 500
+          textColor:
+            tokenName: color.brand.primary
+            type: design-token
+          textTransform: inherit
         tabs:
+          accentColor:
+            tokenName: color.brand.primary
+            type: design-token
           fontFamily: Inter
+          textTransform: inherit
       pageElements:
-        bodyText: {}
+        bodyText:
+          fontFamily: Inter
+          textTransform: inherit
         headingLarge:
           fontFamily: Inter
           fontWeight: 400
@@ -6408,12 +6415,12 @@ settings:
             type: design-token
           textTransform: inherit
         headingMedium:
-          fontFamily: Nunito
+          fontFamily: Inter
           textTransform: inherit
         headingSmall:
           fontFamily: Inter
         headingXLarge:
-          fontFamily: Nunito
+          fontFamily: Inter
           fontWeight: 600
           textTransform: inherit
         headingXSmall:
@@ -6421,14 +6428,15 @@ settings:
         link:
           fontWeight: 600
           textColor:
-            tokenName: color-text-link
+            tokenName: color.brand.primary
             type: design-token
+          textTransform: inherit
           underline: true
         pageDescription:
           fontFamily: Inter
           fontWeight: 400
         pageTitle:
-          fontFamily: Nunito
+          fontFamily: Inter
           fontWeight: 800
           textTransform: inherit
     version: 10
