@@ -769,7 +769,6 @@ blocks:
     593kB8hOuM:
       blockType: text-editor
       data:
-        autoFocus: true
         content:
           content:
             - attrs:
@@ -1523,7 +1522,7 @@ blocks:
       blockType: design-token-block
       data:
         demo:
-          id: color-swatch
+          id: text-color
         tokens:
           category: color
           name: ''
@@ -4797,7 +4796,6 @@ blocks:
     pxG7gc1kXI:
       blockType: text-editor
       data:
-        autoFocus: true
         content:
           content:
             - attrs:

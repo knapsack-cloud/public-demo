@@ -81,7 +81,7 @@
       },
       "tertiary": {
         "$type": "color",
-        "$value": "#F3EFFB"
+        "$value": "{color.base.green}"
       },
       "secondary": {
         "$type": "color",
@@ -305,6 +305,11 @@
   },
   "transition": {
     "delay": {
+      "Fast": {
+        "$type": "duration",
+        "$value": "100ms",
+        "$description": ""
+      },
       "slow": {
         "$value": "8000ms",
         "$description": "Used for timings that need to be fully interpreted by users, such as the Carousel autorotate delay."
