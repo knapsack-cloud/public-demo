@@ -702,6 +702,15 @@ blocks:
               type: blockquote
           type: doc
       id: 3nx-x-krwF
+    3uUra1jpnt:
+      blockType: image-block
+      data:
+        imageSize: full
+        images:
+          - caption: Our-Passion-dots-img-2 (1)_0_1.png
+            src: https://knapsack.imgix.net/site/public-demo/our-passion-dots-img-2-101-hxm1oz0gbfpng
+      id: 3uUra1jpnt
+      size: large
     47VollR_2X:
       blockType: text-editor
       data:
@@ -757,6 +766,49 @@ blocks:
               type: paragraph
           type: doc
       id: 52lusWgd8q
+    593kB8hOuM:
+      blockType: text-editor
+      data:
+        autoFocus: true
+        content:
+          content:
+            - attrs:
+                level: 2
+                textAlign: start
+              content:
+                - marks:
+                    - type: bold
+                  text: Our Logo
+                  type: text
+              type: heading
+            - attrs:
+                textAlign: start
+              content:
+                - text: The PETRONAS logo is dynamic and demonstrates the capabilities and expertise of the organisation.
+                  type: text
+              type: paragraph
+            - attrs:
+                textAlign: start
+              content:
+                - text: >-
+                    The solid circle illustrates the latent potential within the individuals, the communities and the
+                    environment. The triangle points to a firm direction, as well as representing the relationships
+                    between the Federal Government, State Government and PETRONAS.
+                  type: text
+              type: paragraph
+            - attrs:
+                textAlign: start
+              content:
+                - text: >-
+                    Created with a single stroke of a continuous line, the logomark reflects our passion in constantly
+                    seeking innovative solutions and delivering progress. The sleekness of our logo conveys an
+                    approachable feel, depicting a human-centred organisation that inspires and nurtures talents as well
+                    as contributes to the community through responsible action and care.
+                  type: text
+              type: paragraph
+          type: doc
+      id: 593kB8hOuM
+      size: large
     5HTGtGc_jn:
       blockType: text-editor
       data:
@@ -2250,7 +2302,7 @@ blocks:
     JdpEKY8930:
       blockType: image-block
       data:
-        imageSize: l
+        imageSize: full
         images:
           - caption: PETRONAS Logo.png
             src: https://knapsack.imgix.net/site/public-demo/petronas-logo-nlugakx8rhpng
@@ -4722,6 +4774,57 @@ blocks:
           type: doc
       id: pnwrmGuYfT
       size: medium
+    pxG7gc1kXI:
+      blockType: text-editor
+      data:
+        autoFocus: true
+        content:
+          content:
+            - attrs:
+                level: 2
+                textAlign: start
+              content:
+                - marks:
+                    - type: bold
+                  text: PETRONAS Dots
+                  type: text
+              type: heading
+            - attrs:
+                textAlign: start
+              content:
+                - text: >-
+                    Our circles graphic, also known as the “PETRONAS Dots”, is created with a digital-first approach.
+                    The PETRONAS Dots are constantly evolving just like the way energy flows. They take on infinite
+                    forms from a simple and precise foundation.
+                  type: text
+              type: paragraph
+            - attrs:
+                textAlign: start
+              content:
+                - text: >-
+                    PETRONAS recognises that energy exists in multiple forms – from the carbon molecules of the earth,
+                    the electrons of the sun, to the latent potential that lies in every individual. And that is what
+                    each circle represents. It pays homage to our core identity, while the precise structure
+                    demonstrates our expertise and technological capabilities.
+                  type: text
+              type: paragraph
+            - attrs:
+                textAlign: start
+              content:
+                - text: >-
+                    The circle sits at the heart of what we do, PETRONAS activates each circle’s potential setting it in
+                    the right direction.
+                  type: text
+              type: paragraph
+            - attrs:
+                textAlign: start
+              content:
+                - text: Every time this happens, we make progress together.
+                  type: text
+              type: paragraph
+          type: doc
+      id: pxG7gc1kXI
+      size: large
     q0eLbBTio_:
       blockType: text-editor
       data:
@@ -6300,6 +6403,10 @@ settings:
         headingLarge:
           fontFamily: Inter
           fontWeight: 400
+          textColor:
+            tokenName: color.base.green
+            type: design-token
+          textTransform: inherit
         headingMedium:
           fontFamily: Nunito
           textTransform: inherit
