@@ -769,6 +769,7 @@ blocks:
     593kB8hOuM:
       blockType: text-editor
       data:
+        autoFocus: true
         content:
           content:
             - attrs:
@@ -3768,6 +3769,7 @@ blocks:
           columns: '3'
         shortcuts:
           - id: TJ7MpktE4B
+            image: https://knapsack.imgix.net/site/public-demo/generative-branding-system-05-yq-qxroquqjpg
             link:
               name: Components Overview
               path: /pages/Components-Overview
@@ -4795,6 +4797,7 @@ blocks:
     pxG7gc1kXI:
       blockType: text-editor
       data:
+        autoFocus: true
         content:
           content:
             - attrs:

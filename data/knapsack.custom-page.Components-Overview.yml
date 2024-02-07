@@ -2,7 +2,7 @@ id: Components-Overview
 title: Components Overview
 settings:
   pageHeader:
-    size: large
+    size: full
     textColorTitle:
       type: design-token
       tokenName: color.brand.secondary
