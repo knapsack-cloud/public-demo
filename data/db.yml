@@ -801,13 +801,6 @@ blocks:
           type: doc
       id: 5HTGtGc_jn
       size: medium
-    5IKy6auf0k:
-      blockType: figma-block
-      data:
-        clickToInteract: false
-        height: '800'
-        url: https://www.figma.com/file/uXroEUE22VtrT6CiF3zQqS/tailwind-ui-figma-kit-2021-03-26?node-id=752%3A32
-      id: 5IKy6auf0k
     5RQruglYiX:
       blockType: text-editor
       data:
@@ -3104,13 +3097,6 @@ blocks:
           name: ''
           tags: []
       id: _f4PbvkrLK
-    _quWnLXCar:
-      blockType: figma-block
-      data:
-        clickToInteract: false
-        height: '480'
-        url: https://www.figma.com/file/uXroEUE22VtrT6CiF3zQqS/tailwind-ui-figma-kit-2021-03-26?node-id=172%3A4447
-      id: _quWnLXCar
     aHFCyUV-9P:
       blockType: text-editor
       data:
@@ -3917,13 +3903,6 @@ blocks:
     kM7ifv2voZ:
       blockType: divider-block
       id: kM7ifv2voZ
-    kQbnNha0mC:
-      blockType: figma-block
-      data:
-        clickToInteract: false
-        height: '600'
-        url: https://www.figma.com/file/zUm5kTRtnkFUh5JUsBwwWl/Demo-Design-System-Library?node-id=1%3A2
-      id: kQbnNha0mC
     kpr6IHseCx:
       blockType: pattern-list-block
       id: kpr6IHseCx
@@ -6165,6 +6144,18 @@ demos:
       type: template
   settings: {}
 settings:
+  designSrcs:
+    files:
+      - fileId: H3Jj1cltfXiGWijrYOaGBi
+        name: KS - Figma Rest API
+        type: figma
+        url: https://www.figma.com/file/H3Jj1cltfXiGWijrYOaGBi?version-id=4988435680
+        version: '4988435680'
+      - fileId: zUm5kTRtnkFUh5JUsBwwWl
+        name: Demo Design System Library
+        type: figma
+        url: https://www.figma.com/file/zUm5kTRtnkFUh5JUsBwwWl?version-id=4804108977
+        version: '4804108977'
   logoUrl: https://knapsack.imgix.net/site/public-demo/knapsack-logomark-primary@3x-c3fjqx5ll_.png
   theme:
     appearance:

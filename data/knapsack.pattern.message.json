@@ -6,8 +6,8 @@
       "type": "subPage"
     },
     {
-      "id": "design",
-      "type": "subPage"
+      "id": "DZsbZp43zF",
+      "type": "designSrc"
     }
   ],
   "title": "Message",
@@ -23,13 +23,16 @@
       "id": "overview",
       "title": "Overview",
       "blockIds": ["or5NmQYdwm"]
-    },
-    {
-      "id": "design",
-      "title": "Design",
-      "blockIds": ["kQbnNha0mC"]
     }
   ],
   "templates": [],
-  "description": "Interstitial information of varying degrees of severity (Look mom! I'm using my MBA!)"
+  "description": "Interstitial information of varying degrees of severity (Look mom! I'm using my MBA!)",
+  "designSrcComponentsById": {
+    "DZsbZp43zF": {
+      "id": "DZsbZp43zF",
+      "title": "Figma Component",
+      "fileId": "zUm5kTRtnkFUh5JUsBwwWl",
+      "componentId": "1:30"
+    }
+  }
 }

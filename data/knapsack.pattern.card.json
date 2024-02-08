@@ -39,6 +39,10 @@
       "type": "subPage"
     },
     {
+      "id": "nCbRsPXAw6",
+      "type": "designSrc"
+    },
+    {
       "id": "Figma",
       "type": "subPage"
     },
@@ -66,8 +70,16 @@
     },
     {
       "id": "Figma",
-      "title": "Figma",
+      "title": "Vector",
       "blockIds": ["Hn3xvYmDXj"]
     }
-  ]
+  ],
+  "designSrcComponentsById": {
+    "nCbRsPXAw6": {
+      "id": "nCbRsPXAw6",
+      "title": "Figma Component",
+      "fileId": "H3Jj1cltfXiGWijrYOaGBi",
+      "componentId": "41:95"
+    }
+  }
 }
