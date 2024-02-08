@@ -3074,6 +3074,23 @@ blocks:
     ZQ5Z_y9_Dx:
       blockType: divider-block
       id: ZQ5Z_y9_Dx
+    ZbfJtKrxT2:
+      blockType: guidelines
+      data:
+        gridStyles:
+          centered: false
+          columns: '2'
+        guidelines:
+          - id: tFD0VUmZOM
+            type: do
+          - id: G1KM4yQOiK
+            type: dont
+        tileStyles:
+          headerBeforeImage: false
+          imageOutlined: true
+          imageRounded: true
+          imageSize: large
+      id: ZbfJtKrxT2
     ZlCcg9r5Lk:
       blockType: text-editor
       data:
@@ -4099,6 +4116,10 @@ blocks:
       size: medium
     n8S6Hd_tQN:
       blockType: pattern-status-table-block
+      data:
+        excludeHiddenNavItems: false
+        excludePatterns:
+          - header
       id: n8S6Hd_tQN
     nFepVH2iK2:
       blockType: text-editor
@@ -5130,22 +5151,6 @@ blocks:
           type: doc
       id: v7O59ih4fZ
       size: medium
-    vFalbAV-gx:
-      blockType: pattern-template-block
-      data:
-        demoId: 2ysfvm4ShE
-        demoSize: landscape
-        hideControls: false
-        patternId: button
-        playgroundUi:
-          demoSize: landscape
-          showCodeSnippet: false
-          showSchemaForm: false
-        showCodeSnippet: false
-        showSchemaForm: false
-        templateId: react
-      id: vFalbAV-gx
-      size: small
     vPbAkMHWK4:
       blockType: text-editor
       data:
