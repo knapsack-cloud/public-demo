@@ -447,6 +447,26 @@ blocks:
           type: doc
       id: 1ZGT33uyBJ
       size: medium
+    1abM1oYlhz:
+      blockType: design-src-tiles
+      data:
+        columns: '3'
+        imageStyles:
+          corners: rounded
+          fit: contain
+          seamless: false
+          size: small
+        items:
+          - fileId: H3Jj1cltfXiGWijrYOaGBi
+            nodeId: '21:33'
+            title: '"Small"'
+          - fileId: H3Jj1cltfXiGWijrYOaGBi
+            nodeId: '21:35'
+            title: '"Medium'
+          - fileId: H3Jj1cltfXiGWijrYOaGBi
+            nodeId: '21:37'
+        showComponentProps: false
+      id: 1abM1oYlhz
     1qNvMBLoCi:
       blockType: text-editor
       data:
@@ -470,11 +490,13 @@ blocks:
     1zsHlF6chs:
       blockType: pattern-template-block
       data:
+        allowResizing: true
         demoId: RN96ZpJJpY
         demoSize: landscape
         hideControls: false
         patternId: card
         playgroundUi:
+          allowResizing: true
           demoSize: landscape
           showCodeSnippet: true
           showSchemaForm: false
@@ -482,6 +504,7 @@ blocks:
         showSchemaForm: false
         templateId: react
       id: 1zsHlF6chs
+      size: medium
     26WskgYN2R:
       blockType: design-token-block
       data:
@@ -890,6 +913,15 @@ blocks:
               type: paragraph
           type: doc
       id: 5RQruglYiX
+    5XGv0lzX9:
+      blockType: component-spec-block
+      data:
+        collapsible: false
+        expanded: false
+        patternId: card
+        templateId: react
+      id: 5XGv0lzX9
+      size: medium
     5vJm5kT6wh:
       blockType: text-editor
       data:
@@ -2109,10 +2141,6 @@ blocks:
                 - text: Use card layouts to present a high-level summary of content related to a single topic.
                   type: text
               type: paragraph
-            - attrs:
-                level: 3
-                textAlign: left
-              type: heading
           type: doc
       id: GUshucXGiO
     Gal6UXZEiQ:
@@ -2198,6 +2226,39 @@ blocks:
     IAHMxBb9dw:
       blockType: divider-block
       id: IAHMxBb9dw
+    Iu6QKbz80R:
+      blockType: shortcut-tiles
+      data:
+        gridStyles:
+          centered: false
+          columns: '3'
+        shortcuts:
+          - description: View and manage building blocks for our digital brand.
+            id: OFYMBFwUXb
+            image: https://knapsack.imgix.net/site/public-demo/46643-lg7przfyjvpng
+            link:
+              name: Design Tokens
+              path: /pages/Design-Tokens
+            title: 🎨 Design Tokens
+          - description: Find and understand UI elements in design and code.
+            id: sDtamkSsTt
+            image: https://knapsack.imgix.net/site/public-demo/materialillustrationabs-7b98tg-tfnpng
+            link:
+              name: Components Overview
+              path: /pages/Components-Overview
+            title: 🧩 Components Overview
+          - description: Assemble modular elements into UIs based in code.
+            id: BIVcAleTv7
+            link:
+              name: Page-Level Prototyping
+              path: /pages/Page-Level-Prototyping
+            title: 🖼️ Page-Level Prototyping
+        tileStyles:
+          imageSize: none
+          outlined: true
+          rounded: true
+          titleSize: xsmall
+      id: Iu6QKbz80R
     J7G5qpbLIh:
       blockType: text-editor
       data:
@@ -2653,6 +2714,20 @@ blocks:
               type: bulletList
           type: doc
       id: QuqCPgR26m
+    QxLW4y0EMp:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 2
+                textAlign: left
+              content:
+                - text: Component Anatomy
+                  type: text
+              type: heading
+          type: doc
+      id: QxLW4y0EMp
     R2rGt24igX:
       blockType: text-editor
       data:
@@ -2719,6 +2794,21 @@ blocks:
           type: doc
       id: SDCFdXJ3xc
       size: medium
+    Sfi19I7jrf:
+      blockType: text-editor
+      data:
+        autoFocus: true
+        content:
+          content:
+            - attrs:
+                level: 1
+                textAlign: left
+              content:
+                - text: React Render
+                  type: text
+              type: heading
+          type: doc
+      id: Sfi19I7jrf
     TPySDEPq5j:
       blockType: design-token-block
       data:
@@ -3741,6 +3831,18 @@ blocks:
     iSlOJ42w6Y:
       blockType: pattern-status-table-block
       id: iSlOJ42w6Y
+    ifCTKdQGoq:
+      blockType: pattern-variations
+      data:
+        demoId: 2ysfvm4ShE
+        excludePropValue: ''
+        hideBlockTitle: true
+        includePropValue: ''
+        patternId: button
+        size: m
+        templateId: react
+        variationId: size
+      id: ifCTKdQGoq
     ipuRLnl7VP:
       blockType: text-editor
       data:
@@ -3884,6 +3986,20 @@ blocks:
               type: heading
           type: doc
       id: jWII3xdR5Y
+    jgm9jgDOe:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 1
+                textAlign: left
+              content:
+                - text: Figma Render
+                  type: text
+              type: heading
+          type: doc
+      id: jgm9jgDOe
     kCs__ou9y9:
       blockType: pattern-variations
       data:
@@ -4099,6 +4215,11 @@ blocks:
       size: medium
     n8S6Hd_tQN:
       blockType: pattern-status-table-block
+      data:
+        excludeHiddenNavItems: false
+        excludePatterns:
+          - new-component-in-progress
+          - one-pager
       id: n8S6Hd_tQN
     nFepVH2iK2:
       blockType: text-editor
@@ -5191,6 +5312,21 @@ blocks:
           type: doc
       id: w-2PwVDNZT
       size: medium
+    w5Yk-HGNlm:
+      blockType: text-editor
+      data:
+        autoFocus: true
+        content:
+          content:
+            - attrs:
+                level: 2
+                textAlign: left
+              content:
+                - text: Usage Guidelines
+                  type: text
+              type: heading
+          type: doc
+      id: w5Yk-HGNlm
     wIX3m3m6tW:
       blockType: text-editor
       data:
