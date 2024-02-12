@@ -1,31 +1,5 @@
 {
   "color": {
-    "base": {
-      "red": {
-        "$type": "color",
-        "$value": "#ef5151"
-      },
-      "blue": {
-        "$type": "color",
-        "$value": "#207FF9"
-      },
-      "green": {
-        "$type": "color",
-        "$value": "#3ccf91"
-      },
-      "orange": {
-        "$type": "color",
-        "$value": "#ff924f"
-      },
-      "orchid": {
-        "$type": "color",
-        "$value": "#aa1baf"
-      },
-      "yellow": {
-        "$type": "color",
-        "$value": "#FCD02A"
-      }
-    },
     "dark": {
       "red": {
         "$type": "color",
@@ -63,29 +37,34 @@
       },
       "inverse": {
         "$type": "color",
-        "$value": "#f9f9f9"
+        "$value": "{color.brand.ds-white}"
       }
     },
     "brand": {
-      "black": {
+      "ds-black": {
         "$type": "color",
         "$value": "#000000"
       },
-      "white": {
+      "ds-white": {
         "$type": "color",
         "$value": "#FFFFFF"
       },
-      "primary": {
+      "ds-gray__900": {
         "$type": "color",
-        "$value": "#6436BF"
+        "$value": "#151515"
       },
-      "tertiary": {
+      "ds-green__500": {
         "$type": "color",
-        "$value": "#F3EFFB"
+        "$value": "#00854B"
       },
-      "secondary": {
+      "ds-green__700": {
         "$type": "color",
-        "$value": "#E43A5C"
+        "$value": "#034C1F"
+      },
+      "ds-green-header": {
+        "$type": "color",
+        "$value": "#A8C5A4",
+        "$description": ""
       }
     },
     "light": {
@@ -305,6 +284,11 @@
   },
   "transition": {
     "delay": {
+      "fast": {
+        "$type": "string",
+        "$value": "2000ms",
+        "$description": ""
+      },
       "slow": {
         "$value": "8000ms",
         "$description": "Used for timings that need to be fully interpreted by users, such as the Carousel autorotate delay."

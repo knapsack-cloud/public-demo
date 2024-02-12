@@ -447,6 +447,27 @@ blocks:
           type: doc
       id: 1ZGT33uyBJ
       size: medium
+    1abM1oYlhz:
+      blockType: design-src-tiles
+      data:
+        columns: '3'
+        imageStyles:
+          corners: rounded
+          fit: contain
+          seamless: false
+          size: small
+        items:
+          - fileId: H3Jj1cltfXiGWijrYOaGBi
+            nodeId: '21:12'
+            title: '"Small"'
+          - fileId: H3Jj1cltfXiGWijrYOaGBi
+            nodeId: '2:17'
+            title: '"Medium"'
+          - fileId: H3Jj1cltfXiGWijrYOaGBi
+            nodeId: '21:9'
+            title: '"Large"'
+        showComponentProps: false
+      id: 1abM1oYlhz
     1qNvMBLoCi:
       blockType: text-editor
       data:
@@ -470,11 +491,13 @@ blocks:
     1zsHlF6chs:
       blockType: pattern-template-block
       data:
+        allowResizing: true
         demoId: RN96ZpJJpY
         demoSize: landscape
         hideControls: false
         patternId: card
         playgroundUi:
+          allowResizing: true
           demoSize: landscape
           showCodeSnippet: true
           showSchemaForm: false
@@ -482,6 +505,7 @@ blocks:
         showSchemaForm: false
         templateId: react
       id: 1zsHlF6chs
+      size: medium
     26WskgYN2R:
       blockType: design-token-block
       data:
@@ -493,6 +517,19 @@ blocks:
           tags: []
           type: dimension
       id: 26WskgYN2R
+    2Jt-lk6LIf:
+      blockType: code-snippet
+      data:
+        content:
+          content:
+            - attrs:
+                language: null
+              content:
+                - text: https://ds.cdn.questdiagnostics.com/DSC-Angular.css
+                  type: text
+              type: codeBlock
+          type: doc
+      id: 2Jt-lk6LIf
     2RIhkctxWB:
       blockType: text-editor
       data:
@@ -801,13 +838,6 @@ blocks:
           type: doc
       id: 5HTGtGc_jn
       size: medium
-    5IKy6auf0k:
-      blockType: figma-block
-      data:
-        clickToInteract: false
-        height: '800'
-        url: https://www.figma.com/file/uXroEUE22VtrT6CiF3zQqS/tailwind-ui-figma-kit-2021-03-26?node-id=752%3A32
-      id: 5IKy6auf0k
     5RQruglYiX:
       blockType: text-editor
       data:
@@ -897,6 +927,15 @@ blocks:
               type: paragraph
           type: doc
       id: 5RQruglYiX
+    5XGv0lzX9:
+      blockType: component-spec-block
+      data:
+        collapsible: false
+        expanded: false
+        patternId: card
+        templateId: react
+      id: 5XGv0lzX9
+      size: medium
     5vJm5kT6wh:
       blockType: text-editor
       data:
@@ -1695,6 +1734,22 @@ blocks:
           type: doc
       id: D3--o8Cp5d
       size: medium
+    DAXuxY8bc:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 4
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Core
+                  type: text
+              type: heading
+          type: doc
+      id: DAXuxY8bc
     DQJfjlsVyS:
       blockType: text-editor
       data:
@@ -2116,10 +2171,6 @@ blocks:
                 - text: Use card layouts to present a high-level summary of content related to a single topic.
                   type: text
               type: paragraph
-            - attrs:
-                level: 3
-                textAlign: left
-              type: heading
           type: doc
       id: GUshucXGiO
     Gal6UXZEiQ:
@@ -2202,9 +2253,63 @@ blocks:
         height: '800'
         url: https://www.figma.com/file/rcMETa2cNqQDFLd41cZA14/Demo-Design-System?node-id=0%3A1
       id: Hn3xvYmDXj
+    I-dhowXVKk:
+      blockType: code-snippet
+      data:
+        content:
+          content:
+            - attrs:
+                language: null
+              content:
+                - text: https://ds.cdn.questdiagnostics.com/DSC-Core.css
+                  type: text
+              type: codeBlock
+          type: doc
+      id: I-dhowXVKk
     IAHMxBb9dw:
       blockType: divider-block
       id: IAHMxBb9dw
+    Iu6QKbz80R:
+      blockType: shortcut-tiles
+      data:
+        gridStyles:
+          centered: false
+          columns: '4'
+        shortcuts:
+          - description: View and manage building blocks for our digital brand.
+            id: OFYMBFwUXb
+            image: https://knapsack.imgix.net/site/public-demo/screenshot-2024-02-12-at-15916-pm-nxy5oohzoppng
+            link:
+              name: Design Tokens
+              path: /pages/Design-Tokens-lNWaUqkDSo
+            title: Design Tokens
+          - description: Find and understand UI elements in design and code.
+            id: sDtamkSsTt
+            image: https://knapsack.imgix.net/site/public-demo/screenshot-2024-02-12-at-15943-pm-9cet9hvvdipng
+            link:
+              name: Components Overview
+              path: /pages/Components-Overview
+            title: Components Overview
+          - description: Assemble modular elements into UIs based in code.
+            id: BIVcAleTv7
+            image: https://knapsack.imgix.net/site/public-demo/screenshot-2024-02-12-at-15901-pm-8ebi1dxzcpng
+            link:
+              name: Page-Level Prototyping
+              path: /pages/Page-Level-Prototyping
+            title: Assembly & Prototyping
+          - description: Install and leverage the latest design system elements in your project.
+            id: pch7oYGc5S
+            image: https://knapsack.imgix.net/site/public-demo/screenshot-2024-02-12-at-15845-pm-b8kd2x3yszpng
+            link:
+              name: Code Releases
+              path: /pages/code-releases
+            title: Code Releases
+        tileStyles:
+          imageSize: small
+          outlined: true
+          rounded: true
+          titleSize: xsmall
+      id: Iu6QKbz80R
     J7G5qpbLIh:
       blockType: text-editor
       data:
@@ -2231,6 +2336,22 @@ blocks:
               type: paragraph
           type: doc
       id: J7G5qpbLIh
+    JSqJ0DQUX:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 4
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Core
+                  type: text
+              type: heading
+          type: doc
+      id: JSqJ0DQUX
     K-6A8f88Qu:
       blockType: text-editor
       data:
@@ -2288,6 +2409,19 @@ blocks:
     Lsu6cM8BeA:
       blockType: divider-block
       id: Lsu6cM8BeA
+    M1RicLMyXU:
+      blockType: code-snippet
+      data:
+        content:
+          content:
+            - attrs:
+                language: null
+              content:
+                - text: https://ds.cdn.questdiagnostics.com/DSC-Core.css
+                  type: text
+              type: codeBlock
+          type: doc
+      id: M1RicLMyXU
     MPWVYU6VPU:
       blockType: text-editor
       data:
@@ -2478,6 +2612,54 @@ blocks:
           type: doc
       id: OTAnrkBzAT
       size: medium
+    OygldDJrvv:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 2
+                textAlign: start
+              content:
+                - marks:
+                    - type: bold
+                  text: Production Builds
+                  type: text
+              type: heading
+            - attrs:
+                level: 4
+                textAlign: left
+              content:
+                - text: 2024/01
+                  type: text
+              type: heading
+            - attrs:
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: 'Notes:'
+                  type: text
+                - text: ' Added new data table, updated pagination component.'
+                  type: text
+              type: paragraph
+          type: doc
+      id: OygldDJrvv
+    P09D2tOhXV:
+      blockType: text-editor
+      data:
+        autoFocus: true
+        content:
+          content:
+            - attrs:
+                level: 4
+                textAlign: left
+              content:
+                - text: Angular
+                  type: text
+              type: heading
+          type: doc
+      id: P09D2tOhXV
     P333IwDxP7:
       blockType: design-token-block
       data:
@@ -2487,6 +2669,7 @@ blocks:
           category: transition
           name: ''
           tags: []
+          type: string
       id: P333IwDxP7
     PB83Qahdru:
       blockType: text-editor
@@ -2560,6 +2743,20 @@ blocks:
               type: paragraph
           type: doc
       id: PgZf2sEi0K
+    QAtUn9bbsZ:
+      blockType: callout
+      data:
+        content:
+          content:
+            - content:
+                - text: >-
+                    The Development Build is intended to be used during application development. Before moving to
+                    Production, please switch to the latest Production Build below.
+                  type: text
+              type: paragraph
+          type: doc
+        type: warning
+      id: QAtUn9bbsZ
     Qons-1E8SD:
       blockType: text-editor
       data:
@@ -2660,6 +2857,20 @@ blocks:
               type: bulletList
           type: doc
       id: QuqCPgR26m
+    QxLW4y0EMp:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 2
+                textAlign: left
+              content:
+                - text: Component Anatomy
+                  type: text
+              type: heading
+          type: doc
+      id: QxLW4y0EMp
     R2rGt24igX:
       blockType: text-editor
       data:
@@ -2726,6 +2937,20 @@ blocks:
           type: doc
       id: SDCFdXJ3xc
       size: medium
+    Sfi19I7jrf:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 1
+                textAlign: left
+              content:
+                - text: React Render
+                  type: text
+              type: heading
+          type: doc
+      id: Sfi19I7jrf
     TPySDEPq5j:
       blockType: design-token-block
       data:
@@ -3081,6 +3306,37 @@ blocks:
     ZQ5Z_y9_Dx:
       blockType: divider-block
       id: ZQ5Z_y9_Dx
+    ZjFM5m2GYA:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: 'Note:'
+                  type: text
+                - text: ' For HTML/CSS projects, include the JS file before the closing body tag. '
+                  type: text
+                - marks:
+                    - type: bold
+                  text: Do not
+                  type: text
+                - text: ' use the JS file for Angular or React projects.'
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 4
+                textAlign: left
+              content:
+                - type: hardBreak
+                - text: Angular
+                  type: text
+              type: heading
+          type: doc
+      id: ZjFM5m2GYA
     ZlCcg9r5Lk:
       blockType: text-editor
       data:
@@ -3104,13 +3360,6 @@ blocks:
           name: ''
           tags: []
       id: _f4PbvkrLK
-    _quWnLXCar:
-      blockType: figma-block
-      data:
-        clickToInteract: false
-        height: '480'
-        url: https://www.figma.com/file/uXroEUE22VtrT6CiF3zQqS/tailwind-ui-figma-kit-2021-03-26?node-id=172%3A4447
-      id: _quWnLXCar
     aHFCyUV-9P:
       blockType: text-editor
       data:
@@ -3252,6 +3501,19 @@ blocks:
               type: bulletList
           type: doc
       id: aqVaPpg6o5
+    b2ex198JUj:
+      blockType: code-snippet
+      data:
+        content:
+          content:
+            - attrs:
+                language: null
+              content:
+                - text: <script src="https://ds.cdn.questdiagnostics.com/DSC-Core.2024.01.js"></script>
+                  type: text
+              type: codeBlock
+          type: doc
+      id: b2ex198JUj
     bO5QsZCQei:
       blockType: text-editor
       data:
@@ -3755,6 +4017,18 @@ blocks:
     iSlOJ42w6Y:
       blockType: pattern-status-table-block
       id: iSlOJ42w6Y
+    ifCTKdQGoq:
+      blockType: pattern-variations
+      data:
+        demoId: 2ysfvm4ShE
+        excludePropValue: ''
+        hideBlockTitle: true
+        includePropValue: ''
+        patternId: button
+        size: m
+        templateId: react
+        variationId: size
+      id: ifCTKdQGoq
     ipuRLnl7VP:
       blockType: text-editor
       data:
@@ -3898,6 +4172,20 @@ blocks:
               type: heading
           type: doc
       id: jWII3xdR5Y
+    jgm9jgDOe:
+      blockType: text-editor
+      data:
+        content:
+          content:
+            - attrs:
+                level: 1
+                textAlign: left
+              content:
+                - text: Figma Render
+                  type: text
+              type: heading
+          type: doc
+      id: jgm9jgDOe
     kCs__ou9y9:
       blockType: pattern-variations
       data:
@@ -3917,13 +4205,6 @@ blocks:
     kM7ifv2voZ:
       blockType: divider-block
       id: kM7ifv2voZ
-    kQbnNha0mC:
-      blockType: figma-block
-      data:
-        clickToInteract: false
-        height: '600'
-        url: https://www.figma.com/file/zUm5kTRtnkFUh5JUsBwwWl/Demo-Design-System-Library?node-id=1%3A2
-      id: kQbnNha0mC
     kpr6IHseCx:
       blockType: pattern-list-block
       id: kpr6IHseCx
@@ -4120,6 +4401,11 @@ blocks:
       size: medium
     n8S6Hd_tQN:
       blockType: pattern-status-table-block
+      data:
+        excludeHiddenNavItems: false
+        excludePatterns:
+          - new-component-in-progress
+          - one-pager
       id: n8S6Hd_tQN
     nFepVH2iK2:
       blockType: text-editor
@@ -4874,6 +5160,84 @@ blocks:
     tA1WrvdWyM:
       blockType: pattern-list-block
       id: tA1WrvdWyM
+    tEyKwkbY7r:
+      blockType: text-editor
+      data:
+        autoFocus: true
+        content:
+          content:
+            - attrs:
+                level: 2
+                textAlign: left
+              content:
+                - marks:
+                    - type: bold
+                  text: Getting Started
+                  type: text
+              type: heading
+            - attrs:
+                textAlign: left
+              content:
+                - text: 'Get started using DesignSystem with these two steps:'
+                  type: text
+              type: paragraph
+            - attrs:
+                start: 1
+              content:
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - text: Determine your project's framework
+                          type: text
+                      type: paragraph
+                  type: listItem
+                - content:
+                    - attrs:
+                        textAlign: left
+                      content:
+                        - text: "Import the corresponding files below into your project. Angular project's will require a few additonal imports found on the\_"
+                          type: text
+                        - marks:
+                            - type: bold
+                            - type: underline
+                          text: Angular Projects
+                          type: text
+                        - text: "\_tab."
+                          type: text
+                      type: paragraph
+                  type: listItem
+              type: orderedList
+            - attrs:
+                textAlign: left
+              content:
+                - text: "Projects developing in HTML and Javascript should import the\_"
+                  type: text
+                - marks:
+                    - type: bold
+                  text: Core
+                  type: text
+                - text: "\_files below. Projects developing in Angular should import the\_"
+                  type: text
+                - marks:
+                    - type: bold
+                  text: Angular
+                  type: text
+                - text: "\_CSS only."
+                  type: text
+              type: paragraph
+            - attrs:
+                level: 2
+                textAlign: left
+              content:
+                - type: hardBreak
+                - marks:
+                    - type: bold
+                  text: Development Build
+                  type: text
+              type: heading
+          type: doc
+      id: tEyKwkbY7r
     tY2rt92bob:
       blockType: text-editor
       data:
@@ -5187,6 +5551,32 @@ blocks:
               type: paragraph
           type: doc
       id: vPbAkMHWK4
+    vdlj-tKGdi:
+      blockType: code-snippet
+      data:
+        content:
+          content:
+            - attrs:
+                language: null
+              content:
+                - text: https://ds.cdn.questdiagnostics.com/DSC-Angular.2024.01.css
+                  type: text
+              type: codeBlock
+          type: doc
+      id: vdlj-tKGdi
+    vhqdaxtD1r:
+      blockType: code-snippet
+      data:
+        content:
+          content:
+            - attrs:
+                language: null
+              content:
+                - text: <script src="https://ds.cdn.questdiagnostics.com/DSC-Core.js"></script>
+                  type: text
+              type: codeBlock
+          type: doc
+      id: vhqdaxtD1r
     viPl3DHKtw:
       blockType: design-token-block
       data:
@@ -5212,6 +5602,21 @@ blocks:
           type: doc
       id: w-2PwVDNZT
       size: medium
+    w5Yk-HGNlm:
+      blockType: text-editor
+      data:
+        autoFocus: true
+        content:
+          content:
+            - attrs:
+                level: 2
+                textAlign: left
+              content:
+                - text: Usage Guidelines
+                  type: text
+              type: heading
+          type: doc
+      id: w5Yk-HGNlm
     wIX3m3m6tW:
       blockType: text-editor
       data:
@@ -5752,7 +6157,7 @@ demos:
     2ysfvm4ShE:
       data:
         props:
-          mode: info
+          mode: success
           size: medium
           type: solid
           url: '#url'
@@ -6165,7 +6570,24 @@ demos:
       type: template
   settings: {}
 settings:
-  logoUrl: https://knapsack.imgix.net/site/public-demo/knapsack-logomark-primary@3x-c3fjqx5ll_.png
+  designSrcs:
+    files:
+      - fileId: H3Jj1cltfXiGWijrYOaGBi
+        name: KS - Figma Rest API
+        type: figma
+        url: https://www.figma.com/file/H3Jj1cltfXiGWijrYOaGBi?version-id=4988435680
+        version: '4988435680'
+      - fileId: zUm5kTRtnkFUh5JUsBwwWl
+        name: Demo Design System Library
+        type: figma
+        url: https://www.figma.com/file/zUm5kTRtnkFUh5JUsBwwWl?version-id=4804108977
+        version: '4804108977'
+  favicon: https://knapsack.imgix.net/site/public-demo/quest-icon-logo-emkwtkqnlejpeg
+  hideTitleInNavigation: false
+  logoUrl: https://knapsack.imgix.net/site/public-demo/quest-logotype-darkgreen-o46mqlgd6hpng
+  pages:
+    tableOfContents:
+      hideByDefault: true
   theme:
     appearance:
       customFonts:
@@ -6186,20 +6608,24 @@ settings:
       navigation:
         primaryNav:
           accentColor:
-            tokenName: color.brand.primary
+            tokenName: color.brand.ds-green__500
             type: design-token
           backgroundColor:
-            tokenName: color.brand.black
+            tokenName: color.brand.ds-green-header
             type: design-token
           fontFamily: Inter
-          fontWeight: 800
+          fontSize:
+            min:
+              unit: px
+              value: 18
+          fontWeight: 900
           hoverColor:
-            tokenName: color.brand.secondary
+            tokenName: color.brand.ds-green__700
             type: design-token
-          lineHeight: ''
           textColor:
-            tokenName: color.text.inverse
+            tokenName: color.brand.ds-black
             type: design-token
+          textTransform: inherit
         secondaryNav:
           accentColor:
             tokenName: color-brand-secondary
@@ -6238,4 +6664,4 @@ settings:
           fontWeight: 800
           textTransform: inherit
     version: 10
-  title: Public Demo
+  title: Consumer Design System

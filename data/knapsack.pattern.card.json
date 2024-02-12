@@ -39,6 +39,10 @@
       "type": "subPage"
     },
     {
+      "id": "nCbRsPXAw6",
+      "type": "designSrc"
+    },
+    {
       "id": "Figma",
       "type": "subPage"
     },
@@ -53,8 +57,11 @@
       "title": "Usage",
       "blockIds": [
         "GUshucXGiO",
-        "nayGe9qHLQ",
+        "QxLW4y0EMp",
         "1zsHlF6chs",
+        "5XGv0lzX9",
+        "w5Yk-HGNlm",
+        "nayGe9qHLQ",
         "wwkLIOf27t",
         "aqVaPpg6o5"
       ]
@@ -66,8 +73,16 @@
     },
     {
       "id": "Figma",
-      "title": "Figma",
+      "title": "Vector",
       "blockIds": ["Hn3xvYmDXj"]
     }
-  ]
+  ],
+  "designSrcComponentsById": {
+    "nCbRsPXAw6": {
+      "id": "nCbRsPXAw6",
+      "title": "Figma Component",
+      "fileId": "H3Jj1cltfXiGWijrYOaGBi",
+      "componentId": "41:95"
+    }
+  }
 }

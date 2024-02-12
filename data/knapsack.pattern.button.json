@@ -64,8 +64,8 @@
   ],
   "subPages": [
     {
-      "title": "Usage",
       "id": "Overview",
+      "title": "Usage",
       "blockIds": [
         "YkyHkvdzp_",
         "vFalbAV-gx",
@@ -79,48 +79,60 @@
       ]
     },
     {
-      "title": "Accessibility",
       "id": "Accessibility",
+      "title": "Accessibility",
       "blockIds": ["nFepVH2iK2", "9SdC5V2SSU", "KILApugMxg"]
     },
     {
-      "title": "Figma",
-      "id": "Figma",
-      "blockIds": ["5IKy6auf0k", "_quWnLXCar"]
+      "id": "Legacy",
+      "title": "Legacy Storybook",
+      "blockIds": ["4gpsIFEONx", "0tYaqASlzs"]
     },
     {
-      "title": "Legacy Storybook",
-      "id": "Legacy",
-      "blockIds": ["4gpsIFEONx", "0tYaqASlzs"]
+      "id": "sdEgqvyiZo",
+      "title": "Comparison",
+      "blockIds": ["Sfi19I7jrf", "ifCTKdQGoq", "jgm9jgDOe", "1abM1oYlhz"]
     }
   ],
   "tabs": [
     {
-      "type": "subPage",
-      "id": "Overview"
+      "id": "Overview",
+      "type": "subPage"
     },
     {
-      "type": "subPage",
-      "id": "Accessibility"
+      "id": "Accessibility",
+      "type": "subPage"
     },
     {
-      "type": "subPage",
-      "id": "Figma"
+      "id": "P1BaxXtxDV",
+      "type": "designSrc"
     },
     {
-      "type": "template",
-      "id": "react"
+      "id": "react",
+      "type": "template"
     },
     {
-      "type": "subPage",
-      "id": "Legacy"
+      "id": "sdEgqvyiZo",
+      "type": "subPage"
+    },
+    {
+      "id": "Legacy",
+      "type": "subPage"
     }
   ],
   "statuses": {
-    "design": "ready",
+    "design": "needs-updated",
     "react": "ready",
     "twig": "ready",
     "handlebars": "ready",
     "web-components": "needs-dev"
+  },
+  "designSrcComponentsById": {
+    "P1BaxXtxDV": {
+      "id": "P1BaxXtxDV",
+      "title": "Figma Component",
+      "fileId": "H3Jj1cltfXiGWijrYOaGBi",
+      "componentId": "2:18"
+    }
   }
 }

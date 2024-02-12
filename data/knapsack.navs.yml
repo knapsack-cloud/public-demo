@@ -151,6 +151,11 @@ byId:
     name: Card
     parentId: Complex
     path: /pattern/card
+  code-releases:
+    id: code-releases
+    name: Code Releases
+    parentId: getting-started
+    path: /pages/code-releases
   colors:
     id: colors
     name: Colors
@@ -239,6 +244,7 @@ byId:
     path: /pages/welcome-to-knapsack
 order:
   - getting-started
+  - code-releases
   - welcome-to-knapsack
   - guidance
   - knapsack's-publishing-workflow
