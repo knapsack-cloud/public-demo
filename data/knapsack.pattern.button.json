@@ -68,6 +68,7 @@
       "title": "Usage",
       "blockIds": [
         "YkyHkvdzp_",
+        "QfCFO4ko10",
         "vFalbAV-gx",
         "1LTGO8xsrC",
         "-plYGPDwcr",
@@ -91,7 +92,13 @@
     {
       "id": "sdEgqvyiZo",
       "title": "Comparison",
-      "blockIds": ["Sfi19I7jrf", "ifCTKdQGoq", "jgm9jgDOe", "1abM1oYlhz"]
+      "blockIds": [
+        "Sfi19I7jrf",
+        "ifCTKdQGoq",
+        "jgm9jgDOe",
+        "1abM1oYlhz",
+        "rfezzODlhn"
+      ]
     }
   ],
   "tabs": [
@@ -118,6 +125,10 @@
     {
       "id": "Legacy",
       "type": "subPage"
+    },
+    {
+      "id": "NQsMFn922a",
+      "type": "designSrc"
     }
   ],
   "statuses": {
@@ -130,6 +141,12 @@
   "designSrcComponentsById": {
     "P1BaxXtxDV": {
       "id": "P1BaxXtxDV",
+      "title": "Figma Component",
+      "fileId": "H3Jj1cltfXiGWijrYOaGBi",
+      "componentId": "2:18"
+    },
+    "NQsMFn922a": {
+      "id": "NQsMFn922a",
       "title": "Figma Component",
       "fileId": "H3Jj1cltfXiGWijrYOaGBi",
       "componentId": "2:18"
