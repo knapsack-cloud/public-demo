@@ -1,0 +1,21 @@
+{
+  "blockType": "pattern-template-block",
+  "data": {
+    "allowResizing": true,
+    "demoId": "RN96ZpJJpY",
+    "demoSize": "landscape",
+    "hideControls": false,
+    "patternId": "card",
+    "playgroundUi": {
+      "allowResizing": true,
+      "demoSize": "landscape",
+      "showCodeSnippet": true,
+      "showSchemaForm": false
+    },
+    "showCodeSnippet": true,
+    "showSchemaForm": false,
+    "templateId": "react"
+  },
+  "id": "1zsHlF6chs",
+  "size": "medium"
+}
