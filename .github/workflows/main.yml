@@ -20,9 +20,8 @@ jobs:
       HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
       HEROKU_GIT_URL: ${{ secrets.HEROKU_GIT_URL }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
-          # Number of commits to fetch. 0 indicates all history for all branches and tags - needed for `auto`
           fetch-depth: 0
           ref: main
       - name: write auth
@@ -41,35 +40,29 @@ jobs:
     name: Build & Release
     runs-on: ubuntu-latest
     steps:
-      - name: Use actions/checkout@v2
-        uses: actions/checkout@v2
+      - name: Use actions/checkout@v3
+        uses: actions/checkout@v3
         with:
-          # Number of commits to fetch. 0 indicates all history for all branches and tags - needed for `auto`
-          # Default: 1
           fetch-depth: 0
       - name: Use Node.js
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3
         with:
-          node-version: 16
-      # - name: Get yarn cache directory path
-      #   id: yarn-cache-dir-path
-      #   run: echo "::set-output name=dir::$(yarn cache dir)"
+          node-version: 18
       - name: Handle Cache
-        uses: actions/cache@v2
-        # https://github.com/actions/cache/blob/master/examples.md#node---lerna
-        id: cache # use this to check for `cache-hit` (`steps.cache.outputs.cache-hit != 'true'`)
+        uses: actions/cache@v3
+        id: cache
         with:
           path: |
             node_modules
             **/node_modules
             ~/.cache/yarn
           key: node-deps-${{ hashFiles('yarn.lock') }}
-          # restore-keys: node-deps-
-      - name: Install Deps
+      - name: Install Dependencies
         if: steps.cache.outputs.cache-hit != 'true'
-        run: yarn install --cache-folder ~/.cache/yarn --prefer-offline --frozen-lockfile
+        run: |
+          yarn install --cache-folder ~/.cache/yarn --prefer-offline --frozen-lockfile
         env:
-          CYPRESS_INSTALL_BINARY: 0 # skip cypress binary install
+          CYPRESS_INSTALL_BINARY: 0
       - name: Run Full Build
         run: yarn build
       - name: Run Knapsack Test
