@@ -24,6 +24,7 @@ jobs:
         with:
           fetch-depth: 0
           ref: main
+
       - name: write auth
         run: |
           cat > ~/.netrc <<EOF
@@ -31,6 +32,7 @@ jobs:
               login $HEROKU_EMAIL
               password $HEROKU_API_KEY
           EOF
+
       - name: git push to heroku for deploy
         run: |
           git remote add heroku $HEROKU_GIT_URL
@@ -44,10 +46,12 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
+
       - name: Use Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 18
+
       - name: Handle Cache
         uses: actions/cache@v3
         id: cache
@@ -56,17 +60,26 @@ jobs:
             node_modules
             **/node_modules
             ~/.cache/yarn
-          key: node-deps-${{ hashFiles('yarn.lock') }}
+          key: node-deps-${{ runner.os }}-${{ hashFiles('**/yarn.lock') }}
+
       - name: Install Dependencies
         if: steps.cache.outputs.cache-hit != 'true'
         run: |
           yarn install --cache-folder ~/.cache/yarn --prefer-offline --frozen-lockfile
-        env:
-          CYPRESS_INSTALL_BINARY: 0
+
       - name: Run Full Build
         run: yarn build
+
       - name: Run Knapsack Test
         run: yarn test
+
+        # this is a hack that should be removed - https://github.com/intuit/auto/issues/2425
+      - name: Install specific git version
+        run: |
+          sudo apt-get update
+          sudo add-apt-repository ppa:git-core/ppa
+          sudo apt install git=1:2.34.1-1ubuntu1.10 git-man=1:2.34.1-1ubuntu1.10 -y --allow-downgrades
+
       - name: Release
         run: yarn auto shipit
         env:

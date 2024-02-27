@@ -38,6 +38,7 @@ jobs:
 
       - name: Run Knapsack Test
         run: yarn test
+        # this is a hack that should be removed - https://github.com/intuit/auto/issues/2425
       - name: Install specific git version
         run: |
           sudo apt-get update
