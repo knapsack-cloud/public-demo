@@ -450,12 +450,13 @@ blocks:
     1abM1oYlhz:
       blockType: design-src-tiles
       data:
-        columns: '3'
+        columns: '1'
         imageStyles:
-          corners: rounded
+          background: light
+          corners: square
           fit: contain
           seamless: false
-          size: small
+          size: xsmall
         items:
           - fileId: H3Jj1cltfXiGWijrYOaGBi
             nodeId: '21:33'
@@ -465,8 +466,10 @@ blocks:
             title: '"Medium'
           - fileId: H3Jj1cltfXiGWijrYOaGBi
             nodeId: '21:37'
+            title: '"Large"'
         showComponentProps: false
       id: 1abM1oYlhz
+      size: medium
     1qNvMBLoCi:
       blockType: text-editor
       data:
@@ -2361,6 +2364,15 @@ blocks:
               type: paragraph
           type: doc
       id: MPWVYU6VPU
+    MhcbUsC8M0:
+      blockType: design-src-component
+      data:
+        componentId: '2:18'
+        contents:
+          - spec
+        fileId: H3Jj1cltfXiGWijrYOaGBi
+      id: MhcbUsC8M0
+      size: medium
     MudWyP8_-E:
       blockType: text-editor
       data:
@@ -2797,18 +2809,25 @@ blocks:
     Sfi19I7jrf:
       blockType: text-editor
       data:
-        autoFocus: true
         content:
           content:
             - attrs:
                 level: 1
                 textAlign: left
               content:
-                - text: React Render
+                - text: React
+                  type: text
+              type: heading
+            - attrs:
+                level: 4
+                textAlign: left
+              content:
+                - text: Render
                   type: text
               type: heading
           type: doc
       id: Sfi19I7jrf
+      size: medium
     TPySDEPq5j:
       blockType: design-token-block
       data:
@@ -3839,10 +3858,11 @@ blocks:
         hideBlockTitle: true
         includePropValue: ''
         patternId: button
-        size: m
+        size: full
         templateId: react
         variationId: size
       id: ifCTKdQGoq
+      size: medium
     ipuRLnl7VP:
       blockType: text-editor
       data:
@@ -3995,11 +4015,19 @@ blocks:
                 level: 1
                 textAlign: left
               content:
-                - text: Figma Render
+                - text: Figma
+                  type: text
+              type: heading
+            - attrs:
+                level: 4
+                textAlign: left
+              content:
+                - text: Render
                   type: text
               type: heading
           type: doc
       id: jgm9jgDOe
+      size: medium
     kCs__ou9y9:
       blockType: pattern-variations
       data:
@@ -5254,15 +5282,17 @@ blocks:
     vFalbAV-gx:
       blockType: pattern-template-block
       data:
+        allowResizing: false
         demoId: 2ysfvm4ShE
         demoSize: landscape
         hideControls: false
         patternId: button
         playgroundUi:
+          allowResizing: false
           demoSize: landscape
-          showCodeSnippet: false
+          showCodeSnippet: true
           showSchemaForm: false
-        showCodeSnippet: false
+        showCodeSnippet: true
         showSchemaForm: false
         templateId: react
       id: vFalbAV-gx
@@ -5362,6 +5392,14 @@ blocks:
     wS0EhQ_N1S:
       blockType: divider-block
       id: wS0EhQ_N1S
+    wTqQ1RCsax:
+      blockType: component-spec-block
+      data:
+        collapsible: false
+        patternId: button
+        templateId: react
+      id: wTqQ1RCsax
+      size: medium
     wW1eAzPe6X:
       blockType: text-editor
       data:
