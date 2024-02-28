@@ -1,0 +1,25 @@
+{
+  "blockType": "text-editor",
+  "data": {
+    "autoFocus": true,
+    "content": {
+      "content": [
+        {
+          "attrs": {
+            "level": 2,
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Usage Guidelines",
+              "type": "text"
+            }
+          ],
+          "type": "heading"
+        }
+      ],
+      "type": "doc"
+    }
+  },
+  "id": "w5Yk-HGNlm"
+}
