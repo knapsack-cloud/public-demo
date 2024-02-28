@@ -1,3 +1,16 @@
+# v0.1.60 (Wed Feb 28 2024)
+
+#### 🐛 Bug Fix
+
+- Update Knapsack packages and bump node version [#219](https://github.com/knapsack-cloud/public-demo/pull/219) ([@brittanysmart](https://github.com/brittanysmart))
+- chore: Update dependencies and workflows ([@brittanysmart](https://github.com/brittanysmart))
+
+#### Authors: 1
+
+- Brittany Smart ([@brittanysmart](https://github.com/brittanysmart))
+
+---
+
 # v0.1.56 (Thu Sep 21 2023)
 
 #### ⚠️ Pushed to `main`

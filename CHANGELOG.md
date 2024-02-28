@@ -1,3 +1,29 @@
+# v0.1.60 (Wed Feb 28 2024)
+
+#### 🐛 Bug Fix
+
+- `@knapsack-cloud/public-demo-react`
+  - Update Knapsack packages and bump node version [#219](https://github.com/knapsack-cloud/public-demo/pull/219) ([@brittanysmart](https://github.com/brittanysmart))
+
+#### 📝 Documentation
+
+- Button Comparison page updates - Andrew Rohman [#218](https://github.com/knapsack-cloud/public-demo/pull/218) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+- more figma embeds and homepage updates - Andrew Rohman [#214](https://github.com/knapsack-cloud/public-demo/pull/214) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+- Replaced figma embeds with design source tabs and blocks - Andrew Rohman [#212](https://github.com/knapsack-cloud/public-demo/pull/212) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+- private page addition - Andrew Rohman [#200](https://github.com/knapsack-cloud/public-demo/pull/200) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+- content updates - do's & don'ts - Andrew Rohman [#196](https://github.com/knapsack-cloud/public-demo/pull/196) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+- Restore hidden pages nav items [#189](https://github.com/knapsack-cloud/public-demo/pull/189) ([@GormanDesign](https://github.com/GormanDesign))
+- updates to prototyping playground - Andrew Rohman [#188](https://github.com/knapsack-cloud/public-demo/pull/188) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+- font updates [#178](https://github.com/knapsack-cloud/public-demo/pull/178) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+
+#### Authors: 3
+
+- [@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot])
+- Brittany Smart ([@brittanysmart](https://github.com/brittanysmart))
+- Matt Gorman ([@GormanDesign](https://github.com/GormanDesign))
+
+---
+
 # v0.1.59 (Tue Sep 26 2023)
 
 #### ⚠️ Pushed to `main`
