@@ -73,13 +73,6 @@ jobs:
       - name: Run Knapsack Test
         run: yarn test
 
-        # this is a hack that should be removed - https://github.com/intuit/auto/issues/2425
-      - name: Install specific git version
-        run: |
-          sudo apt-get update
-          sudo add-apt-repository ppa:git-core/ppa
-          sudo apt install git=1:2.34.1-1ubuntu1.10 git-man=1:2.34.1-1ubuntu1.10 -y --allow-downgrades
-
       - name: Release
         run: yarn auto shipit
         env:
