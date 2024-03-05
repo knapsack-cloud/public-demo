@@ -7,3 +7,4 @@ knapsack-dist
 yarn-error.log
 .env
 .DS_Store
+.envrc
