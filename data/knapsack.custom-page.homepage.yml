@@ -1,17 +1,22 @@
 id: homepage
-title: Welcome to Knapsack
+title: Capital One Design System
 settings:
   pageHeader:
-    size: full
+    size: medium
     textColorTitle:
       type: design-token
-      tokenName: color-brand-primary
+      tokenName: color.brand.white
       colorValue: '#FFFFFF'
-    backgroundImage: https://knapsack.imgix.net/site/public-demo/clark-van-der-beken-596baa0mpym-unsplash-o5drv55uvq.jpg
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/screenshot-2024-03-05-at-101856-am-5bawajx7hpng
     textColorDescription:
       type: design-token
-      tokenName: color-Meh-black
+      tokenName: color.brand.white
       colorValue: '#FFFFFF'
+    backgroundOverlay: true
+    backgroundSize: cover
+    backgroundColor:
+      type: design-token
+      tokenName: color.brand.white
 description: |-
   A shared platform for product teams to collaborate
   on documenting, designing, building, testing, and shipping

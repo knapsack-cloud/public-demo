@@ -1,5 +1,5 @@
 id: welcome-to-knapsack
-title: Welcome to Knapsack
+title: Welcome to Capital One
 settings:
   pageHeader:
     textColorTitle:
@@ -12,7 +12,7 @@ settings:
       tokenName: color-brand-black
       colorValue: '#000000'
     size: small
-description: The collaborative design system
+description: Our collaborative design system
 blockIds:
   - 6-qXFUJ0eH
   - tY2rt92bob

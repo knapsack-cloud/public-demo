@@ -1,0 +1,32 @@
+{
+  "id": "messages",
+  "tabs": [
+    {
+      "id": "overview",
+      "type": "subPage"
+    },
+    {
+      "id": "5laXvuZm0",
+      "type": "designSrc"
+    }
+  ],
+  "title": "Messages",
+  "statuses": {},
+  "subPages": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "blockIds": ["eE3VtSOpi1", "oSQMQl1agT"]
+    }
+  ],
+  "templates": [],
+  "description": "",
+  "designSrcComponentsById": {
+    "5laXvuZm0": {
+      "id": "5laXvuZm0",
+      "title": "Figma Component",
+      "fileId": "zUm5kTRtnkFUh5JUsBwwWl",
+      "componentId": "1:30"
+    }
+  }
+}

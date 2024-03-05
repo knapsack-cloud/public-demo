@@ -201,11 +201,11 @@ byId:
     name: Layout
     parentId: Layout
     path: /pattern/layout
-  message:
-    id: message
-    name: Message
-    parentId: proposed-patterns
-    path: /pattern/message
+  messages:
+    id: messages
+    name: Messages
+    parentId: Components-aPh3G1bbrX
+    path: /pattern/messages
   new-component-in-progress:
     id: new-component-in-progress
     minRoleNeeded: ADMIN
@@ -234,7 +234,7 @@ byId:
     path: /pattern/top-nav
   welcome-to-knapsack:
     id: welcome-to-knapsack
-    name: Welcome to Knapsack
+    name: Welcome to Capital One
     parentId: getting-started
     path: /pages/welcome-to-knapsack
 order:
@@ -276,7 +276,6 @@ order:
   - hero
   - layout
   - proposed-patterns
-  - message
   - input-field
   - Prototyping
   - Page-Level-Prototyping
@@ -285,3 +284,4 @@ order:
   - Admin
   - Private-Pages
   - new-component-in-progress
+  - messages

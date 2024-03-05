@@ -7,37 +7,38 @@
     },
     "shortcuts": [
       {
-        "description": "View and manage building blocks for our digital brand.",
         "id": "OFYMBFwUXb",
-        "image": "https://knapsack.imgix.net/site/public-demo/46643-lg7przfyjvpng",
         "link": {
           "name": "Design Tokens",
           "path": "/pages/Design-Tokens"
         },
-        "title": "🎨 Design Tokens"
+        "image": "https://knapsack.imgix.net/site/public-demo/screenshot-2024-03-05-at-102056-am-gbjvxk7es8png",
+        "title": "🎨 Design Tokens",
+        "description": "View and manage building blocks for our digital brand."
       },
       {
-        "description": "Find and understand UI elements in design and code.",
         "id": "sDtamkSsTt",
-        "image": "https://knapsack.imgix.net/site/public-demo/materialillustrationabs-7b98tg-tfnpng",
         "link": {
           "name": "Components Overview",
           "path": "/pages/Components-Overview"
         },
-        "title": "🧩 Components Overview"
+        "image": "https://knapsack.imgix.net/site/public-demo/screenshot-2024-03-05-at-102100-am-sjh9kkp4sypng",
+        "title": "🧩 Components Overview",
+        "description": "Find and understand UI elements in design and code."
       },
       {
-        "description": "Assemble modular elements into UIs based in code.",
         "id": "BIVcAleTv7",
         "link": {
           "name": "Page-Level Prototyping",
           "path": "/pages/Page-Level-Prototyping"
         },
-        "title": "🖼️ Page-Level Prototyping"
+        "image": "https://knapsack.imgix.net/site/public-demo/screenshot-2024-03-05-at-102102-am-vgg8zgqjypng",
+        "title": "🖼️ Page-Level Prototyping",
+        "description": "Assemble modular elements into UIs based in code."
       }
     ],
     "tileStyles": {
-      "imageSize": "none",
+      "imageSize": "medium",
       "outlined": true,
       "rounded": true,
       "titleSize": "xsmall"

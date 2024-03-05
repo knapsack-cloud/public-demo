@@ -17,7 +17,9 @@ settings:
         type: figma
         url: https://www.figma.com/file/zUm5kTRtnkFUh5JUsBwwWl?version-id=4804108977
         version: '4804108977'
-  logoUrl: https://knapsack.imgix.net/site/public-demo/knapsack-logomark-primary@3x-c3fjqx5ll_.png
+  favicon: https://knapsack.imgix.net/site/public-demo/favicon-onfho3gl1ico
+  hideTitleInNavigation: true
+  logoUrl: https://knapsack.imgix.net/site/public-demo/capital-one-logo-7ea5fbd411-seeklogocom-qq7aecz3khpng
   theme:
     appearance:
       customFonts:
@@ -38,26 +40,30 @@ settings:
       navigation:
         primaryNav:
           accentColor:
-            tokenName: color.brand.primary
+            tokenName: color.brand.secondary
             type: design-token
           backgroundColor:
+            colorValue: '#ffffff'
             tokenName: color.brand.black
-            type: design-token
+            type: value
           fontFamily: Inter
           fontWeight: 800
           hoverColor:
-            tokenName: color.brand.secondary
+            tokenName: color.brand.primary
             type: design-token
           lineHeight: ''
           textColor:
-            tokenName: color.text.inverse
+            tokenName: color.text.default
             type: design-token
+          textTransform: inherit
         secondaryNav:
           accentColor:
-            tokenName: color-brand-secondary
+            colorValue: '#013d5b'
+            tokenName: color.brand.secondary
             type: design-token
           fontFamily: Inter
           fontWeight: 500
+          textTransform: inherit
         tabs:
           fontFamily: Inter
       pageElements:
@@ -90,4 +96,4 @@ settings:
           fontWeight: 800
           textTransform: inherit
     version: 10
-  title: Public Demo
+  title: Capital One

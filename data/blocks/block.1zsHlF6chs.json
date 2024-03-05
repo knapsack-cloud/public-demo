@@ -9,13 +9,12 @@
     "playgroundUi": {
       "allowResizing": true,
       "demoSize": "landscape",
-      "showCodeSnippet": true,
-      "showSchemaForm": false
+      "showCodeSnippet": false,
+      "showSchemaForm": true
     },
-    "showCodeSnippet": true,
-    "showSchemaForm": false,
+    "showCodeSnippet": false,
+    "showSchemaForm": true,
     "templateId": "react"
   },
-  "id": "1zsHlF6chs",
-  "size": "medium"
+  "id": "1zsHlF6chs"
 }
