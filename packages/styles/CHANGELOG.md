@@ -1,3 +1,16 @@
+# v0.1.61 (Tue Mar 05 2024)
+
+#### 🐛 Bug Fix
+
+- Add message component [#222](https://github.com/knapsack-cloud/public-demo/pull/222) ([@brittanysmart](https://github.com/brittanysmart))
+- chore: Add message component and styling ([@brittanysmart](https://github.com/brittanysmart))
+
+#### Authors: 1
+
+- Brittany Smart ([@brittanysmart](https://github.com/brittanysmart))
+
+---
+
 # v0.1.44 (Fri Sep 16 2022)
 
 #### 🐛 Bug Fix

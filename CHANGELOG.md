@@ -1,3 +1,16 @@
+# v0.1.61 (Tue Mar 05 2024)
+
+#### 🐛 Bug Fix
+
+- `@knapsack-cloud/public-demo-react`, `@knapsack-cloud/public-demo-styles`
+  - Add message component [#222](https://github.com/knapsack-cloud/public-demo/pull/222) ([@brittanysmart](https://github.com/brittanysmart))
+
+#### Authors: 1
+
+- Brittany Smart ([@brittanysmart](https://github.com/brittanysmart))
+
+---
+
 # v0.1.60 (Wed Feb 28 2024)
 
 #### 🐛 Bug Fix
