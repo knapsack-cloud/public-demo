@@ -20,11 +20,6 @@ byId:
     name: Complex Patterns
     parentId: Components-aPh3G1bbrX
     path: ''
-  Components:
-    id: Components
-    name: Components
-    parentId: Design-System
-    path: /pages/Components
   Components-Overview:
     id: Components-Overview
     name: Components Overview
@@ -250,7 +245,6 @@ order:
   - Design-System
   - Static-Content
   - Design-Tokens
-  - Components
   - Embeds
   - Design-Files
   - Videos
