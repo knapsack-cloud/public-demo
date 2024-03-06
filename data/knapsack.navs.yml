@@ -47,7 +47,7 @@ byId:
     path: /pages/Design-System
   Design-Tokens:
     id: Design-Tokens
-    name: Design Tokens
+    name: Design Tokens Are Awesome!
     parentId: Design-System
     path: /pages/Design-Tokens
   Design-Tokens-lNWaUqkDSo:
