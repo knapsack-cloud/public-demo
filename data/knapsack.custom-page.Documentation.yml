@@ -11,5 +11,5 @@ settings:
     textColorDescription:
       type: value
       colorValue: '#000000'
-description: Read about how to use your design system
+description: Read more about how to use your design system
 blockIds: []
