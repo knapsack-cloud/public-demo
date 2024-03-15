@@ -1,26 +1,26 @@
 {
+  "id": "W1Xbf7ez7T",
   "data": {
     "props": {
       "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus, eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.",
-      "imgSrc": "https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
       "label": "Video",
-      "title": "How to use search engine optimization to drive sales"
+      "title": "How to use search engine optimization to drive sales",
+      "imgSrc": "https://www.jet2.com/-/media/jet2/flights/featured-destinations/incredible-deals---homepage/ski-min.png?w=400&h=400&hash=0A1E098E608858F0A5E205F34EEA6910"
     },
     "slots": {
       "children": [
         {
+          "type": "template-demo",
           "demoId": "_nTCiQ1984",
           "patternId": "author",
-          "templateId": "react",
-          "type": "template-demo"
+          "templateId": "react"
         }
       ]
     }
   },
-  "description": "",
-  "id": "W1Xbf7ez7T",
+  "type": "data",
+  "title": "One Author - No CTA",
   "patternId": "card",
   "templateId": "react",
-  "title": "One Author - No CTA",
-  "type": "data"
+  "description": ""
 }

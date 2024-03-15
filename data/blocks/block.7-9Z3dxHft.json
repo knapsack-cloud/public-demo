@@ -5,9 +5,10 @@
       "id": "color-swatch"
     },
     "tokens": {
-      "category": "color",
       "name": "",
-      "tags": ["base"]
+      "tags": [],
+      "type": "color",
+      "category": ""
     }
   },
   "id": "7-9Z3dxHft"

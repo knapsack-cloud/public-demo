@@ -1,34 +1,34 @@
 {
+  "id": "RN96ZpJJpY",
   "data": {
     "props": {
       "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus, eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.",
-      "imgSrc": "https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
       "label": "Article",
-      "title": "Boost your conversion rate now!"
+      "title": "Boost your conversion rate now!",
+      "imgSrc": "https://www.jet2.com/-/media/jet2/flights/featured-destinations/incredible-deals---homepage/map-1.jpg?w=400&h=400&hash=6705B2F444BCC7FFB4AAECC219BCF771"
     },
     "slots": {
       "children": [
         {
+          "type": "template-demo",
           "demoId": "gsI4PO5HfP",
           "patternId": "author",
-          "templateId": "react",
-          "type": "template-demo"
+          "templateId": "react"
         },
         {
+          "type": "template-demo",
           "demoId": "2ysfvm4ShE",
           "patternId": "button",
-          "templateId": "react",
-          "type": "template-demo"
+          "templateId": "react"
         }
       ]
     }
   },
-  "description": "",
+  "type": "data",
+  "title": "One Author CTA",
+  "width": 543,
   "height": 564,
-  "id": "RN96ZpJJpY",
   "patternId": "card",
   "templateId": "react",
-  "title": "One Author CTA",
-  "type": "data",
-  "width": 543
+  "description": ""
 }

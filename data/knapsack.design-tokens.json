@@ -3,11 +3,11 @@
     "base": {
       "red": {
         "$type": "color",
-        "$value": "#ef5151"
+        "$value": "#e01219"
       },
       "blue": {
         "$type": "color",
-        "$value": "#207FF9"
+        "$value": "{color.base.green}"
       },
       "green": {
         "$type": "color",
@@ -69,7 +69,7 @@
     "brand": {
       "black": {
         "$type": "color",
-        "$value": "#000000"
+        "$value": "#626262"
       },
       "white": {
         "$type": "color",
@@ -77,7 +77,8 @@
       },
       "primary": {
         "$type": "color",
-        "$value": "#6436BF"
+        "$value": "{color.base.red}",
+        "$description": "dfgsdfg"
       },
       "tertiary": {
         "$type": "color",

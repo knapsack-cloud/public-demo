@@ -1,0 +1,35 @@
+{
+  "id": "dedikNVcRB",
+  "data": {
+    "shortcuts": [
+      {
+        "id": "BY5O08El4X",
+        "link": {
+          "name": "Documentation",
+          "path": "/pages/Documentation"
+        },
+        "image": "https://knapsack.imgix.net/site/public-demo/photo-1476514525535-07fb3b4ae5f1-0zhmcegzdzavif",
+        "title": "Documentation"
+      },
+      {
+        "id": "cg96PV-UTi",
+        "link": {
+          "name": "Design Tokens",
+          "path": "/pages/Design-Tokens-lNWaUqkDSo"
+        },
+        "image": "https://knapsack.imgix.net/site/public-demo/560-itutoxl4snjpg",
+        "title": "Design Tokens"
+      },
+      {
+        "id": "jsWrHobLz",
+        "link": {
+          "name": "Components Overview",
+          "path": "/pages/Components-Overview"
+        },
+        "image": "https://knapsack.imgix.net/site/public-demo/maldives-islands-ocean-tropical-beach-600nw-1938868960-7tna2ebiydwebp",
+        "title": "Components Overview"
+      }
+    ]
+  },
+  "blockType": "shortcut-tiles"
+}

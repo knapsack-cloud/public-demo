@@ -1,25 +1,25 @@
 {
+  "id": "2ysfvm4ShE",
   "data": {
     "props": {
-      "mode": "info",
-      "size": "medium",
-      "type": "solid",
-      "url": "#url"
+      "url": "#url",
+      "mode": "danger",
+      "size": "large",
+      "type": "outline"
     },
     "slots": {
       "children": [
         {
-          "text": "Button",
+          "text": "Best Button",
           "type": "text"
         }
       ]
     }
   },
-  "height": 65,
-  "id": "2ysfvm4ShE",
-  "patternId": "button",
-  "templateId": "react",
-  "title": "Primary",
   "type": "data",
-  "width": 227
+  "title": "Primary",
+  "width": 273,
+  "height": 94,
+  "patternId": "button",
+  "templateId": "react"
 }

@@ -5,13 +5,10 @@ settings:
     size: full
     textColorTitle:
       type: design-token
-      colorValue: '#000000'
-      tokenName: color-brand-primary
-    backgroundImage: null
+      tokenName: color.brand.white
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/bali-nightlife-featured-image-5lkhyyt4qajpg
     textColorDescription:
-      type: value
-      colorValue: '#000000'
-description: |-
-  Work with patterns to create new experiences.
-  Collaborate to build, share, and test your ideas with real code!
+      type: design-token
+      tokenName: color.brand.white
+description: .
 blockIds: []
