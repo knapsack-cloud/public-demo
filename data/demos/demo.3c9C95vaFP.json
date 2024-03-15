@@ -1,32 +1,32 @@
 {
+  "id": "3c9C95vaFP",
   "data": {
     "props": {
       "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint harum rerum voluptatem quo recusandae magni placeat saepe molestiae, sed excepturi cumque corporis perferendis hic.",
-      "imgSrc": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixqx=exTPH5Vqg4&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
       "label": "Case Study",
-      "title": "Improve your customer experience"
+      "title": "Improve your customer experience",
+      "imgSrc": "https://www.jet2.com/-/media/jet2/flights/featured-destinations/athens_flights_promocard.jpg?w=400&h=400&hash=A4042E4D49061B286D92B898FDB7020B"
     },
     "slots": {
       "children": [
         {
+          "type": "template-demo",
           "demoId": "hGfcj0Ksms",
           "patternId": "author",
-          "templateId": "react",
-          "type": "template-demo"
+          "templateId": "react"
         },
         {
+          "type": "template-demo",
           "demoId": "_nTCiQ1984",
           "patternId": "author",
-          "templateId": "react",
-          "type": "template-demo"
+          "templateId": "react"
         }
       ]
     }
   },
-  "description": "",
-  "id": "3c9C95vaFP",
+  "type": "data",
+  "title": "Two Author - No CTA",
   "patternId": "card",
   "templateId": "react",
-  "title": "Two Author - No CTA",
-  "type": "data"
+  "description": ""
 }

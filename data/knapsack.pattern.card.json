@@ -17,7 +17,30 @@
       "alias": "Card",
       "templateLanguageId": "react",
       "spec": {
-        "isInferred": true
+        "props": {
+          "type": "object",
+          "$schema": "http://json-schema.org/draft-07/schema",
+          "required": [],
+          "properties": {
+            "body": {
+              "type": "string",
+              "description": "Content to fill out ONE paragraph"
+            },
+            "label": {
+              "type": "string"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "description": "Cards contain content and actions about a single subject."
+        },
+        "slots": {
+          "children": {
+            "title": "children",
+            "description": "undefined. Only use: author, button"
+          }
+        }
       },
       "demoIds": [
         "RN96ZpJJpY",
@@ -44,6 +67,10 @@
     },
     {
       "id": "Figma",
+      "type": "subPage"
+    },
+    {
+      "id": "7hOm5t04T9",
       "type": "subPage"
     },
     {
@@ -75,6 +102,11 @@
       "id": "Figma",
       "title": "Vector",
       "blockIds": ["Hn3xvYmDXj"]
+    },
+    {
+      "id": "7hOm5t04T9",
+      "title": "Feedback",
+      "blockIds": []
     }
   ],
   "designSrcComponentsById": {

@@ -5,11 +5,10 @@ settings:
     size: full
     textColorTitle:
       type: design-token
-      tokenName: color-brand-primary
-      colorValue: '#000000'
-    backgroundImage: https://knapsack.imgix.net/site/public-demo/sincerely-media-dgqf1dukutm-unsplash-dvgozcedlb.jpg
+      tokenName: color.brand.white
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/photo-1476514525535-07fb3b4ae5f1-bz1zgqrudravif
     textColorDescription:
-      type: value
-      colorValue: '#000000'
+      type: design-token
+      tokenName: color.brand.white
 description: Read more about how to use your design system
 blockIds: []

@@ -4,22 +4,28 @@
     "slots": {
       "children": [
         {
-          "demoId": "3ZA8cHaxRd",
+          "type": "template-demo",
+          "demoId": "ysDZjRo0Yd",
           "patternId": "hero",
-          "templateId": "react",
-          "type": "template-demo"
+          "templateId": "react"
         },
         {
+          "type": "template-demo",
           "demoId": "eY-_KWUog4",
           "patternId": "layout",
-          "templateId": "react",
-          "type": "template-demo"
+          "templateId": "react"
         },
         {
+          "type": "template-demo",
+          "demoId": "aMFkBNIHU2",
+          "patternId": "layout",
+          "templateId": "react"
+        },
+        {
+          "type": "template-demo",
           "demoId": "DRuV9pseUR",
           "patternId": "footer",
-          "templateId": "react",
-          "type": "template-demo"
+          "templateId": "react"
         }
       ]
     }

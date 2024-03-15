@@ -20,7 +20,7 @@
     "react": "ready",
     "design": "needs-design",
     "handlebars": "ready",
-    "web-components": "ready"
+    "web-components": "needs-qa"
   },
   "subPages": [],
   "templates": [

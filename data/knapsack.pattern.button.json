@@ -25,18 +25,6 @@
               "title": "URL",
               "description": "[URL]|[TITLE] — for example: http://google.com|Google"
             },
-            "mode": {
-              "enum": [
-                "success",
-                "info",
-                "warning",
-                "danger",
-                "alert",
-                "special"
-              ],
-              "type": "string",
-              "title": "Button Mode"
-            },
             "size": {
               "enum": ["small", "medium", "large"],
               "type": "string",
@@ -58,7 +46,7 @@
           }
         }
       },
-      "demoIds": ["2ysfvm4ShE", "2CXfLJgtaC"],
+      "demoIds": ["2ysfvm4ShE", "2CXfLJgtaC", "HDg5bkwBy"],
       "blockIds": []
     }
   ],

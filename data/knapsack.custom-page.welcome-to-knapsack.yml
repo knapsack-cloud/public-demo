@@ -4,14 +4,12 @@ settings:
   pageHeader:
     textColorTitle:
       type: design-token
-      tokenName: color-brand-primary
-      colorValue: '#6A4CEC'
-    backgroundImage: null
+      tokenName: color.brand.white
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/wp3144576-sltjodjs2zjpg
     textColorDescription:
       type: design-token
-      tokenName: color-brand-black
-      colorValue: '#000000'
-    size: small
+      tokenName: color.brand.white
+    size: full
 description: The collaborative design system
 blockIds:
   - 6-qXFUJ0eH

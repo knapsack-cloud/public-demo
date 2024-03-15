@@ -2,16 +2,15 @@ id: Design-Tokens-lNWaUqkDSo
 title: Design Tokens
 settings:
   pageHeader:
-    size: auto
+    size: full
     textColorTitle:
       type: design-token
-      colorValue: '#000000'
-      tokenName: color-brand-primary
-    backgroundImage: null
+      tokenName: color.brand.white
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/560-bl3oxejfqjpg
     textColorDescription:
-      type: value
-      colorValue: '#000000'
-description: Building blocks of your digital brand
+      type: design-token
+      tokenName: color.brand.white
+description: .
 blockIds:
   - RX3sN_L-4o
   - V0Jm0DWi9c

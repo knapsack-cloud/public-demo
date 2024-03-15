@@ -2,18 +2,17 @@ id: Components-Overview
 title: Components Overview
 settings:
   pageHeader:
-    size: auto
+    size: full
     textColorTitle:
       type: design-token
-      colorValue: '#FFFFFF'
-      tokenName: color-brand-primary
-    backgroundImage: null
+      tokenName: color.brand.white
+    backgroundImage: >-
+      https://knapsack.imgix.net/site/public-demo/tropical-paradise-beach-with-white-sand-and-crystal-clear-blue-water-beautiful-natural-summer-vacation-holidays-background-travel-tourism-wide-panorama-background-concept-ai-generative-free-photo-mcfakn5uynjpg
     textColorDescription:
       type: design-token
-      colorValue: '#FFFFFF'
-      tokenName: color-brand-black
+      tokenName: color.brand.white
   hideTableOfContents: true
-description: Browse all available components and understand current status
+description: .
 blockIds:
   - MPWVYU6VPU
   - n8S6Hd_tQN

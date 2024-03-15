@@ -1,20 +1,23 @@
 id: homepage
-title: Welcome to Knapsack
+title: Welcome to the Jet2 Design System
 settings:
   pageHeader:
-    size: full
+    size: large
     textColorTitle:
       type: design-token
-      tokenName: color-brand-primary
-      colorValue: '#FFFFFF'
-    backgroundImage: https://knapsack.imgix.net/site/public-demo/clark-van-der-beken-596baa0mpym-unsplash-o5drv55uvq.jpg
+      tokenName: color.brand.white
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/photo-1507525428034-b723cf961d3e-copy-e1uhea-1uqjpg
     textColorDescription:
       type: design-token
-      tokenName: color-Meh-black
-      colorValue: '#FFFFFF'
+      tokenName: color.brand.white
+    backgroundOverlay: false
+    backgroundSize: cover
+    backgroundPosition: right
+    hideText: true
 description: |-
   A shared platform for product teams to collaborate
   on documenting, designing, building, testing, and shipping
   their digital products.
 blockIds:
+  - dedikNVcRB
   - Iu6QKbz80R
