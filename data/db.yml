@@ -11,12 +11,12 @@ settings:
         name: KS - Figma Rest API
         type: figma
         url: https://www.figma.com/file/H3Jj1cltfXiGWijrYOaGBi?version-id=4988435680
-        version: '4988435680'
+        version: '5274160270'
       - fileId: zUm5kTRtnkFUh5JUsBwwWl
         name: Demo Design System Library
         type: figma
         url: https://www.figma.com/file/zUm5kTRtnkFUh5JUsBwwWl?version-id=4804108977
-        version: '4804108977'
+        version: '5155328171'
   logoUrl: https://knapsack.imgix.net/site/public-demo/knapsack-logomark-primary@3x-c3fjqx5ll_.png
   theme:
     appearance:
