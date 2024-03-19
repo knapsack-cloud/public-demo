@@ -1,3 +1,21 @@
+# v0.1.62 (Tue Mar 19 2024)
+
+#### ⚠️ Pushed to `main`
+
+- upgrade KS packages ([@EvanLovely](https://github.com/EvanLovely))
+
+#### 📝 Documentation
+
+- refresh figma sources - Andrew Rohman [#230](https://github.com/knapsack-cloud/public-demo/pull/230) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+- Added content change - Brittany Smart [#228](https://github.com/knapsack-cloud/public-demo/pull/228) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+
+#### Authors: 2
+
+- [@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot])
+- Evan Lovely ([@EvanLovely](https://github.com/EvanLovely))
+
+---
+
 # v0.1.61 (Tue Mar 05 2024)
 
 #### 🐛 Bug Fix
