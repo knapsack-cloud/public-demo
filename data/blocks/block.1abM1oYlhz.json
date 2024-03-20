@@ -3,11 +3,10 @@
   "data": {
     "columns": "1",
     "imageStyles": {
-      "background": "light",
-      "corners": "square",
       "fit": "contain",
-      "seamless": false,
-      "size": "xsmall"
+      "size": "small",
+      "corners": "rounded",
+      "seamless": true
     },
     "items": [
       {

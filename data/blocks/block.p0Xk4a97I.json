@@ -1,9 +1,11 @@
 {
-  "blockType": "text-editor",
+  "id": "p0Xk4a97I",
   "data": {
     "content": {
+      "type": "doc",
       "content": [
         {
+          "type": "heading",
           "attrs": {
             "level": 2,
             "textAlign": "left"
@@ -13,12 +15,10 @@
               "text": "Usage Guidelines",
               "type": "text"
             }
-          ],
-          "type": "heading"
+          ]
         }
-      ],
-      "type": "doc"
+      ]
     }
   },
-  "id": "w5Yk-HGNlm"
+  "blockType": "text-editor"
 }
