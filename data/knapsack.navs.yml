@@ -20,11 +20,6 @@ byId:
     name: Complex Patterns
     parentId: Components-aPh3G1bbrX
     path: ''
-  Components:
-    id: Components
-    name: Components
-    parentId: Design-System
-    path: /pages/Components
   Components-Overview:
     id: Components-Overview
     name: Components Overview
@@ -35,36 +30,11 @@ byId:
     name: Components
     parentId: root
     path: ''
-  Design-Files:
-    id: Design-Files
-    name: Design Files
-    parentId: Embeds
-    path: /pages/Design-Files
-  Design-System:
-    id: Design-System
-    name: Design System
-    parentId: Documentation
-    path: /pages/Design-System
-  Design-Tokens:
-    id: Design-Tokens
-    name: Design Tokens
-    parentId: Design-System
-    path: /pages/Design-Tokens
   Design-Tokens-lNWaUqkDSo:
     id: Design-Tokens-lNWaUqkDSo
     name: Design Tokens
     parentId: root
     path: /pages/Design-Tokens-lNWaUqkDSo
-  Documentation:
-    id: Documentation
-    name: Documentation
-    parentId: root
-    path: /pages/Documentation
-  Embeds:
-    id: Embeds
-    name: Embeds
-    parentId: Documentation
-    path: /pages/Embeds
   Layout:
     id: Layout
     name: Layouts
@@ -101,21 +71,6 @@ byId:
     name: Simple Patterns
     parentId: Components-aPh3G1bbrX
     path: ''
-  Static-Content:
-    id: Static-Content
-    name: Static Content
-    parentId: Design-System
-    path: /pages/Static-Content
-  Videos:
-    id: Videos
-    name: Videos
-    parentId: Embeds
-    path: /pages/Videos
-  Workflow:
-    id: Workflow
-    name: Workflow
-    parentId: Embeds
-    path: /pages/Workflow
   adding-design-tokens:
     id: adding-design-tokens
     name: Adding Design Tokens
@@ -246,15 +201,6 @@ order:
   - adding-documentation
   - connecting-coded-components
   - customizing-the-workspace
-  - Documentation
-  - Design-System
-  - Static-Content
-  - Design-Tokens
-  - Components
-  - Embeds
-  - Design-Files
-  - Videos
-  - Workflow
   - Design-Tokens-lNWaUqkDSo
   - colors
   - base-colors

@@ -2,21 +2,22 @@
   "blockType": "text-editor",
   "data": {
     "content": {
+      "type": "doc",
       "content": [
         {
+          "type": "heading",
           "attrs": {
-            "level": 2
+            "level": 2,
+            "textAlign": "left"
           },
           "content": [
             {
-              "text": "Default Brand",
+              "text": "Brand Palette",
               "type": "text"
             }
-          ],
-          "type": "heading"
+          ]
         }
-      ],
-      "type": "doc"
+      ]
     }
   },
   "id": "10pdmPU4A2"
