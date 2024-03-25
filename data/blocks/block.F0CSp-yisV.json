@@ -1,0 +1,19 @@
+{
+  "id": "F0CSp-yisV",
+  "data": {
+    "items": [
+      {
+        "fileId": "H3Jj1cltfXiGWijrYOaGBi",
+        "nodeId": "21:264"
+      }
+    ],
+    "columns": "1",
+    "imageStyles": {
+      "size": "xlarge",
+      "seamless": false,
+      "fit": "fill"
+    },
+    "showComponentProps": true
+  },
+  "blockType": "design-src-tiles"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "LcmSv3pwf5",
+  "data": {
+    "shortcuts": [
+      {
+        "id": "uOCPyb039d",
+        "link": {
+          "name": "Playground",
+          "path": "/pattern/one-pager?templateId=react"
+        },
+        "title": "Landing Page Builder",
+        "description": "Prototype landing pages using design system elements"
+      }
+    ],
+    "gridStyles": {
+      "columns": "1",
+      "centered": false
+    },
+    "tileStyles": {
+      "rounded": true,
+      "outlined": true,
+      "imageSize": "small",
+      "titleSize": "xsmall"
+    }
+  },
+  "blockType": "shortcut-tiles"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "lL1cON1-pO",
+  "data": {
+    "demoId": "box-shadow",
+    "groupIds": ["shadow"],
+    "tokenType": "string"
+  },
+  "blockType": "design-tokens"
+}

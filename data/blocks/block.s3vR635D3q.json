@@ -1,0 +1,19 @@
+{
+  "id": "s3vR635D3q",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "left"
+          }
+        }
+      ]
+    },
+    "autoFocus": true
+  },
+  "size": "medium",
+  "blockType": "text-editor"
+}

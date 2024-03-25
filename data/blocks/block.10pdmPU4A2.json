@@ -1,0 +1,24 @@
+{
+  "blockType": "text-editor",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2,
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Brand Palette",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "id": "10pdmPU4A2"
+}

@@ -8,6 +8,10 @@
     {
       "id": "Specification",
       "type": "subPage"
+    },
+    {
+      "id": "Y2IqSLXruX",
+      "type": "designSrc"
     }
   ],
   "title": "Input Field",
@@ -44,5 +48,13 @@
     }
   ],
   "templates": [],
-  "description": "Put things in things on the web."
+  "description": "Put things in things on the web.",
+  "designSrcComponentsById": {
+    "Y2IqSLXruX": {
+      "id": "Y2IqSLXruX",
+      "title": "Figma Component",
+      "fileId": "RP1xTgbvxPBqYmp3iGUNWc",
+      "componentId": "1696:26314"
+    }
+  }
 }

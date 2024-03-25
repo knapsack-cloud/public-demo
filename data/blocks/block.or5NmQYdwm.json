@@ -1,0 +1,36 @@
+{
+  "blockType": "text-editor",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2,
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Overview",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Use messages to communicate short, important notes to users along with clear calls-to-action. Messages are versatile and can be used in a variety of scenarios.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "id": "or5NmQYdwm"
+}
