@@ -20,11 +20,6 @@ byId:
     name: Complex Patterns
     parentId: Components-aPh3G1bbrX
     path: ''
-  Components-Overview:
-    id: Components-Overview
-    name: Components Overview
-    parentId: Components-aPh3G1bbrX
-    path: /pages/Components-Overview
   Components-aPh3G1bbrX:
     id: Components-aPh3G1bbrX
     name: Components
@@ -111,6 +106,11 @@ byId:
     name: Colors
     parentId: Design-Tokens-lNWaUqkDSo
     path: /pages/colors
+  components-overview:
+    id: components-overview
+    name: Components Overview
+    parentId: Components-aPh3G1bbrX
+    path: /pages/components-overview
   connecting-coded-components:
     id: connecting-coded-components
     name: Connecting Coded Components
@@ -210,7 +210,7 @@ order:
   - Shadow
   - Animation
   - Components-aPh3G1bbrX
-  - Components-Overview
+  - components-overview
   - Simple
   - author
   - button

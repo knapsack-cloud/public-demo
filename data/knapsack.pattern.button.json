@@ -99,6 +99,11 @@
         "wTqQ1RCsax",
         "MhcbUsC8M0"
       ]
+    },
+    {
+      "id": "NUIBBzZWKz",
+      "title": "Untitled",
+      "blockIds": []
     }
   ],
   "tabs": [
@@ -124,6 +129,10 @@
     },
     {
       "id": "Legacy",
+      "type": "subPage"
+    },
+    {
+      "id": "NUIBBzZWKz",
       "type": "subPage"
     }
   ],
