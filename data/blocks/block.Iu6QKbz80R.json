@@ -12,7 +12,7 @@
           "name": "Design Tokens",
           "path": "/pages/Design-Tokens"
         },
-        "image": "https://knapsack.imgix.net/site/public-demo/46643-lg7przfyjvpng",
+        "image": "https://knapsack.imgix.net/site/public-demo/4666-z33wjpdznipng",
         "title": "🎨 Design Tokens",
         "description": "View and manage building blocks for our digital brand."
       },
@@ -20,9 +20,9 @@
         "id": "sDtamkSsTt",
         "link": {
           "name": "Components Overview",
-          "path": "/pages/Components-Overview"
+          "path": "/pages/components-overview"
         },
-        "image": "https://knapsack.imgix.net/site/public-demo/materialillustrationabs-7b98tg-tfnpng",
+        "image": "https://knapsack.imgix.net/site/public-demo/puzzlepieceonabluebackground-yr2ezfokiupng",
         "title": "🧩 Components Overview",
         "description": "Find and understand UI elements in design and code."
       },
@@ -32,7 +32,7 @@
           "name": "Page-Level Prototyping",
           "path": "/pages/Page-Level-Prototyping"
         },
-        "image": "https://knapsack.imgix.net/site/public-demo/lego-rainbow-with-cloud-flat-ufftefvcdujpg",
+        "image": "https://knapsack.imgix.net/site/public-demo/lego-dots-41952-big-message-board-20-scaled-3rsmdkhjztjpg",
         "title": "🖼️ Page-Level Prototyping",
         "description": "Assemble modular elements into UIs based in code."
       }

@@ -1,0 +1,15 @@
+id: components-overview
+title: Components Overview
+blockIds:
+  - 1Qi6Fu367J
+  - BcggGmFAL1
+settings:
+  pageHeader:
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/puzzlepieceonabluebackground-w63odwf192png
+    textColorTitle:
+      type: design-token
+      tokenName: color.brand.secondary
+    textColorDescription:
+      type: design-token
+      tokenName: color.brand.secondary
+    size: large

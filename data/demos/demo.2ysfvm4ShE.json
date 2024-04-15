@@ -2,14 +2,14 @@
   "data": {
     "props": {
       "mode": "info",
-      "size": "medium",
-      "type": "solid",
+      "size": "large",
+      "type": "outline",
       "url": "#url"
     },
     "slots": {
       "children": [
         {
-          "text": "Button",
+          "text": "Best Button",
           "type": "text"
         }
       ]
