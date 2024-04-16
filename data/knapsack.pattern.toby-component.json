@@ -1,0 +1,32 @@
+{
+  "id": "toby-component",
+  "tabs": [
+    {
+      "id": "overview",
+      "type": "subPage"
+    },
+    {
+      "id": "97W-sECRWf",
+      "type": "designSrc"
+    }
+  ],
+  "title": "Toby Component",
+  "statuses": {},
+  "subPages": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "blockIds": ["XwzLG6sjSo", "74OUQXeRcb", "VnTRuLATf3"]
+    }
+  ],
+  "templates": [],
+  "description": "",
+  "designSrcComponentsById": {
+    "97W-sECRWf": {
+      "id": "97W-sECRWf",
+      "title": "Figma Component",
+      "fileId": "RP1xTgbvxPBqYmp3iGUNWc",
+      "componentId": "2916:62204"
+    }
+  }
+}

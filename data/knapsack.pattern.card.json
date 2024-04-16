@@ -24,7 +24,8 @@
         "-2WvOX39hg",
         "W1Xbf7ez7T",
         "3c9C95vaFP",
-        "WXcBdSXuE9"
+        "WXcBdSXuE9",
+        "M30UGqRblF"
       ],
       "blockIds": []
     }
@@ -84,5 +85,8 @@
       "fileId": "H3Jj1cltfXiGWijrYOaGBi",
       "componentId": "41:95"
     }
+  },
+  "settings": {
+    "hideTableOfContents": false
   }
 }

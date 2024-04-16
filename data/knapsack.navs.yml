@@ -182,6 +182,11 @@ byId:
     name: Spacing
     parentId: Design-Tokens-lNWaUqkDSo
     path: /pages/spacing
+  toby-component:
+    id: toby-component
+    name: Toby Component
+    parentId: Components-aPh3G1bbrX
+    path: /pattern/toby-component
   top-nav:
     id: top-nav
     name: Top Nav
@@ -231,3 +236,4 @@ order:
   - Admin
   - Private-Pages
   - new-component-in-progress
+  - toby-component
