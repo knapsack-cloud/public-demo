@@ -1,0 +1,12 @@
+{
+  "id": "M30UGqRblF",
+  "data": {
+    "props": {},
+    "slots": {}
+  },
+  "type": "data",
+  "title": "New Variation",
+  "patternId": "card",
+  "templateId": "react",
+  "description": "A description"
+}

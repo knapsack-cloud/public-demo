@@ -1,0 +1,15 @@
+{
+  "id": "XwzLG6sjSo",
+  "data": {
+    "fileId": "RP1xTgbvxPBqYmp3iGUNWc",
+    "componentId": "2916:62204",
+    "styles": {
+      "columns": "1",
+      "image": {
+        "size": "xlarge"
+      }
+    },
+    "contents": ["spec"]
+  },
+  "blockType": "design-src-component"
+}

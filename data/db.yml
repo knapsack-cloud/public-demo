@@ -17,6 +17,11 @@ settings:
         type: figma
         url: https://www.figma.com/file/zUm5kTRtnkFUh5JUsBwwWl?version-id=4804108977
         version: '5155328171'
+      - fileId: RP1xTgbvxPBqYmp3iGUNWc
+        name: 'Toby: Design System'
+        type: figma
+        url: https://www.figma.com/file/RP1xTgbvxPBqYmp3iGUNWc?version-id=5550595605
+        version: '5550595605'
   logoUrl: https://knapsack.imgix.net/site/public-demo/knapsack-logomark-primary@3x-c3fjqx5ll_.png
   theme:
     appearance:

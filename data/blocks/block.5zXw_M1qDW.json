@@ -2,12 +2,12 @@
   "blockType": "design-token-block",
   "data": {
     "demo": {
-      "id": "table-list"
+      "id": "simple-list"
     },
     "tokens": {
       "category": "",
       "name": "",
-      "tags": ["brand"]
+      "tags": ["box"]
     }
   },
   "id": "5zXw_M1qDW"
