@@ -1,15 +1,15 @@
 {
   "data": {
     "props": {
-      "mode": "info",
-      "size": "medium",
+      "mode": "warning",
+      "size": "small",
       "type": "solid",
       "url": "#url"
     },
     "slots": {
       "children": [
         {
-          "text": "Button",
+          "text": "Press Here",
           "type": "text"
         }
       ]
