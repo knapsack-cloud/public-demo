@@ -11,7 +11,7 @@ settings:
         name: KS - Figma Rest API
         type: figma
         url: https://www.figma.com/file/H3Jj1cltfXiGWijrYOaGBi?version-id=4988435680
-        version: '5274160270'
+        version: '5530449840'
       - fileId: zUm5kTRtnkFUh5JUsBwwWl
         name: Demo Design System Library
         type: figma
