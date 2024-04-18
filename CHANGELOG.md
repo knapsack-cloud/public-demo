@@ -1,3 +1,20 @@
+# v0.1.63 (Thu Apr 18 2024)
+
+#### ⚠️ Pushed to `main`
+
+- setup prototyping ([@EvanLovely](https://github.com/EvanLovely))
+
+#### 📝 Documentation
+
+- demo update and cleanup - Andrew Rohman [#232](https://github.com/knapsack-cloud/public-demo/pull/232) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+
+#### Authors: 2
+
+- [@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot])
+- Evan Lovely ([@EvanLovely](https://github.com/EvanLovely))
+
+---
+
 # v0.1.62 (Tue Mar 19 2024)
 
 #### ⚠️ Pushed to `main`
