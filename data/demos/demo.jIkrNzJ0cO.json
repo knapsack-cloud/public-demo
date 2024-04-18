@@ -25,11 +25,9 @@
     }
   },
   "description": "A sample homepage",
-  "height": 476,
   "id": "jIkrNzJ0cO",
   "patternId": "one-pager",
   "templateId": "react",
   "title": "3-Column Homepage",
-  "type": "data",
-  "width": 872
+  "type": "data"
 }
