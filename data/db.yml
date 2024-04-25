@@ -93,3 +93,8 @@ settings:
           textTransform: inherit
     version: 10
   title: Public Demo
+  tokens:
+    theming:
+      enabledRendererIds:
+        - react
+        - html

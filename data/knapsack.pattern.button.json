@@ -15,51 +15,11 @@
       "alias": "Button",
       "templateLanguageId": "react",
       "spec": {
-        "props": {
-          "type": "object",
-          "$schema": "http://json-schema.org/draft-07/schema",
-          "required": [],
-          "properties": {
-            "url": {
-              "type": "string",
-              "title": "URL",
-              "description": "[URL]|[TITLE] — for example: http://google.com|Google"
-            },
-            "mode": {
-              "enum": [
-                "success",
-                "info",
-                "warning",
-                "danger",
-                "alert",
-                "special"
-              ],
-              "type": "string",
-              "title": "Button Mode"
-            },
-            "size": {
-              "enum": ["small", "medium", "large"],
-              "type": "string",
-              "title": "Size"
-            },
-            "type": {
-              "enum": ["solid", "outline"],
-              "type": "string",
-              "title": "Button Type",
-              "default": "solid"
-            }
-          },
-          "description": ""
-        },
-        "slots": {
-          "children": {
-            "title": "children",
-            "isRequired": true
-          }
-        }
+        "isInferred": true
       },
-      "demoIds": ["2ysfvm4ShE", "2CXfLJgtaC"],
-      "blockIds": []
+      "demoIds": ["2ysfvm4ShE"],
+      "blockIds": [],
+      "assetSetIds": ["default"]
     }
   ],
   "subPages": [

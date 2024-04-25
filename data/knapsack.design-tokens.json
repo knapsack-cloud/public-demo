@@ -324,5 +324,69 @@
         "$value": "150ms"
       }
     }
+  },
+  "$extensions": {
+    "cloud.knapsack": {
+      "global": {
+        "collectionsParentKey": "collections"
+      }
+    }
+  },
+  "collections": {
+    "Dual": {
+      "$extensions": {
+        "cloud.knapsack": {
+          "group": {
+            "collectionInfo": {
+              "type": "collection",
+              "modes": [
+                {
+                  "id": "light"
+                },
+                {
+                  "id": "dark"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "color-primary": {
+        "dark": {
+          "$value": "#ffffff"
+        },
+        "light": {
+          "$value": "#7b58cf"
+        },
+        "$type": "color",
+        "$extensions": {
+          "cloud.knapsack": {
+            "group": {
+              "collectionInfo": {
+                "type": "var"
+              }
+            }
+          }
+        }
+      },
+      "color-secondary": {
+        "$type": "color",
+        "$extensions": {
+          "cloud.knapsack": {
+            "group": {
+              "collectionInfo": {
+                "type": "var"
+              }
+            }
+          }
+        },
+        "light": {
+          "$value": "{color.brand.white}"
+        },
+        "dark": {
+          "$value": "{color.brand.black}"
+        }
+      }
+    }
   }
 }
