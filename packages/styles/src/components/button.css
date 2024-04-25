@@ -1,5 +1,5 @@
 /* Noting here that all these classes could be applied directly to the markup
-but this file demonstrates how easy it is to add direct CSS (with custom 
+but this file demonstrates how easy it is to add direct CSS (with custom
 processing!) */
 
 .ks-button {
@@ -24,83 +24,7 @@ processing!) */
       @apply ml-xs;
     }
   }
-  &.bg-outline {
-    @apply bg-transparent;
-    /* background: none; */
-    /* border-width: 2px;
-    border-style: solid; */
-    /* &:hover {
-      color: white;
-    } */
-  }
-  /* SOLID */
   &.bg-solid {
-    &.success:hover {
-      @apply bg-dark-green border-dark-green;
-    }
-
-    &.info {
-      @apply bg-base-blue border-base-blue;
-      .wow & {
-        @apply bg-base-orchid border-base-orchid;
-      }
-
-      &:hover {
-        @apply bg-dark-blue border-dark-blue;
-
-        .wow & {
-          @apply bg-dark-orchid border-dark-orchid;
-        }
-      }
-    }
-    &.warning:hover {
-      @apply bg-dark-orange border-dark-orange;
-    }
-    &.danger:hover {
-      @apply bg-dark-red border-dark-red;
-    }
-    &.alert:hover {
-      @apply bg-dark-yellow border-dark-yellow;
-    }
-    &.special:hover {
-      @apply bg-dark-orchid border-dark-orchid;
-    }
-  }
-
-  /* OUTLINE */
-  &.bg-outline {
-    &.success:hover {
-      @apply bg-base-green;
-    }
-    &.info {
-      .wow & {
-        @apply border-base-orchid text-base-orchid;
-      }
-
-      &:hover {
-        @apply bg-base-blue text-white;
-
-        .wow & {
-          @apply bg-base-orchid text-white;
-        }
-      }
-    }
-    &.warning:hover {
-      @apply bg-base-orange;
-    }
-    &.danger:hover {
-      @apply bg-base-red;
-    }
-    &.alert:hover {
-      @apply bg-base-yellow;
-    }
-    &.special:hover {
-      @apply bg-base-orchid;
-    }
-  }
-
-  /* To support lightMode */
-  &.bg-white.border-white:hover {
-    color: #fff;
+    @apply bg-primary text-secondary;
   }
 }

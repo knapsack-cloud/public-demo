@@ -3,7 +3,7 @@
   "allAssetSets": {
     "default": {
       "id": "default",
-      "title": "Light",
+      "title": "Default",
       "assets": [
         {
           "src": "../packages/design-tokens/dist/design-tokens.css"

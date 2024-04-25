@@ -21,7 +21,11 @@ module.exports = {
   darkMode: 'class', // or 'media' or 'class'
   theme: {
     extend: {
-      colors: color,
+      colors: {
+        ...color,
+        primary: 'var(--color-primary)',
+        secondary: 'var(--color-secondary)'
+      },
       screens: breakpoint.width,
       spacing,
       fontFamily: {

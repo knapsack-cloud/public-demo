@@ -2,9 +2,7 @@ import * as React from 'react';
 
 export interface ButtonProps {
   url?: string;
-  mode?: 'success' | 'info' | 'warning' | 'danger' | 'alert' | 'special';
   size?: 'small' | 'medium' | 'large';
-  type?: 'solid' | 'outline';
   children: React.ReactNode;
   icon?: boolean;
 }
@@ -27,9 +25,7 @@ const FireIcon = () => (
 export const Button: React.FC<ButtonProps> = ({
   children,
   size = 'medium',
-  type = 'solid',
   url,
-  mode = 'info',
   icon = false,
 }: ButtonProps) => {
   const sizes = {
@@ -37,24 +33,12 @@ export const Button: React.FC<ButtonProps> = ({
     medium: 'px-9 py-2.5 text-lg',
     large: 'px-10 py-4 text-xl',
   };
-  const modes = {
-    success: 'bg-base-green border-base-green',
-    info: 'bg-base-blue border-base-blue',
-    warning: 'bg-base-orange border-base-orange',
-    danger: 'bg-base-red border-base-red',
-    alert: 'bg-base-yellow border-base-yellow',
-    special: 'bg-base-orchid border-base-orchid',
-  };
-  const types = {
-    outline: 'bg-outline',
-    solid: 'bg-solid text-white',
-  };
-  const textColors = `bg-solid ${types[type]} font-bold`;
+  const textColors = 'bg-solid text-white font-bold';
 
   return (
     <a
       href={url}
-      className={`ks-button w-full flex items-center justify-center text-base font-medium rounded-md border-2 ${textColors} ${modes[mode]} ${sizes[size]} ${mode}`}
+      className={`ks-button w-full flex items-center justify-center text-base font-medium rounded-md border-2 shadow-sm ${textColors} ${sizes[size]}`}
     >
       {children}{' '}
       {icon && (
