@@ -4,108 +4,108 @@
     "content": {
       "content": [
         {
+          "type": "heading",
           "attrs": {
-            "level": 2
+            "level": 2,
+            "textAlign": "left"
           },
           "content": [
             {
               "text": "Run Knapsack Locally",
               "type": "text"
             }
-          ],
-          "type": "heading"
+          ]
         },
         {
+          "type": "orderedList",
           "attrs": {
             "start": 1
           },
           "content": [
             {
+              "type": "listItem",
               "content": [
                 {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
                   "content": [
                     {
                       "text": "Read the ",
                       "type": "text"
                     },
                     {
+                      "text": "developer docs",
+                      "type": "text",
                       "marks": [
                         {
+                          "type": "link",
                           "attrs": {
+                            "rel": "noopener noreferrer nofollow",
+                            "href": "https://docs.knapsack.cloud/site/ks-docs/latest/pages/installing-knapsack",
                             "class": null,
-                            "href": "https://help.knapsack.cloud/article/31-running-knapsack-locally",
                             "target": "_blank"
-                          },
-                          "type": "link"
+                          }
                         }
-                      ],
-                      "text": "developer docs",
-                      "type": "text"
+                      ]
                     }
-                  ],
-                  "type": "paragraph"
+                  ]
                 }
-              ],
-              "type": "listItem"
+              ]
             },
             {
+              "type": "listItem",
               "content": [
                 {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
                   "content": [
                     {
-                      "text": "Install the pre-requisites",
+                      "text": "Install Knapsack in your repo",
                       "type": "text"
                     }
-                  ],
-                  "type": "paragraph"
+                  ]
                 }
-              ],
-              "type": "listItem"
+              ]
             },
             {
+              "type": "listItem",
               "content": [
                 {
-                  "content": [
-                    {
-                      "text": "Clone the workspace repo",
-                      "type": "text"
-                    }
-                  ],
-                  "type": "paragraph"
-                }
-              ],
-              "type": "listItem"
-            },
-            {
-              "content": [
-                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
                   "content": [
                     {
                       "text": "Run the commands to build and serve the workspace",
                       "type": "text"
                     }
-                  ],
-                  "type": "paragraph"
+                  ]
                 }
-              ],
-              "type": "listItem"
+              ]
             },
             {
+              "type": "listItem",
               "content": [
                 {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
                   "content": [
                     {
                       "text": "Look for the 🚀 in your console and launch your local workspace!",
                       "type": "text"
                     }
-                  ],
-                  "type": "paragraph"
+                  ]
                 }
-              ],
-              "type": "listItem"
+              ]
             }
-          ],
-          "type": "orderedList"
+          ]
         }
       ],
       "type": "doc"
