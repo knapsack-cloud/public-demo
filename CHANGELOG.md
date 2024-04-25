@@ -1,3 +1,23 @@
+# v0.1.64 (Thu Apr 25 2024)
+
+#### 🐛 Bug Fix
+
+- `@knapsack-cloud/public-demo-react`, `@knapsack-cloud/public-demo-styles`
+  - Implement New Theming Feature [#238](https://github.com/knapsack-cloud/public-demo/pull/238) ([@brittanysmart](https://github.com/brittanysmart))
+
+#### 📝 Documentation
+
+- refreshed figma design source for Message - Andrew Rohman [#239](https://github.com/knapsack-cloud/public-demo/pull/239) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+- fixed broken links to old docs - Andrew Rohman [#237](https://github.com/knapsack-cloud/public-demo/pull/237) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+- update design src file - Josh Mabry [#236](https://github.com/knapsack-cloud/public-demo/pull/236) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+
+#### Authors: 2
+
+- [@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot])
+- Brittany Smart ([@brittanysmart](https://github.com/brittanysmart))
+
+---
+
 # v0.1.63 (Thu Apr 18 2024)
 
 #### ⚠️ Pushed to `main`

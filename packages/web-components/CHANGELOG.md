@@ -1,3 +1,15 @@
+# v0.1.64 (Thu Apr 25 2024)
+
+#### 🐛 Bug Fix
+
+- Implement New Theming Feature [#238](https://github.com/knapsack-cloud/public-demo/pull/238) ([@brittanysmart](https://github.com/brittanysmart))
+
+#### Authors: 1
+
+- Brittany Smart ([@brittanysmart](https://github.com/brittanysmart))
+
+---
+
 # v0.1.47 (Mon Feb 20 2023)
 
 #### 🐛 Bug Fix

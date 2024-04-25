@@ -1,3 +1,16 @@
+# v0.1.64 (Thu Apr 25 2024)
+
+#### 🐛 Bug Fix
+
+- Implement New Theming Feature [#238](https://github.com/knapsack-cloud/public-demo/pull/238) ([@brittanysmart](https://github.com/brittanysmart))
+- * chore(db.yml): update tokens theming configuration ([@brittanysmart](https://github.com/brittanysmart))
+
+#### Authors: 1
+
+- Brittany Smart ([@brittanysmart](https://github.com/brittanysmart))
+
+---
+
 # v0.1.61 (Tue Mar 05 2024)
 
 #### 🐛 Bug Fix
