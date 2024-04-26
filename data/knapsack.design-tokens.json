@@ -77,7 +77,7 @@
       },
       "primary": {
         "$type": "color",
-        "$value": "#6436BF"
+        "$value": "{color.base.yellow}"
       },
       "tertiary": {
         "$type": "color",
@@ -308,6 +308,10 @@
       "slow": {
         "$value": "8000ms",
         "$description": "Used for timings that need to be fully interpreted by users, such as the Carousel autorotate delay."
+      },
+      "fast": {
+        "$type": "string",
+        "$value": "2000ms"
       }
     },
     "timing": {
