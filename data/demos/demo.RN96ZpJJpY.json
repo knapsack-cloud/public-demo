@@ -30,5 +30,8 @@
   "templateId": "react",
   "title": "One Author CTA",
   "type": "data",
-  "width": 543
+  "width": 543,
+  "theme": {
+    "Dual": "light"
+  }
 }

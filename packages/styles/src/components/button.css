@@ -24,7 +24,4 @@ processing!) */
       @apply ml-xs;
     }
   }
-  &.bg-solid {
-    @apply bg-primary text-secondary;
-  }
 }

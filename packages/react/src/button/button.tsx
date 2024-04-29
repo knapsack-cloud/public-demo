@@ -5,6 +5,8 @@ export interface ButtonProps {
   size?: 'small' | 'medium' | 'large';
   children: React.ReactNode;
   icon?: boolean;
+  outline?: boolean;
+  action?: 'success' | 'warning' | 'danger';
 }
 
 const FireIcon = () => (
@@ -27,18 +29,32 @@ export const Button: React.FC<ButtonProps> = ({
   size = 'medium',
   url,
   icon = false,
+  outline = false,
+  action,
 }: ButtonProps) => {
   const sizes = {
     small: 'px-4 py-1.5 text-sm',
     medium: 'px-9 py-2.5 text-lg',
     large: 'px-10 py-4 text-xl',
   };
-  const textColors = 'bg-solid text-white font-bold';
+  const textColors = outline
+    ? 'bg-solid text-primary font-bold'
+    : 'bg-solid text-secondary font-bold';
+  const outlineClasses = outline
+    ? 'border-2 border-primary bg-transparent text-primary'
+    : '';
+  const actionClasses = action
+    ? `bg-base-${
+        action === 'success' ? 'green' : action === 'warning' ? 'yellow' : 'red'
+      } text-secondary`
+    : '';
+
+  const bgClasses = !outline && !action ? 'bg-primary' : '';
 
   return (
     <a
       href={url}
-      className={`ks-button w-full flex items-center justify-center text-base font-medium rounded-md border-2 shadow-sm ${textColors} ${sizes[size]}`}
+      className={`ks-button w-full flex items-center justify-center text-base font-medium rounded-md shadow-sm ${textColors} ${sizes[size]} ${outlineClasses} ${actionClasses} ${bgClasses}`}
     >
       {children}{' '}
       {icon && (

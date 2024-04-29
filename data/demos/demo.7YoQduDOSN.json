@@ -1,0 +1,26 @@
+{
+  "id": "7YoQduDOSN",
+  "title": "Outline",
+  "description": "A description",
+  "type": "data",
+  "patternId": "button",
+  "templateId": "react",
+  "data": {
+    "props": {
+      "outline": true,
+      "size": "medium",
+      "url": "#url"
+    },
+    "slots": {
+      "children": [
+        {
+          "type": "text",
+          "text": "Button"
+        }
+      ]
+    }
+  },
+  "theme": {
+    "Dual": "light"
+  }
+}
