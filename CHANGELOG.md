@@ -1,3 +1,16 @@
+# v0.1.67 (Mon Apr 29 2024)
+
+#### ⚠️ Pushed to `main`
+
+- `@knapsack-cloud/public-demo-react`
+  - * fix(button.tsx): fix actionClasses variable to use correct background and text colors based on action value ([@brittanysmart](https://github.com/brittanysmart))
+
+#### Authors: 1
+
+- Brittany Smart ([@brittanysmart](https://github.com/brittanysmart))
+
+---
+
 # v0.1.66 (Mon Apr 29 2024)
 
 #### ⚠️ Pushed to `main`
