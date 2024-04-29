@@ -44,8 +44,12 @@ export const Button: React.FC<ButtonProps> = ({
     ? 'border-2 border-primary bg-transparent text-primary'
     : '';
   const actionClasses = action
-    ? `bg-base-${
-        action === 'success' ? 'green' : action === 'warning' ? 'yellow' : 'red'
+    ? `bg-${
+        action === 'success'
+          ? 'green-600'
+          : action === 'warning'
+          ? 'yellow-600'
+          : 'red-600'
       } text-secondary`
     : '';
 
