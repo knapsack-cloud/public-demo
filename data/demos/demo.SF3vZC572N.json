@@ -1,0 +1,23 @@
+{
+  "id": "SF3vZC572N",
+  "title": "Warning",
+  "description": "A description",
+  "type": "data",
+  "patternId": "button",
+  "templateId": "react",
+  "data": {
+    "props": {
+      "url": "#url",
+      "size": "medium",
+      "action": "warning"
+    },
+    "slots": {
+      "children": [
+        {
+          "type": "text",
+          "text": "Button"
+        }
+      ]
+    }
+  }
+}

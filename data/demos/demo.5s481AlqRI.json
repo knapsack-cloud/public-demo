@@ -1,0 +1,23 @@
+{
+  "id": "5s481AlqRI",
+  "title": "Success",
+  "description": "A description",
+  "type": "data",
+  "patternId": "button",
+  "templateId": "react",
+  "data": {
+    "props": {
+      "url": "#url",
+      "size": "medium",
+      "action": "success"
+    },
+    "slots": {
+      "children": [
+        {
+          "type": "text",
+          "text": "Button"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "karJzHDqi7",
+  "title": "Danger",
+  "description": "A description",
+  "type": "data",
+  "patternId": "button",
+  "templateId": "react",
+  "data": {
+    "props": {
+      "url": "#url",
+      "size": "medium",
+      "action": "danger"
+    },
+    "slots": {
+      "children": [
+        {
+          "type": "text",
+          "text": "Button"
+        }
+      ]
+    }
+  }
+}

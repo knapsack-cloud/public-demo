@@ -17,7 +17,14 @@
       "spec": {
         "isInferred": true
       },
-      "demoIds": ["2ysfvm4ShE", "7YoQduDOSN", "loUpv6MP2O"],
+      "demoIds": [
+        "2ysfvm4ShE",
+        "7YoQduDOSN",
+        "loUpv6MP2O",
+        "5s481AlqRI",
+        "SF3vZC572N",
+        "karJzHDqi7"
+      ],
       "blockIds": [],
       "assetSetIds": ["default"]
     }
