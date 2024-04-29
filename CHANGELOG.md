@@ -1,3 +1,16 @@
+# v0.1.65 (Mon Apr 29 2024)
+
+#### 🐛 Bug Fix
+
+- `@knapsack-cloud/public-demo-react`, `@knapsack-cloud/public-demo-styles`
+  - Add support for outline and action props in Button [#243](https://github.com/knapsack-cloud/public-demo/pull/243) ([@brittanysmart](https://github.com/brittanysmart))
+
+#### Authors: 1
+
+- Brittany Smart ([@brittanysmart](https://github.com/brittanysmart))
+
+---
+
 # v0.1.64 (Thu Apr 25 2024)
 
 #### 🐛 Bug Fix
