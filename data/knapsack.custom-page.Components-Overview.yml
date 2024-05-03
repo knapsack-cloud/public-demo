@@ -2,16 +2,19 @@ id: Components-Overview
 title: Components Overview
 settings:
   pageHeader:
-    size: auto
+    size: large
     textColorTitle:
       type: design-token
       colorValue: '#FFFFFF'
       tokenName: color-brand-primary
-    backgroundImage: null
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/pag32a-zs1it1pccpng
     textColorDescription:
       type: design-token
       colorValue: '#FFFFFF'
       tokenName: color-brand-black
+    backgroundSize: contain
+    backgroundPosition: right
+    backgroundOverlay: false
   hideTableOfContents: true
 description: Browse all available components and understand current status
 blockIds:

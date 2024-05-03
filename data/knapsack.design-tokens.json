@@ -7,15 +7,15 @@
       },
       "blue": {
         "$type": "color",
-        "$value": "#207FF9"
+        "$value": "#0047bb"
       },
       "green": {
         "$type": "color",
-        "$value": "#3ccf91"
+        "$value": "#00A1B3"
       },
       "orange": {
         "$type": "color",
-        "$value": "#ff924f"
+        "$value": "#FA4616"
       },
       "orchid": {
         "$type": "color",
@@ -77,15 +77,15 @@
       },
       "primary": {
         "$type": "color",
-        "$value": "#6436BF"
+        "$value": "{color.base.orange}"
       },
       "tertiary": {
         "$type": "color",
-        "$value": "#F3EFFB"
+        "$value": "{color.base.blue}"
       },
       "secondary": {
         "$type": "color",
-        "$value": "#E43A5C"
+        "$value": "{color.base.green}"
       }
     },
     "light": {

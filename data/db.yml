@@ -17,63 +17,58 @@ settings:
         type: figma
         url: https://www.figma.com/file/zUm5kTRtnkFUh5JUsBwwWl?version-id=4804108977
         version: '5472236720'
-  logoUrl: https://knapsack.imgix.net/site/public-demo/knapsack-logomark-primary@3x-c3fjqx5ll_.png
+  favicon: https://knapsack.imgix.net/site/public-demo/iddzk6hupg-wxececbfnsjpeg
+  hideTitleInNavigation: false
+  logoUrl: https://knapsack.imgix.net/site/public-demo/informatica-logo-qmwduope14png
   prototyping:
     patternId: one-pager
   theme:
     appearance:
-      customFonts:
-        - family: Inter
-          src:
-            - format: woff2
-              path: >-
-                https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hiJ-Ek-_EeA.woff2
-              type: url
-          style: normal
-        - family: Nunito
-          src:
-            - format: woff2
-              path: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3j6zbXWjgeg.woff2
-              type: url
-          style: normal
-          weight: 400
       navigation:
         primaryNav:
           accentColor:
             tokenName: color.brand.primary
             type: design-token
           backgroundColor:
-            tokenName: color.brand.black
+            tokenName: color.brand.white
             type: design-token
           fontFamily: Inter
           fontWeight: 800
           hoverColor:
-            tokenName: color.brand.secondary
+            tokenName: color.brand.primary
             type: design-token
           lineHeight: ''
           textColor:
-            tokenName: color.text.inverse
+            tokenName: color.text.default
             type: design-token
+          textTransform: inherit
         secondaryNav:
           accentColor:
-            tokenName: color-brand-secondary
+            tokenName: color.brand.primary
             type: design-token
           fontFamily: Inter
           fontWeight: 500
+          textTransform: inherit
         tabs:
+          accentColor:
+            tokenName: color.brand.primary
+            type: design-token
           fontFamily: Inter
+          textTransform: inherit
       pageElements:
-        bodyText: {}
+        bodyText:
+          fontFamily: Inter
+          textTransform: inherit
         headingLarge:
           fontFamily: Inter
           fontWeight: 400
         headingMedium:
-          fontFamily: Nunito
+          fontFamily: Inter
           textTransform: inherit
         headingSmall:
           fontFamily: Inter
         headingXLarge:
-          fontFamily: Nunito
+          fontFamily: Inter
           fontWeight: 600
           textTransform: inherit
         headingXSmall:
@@ -81,18 +76,19 @@ settings:
         link:
           fontWeight: 600
           textColor:
-            tokenName: color-text-link
+            tokenName: color.brand.primary
             type: design-token
+          textTransform: inherit
           underline: true
         pageDescription:
           fontFamily: Inter
           fontWeight: 400
         pageTitle:
-          fontFamily: Nunito
+          fontFamily: Inter
           fontWeight: 800
           textTransform: inherit
     version: 10
-  title: Public Demo
+  title: Design System
   tokens:
     theming:
       enabledRendererIds:
