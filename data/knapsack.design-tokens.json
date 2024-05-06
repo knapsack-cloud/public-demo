@@ -11,7 +11,7 @@
       },
       "green": {
         "$type": "color",
-        "$value": "#3ccf91"
+        "$value": "rgb(0, 119, 130)"
       },
       "orange": {
         "$type": "color",
@@ -77,15 +77,15 @@
       },
       "primary": {
         "$type": "color",
-        "$value": "#6436BF"
+        "$value": "{color.base.orchid}"
       },
       "tertiary": {
         "$type": "color",
-        "$value": "#F3EFFB"
+        "$value": "{color.layout.secondary}"
       },
       "secondary": {
         "$type": "color",
-        "$value": "#E43A5C"
+        "$value": "{color.layout.border}"
       }
     },
     "light": {
@@ -322,6 +322,10 @@
       },
       "normal": {
         "$value": "150ms"
+      },
+      "Fast": {
+        "$type": "duration",
+        "$value": "15ms"
       }
     }
   },
@@ -345,6 +349,9 @@
                 },
                 {
                   "id": "dark"
+                },
+                {
+                  "id": "mode"
                 }
               ]
             }
