@@ -6,13 +6,16 @@ settings:
     textColorTitle:
       type: design-token
       colorValue: '#000000'
-      tokenName: color-brand-primary
-    backgroundImage: https://knapsack.imgix.net/site/public-demo/lego-clipart27-w46dfphz5ljpg
+      tokenName: color.brand.black
+    backgroundImage: null
     textColorDescription:
       type: value
       colorValue: '#000000'
     backgroundSize: contain
     backgroundPosition: right
+    backgroundColor:
+      type: design-token
+      tokenName: color.brand.tertiary
 description: |-
   Work with patterns to create new experiences.
   Collaborate to build, share, and test your ideas with real code!

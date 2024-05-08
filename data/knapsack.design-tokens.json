@@ -3,27 +3,23 @@
     "base": {
       "red": {
         "$type": "color",
-        "$value": "#ef5151"
+        "$value": "#f06a6a"
       },
       "blue": {
         "$type": "color",
-        "$value": "#207FF9"
+        "$value": "#dceafa"
       },
       "green": {
         "$type": "color",
-        "$value": "#3ccf91"
+        "$value": "#275b52"
       },
-      "orange": {
+      "Pink": {
         "$type": "color",
-        "$value": "#ff924f"
+        "$value": "#fbdde3"
       },
-      "orchid": {
+      "Purple": {
         "$type": "color",
-        "$value": "#aa1baf"
-      },
-      "yellow": {
-        "$type": "color",
-        "$value": "#FCD02A"
+        "$value": "#392e7d"
       }
     },
     "dark": {
@@ -77,15 +73,15 @@
       },
       "primary": {
         "$type": "color",
-        "$value": "#6436BF"
+        "$value": "{color.base.red}"
       },
       "tertiary": {
         "$type": "color",
-        "$value": "#F3EFFB"
+        "$value": "#f8f8f8"
       },
       "secondary": {
         "$type": "color",
-        "$value": "#E43A5C"
+        "$value": "{color.base.blue}"
       }
     },
     "light": {
