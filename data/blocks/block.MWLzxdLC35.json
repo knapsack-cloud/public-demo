@@ -1,5 +1,5 @@
 {
-  "id": "kpEvane3ER",
+  "id": "MWLzxdLC35",
   "data": {
     "content": {
       "type": "doc",
@@ -84,6 +84,12 @@
               ]
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "left"
+          }
         },
         {
           "type": "heading",

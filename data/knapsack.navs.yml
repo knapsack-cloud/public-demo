@@ -86,6 +86,11 @@ byId:
     name: Author
     parentId: Simple
     path: /pattern/author
+  barbars-components:
+    id: barbars-components
+    name: Barbar's Components
+    parentId: Components-aPh3G1bbrX
+    path: ''
   base-colors:
     id: base-colors
     name: Base Colors
@@ -159,7 +164,7 @@ byId:
   message:
     id: message
     name: Message
-    parentId: proposed-patterns
+    parentId: barbars-components
     path: /pattern/message
   new-component-in-progress:
     id: new-component-in-progress
@@ -222,7 +227,6 @@ order:
   - hero
   - layout
   - proposed-patterns
-  - message
   - input-field
   - Prototyping
   - Page-Level-Prototyping
@@ -231,3 +235,5 @@ order:
   - Admin
   - Private-Pages
   - new-component-in-progress
+  - barbars-components
+  - message

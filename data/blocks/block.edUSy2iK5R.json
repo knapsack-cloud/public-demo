@@ -1,9 +1,19 @@
 {
-  "id": "aFlbpnRLo5",
+  "id": "edUSy2iK5R",
   "data": {
+    "gridStyles": {
+      "columns": "2",
+      "centered": false
+    },
+    "tileStyles": {
+      "imageSize": "none",
+      "imageRounded": true,
+      "imageOutlined": true,
+      "headerBeforeImage": false
+    },
     "guidelines": [
       {
-        "id": "B3M308nESA",
+        "id": "9W1QNysq9P",
         "type": "do",
         "content": {
           "type": "doc",
@@ -87,7 +97,7 @@
         }
       },
       {
-        "id": "ouL2g3EqVh",
+        "id": "usAgmmkFpa",
         "type": "dont",
         "content": {
           "type": "doc",
@@ -142,17 +152,7 @@
           ]
         }
       }
-    ],
-    "gridStyles": {
-      "columns": "2",
-      "centered": false
-    },
-    "tileStyles": {
-      "imageSize": "none",
-      "imageRounded": true,
-      "imageOutlined": true,
-      "headerBeforeImage": false
-    }
+    ]
   },
   "blockType": "guidelines"
 }

@@ -6,30 +6,28 @@
       "type": "subPage"
     },
     {
-      "id": "DZsbZp43zF",
+      "id": "rhs4HDtfMj",
       "type": "designSrc"
     }
   ],
   "title": "Message",
   "statuses": {
-    "twig": "wont-build",
-    "react": "needs-dev",
     "design": "ready",
-    "handlebars": "wont-build",
-    "web-components": "needs-dev"
+    "react": "needs-dev",
+    "web-components": "wont-build"
   },
   "subPages": [
     {
       "id": "overview",
       "title": "Overview",
-      "blockIds": ["or5NmQYdwm", "p0Xk4a97I", "aFlbpnRLo5", "kpEvane3ER"]
+      "blockIds": ["GSiwjRbCfz", "edUSy2iK5R", "MWLzxdLC35"]
     }
   ],
   "templates": [],
-  "description": "Interstitial information of varying degrees of severity (Look mom! I'm using my MBA!)",
+  "description": "",
   "designSrcComponentsById": {
-    "DZsbZp43zF": {
-      "id": "DZsbZp43zF",
+    "rhs4HDtfMj": {
+      "id": "rhs4HDtfMj",
       "title": "Figma Component",
       "fileId": "zUm5kTRtnkFUh5JUsBwwWl",
       "componentId": "1:30"
