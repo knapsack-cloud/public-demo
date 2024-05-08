@@ -1,0 +1,31 @@
+id: accordion-490g-1pwa4
+title: Accordion
+blockIds:
+  - gbxAtZVpEW
+  - g8YCDKzlWa
+  - oRYTiKMWl
+  - ZtpmDuioid
+  - AeNSOL9yqB
+  - 8hIGZv8re3
+  - 10osjYdogm
+  - Knjb3QLMko
+  - uXaHEmsMTE
+  - mTEXnaZ9E3
+  - U-8DJMTqeH
+  - gZ2hvLudOU
+description: Accordions hold content within an expandable vertical list of text.
+settings:
+  pageHeader:
+    backgroundColor:
+      type: design-token
+      tokenName: color.base.blue
+    textColorTitle:
+      type: design-token
+      tokenName: color.brand.white
+    textColorDescription:
+      type: design-token
+      tokenName: color.brand.white
+    size: auto
+    backgroundSize: cover
+    backgroundOverlay: true
+    hideText: false

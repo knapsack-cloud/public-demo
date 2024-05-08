@@ -1,0 +1,45 @@
+{
+  "id": "gbxAtZVpEW",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Available since: ",
+              "type": "text"
+            },
+            {
+              "text": "2022",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "text": "          |        A11Y: ",
+              "type": "text"
+            },
+            {
+              "text": "WCAG 2.1 AA",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "blockType": "text-editor"
+}

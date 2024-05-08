@@ -1,0 +1,41 @@
+{
+  "id": "U-8DJMTqeH",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 5,
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Group",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "The group variant contains multiple accordion items. Use this variant to group like supplemental information together.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "blockType": "text-editor"
+}

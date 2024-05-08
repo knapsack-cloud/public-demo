@@ -1,0 +1,66 @@
+{
+  "id": "ZtpmDuioid",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Accordions",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "text": " can hold large amounts of content within a small space by providing key information when collapsed and showing more content within when expanded. An ",
+              "type": "text"
+            },
+            {
+              "text": "accordion",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "text": " is a list of headers that hide or reveal associated sections of content when selected. It allows users to control the visibility of content sections, making it ideal for displaying information in a space-efficient way.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Accordions",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "text": " can organize page or filter contents and hide supplementary information to reduce cognitive load. The Forge UI Design System supports two variants (text and placeholder) each with an optional vertical divider. ",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "blockType": "text-editor"
+}

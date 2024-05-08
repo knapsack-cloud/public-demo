@@ -1,0 +1,21 @@
+{
+  "id": "g8YCDKzlWa",
+  "data": {
+    "type": "info",
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "This component is available for you to include in JavaScript code when creating custom components. It’s not included in UI Builder. In UI Builder, you can use the collapse component with another component or container to collapse and expand sections on a page or within a component.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "blockType": "callout"
+}

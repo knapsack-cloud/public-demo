@@ -71,6 +71,16 @@ byId:
     name: Simple Patterns
     parentId: Components-aPh3G1bbrX
     path: ''
+  accordion:
+    id: accordion
+    name: Components
+    parentId: getting-started
+    path: /pages/accordion
+  accordion-490g-1pwa4:
+    id: accordion-490g-1pwa4
+    name: Accordion
+    parentId: accordion
+    path: /pages/accordion-490g-1pwa4
   adding-design-tokens:
     id: adding-design-tokens
     name: Adding Design Tokens
@@ -231,3 +241,5 @@ order:
   - Admin
   - Private-Pages
   - new-component-in-progress
+  - accordion
+  - accordion-490g-1pwa4
