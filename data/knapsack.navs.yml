@@ -161,6 +161,21 @@ byId:
     name: Message
     parentId: proposed-patterns
     path: /pattern/message
+  mobile:
+    id: mobile
+    name: Mobile
+    parentId: root
+    path: /pages/mobile
+  mobile-design-standards:
+    id: mobile-design-standards
+    name: Mobile Design Standards
+    parentId: mobile
+    path: /pages/mobile-design-standards
+  mobile-engineering-workflows:
+    id: mobile-engineering-workflows
+    name: Mobile Engineering Workflows
+    parentId: mobile
+    path: /pages/mobile-engineering-workflows
   new-component-in-progress:
     id: new-component-in-progress
     minRoleNeeded: ADMIN
@@ -228,6 +243,9 @@ order:
   - Page-Level-Prototyping
   - Page-Builders
   - one-pager
+  - mobile
+  - mobile-design-standards
+  - mobile-engineering-workflows
   - Admin
   - Private-Pages
   - new-component-in-progress

@@ -1,0 +1,24 @@
+{
+  "id": "nNbC3Xwyf",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": null
+          },
+          "content": [
+            {
+              "text": " <Button\n     android:id=\"@+id/button_id\"\n     android:layout_height=\"wrap_content\"\n     android:layout_width=\"wrap_content\"\n     android:text=\"@string/self_destruct\" />",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "size": "medium",
+  "blockType": "code-snippet"
+}

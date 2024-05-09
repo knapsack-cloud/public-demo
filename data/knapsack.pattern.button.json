@@ -66,6 +66,18 @@
         "wTqQ1RCsax",
         "MhcbUsC8M0"
       ]
+    },
+    {
+      "id": "t8PlLMPbv",
+      "title": "Mobile",
+      "blockIds": [
+        "ge8S9Zy3kC",
+        "RaF-nuDIKG",
+        "DpAPMiuo6s",
+        "i65iBF-zVL",
+        "nNbC3Xwyf",
+        "gDKFoMRalO"
+      ]
     }
   ],
   "tabs": [
@@ -91,6 +103,10 @@
     },
     {
       "id": "Legacy",
+      "type": "subPage"
+    },
+    {
+      "id": "t8PlLMPbv",
       "type": "subPage"
     }
   ],

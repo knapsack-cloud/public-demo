@@ -1,0 +1,24 @@
+{
+  "id": "gDKFoMRalO",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": null
+          },
+          "content": [
+            {
+              "text": "public class MyActivity extends Activity {\n     protected void onCreate(Bundle savedInstanceState) {\n         super.onCreate(savedInstanceState);\n\n         setContentView(R.layout.content_layout_id);\n\n         final Button button = findViewById(R.id.button_id);\n         button.setOnClickListener(new View.OnClickListener() {\n             public void onClick(View v) {\n                 // Code here executes on main thread after user presses button\n             }\n         });\n     }\n }",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "size": "medium",
+  "blockType": "code-snippet"
+}
