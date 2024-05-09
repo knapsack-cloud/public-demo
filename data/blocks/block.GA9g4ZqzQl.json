@@ -1,0 +1,37 @@
+{
+  "id": "GA9g4ZqzQl",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2,
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Make The Navigation Simple",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Helping users navigate should be a high priority for every app. All the cool features and compelling content that your app has won’t matter if people can’t find them; also, if it takes too much time or effort to discover how to navigate your product, chances are you’re just going to lose users. Users should be able to explore the app intuitively and to complete all primary tasks without any explanation.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "spacing": "small",
+  "blockType": "text-editor"
+}
