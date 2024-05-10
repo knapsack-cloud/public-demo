@@ -66,6 +66,18 @@
         "wTqQ1RCsax",
         "MhcbUsC8M0"
       ]
+    },
+    {
+      "id": "t8PlLMPbv",
+      "title": "Mobile",
+      "blockIds": [
+        "ge8S9Zy3kC",
+        "RaF-nuDIKG",
+        "DpAPMiuo6s",
+        "i65iBF-zVL",
+        "nNbC3Xwyf",
+        "gDKFoMRalO"
+      ]
     }
   ],
   "tabs": [
@@ -92,6 +104,14 @@
     {
       "id": "Legacy",
       "type": "subPage"
+    },
+    {
+      "id": "t8PlLMPbv",
+      "type": "subPage"
+    },
+    {
+      "id": "38ZVPLX9Cm",
+      "type": "designSrc"
     }
   ],
   "statuses": {
@@ -104,6 +124,12 @@
   "designSrcComponentsById": {
     "P1BaxXtxDV": {
       "id": "P1BaxXtxDV",
+      "title": "Figma Component",
+      "fileId": "H3Jj1cltfXiGWijrYOaGBi",
+      "componentId": "2:18"
+    },
+    "38ZVPLX9Cm": {
+      "id": "38ZVPLX9Cm",
       "title": "Figma Component",
       "fileId": "H3Jj1cltfXiGWijrYOaGBi",
       "componentId": "2:18"

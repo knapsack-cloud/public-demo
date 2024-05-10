@@ -1,0 +1,23 @@
+{
+  "id": "2NwHM-DSqk",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Start by understanding (and embracing) the constraints of mobile, including smaller screen size, touch-based interactions, and varying network speeds. You can then prioritize essential elements and functionalities to ensure they shine on smaller screens. This strategy also forces you to make thoughtful choices about what stays and what goes, resulting in a lean, optimized design. ",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "blockType": "text-editor"
+}

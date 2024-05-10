@@ -1,7 +1,34 @@
 {
   "data": {
     "props": {},
-    "slots": {}
+    "slots": {
+      "children": [
+        {
+          "type": "template-demo",
+          "demoId": "3ZA8cHaxRd",
+          "patternId": "hero",
+          "templateId": "react"
+        },
+        {
+          "type": "template-demo",
+          "demoId": "0cnxLKsacP",
+          "patternId": "header",
+          "templateId": "react"
+        },
+        {
+          "type": "template-demo",
+          "demoId": "eY-_KWUog4",
+          "patternId": "layout",
+          "templateId": "react"
+        },
+        {
+          "type": "template-demo",
+          "demoId": "DRuV9pseUR",
+          "patternId": "footer",
+          "templateId": "react"
+        }
+      ]
+    }
   },
   "description": "A blank page template for read-only users to use to create full page prototypes using the design system elements.",
   "id": "eYJV0byNIp",

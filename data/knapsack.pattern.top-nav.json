@@ -8,6 +8,10 @@
     {
       "id": "react",
       "type": "template"
+    },
+    {
+      "id": "Q4aMK6ai2",
+      "type": "subPage"
     }
   ],
   "title": "Top Nav",
@@ -15,13 +19,26 @@
     "twig": "needs-dev",
     "react": "needs-qa",
     "design": "ready",
-    "web-components": "needs-dev"
+    "web-components": "needs-dev",
+    "qEBpl8oPtd": "CaUlKPrsPQ"
   },
   "subPages": [
     {
       "id": "overview",
       "title": "Figma",
       "blockIds": ["9bVy_rzlTP"]
+    },
+    {
+      "id": "Q4aMK6ai2",
+      "title": "Mobile",
+      "blockIds": [
+        "5qslQb9Ljx",
+        "69fnVvngpO",
+        "IqbpC4Phmw",
+        "1ZAnwkOMUu",
+        "jrpwYQIbwI",
+        "S7AfilVBAT"
+      ]
     }
   ],
   "templates": [

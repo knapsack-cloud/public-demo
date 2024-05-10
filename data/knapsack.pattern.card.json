@@ -7,7 +7,8 @@
     "twig": "needs-updated",
     "react": "needs-updated",
     "handlebars": "ready",
-    "web-components": "needs-dev"
+    "web-components": "needs-dev",
+    "qEBpl8oPtd": "CaUlKPrsPQ"
   },
   "templates": [
     {
@@ -24,7 +25,8 @@
         "-2WvOX39hg",
         "W1Xbf7ez7T",
         "3c9C95vaFP",
-        "WXcBdSXuE9"
+        "WXcBdSXuE9",
+        "HDrRYlmvRB"
       ],
       "blockIds": [],
       "assetSetIds": ["default"]
@@ -50,6 +52,10 @@
     {
       "id": "react",
       "type": "template"
+    },
+    {
+      "id": "DUDwMVuRDE",
+      "type": "subPage"
     }
   ],
   "subPages": [
@@ -76,6 +82,17 @@
       "id": "Figma",
       "title": "Vector",
       "blockIds": ["Hn3xvYmDXj"]
+    },
+    {
+      "id": "DUDwMVuRDE",
+      "title": "Mobile",
+      "blockIds": [
+        "qQUE4tFe5y",
+        "XwtbFRa8-c",
+        "Oa0UJZRYO7",
+        "ce42V4ncHt",
+        "6xmHPaAvaJ"
+      ]
     }
   ],
   "designSrcComponentsById": {

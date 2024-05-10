@@ -1,0 +1,26 @@
+{
+  "id": "lp19ZjZenw",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "image",
+          "attrs": {
+            "alt": null,
+            "src": "https://knapsack.imgix.net/site/public-demo/screenshot-2024-05-09-at-13146-pm-8ohclyqkr0png",
+            "title": null
+          }
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "left"
+          }
+        }
+      ]
+    }
+  },
+  "size": "medium",
+  "blockType": "text-editor"
+}

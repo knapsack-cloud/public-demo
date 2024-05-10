@@ -1,0 +1,56 @@
+{
+  "id": "6xmHPaAvaJ",
+  "data": {
+    "type": "info",
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Note:",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "text": " By default, a ",
+              "type": "text"
+            },
+            {
+              "text": "Card",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "code"
+                }
+              ]
+            },
+            {
+              "text": " wraps its content in a ",
+              "type": "text"
+            },
+            {
+              "text": "Column",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "code"
+                }
+              ]
+            },
+            {
+              "text": " composable, placing each item inside the card below one another.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "blockType": "callout"
+}

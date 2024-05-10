@@ -4,10 +4,6 @@
     {
       "id": "overview",
       "type": "subPage"
-    },
-    {
-      "id": "DZsbZp43zF",
-      "type": "designSrc"
     }
   ],
   "title": "Message",
@@ -16,7 +12,8 @@
     "react": "needs-dev",
     "design": "ready",
     "handlebars": "wont-build",
-    "web-components": "needs-dev"
+    "web-components": "needs-dev",
+    "qEBpl8oPtd": "BAwEpqi4W"
   },
   "subPages": [
     {
@@ -27,12 +24,5 @@
   ],
   "templates": [],
   "description": "Interstitial information of varying degrees of severity (Look mom! I'm using my MBA!)",
-  "designSrcComponentsById": {
-    "DZsbZp43zF": {
-      "id": "DZsbZp43zF",
-      "title": "Figma Component",
-      "fileId": "zUm5kTRtnkFUh5JUsBwwWl",
-      "componentId": "1:30"
-    }
-  }
+  "designSrcComponentsById": {}
 }

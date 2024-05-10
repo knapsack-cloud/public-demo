@@ -1,0 +1,38 @@
+{
+  "id": "mGK1Po9yrc",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2,
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Break tasks into bite-sized chunks",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "If a task contains a lot of steps and actions required from the user’s side, it’s better to divide such tasks into a number of subtasks. This principle is extremely important in mobile design because you don’t want to create too much complexity for the user at one time. One good example is a step-by-step checkout flow in an e-commerce app, where the designer breaks down a complex checkout task into bite-sized chunks, each requiring user action.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "blockType": "text-editor",
+  "spacing": "small",
+  "size": "small"
+}
