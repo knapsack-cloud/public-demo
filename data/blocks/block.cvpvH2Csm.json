@@ -1,0 +1,21 @@
+{
+  "id": "cvpvH2Csm",
+  "data": {
+    "type": "info",
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Don't break stuff",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "blockType": "callout"
+}
