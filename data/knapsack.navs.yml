@@ -166,6 +166,11 @@ byId:
     name: Mobile
     parentId: root
     path: /pages/mobile
+  mobile-breakpoints:
+    id: mobile-breakpoints
+    name: Mobile Breakpoints
+    parentId: mobile
+    path: /pages/mobile-breakpoints
   mobile-design-standards:
     id: mobile-design-standards
     name: Mobile Design Standards
@@ -249,3 +254,4 @@ order:
   - Admin
   - Private-Pages
   - new-component-in-progress
+  - mobile-breakpoints
