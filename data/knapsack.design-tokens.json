@@ -24,6 +24,9 @@
       "yellow": {
         "$type": "color",
         "$value": "#FCD02A"
+      },
+      "Dark Blue": {
+        "$value": "{color.dark.orange}"
       }
     },
     "dark": {

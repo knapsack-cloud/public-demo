@@ -1,0 +1,24 @@
+{
+  "id": "KoeWtVGzZR",
+  "data": {
+    "props": {
+      "size": "large",
+      "icon": true,
+      "outline": true,
+      "action": "success"
+    },
+    "slots": {
+      "children": [
+        {
+          "text": "Button 5",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "type": "data",
+  "title": "New Variation",
+  "patternId": "button",
+  "templateId": "react",
+  "description": "A description"
+}
