@@ -3,7 +3,7 @@
     "base": {
       "red": {
         "$type": "color",
-        "$value": "#ef5151"
+        "$value": "#bb0d2f"
       },
       "blue": {
         "$type": "color",
@@ -24,6 +24,14 @@
       "yellow": {
         "$type": "color",
         "$value": "#FCD02A"
+      },
+      "gray": {
+        "$type": "color",
+        "$value": "#dfe3e5"
+      },
+      "light gray": {
+        "$type": "color",
+        "$value": "#f6f7f8"
       }
     },
     "dark": {
@@ -77,7 +85,7 @@
       },
       "primary": {
         "$type": "color",
-        "$value": "#6436BF"
+        "$value": "{color.base.red}"
       },
       "tertiary": {
         "$type": "color",
@@ -356,7 +364,7 @@
           "$value": "#ffffff"
         },
         "light": {
-          "$value": "#7b58cf"
+          "$value": "{color.brand.primary}"
         },
         "$type": "color",
         "$extensions": {
