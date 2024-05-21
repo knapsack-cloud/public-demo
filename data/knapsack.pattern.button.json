@@ -78,6 +78,11 @@
         "nNbC3Xwyf",
         "gDKFoMRalO"
       ]
+    },
+    {
+      "id": "smvYeQ8oma",
+      "title": "Community ",
+      "blockIds": []
     }
   ],
   "tabs": [
@@ -107,6 +112,10 @@
     },
     {
       "id": "t8PlLMPbv",
+      "type": "subPage"
+    },
+    {
+      "id": "smvYeQ8oma",
       "type": "subPage"
     }
   ],

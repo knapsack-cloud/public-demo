@@ -12,6 +12,10 @@
     {
       "id": "react",
       "type": "template"
+    },
+    {
+      "id": "1rLXvAmj",
+      "type": "subPage"
     }
   ],
   "title": "Author",
@@ -23,7 +27,13 @@
     "web-components": "ready",
     "qEBpl8oPtd": "BAwEpqi4W"
   },
-  "subPages": [],
+  "subPages": [
+    {
+      "id": "1rLXvAmj",
+      "title": "Untitled",
+      "blockIds": []
+    }
+  ],
   "templates": [
     {
       "id": "react",
