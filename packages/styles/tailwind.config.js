@@ -24,12 +24,15 @@ module.exports = {
       colors: {
         ...color,
         primary: 'var(--color-primary)',
-        secondary: 'var(--color-secondary)'
+        secondary: 'var(--color-secondary)',
       },
       screens: breakpoint.width,
       spacing,
       fontFamily: {
-        sans: ['Inter var', ...defaultTheme.fontFamily.sans],
+        sans: [
+          'var(--typography-body-font-family)',
+          ...defaultTheme.fontFamily.sans,
+        ],
       },
     },
   },
