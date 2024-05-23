@@ -1,6 +1,6 @@
 {
   "id": "card",
-  "title": "Card",
+  "title": "Card Component",
   "description": "Cards contain content and actions about a single subject.",
   "statuses": {
     "design": "ready",
