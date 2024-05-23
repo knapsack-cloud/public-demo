@@ -9,10 +9,10 @@
           "src": "../packages/design-tokens/dist/design-tokens.css"
         },
         {
-          "src": "../packages/styles/dist/styles.css"
+          "src": "../packages/styles/dist/default.css"
         },
         {
-          "src": "../packages/styles/dist/default.css"
+          "src": "../packages/styles/dist/styles.css"
         },
         {
           "src": "../packages/web-components/dist/index.js",
