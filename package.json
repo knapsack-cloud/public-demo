@@ -1,0 +1,20 @@
+{
+  "name": "public-demo",
+  "version": "1.0.0",
+  "description": "## Quick Start",
+  "main": "auto.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ks:build": "knapsack --config knapsack/knapsack.config.cjs build",
+    "ks:start": "knapsack --config knapsack/knapsack.config.cjs start",
+    "ks:serve": "NODE_ENV=production knapsack --config knapsack/knapsack.config.cjs serve",
+    "ks:test": "knapsack --config knapsack/knapsack.config.cjs test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@knapsack/app": "^4.54.10",
+    "@knapsack/renderer-react": "^4.54.10"
+  }
+}
