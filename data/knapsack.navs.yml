@@ -22,7 +22,7 @@ byId:
     path: ''
   Components-Overview:
     id: Components-Overview
-    name: Components Overview
+    name: Components Overviews
     parentId: Components-aPh3G1bbrX
     path: /pages/Components-Overview
   Components-aPh3G1bbrX:
