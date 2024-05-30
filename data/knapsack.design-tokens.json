@@ -77,7 +77,7 @@
       },
       "primary": {
         "$type": "color",
-        "$value": "#6436BF"
+        "$value": "{color.base.yellow}"
       },
       "tertiary": {
         "$type": "color",
@@ -345,6 +345,12 @@
                 },
                 {
                   "id": "dark"
+                },
+                {
+                  "id": "christmas"
+                },
+                {
+                  "id": "teradata"
                 }
               ]
             }
@@ -367,6 +373,12 @@
               }
             }
           }
+        },
+        "christmas": {
+          "$value": "#bfffcb"
+        },
+        "teradata": {
+          "$value": "#FF5F02"
         }
       },
       "color-secondary": {
@@ -385,6 +397,12 @@
         },
         "dark": {
           "$value": "{color.brand.black}"
+        },
+        "christmas": {
+          "$value": "#f80000"
+        },
+        "teradata": {
+          "$value": "#cccccc"
         }
       }
     }

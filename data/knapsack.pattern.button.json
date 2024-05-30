@@ -10,7 +10,7 @@
   "templates": [
     {
       "id": "react",
-      "title": "React",
+      "title": "Cool Code Stuff",
       "path": "@knapsack-cloud/public-demo-react",
       "alias": "Button",
       "templateLanguageId": "react",
@@ -23,7 +23,8 @@
         "loUpv6MP2O",
         "5s481AlqRI",
         "SF3vZC572N",
-        "karJzHDqi7"
+        "karJzHDqi7",
+        "25siCqZZrG"
       ],
       "blockIds": [],
       "assetSetIds": ["default"]
@@ -108,6 +109,10 @@
     {
       "id": "t8PlLMPbv",
       "type": "subPage"
+    },
+    {
+      "id": "LAr6Ccq5mt",
+      "type": "designSrc"
     }
   ],
   "statuses": {
@@ -120,6 +125,12 @@
   "designSrcComponentsById": {
     "P1BaxXtxDV": {
       "id": "P1BaxXtxDV",
+      "title": "Figma Component",
+      "fileId": "H3Jj1cltfXiGWijrYOaGBi",
+      "componentId": "2:18"
+    },
+    "LAr6Ccq5mt": {
+      "id": "LAr6Ccq5mt",
       "title": "Figma Component",
       "fileId": "H3Jj1cltfXiGWijrYOaGBi",
       "componentId": "2:18"
