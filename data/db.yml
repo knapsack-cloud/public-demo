@@ -1,6 +1,8 @@
 blocks:
   settings:
+    guidelines: {}
     tokens:
+      nameDisplayFormat: scss
       rootFontSize: 16px
 demos:
   settings: {}

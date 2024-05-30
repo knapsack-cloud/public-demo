@@ -1,0 +1,16 @@
+{
+  "id": "25siCqZZrG",
+  "data": {
+    "props": {
+      "size": "medium",
+      "type": "primary",
+      "rounded": true
+    },
+    "slots": {}
+  },
+  "type": "data",
+  "title": "rounded, primary, medium",
+  "patternId": "button",
+  "templateId": "react",
+  "description": "A description"
+}
