@@ -23,7 +23,8 @@
         "loUpv6MP2O",
         "5s481AlqRI",
         "SF3vZC572N",
-        "karJzHDqi7"
+        "karJzHDqi7",
+        "nKR38OaMst"
       ],
       "blockIds": [],
       "assetSetIds": ["default"]
@@ -108,6 +109,10 @@
     {
       "id": "t8PlLMPbv",
       "type": "subPage"
+    },
+    {
+      "id": "7OKcGDS4Im",
+      "type": "designSrc"
     }
   ],
   "statuses": {
@@ -123,6 +128,11 @@
       "title": "Figma Component",
       "fileId": "H3Jj1cltfXiGWijrYOaGBi",
       "componentId": "2:18"
+    },
+    "7OKcGDS4Im": {
+      "id": "7OKcGDS4Im",
+      "title": "Figma Component",
+      "fileId": "H3Jj1cltfXiGWijrYOaGBi"
     }
   }
 }
