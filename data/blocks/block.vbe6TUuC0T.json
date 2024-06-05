@@ -1,0 +1,20 @@
+{
+  "id": "vbe6TUuC0T",
+  "data": {
+    "demoId": "7YoQduDOSN",
+    "templateId": "react",
+    "patternId": "button",
+    "hideControls": false,
+    "playgroundUi": {
+      "demoSize": "landscape",
+      "allowResizing": false,
+      "showSchemaForm": true,
+      "showCodeSnippet": false
+    },
+    "allowResizing": false,
+    "showCodeSnippet": false,
+    "showSchemaForm": true,
+    "demoSize": "landscape"
+  },
+  "blockType": "pattern-template-block"
+}

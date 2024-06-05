@@ -1,0 +1,16 @@
+{
+  "id": "AKFr0-I3QN",
+  "data": {
+    "guidelines": [
+      {
+        "id": "KPrLPE8A8D",
+        "type": "do"
+      },
+      {
+        "id": "OBhIPTgsHS",
+        "type": "dont"
+      }
+    ]
+  },
+  "blockType": "guidelines"
+}
