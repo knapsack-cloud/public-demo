@@ -16,5 +16,8 @@
   "devDependencies": {
     "@knapsack/app": "^4.65.0",
     "@knapsack/renderer-react": "^4.65.0"
+  },
+  "dependencies": {
+    "@knapsack/sandbox-components": "^4.65.0"
   }
 }
