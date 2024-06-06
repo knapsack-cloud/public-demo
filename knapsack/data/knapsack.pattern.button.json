@@ -1,0 +1,27 @@
+{
+  "id": "button",
+  "title": "Button",
+  "description": "",
+  "statuses": {},
+  "templates": [
+    {
+      "id": "react-YyvGCWckZS",
+      "title": "Button",
+      "path": "../../node_modules/@knapsack/sandbox-components/dist/react/index.js",
+      "alias": "Button",
+      "templateLanguageId": "react",
+      "spec": {
+        "isInferred": true
+      },
+      "demoIds": ["iRzqZlxWRK"],
+      "blockIds": []
+    }
+  ],
+  "tabs": [
+    {
+      "type": "template",
+      "id": "react-YyvGCWckZS"
+    }
+  ],
+  "subPages": []
+}
