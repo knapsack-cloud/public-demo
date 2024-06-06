@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@knapsack/app": "^4.54.10",
-    "@knapsack/renderer-react": "^4.54.10"
+    "@knapsack/app": "^4.65.0",
+    "@knapsack/renderer-react": "^4.65.0"
   }
 }
