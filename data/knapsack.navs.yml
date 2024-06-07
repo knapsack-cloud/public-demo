@@ -32,7 +32,7 @@ byId:
     path: ''
   Design-Tokens-lNWaUqkDSo:
     id: Design-Tokens-lNWaUqkDSo
-    name: Design Tokens
+    name: NEW Design Tokens
     parentId: root
     path: /pages/Design-Tokens-lNWaUqkDSo
   Layout:
@@ -116,11 +116,26 @@ byId:
     name: Connecting Coded Components
     parentId: guidance
     path: /pages/connecting-coded-components
+  content-editor:
+    id: content-editor
+    name: Content Editor
+    parentId: start-here
+    path: /pages/content-editor
   customizing-the-workspace:
     id: customizing-the-workspace
     name: Customizing the Workspace
     parentId: guidance
     path: /pages/customizing-the-workspace
+  designers:
+    id: designers
+    name: Designers
+    parentId: start-here
+    path: /pages/designers
+  developers:
+    id: developers
+    name: Developers
+    parentId: start-here
+    path: /pages/developers
   footer:
     id: footer
     name: Footer
@@ -192,6 +207,11 @@ byId:
     name: One-Pager
     parentId: Page-Builders
     path: /pattern/one-pager
+  overview:
+    id: overview
+    name: Overview
+    parentId: root
+    path: ''
   proposed-patterns:
     id: proposed-patterns
     name: Proposed Patterns
@@ -202,6 +222,11 @@ byId:
     name: Spacing
     parentId: Design-Tokens-lNWaUqkDSo
     path: /pages/spacing
+  start-here:
+    id: start-here
+    name: Start Here
+    parentId: overview
+    path: /pages/start-here
   top-nav:
     id: top-nav
     name: Top Nav
@@ -213,6 +238,7 @@ byId:
     parentId: getting-started
     path: /pages/welcome-to-knapsack
 order:
+  - overview
   - getting-started
   - welcome-to-knapsack
   - guidance
@@ -255,3 +281,7 @@ order:
   - Private-Pages
   - new-component-in-progress
   - mobile-breakpoints
+  - start-here
+  - designers
+  - content-editor
+  - developers
