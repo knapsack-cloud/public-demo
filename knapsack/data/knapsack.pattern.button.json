@@ -7,7 +7,7 @@
     {
       "id": "react-YyvGCWckZS",
       "title": "Button",
-      "path": "../../node_modules/@knapsack/sandbox-components/dist/react/index.js",
+      "path": "../../node_modules/@knapsack/sandbox-components/dist/react/button.js",
       "alias": "Button",
       "templateLanguageId": "react",
       "spec": {
