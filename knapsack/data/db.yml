@@ -5,6 +5,13 @@ blocks:
 demos:
   settings: {}
 settings:
+  designSrcs:
+    files:
+      - fileId: rzMpZtZ3PLH3eutORdrJ2o
+        name: Sandbox Components
+        type: figma
+        url: https://www.figma.com/file/rzMpZtZ3PLH3eutORdrJ2o?version-id=5974631725
+        version: '5974631725'
   logoUrl: ''
   theme:
     appearance:

@@ -40,7 +40,19 @@
     {
       "type": "template",
       "id": "react-goixdoVDJF"
+    },
+    {
+      "id": "VXTL16DFil",
+      "type": "designSrc"
     }
   ],
-  "subPages": []
+  "subPages": [],
+  "designSrcComponentsById": {
+    "VXTL16DFil": {
+      "id": "VXTL16DFil",
+      "componentId": "2:73",
+      "title": "Figma Component",
+      "fileId": "rzMpZtZ3PLH3eutORdrJ2o"
+    }
+  }
 }

@@ -21,7 +21,19 @@
     {
       "type": "template",
       "id": "react-N0NQELBQBa"
+    },
+    {
+      "id": "dmkeSIfp14",
+      "type": "designSrc"
     }
   ],
-  "subPages": []
+  "subPages": [],
+  "designSrcComponentsById": {
+    "dmkeSIfp14": {
+      "id": "dmkeSIfp14",
+      "componentId": "76:95655",
+      "title": "Figma Component",
+      "fileId": "rzMpZtZ3PLH3eutORdrJ2o"
+    }
+  }
 }

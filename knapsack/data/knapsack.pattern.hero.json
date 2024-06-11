@@ -41,7 +41,19 @@
     {
       "type": "template",
       "id": "react-QxnD7Lbwtj"
+    },
+    {
+      "id": "RbPKZyMxaZ",
+      "type": "designSrc"
     }
   ],
-  "subPages": []
+  "subPages": [],
+  "designSrcComponentsById": {
+    "RbPKZyMxaZ": {
+      "id": "RbPKZyMxaZ",
+      "componentId": "55:2943",
+      "title": "Figma Component",
+      "fileId": "rzMpZtZ3PLH3eutORdrJ2o"
+    }
+  }
 }
