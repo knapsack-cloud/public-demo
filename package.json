@@ -5,6 +5,7 @@
   "main": "auto.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "run-s -l ks:build",
     "ks:build": "knapsack --config knapsack/knapsack.config.cjs build",
     "ks:start": "knapsack --config knapsack/knapsack.config.cjs start",
     "ks:serve": "NODE_ENV=production knapsack --config knapsack/knapsack.config.cjs serve",
