@@ -1,7 +1,7 @@
 {
-  "name": "public-demo",
-  "version": "1.0.0",
-  "description": "## Quick Start",
+  "name": "@knapsack-cloud/public-demo",
+  "private": true,
+  "description": "Knapsack Public Demo",
   "scripts": {
     "test": "echo \"No test specified\"",
     "build": "run-s -l ks:build",
