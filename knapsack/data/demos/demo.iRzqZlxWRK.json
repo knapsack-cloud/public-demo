@@ -5,7 +5,10 @@
   "patternId": "button",
   "templateId": "react-YyvGCWckZS",
   "data": {
-    "props": {},
+    "props": {
+      "size": "medium",
+      "label": "Button"
+    },
     "slots": {}
   }
 }

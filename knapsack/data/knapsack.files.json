@@ -1,3 +1,25 @@
 {
-  "files": {}
+  "files": {
+    "52347357-c75b-4d6b-9f63-dcdcf5bd76e2": {
+      "id": "52347357-c75b-4d6b-9f63-dcdcf5bd76e2",
+      "url": "https://knapsack.imgix.net/site/public-demo/cardimage1-0vn0hpyxupng",
+      "title": "Card.Image1.png",
+      "mimetype": "image/png",
+      "size": "28.6 KB"
+    },
+    "f395d250-736e-4b26-a3b7-00b1c7960ae8": {
+      "id": "f395d250-736e-4b26-a3b7-00b1c7960ae8",
+      "url": "https://knapsack.imgix.net/site/public-demo/cardimage2-faygpjuhuypng",
+      "title": "Card.Image2.png",
+      "mimetype": "image/png",
+      "size": "14.2 KB"
+    },
+    "d671633c-920e-4df1-8880-6936a636ea69": {
+      "id": "d671633c-920e-4df1-8880-6936a636ea69",
+      "url": "https://knapsack.imgix.net/site/public-demo/cardimage3-fezerpd70npng",
+      "title": "Card.Image3.png",
+      "mimetype": "image/png",
+      "size": "31.2 KB"
+    }
+  }
 }

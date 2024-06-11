@@ -1,14 +1,14 @@
 {
-  "id": "button",
-  "title": "Button",
+  "id": "card",
+  "title": "Card",
   "description": "",
   "statuses": {},
   "templates": [
     {
-      "id": "react-YyvGCWckZS",
-      "title": "Button",
-      "path": "../../node_modules/@knapsack/sandbox-components/dist/react/button.js",
-      "alias": "Button",
+      "id": "react-goixdoVDJF",
+      "title": "React",
+      "path": "../../node_modules/@knapsack/sandbox-components/dist/react/card.js",
+      "alias": "Card",
       "templateLanguageId": "react",
       "spec": {
         "props": {
@@ -16,33 +16,30 @@
           "type": "object",
           "required": [],
           "properties": {
-            "type": {
+            "title": {
               "type": "string",
-              "enum": ["filled", "outlined"],
-              "default": "filled"
+              "default": "Title"
             },
-            "size": {
+            "description": {
               "type": "string",
-              "enum": ["small", "medium", "large"],
-              "default": "medium"
+              "default": "Description"
             },
-            "label": {
-              "type": "string",
-              "default": "Button"
+            "imgUrl": {
+              "type": "string"
             }
           },
           "description": ""
         },
         "slots": {}
       },
-      "demoIds": ["iRzqZlxWRK"],
+      "demoIds": ["IQOy6Jhjs", "A8XQa71u9D"],
       "blockIds": []
     }
   ],
   "tabs": [
     {
       "type": "template",
-      "id": "react-YyvGCWckZS"
+      "id": "react-goixdoVDJF"
     }
   ],
   "subPages": []

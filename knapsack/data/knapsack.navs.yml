@@ -1,9 +1,19 @@
 byId:
+  assets:
+    id: assets
+    name: Assets
+    parentId: components
+    path: /pages/assets
   button:
     id: button
     name: Button
     parentId: components
     path: /pattern/button
+  card:
+    id: card
+    name: Card
+    parentId: components
+    path: /pattern/card
   components:
     id: components
     name: Components
@@ -12,3 +22,5 @@ byId:
 order:
   - components
   - button
+  - card
+  - assets
