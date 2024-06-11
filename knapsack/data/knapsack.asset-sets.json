@@ -1,4 +1,14 @@
 {
-  "globalAssetSetIds": [],
-  "allAssetSets": {}
+  "globalAssetSetIds": ["default"],
+  "allAssetSets": {
+    "default": {
+      "id": "default",
+      "title": "Styles",
+      "assets": [
+        {
+          "src": "../../node_modules/@knapsack/sandbox-components/dist/css/ks-sandbox-styles.css"
+        }
+      ]
+    }
+  }
 }
