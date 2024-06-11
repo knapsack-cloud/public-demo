@@ -1,0 +1,47 @@
+{
+  "id": "hero",
+  "title": "Hero",
+  "description": "",
+  "statuses": {},
+  "templates": [
+    {
+      "id": "react-QxnD7Lbwtj",
+      "title": "React",
+      "path": "../../node_modules/@knapsack/sandbox-components/dist/react/hero.js",
+      "alias": "Hero",
+      "templateLanguageId": "react",
+      "spec": {
+        "props": {
+          "$schema": "http://json-schema.org/draft-07/schema",
+          "type": "object",
+          "required": ["title", "subtitle"],
+          "properties": {
+            "title": {
+              "type": "string",
+              "default": "Title"
+            },
+            "subtitle": {
+              "type": "string",
+              "default": "Content"
+            }
+          },
+          "description": ""
+        },
+        "slots": {
+          "children": {
+            "title": "children"
+          }
+        }
+      },
+      "demoIds": ["iESXMiWQH2"],
+      "blockIds": []
+    }
+  ],
+  "tabs": [
+    {
+      "type": "template",
+      "id": "react-QxnD7Lbwtj"
+    }
+  ],
+  "subPages": []
+}

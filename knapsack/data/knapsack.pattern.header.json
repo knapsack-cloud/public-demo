@@ -1,0 +1,27 @@
+{
+  "id": "header",
+  "title": "Header",
+  "description": "",
+  "statuses": {},
+  "templates": [
+    {
+      "id": "react-cMDxl3ftGg",
+      "title": "React",
+      "path": "../../node_modules/@knapsack/sandbox-components/dist/react/header.js",
+      "alias": "Header",
+      "templateLanguageId": "react",
+      "spec": {
+        "isInferred": true
+      },
+      "demoIds": ["JlgjSy7iMZ"],
+      "blockIds": []
+    }
+  ],
+  "tabs": [
+    {
+      "type": "template",
+      "id": "react-cMDxl3ftGg"
+    }
+  ],
+  "subPages": []
+}

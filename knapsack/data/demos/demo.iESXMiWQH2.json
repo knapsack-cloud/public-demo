@@ -1,0 +1,23 @@
+{
+  "id": "iESXMiWQH2",
+  "title": "Main",
+  "type": "data",
+  "patternId": "hero",
+  "templateId": "react-QxnD7Lbwtj",
+  "data": {
+    "props": {
+      "title": "Title",
+      "subtitle": "Content"
+    },
+    "slots": {
+      "children": [
+        {
+          "type": "template-demo",
+          "patternId": "button",
+          "templateId": "react-YyvGCWckZS",
+          "demoId": "r49mzI9tlr"
+        }
+      ]
+    }
+  }
+}

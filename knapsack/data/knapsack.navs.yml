@@ -24,9 +24,21 @@ byId:
     name: Divider
     parentId: components
     path: /pattern/divider
+  header:
+    id: header
+    name: Header
+    parentId: components
+    path: /pattern/header
+  hero:
+    id: hero
+    name: Hero
+    parentId: components
+    path: /pattern/hero
 order:
   - components
   - button
   - card
   - assets
   - divider
+  - header
+  - hero
