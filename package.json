@@ -14,10 +14,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@knapsack/app": "^4.65.0",
-    "@knapsack/renderer-react": "^4.65.0"
+    "@knapsack/app": "4.65.2--canary.4270.1703c43.0",
+    "@knapsack/renderer-react": "4.65.2--canary.4270.1703c43.0",
+    "@knapsack/typescript-config-starter": "4.65.2--canary.4270.1703c43.0"
   },
   "dependencies": {
-    "@knapsack/sandbox-components": "^4.65.0"
+    "@knapsack/sandbox-components": "4.65.2--canary.4270.1703c43.0"
   }
 }
