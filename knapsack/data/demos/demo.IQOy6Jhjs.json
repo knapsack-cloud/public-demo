@@ -5,7 +5,11 @@
   "patternId": "card",
   "templateId": "react-goixdoVDJF",
   "data": {
-    "props": {},
+    "props": {
+      "title": "Info",
+      "description": "Click here for more info about our product",
+      "imgUrl": "https://knapsack.imgix.net/site/public-demo/cardimage1-0vn0hpyxupng"
+    },
     "slots": {}
   }
 }
