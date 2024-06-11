@@ -1,0 +1,27 @@
+{
+  "id": "divider",
+  "title": "Divider",
+  "description": "",
+  "statuses": {},
+  "templates": [
+    {
+      "id": "react-N0NQELBQBa",
+      "title": "React",
+      "path": "../../node_modules/@knapsack/sandbox-components/dist/react/divider.js",
+      "alias": "Divider",
+      "templateLanguageId": "react",
+      "spec": {
+        "isInferred": true
+      },
+      "demoIds": ["pkOc79NwLl"],
+      "blockIds": []
+    }
+  ],
+  "tabs": [
+    {
+      "type": "template",
+      "id": "react-N0NQELBQBa"
+    }
+  ],
+  "subPages": []
+}

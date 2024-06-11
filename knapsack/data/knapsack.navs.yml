@@ -19,8 +19,14 @@ byId:
     name: Components
     parentId: root
     path: ''
+  divider:
+    id: divider
+    name: Divider
+    parentId: components
+    path: /pattern/divider
 order:
   - components
   - button
   - card
   - assets
+  - divider
