@@ -38,7 +38,7 @@ order:
   - components
   - button
   - card
-  - assets
   - divider
   - header
   - hero
+  - assets

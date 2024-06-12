@@ -7,7 +7,7 @@
     {
       "id": "react-goixdoVDJF",
       "title": "React",
-      "path": "../../node_modules/@knapsack/sandbox-components/dist/react/card.js",
+      "path": "@knapsack/sandbox-components/react",
       "alias": "Card",
       "templateLanguageId": "react",
       "spec": {

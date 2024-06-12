@@ -7,7 +7,7 @@
     {
       "id": "react-N0NQELBQBa",
       "title": "React",
-      "path": "../../node_modules/@knapsack/sandbox-components/dist/react/divider.js",
+      "path": "@knapsack/sandbox-components/react",
       "alias": "Divider",
       "templateLanguageId": "react",
       "spec": {

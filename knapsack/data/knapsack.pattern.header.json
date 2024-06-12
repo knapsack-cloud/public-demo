@@ -7,7 +7,7 @@
     {
       "id": "react-cMDxl3ftGg",
       "title": "React",
-      "path": "../../node_modules/@knapsack/sandbox-components/dist/react/header.js",
+      "path": "@knapsack/sandbox-components/react",
       "alias": "Header",
       "templateLanguageId": "react",
       "spec": {

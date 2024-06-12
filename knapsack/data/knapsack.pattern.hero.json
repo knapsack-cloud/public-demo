@@ -7,7 +7,7 @@
     {
       "id": "react-QxnD7Lbwtj",
       "title": "React",
-      "path": "../../node_modules/@knapsack/sandbox-components/dist/react/hero.js",
+      "path": "@knapsack/sandbox-components/react",
       "alias": "Hero",
       "templateLanguageId": "react",
       "spec": {

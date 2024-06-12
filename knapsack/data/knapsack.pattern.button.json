@@ -6,8 +6,8 @@
   "templates": [
     {
       "id": "react-YyvGCWckZS",
-      "title": "Button",
-      "path": "../../node_modules/@knapsack/sandbox-components/dist/react/button.js",
+      "title": "React",
+      "path": "@knapsack/sandbox-components/react",
       "alias": "Button",
       "templateLanguageId": "react",
       "spec": {
