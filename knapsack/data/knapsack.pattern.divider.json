@@ -10,9 +10,7 @@
       "path": "@knapsack/sandbox-components/react",
       "alias": "Divider",
       "templateLanguageId": "react",
-      "spec": {
-        "isInferred": true
-      },
+      "spec": {},
       "demoIds": ["pkOc79NwLl"],
       "blockIds": []
     }

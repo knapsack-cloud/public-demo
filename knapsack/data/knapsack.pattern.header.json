@@ -10,9 +10,7 @@
       "path": "@knapsack/sandbox-components/react",
       "alias": "Header",
       "templateLanguageId": "react",
-      "spec": {
-        "isInferred": true
-      },
+      "spec": {},
       "demoIds": ["JlgjSy7iMZ"],
       "blockIds": []
     }
