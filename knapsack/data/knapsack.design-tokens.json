@@ -1,1 +1,785 @@
-{}
+{
+  "$extensions": {
+    "cloud.knapsack": {
+      "global": {
+        "collectionsParentKey": "collections"
+      }
+    }
+  },
+  "ungrouped-token": {
+    "$value": "Im Not Part of Any Group",
+    "$type": "string"
+  },
+  "collections": {
+    "density": {
+      "$extensions": {
+        "cloud.knapsack": {
+          "group": {
+            "collectionInfo": {
+              "type": "collection",
+              "modes": [
+                {
+                  "id": "cozy"
+                },
+                {
+                  "id": "compact"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "spacing": {
+        "large": {
+          "$type": "dimension",
+          "$extensions": {
+            "cloud.knapsack": {
+              "group": {
+                "collectionInfo": {
+                  "type": "var"
+                }
+              }
+            }
+          },
+          "compact": {
+            "$value": "12px"
+          },
+          "cozy": {
+            "$value": "16px"
+          }
+        },
+        "medium": {
+          "$type": "dimension",
+          "$extensions": {
+            "cloud.knapsack": {
+              "group": {
+                "collectionInfo": {
+                  "type": "var"
+                }
+              }
+            }
+          },
+          "compact": {
+            "$value": "8px"
+          },
+          "cozy": {
+            "$value": "12px"
+          }
+        },
+        "small": {
+          "$type": "dimension",
+          "$extensions": {
+            "cloud.knapsack": {
+              "group": {
+                "collectionInfo": {
+                  "type": "var"
+                }
+              }
+            }
+          },
+          "compact": {
+            "$value": "4px"
+          },
+          "cozy": {
+            "$value": "8px"
+          }
+        },
+        "xsmall": {
+          "compact": {
+            "$value": "2px"
+          },
+          "$type": "dimension",
+          "$extensions": {
+            "cloud.knapsack": {
+              "group": {
+                "collectionInfo": {
+                  "type": "var"
+                }
+              }
+            }
+          },
+          "cozy": {
+            "$value": "4px"
+          }
+        },
+        "xlarge": {
+          "compact": {
+            "$value": "16px"
+          },
+          "$type": "dimension",
+          "$extensions": {
+            "cloud.knapsack": {
+              "group": {
+                "collectionInfo": {
+                  "type": "var"
+                }
+              }
+            }
+          },
+          "cozy": {
+            "$value": "24px"
+          }
+        },
+        "xxlarge": {
+          "compact": {
+            "$value": "32px"
+          },
+          "$type": "dimension",
+          "$extensions": {
+            "cloud.knapsack": {
+              "group": {
+                "collectionInfo": {
+                  "type": "var"
+                }
+              }
+            }
+          },
+          "cozy": {
+            "$value": "40px"
+          }
+        },
+        "xxxlarge": {
+          "compact": {
+            "$value": "40px"
+          },
+          "$type": "dimension",
+          "$extensions": {
+            "cloud.knapsack": {
+              "group": {
+                "collectionInfo": {
+                  "type": "var"
+                }
+              }
+            }
+          },
+          "cozy": {
+            "$value": "64px"
+          }
+        }
+      }
+    },
+    "theme": {
+      "$extensions": {
+        "cloud.knapsack": {
+          "group": {
+            "collectionInfo": {
+              "type": "collection",
+              "modes": [
+                {
+                  "id": "arcadiaLight"
+                },
+                {
+                  "id": "arcadiaDark"
+                },
+                {
+                  "id": "basisLight"
+                },
+                {
+                  "id": "basisDark"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "action": {
+        "base": {
+          "$type": "color",
+          "$extensions": {
+            "cloud.knapsack": {
+              "group": {
+                "collectionInfo": {
+                  "type": "var"
+                }
+              }
+            }
+          },
+          "arcadiaLight": {
+            "$extensions": {
+              "cloud.knapsack": {
+                "group": {
+                  "collectionInfo": {
+                    "type": "var-ref",
+                    "referencedId": "collections.theme.brand.color"
+                  }
+                }
+              }
+            }
+          },
+          "arcadiaDark": {
+            "$extensions": {
+              "cloud.knapsack": {
+                "group": {
+                  "collectionInfo": {
+                    "type": "var-ref",
+                    "referencedId": "collections.theme.brand.color"
+                  }
+                }
+              }
+            }
+          },
+          "basisLight": {
+            "$extensions": {
+              "cloud.knapsack": {
+                "group": {
+                  "collectionInfo": {
+                    "type": "var-ref",
+                    "referencedId": "collections.theme.brand.color"
+                  }
+                }
+              }
+            }
+          },
+          "basisDark": {
+            "$extensions": {
+              "cloud.knapsack": {
+                "group": {
+                  "collectionInfo": {
+                    "type": "var-ref",
+                    "referencedId": "collections.theme.brand.color"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "text": {
+          "$type": "color",
+          "$extensions": {
+            "cloud.knapsack": {
+              "group": {
+                "collectionInfo": {
+                  "type": "var"
+                }
+              }
+            }
+          },
+          "arcadiaLight": {
+            "$value": "{sandbox.color.white}"
+          },
+          "arcadiaDark": {
+            "$value": "{sandbox.color.white}"
+          },
+          "basisLight": {
+            "$value": "{sandbox.color.white}"
+          },
+          "basisDark": {
+            "$value": "{sandbox.color.white}"
+          }
+        }
+      },
+      "background": {
+        "content": {
+          "$type": "color",
+          "$extensions": {
+            "cloud.knapsack": {
+              "group": {
+                "collectionInfo": {
+                  "type": "var"
+                }
+              }
+            }
+          },
+          "arcadiaLight": {
+            "$value": "#FFFFFF"
+          },
+          "arcadiaDark": {
+            "$value": "#3B3644"
+          },
+          "basisLight": {
+            "$value": "#FFFFFF"
+          },
+          "basisDark": {
+            "$value": "#3B3644"
+          }
+        },
+        "page": {
+          "$type": "color",
+          "$extensions": {
+            "cloud.knapsack": {
+              "group": {
+                "collectionInfo": {
+                  "type": "var"
+                }
+              }
+            }
+          },
+          "arcadiaLight": {
+            "$value": "#FDFCFE"
+          },
+          "arcadiaDark": {
+            "$value": "#1F1C25"
+          },
+          "basisLight": {
+            "$value": "#FDFCFE"
+          },
+          "basisDark": {
+            "$value": "#1F1C25"
+          }
+        }
+      },
+      "text": {
+        "base": {
+          "$type": "color",
+          "$extensions": {
+            "cloud.knapsack": {
+              "group": {
+                "collectionInfo": {
+                  "type": "var"
+                }
+              }
+            }
+          },
+          "arcadiaLight": {
+            "$value": "#191F2C"
+          },
+          "arcadiaDark": {
+            "$value": "#F6F8FF"
+          },
+          "basisLight": {
+            "$value": "#191F2C"
+          },
+          "basisDark": {
+            "$value": "#F6F8FF"
+          }
+        },
+        "subtle": {
+          "$type": "color",
+          "$extensions": {
+            "cloud.knapsack": {
+              "group": {
+                "collectionInfo": {
+                  "type": "var"
+                }
+              }
+            }
+          },
+          "arcadiaLight": {
+            "$value": "#6E7A82"
+          },
+          "arcadiaDark": {
+            "$value": "#BEC3D3"
+          },
+          "basisLight": {
+            "$value": "#6E7A82"
+          },
+          "basisDark": {
+            "$value": "#BEC3D3"
+          }
+        }
+      },
+      "brand": {
+        "color": {
+          "$type": "color",
+          "$extensions": {
+            "cloud.knapsack": {
+              "group": {
+                "collectionInfo": {
+                  "type": "var"
+                }
+              }
+            }
+          },
+          "arcadiaLight": {
+            "$value": "#7A34ED"
+          },
+          "arcadiaDark": {
+            "$value": "#7A34ED"
+          },
+          "basisLight": {
+            "$value": "#ED7734"
+          },
+          "basisDark": {
+            "$value": "#ED7734"
+          }
+        },
+        "fontFamily": {
+          "$type": "string",
+          "$extensions": {
+            "cloud.knapsack": {
+              "group": {
+                "collectionInfo": {
+                  "type": "var"
+                }
+              }
+            }
+          },
+          "arcadiaLight": {
+            "$value": "Inter"
+          },
+          "arcadiaDark": {
+            "$value": "Inter"
+          },
+          "basisLight": {
+            "$value": "Merriweather"
+          },
+          "basisDark": {
+            "$value": "Merriweather"
+          }
+        },
+        "logo": {
+          "$type": "string",
+          "$extensions": {
+            "cloud.knapsack": {
+              "group": {
+                "collectionInfo": {
+                  "type": "var"
+                }
+              }
+            }
+          },
+          "arcadiaLight": {
+            "$value": "url('https://knapsack.imgix.net/site/ks-sandbox/logo-arcadia-4id5a3sy3ysvg')"
+          },
+          "arcadiaDark": {
+            "$value": "url('https://knapsack.imgix.net/site/ks-sandbox/logo-arcadia-4id5a3sy3ysvg')"
+          },
+          "basisLight": {
+            "$value": "url('https://knapsack.imgix.net/site/ks-sandbox/logo-basis-34vzcamdqxpng')"
+          },
+          "basisDark": {
+            "$value": "url('https://knapsack.imgix.net/site/ks-sandbox/logo-basis-34vzcamdqxpng')"
+          }
+        }
+      }
+    },
+    "testing": {
+      "color": {
+        "color": {
+          "brandADark": {
+            "$value": "#000000"
+          },
+          "brandALight": {
+            "$value": "#000000"
+          },
+          "brandBDark": {
+            "$value": "#000000"
+          },
+          "brandBLight": {
+            "$value": "#000000"
+          },
+          "$type": "color",
+          "$extensions": {
+            "cloud.knapsack": {
+              "group": {
+                "collectionInfo": {
+                  "type": "var"
+                }
+              }
+            }
+          }
+        },
+        "color 1": {
+          "brandADark": {
+            "$value": "#000000"
+          },
+          "brandALight": {
+            "$value": "#000000"
+          },
+          "brandBDark": {
+            "$value": "#000000"
+          },
+          "brandBLight": {
+            "$value": "#000000"
+          },
+          "$type": "color",
+          "$extensions": {
+            "cloud.knapsack": {
+              "group": {
+                "collectionInfo": {
+                  "type": "var"
+                }
+              }
+            }
+          }
+        },
+        "fontWeight": {
+          "brandADark": {
+            "$value": 400
+          },
+          "brandALight": {
+            "$value": 400
+          },
+          "brandBDark": {
+            "$value": 400
+          },
+          "brandBLight": {
+            "$value": 400
+          },
+          "$type": "fontWeight",
+          "$extensions": {
+            "cloud.knapsack": {
+              "group": {
+                "collectionInfo": {
+                  "type": "var"
+                }
+              }
+            }
+          }
+        },
+        "primary": {
+          "brandADark": {
+            "$value": "#0a13f7"
+          },
+          "brandALight": {
+            "$value": "#7A34ED"
+          },
+          "brandBDark": {
+            "$value": "#710D55"
+          },
+          "brandBLight": {
+            "$value": "#F37491"
+          },
+          "$description": "The main, consistent color used in all graphics, publications, signage, etc. ",
+          "$extensions": {
+            "cloud.knapsack": {
+              "group": {
+                "collectionInfo": {
+                  "type": "var"
+                }
+              }
+            }
+          }
+        },
+        "secondary": {
+          "brandADark": {
+            "$value": "#EC487D"
+          },
+          "brandALight": {
+            "$value": "#EC487D"
+          },
+          "brandBDark": {
+            "$value": "#6A4CEC"
+          },
+          "brandBLight": {
+            "$value": "#6A4CEC"
+          },
+          "$description": "Complimentary color to the primary brand color",
+          "$type": "color",
+          "$extensions": {
+            "cloud.knapsack": {
+              "group": {
+                "collectionInfo": {
+                  "type": "var"
+                }
+              }
+            }
+          }
+        },
+        "$type": "color"
+      },
+      "foo": {
+        "bar": {
+          "brandADark": {
+            "$value": "1px"
+          },
+          "brandALight": {
+            "$value": "1px"
+          },
+          "brandBDark": {
+            "$value": "1px"
+          },
+          "brandBLight": {
+            "$value": "1px"
+          },
+          "$type": "dimension",
+          "$extensions": {
+            "cloud.knapsack": {
+              "group": {
+                "collectionInfo": {
+                  "type": "var"
+                }
+              }
+            }
+          }
+        }
+      },
+      "test": {
+        "dimension": {
+          "brandADark": {
+            "$value": "2px"
+          },
+          "brandALight": {
+            "$value": "2px"
+          },
+          "brandBDark": {
+            "$value": "2px"
+          },
+          "brandBLight": {
+            "$value": "2px"
+          },
+          "$type": "dimension",
+          "$extensions": {
+            "cloud.knapsack": {
+              "group": {
+                "collectionInfo": {
+                  "type": "var"
+                }
+              }
+            }
+          }
+        },
+        "primary": {
+          "brandADark": {
+            "$value": "{collections.density.spacing.small.compact}"
+          },
+          "brandALight": {
+            "$value": "40px"
+          },
+          "brandBDark": {
+            "$value": "{collections.density.spacing.small.compact}"
+          },
+          "brandBLight": {
+            "$value": "{collections.density.spacing.small.compact}"
+          },
+          "$description": "The main, consistent color used in all graphics, publications, signage, etc. ",
+          "$extensions": {
+            "cloud.knapsack": {
+              "group": {
+                "collectionInfo": {
+                  "type": "var"
+                }
+              }
+            }
+          }
+        },
+        "secondary": {
+          "brandADark": {
+            "$value": "#cc2020"
+          },
+          "brandALight": {
+            "$value": "#cc2020"
+          },
+          "brandBDark": {
+            "$value": "#ACAAB6"
+          },
+          "brandBLight": {
+            "$value": "#EDECEF"
+          },
+          "$description": "Complimentary color to the primary brand color",
+          "$type": "color",
+          "$extensions": {
+            "cloud.knapsack": {
+              "group": {
+                "collectionInfo": {
+                  "type": "var"
+                }
+              }
+            }
+          }
+        },
+        "tertiary": {
+          "brandADark": {
+            "$extensions": {
+              "cloud.knapsack": {
+                "group": {
+                  "collectionInfo": {
+                    "type": "var-ref",
+                    "referencedId": "collections.testing.test.secondary"
+                  }
+                }
+              }
+            }
+          },
+          "$type": "color",
+          "$description": "derp",
+          "$extensions": {
+            "cloud.knapsack": {
+              "group": {
+                "collectionInfo": {
+                  "type": "var"
+                }
+              }
+            }
+          },
+          "brandALight": {
+            "$value": "#000000"
+          },
+          "brandBLight": {
+            "$value": "#000000"
+          },
+          "brandBDark": {
+            "$value": "#000000"
+          }
+        }
+      },
+      "$extensions": {
+        "cloud.knapsack": {
+          "group": {
+            "collectionInfo": {
+              "type": "collection",
+              "modes": [
+                {
+                  "id": "brandALight"
+                },
+                {
+                  "id": "brandADark"
+                },
+                {
+                  "id": "brandBLight"
+                },
+                {
+                  "id": "brandBDark"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "sandbox": {
+    "color": {
+      "success": {
+        "$value": "#6BC313",
+        "$type": "color"
+      },
+      "warning": {
+        "$value": "#FAB120",
+        "$type": "color"
+      },
+      "error": {
+        "$value": "#FF5C46",
+        "$type": "color"
+      },
+      "white": {
+        "$value": "#ffffff",
+        "$type": "color"
+      }
+    },
+    "radius": {
+      "xsmall": {
+        "$value": "2px",
+        "$type": "dimension"
+      },
+      "$type": "dimension",
+      "small": {
+        "$value": "4px",
+        "$type": "dimension"
+      },
+      "medium": {
+        "$value": "8px",
+        "$type": "dimension"
+      },
+      "large": {
+        "$value": "16px",
+        "$type": "dimension"
+      },
+      "xlarge": {
+        "$value": "32px",
+        "$type": "dimension"
+      }
+    },
+    "width": {
+      "$type": "dimension",
+      "wide": {
+        "$value": "1080px",
+        "$type": "dimension"
+      },
+      "narrow": {
+        "$value": "640px",
+        "$type": "dimension"
+      }
+    }
+  }
+}
