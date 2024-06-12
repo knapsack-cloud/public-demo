@@ -1,0 +1,38 @@
+blocks:
+  settings:
+    tokens:
+      rootFontSize: 16px
+demos:
+  settings: {}
+settings:
+  designSrcs:
+    files:
+      - fileId: rzMpZtZ3PLH3eutORdrJ2o
+        name: Sandbox Components
+        type: figma
+        url: https://www.figma.com/file/rzMpZtZ3PLH3eutORdrJ2o?version-id=5974631725
+        version: '5974631725'
+  logoUrl: https://knapsack.imgix.net/site/public-demo/knapsack-logomark-cjlcpw-x5spng
+  theme:
+    appearance:
+      customFonts: []
+      navigation:
+        primaryNav: {}
+        secondaryNav: {}
+        tabs: {}
+      pageElements:
+        bodyText: {}
+        headingLarge: {}
+        headingMedium: {}
+        headingSmall: {}
+        headingXLarge: {}
+        headingXSmall: {}
+        link: {}
+        pageDescription: {}
+        pageTitle: {}
+    version: 10
+  title: Public Demo
+  tokens:
+    theming:
+      enabledRendererIds:
+        - react

@@ -1,9 +1,20 @@
-node_modules
-vendor
-dist
-knapsack-dist
-.idea
-.vscode
-yarn-error.log
-.env
+# Dependency directories
+node_modules/
+vendor/
+
+# Build outputs
+dist/
+knapsack-dist/
+
+# IDE settings
+.vscode/
+
+# System files
 .DS_Store
+
+# Environment files
+.env
+
+# Logs
+yarn-error.log
+

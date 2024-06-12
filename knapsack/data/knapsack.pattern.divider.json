@@ -1,0 +1,37 @@
+{
+  "id": "divider",
+  "title": "Divider",
+  "description": "",
+  "statuses": {},
+  "templates": [
+    {
+      "id": "react-N0NQELBQBa",
+      "title": "React",
+      "path": "@knapsack/sandbox-components/react",
+      "alias": "Divider",
+      "templateLanguageId": "react",
+      "spec": {},
+      "demoIds": ["pkOc79NwLl"],
+      "blockIds": []
+    }
+  ],
+  "tabs": [
+    {
+      "type": "template",
+      "id": "react-N0NQELBQBa"
+    },
+    {
+      "id": "dmkeSIfp14",
+      "type": "designSrc"
+    }
+  ],
+  "subPages": [],
+  "designSrcComponentsById": {
+    "dmkeSIfp14": {
+      "id": "dmkeSIfp14",
+      "componentId": "76:95655",
+      "title": "Figma Component",
+      "fileId": "rzMpZtZ3PLH3eutORdrJ2o"
+    }
+  }
+}

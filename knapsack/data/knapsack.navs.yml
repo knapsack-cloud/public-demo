@@ -1,0 +1,44 @@
+byId:
+  assets:
+    id: assets
+    name: Assets
+    parentId: components
+    path: /pages/assets
+  button:
+    id: button
+    name: Button
+    parentId: components
+    path: /pattern/button
+  card:
+    id: card
+    name: Card
+    parentId: components
+    path: /pattern/card
+  components:
+    id: components
+    name: Components
+    parentId: root
+    path: ''
+  divider:
+    id: divider
+    name: Divider
+    parentId: components
+    path: /pattern/divider
+  header:
+    id: header
+    name: Header
+    parentId: components
+    path: /pattern/header
+  hero:
+    id: hero
+    name: Hero
+    parentId: components
+    path: /pattern/hero
+order:
+  - components
+  - button
+  - card
+  - divider
+  - header
+  - hero
+  - assets

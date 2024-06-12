@@ -1,0 +1,61 @@
+{
+  "id": "button",
+  "title": "Button",
+  "description": "",
+  "statuses": {},
+  "templates": [
+    {
+      "id": "react-YyvGCWckZS",
+      "title": "React",
+      "path": "@knapsack/sandbox-components/react",
+      "alias": "Button",
+      "templateLanguageId": "react",
+      "spec": {
+        "props": {
+          "$schema": "http://json-schema.org/draft-07/schema",
+          "type": "object",
+          "required": [],
+          "properties": {
+            "type": {
+              "type": "string",
+              "enum": ["filled", "outlined"],
+              "default": "filled"
+            },
+            "size": {
+              "type": "string",
+              "enum": ["small", "medium", "large"],
+              "default": "medium"
+            },
+            "label": {
+              "type": "string",
+              "default": "Button"
+            }
+          },
+          "description": ""
+        },
+        "slots": {}
+      },
+      "demoIds": ["iRzqZlxWRK"],
+      "blockIds": []
+    }
+  ],
+  "tabs": [
+    {
+      "type": "template",
+      "id": "react-YyvGCWckZS"
+    },
+    {
+      "id": "x5dZkZDZOk",
+      "type": "designSrc"
+    }
+  ],
+  "subPages": [],
+  "designSrcComponentsById": {
+    "x5dZkZDZOk": {
+      "id": "x5dZkZDZOk",
+      "componentId": "1:23",
+      "title": "Figma Component",
+      "fileId": "rzMpZtZ3PLH3eutORdrJ2o"
+    }
+  }
+}

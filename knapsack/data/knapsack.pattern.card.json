@@ -1,0 +1,58 @@
+{
+  "id": "card",
+  "title": "Card",
+  "description": "",
+  "statuses": {},
+  "templates": [
+    {
+      "id": "react-goixdoVDJF",
+      "title": "React",
+      "path": "@knapsack/sandbox-components/react",
+      "alias": "Card",
+      "templateLanguageId": "react",
+      "spec": {
+        "props": {
+          "$schema": "http://json-schema.org/draft-07/schema",
+          "type": "object",
+          "required": [],
+          "properties": {
+            "title": {
+              "type": "string",
+              "default": "Title"
+            },
+            "description": {
+              "type": "string",
+              "default": "Description"
+            },
+            "imgUrl": {
+              "type": "string"
+            }
+          },
+          "description": ""
+        },
+        "slots": {}
+      },
+      "demoIds": ["IQOy6Jhjs", "A8XQa71u9D"],
+      "blockIds": []
+    }
+  ],
+  "tabs": [
+    {
+      "type": "template",
+      "id": "react-goixdoVDJF"
+    },
+    {
+      "id": "VXTL16DFil",
+      "type": "designSrc"
+    }
+  ],
+  "subPages": [],
+  "designSrcComponentsById": {
+    "VXTL16DFil": {
+      "id": "VXTL16DFil",
+      "componentId": "2:73",
+      "title": "Figma Component",
+      "fileId": "rzMpZtZ3PLH3eutORdrJ2o"
+    }
+  }
+}

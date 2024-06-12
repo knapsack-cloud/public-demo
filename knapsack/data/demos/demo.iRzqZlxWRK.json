@@ -1,0 +1,15 @@
+{
+  "id": "iRzqZlxWRK",
+  "title": "Main",
+  "type": "data",
+  "patternId": "button",
+  "templateId": "react-YyvGCWckZS",
+  "data": {
+    "props": {
+      "size": "medium",
+      "label": "Button",
+      "type": "filled"
+    },
+    "slots": {}
+  }
+}

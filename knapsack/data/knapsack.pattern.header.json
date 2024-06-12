@@ -1,0 +1,37 @@
+{
+  "id": "header",
+  "title": "Header",
+  "description": "",
+  "statuses": {},
+  "templates": [
+    {
+      "id": "react-cMDxl3ftGg",
+      "title": "React",
+      "path": "@knapsack/sandbox-components/react",
+      "alias": "Header",
+      "templateLanguageId": "react",
+      "spec": {},
+      "demoIds": ["JlgjSy7iMZ"],
+      "blockIds": []
+    }
+  ],
+  "tabs": [
+    {
+      "type": "template",
+      "id": "react-cMDxl3ftGg"
+    },
+    {
+      "id": "d6x8vSLhsC",
+      "type": "designSrc"
+    }
+  ],
+  "subPages": [],
+  "designSrcComponentsById": {
+    "d6x8vSLhsC": {
+      "id": "d6x8vSLhsC",
+      "componentId": "52:215",
+      "title": "Figma Component",
+      "fileId": "rzMpZtZ3PLH3eutORdrJ2o"
+    }
+  }
+}

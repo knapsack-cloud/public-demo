@@ -1,8 +1,0 @@
-{
-  "blockType": "pattern-status-table-block",
-  "data": {
-    "excludeHiddenNavItems": false,
-    "excludePatterns": ["new-component-in-progress", "one-pager"]
-  },
-  "id": "n8S6Hd_tQN"
-}

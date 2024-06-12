@@ -1,8 +1,0 @@
-/** Tailwind **/
-@import './tailwind.css';
-
-/** Components **/
-@import './components/button.css';
-@import './components/card.css';
-@import './components/top-nav.css';
-@import './components/message.css';
