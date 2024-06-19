@@ -16,12 +16,12 @@ settings:
         name: Demo Design System Library
         type: figma
         url: https://www.figma.com/file/zUm5kTRtnkFUh5JUsBwwWl?version-id=4804108977
-        version: '5718472756'
+        version: '5972910081'
       - fileId: RP1xTgbvxPBqYmp3iGUNWc
         name: 'Toby: Design System'
         type: figma
         url: https://www.figma.com/file/RP1xTgbvxPBqYmp3iGUNWc?version-id=5768861245
-        version: '5768861245'
+        version: '5985438656'
       - fileId: rzMpZtZ3PLH3eutORdrJ2o
         name: Sandbox Components
         type: figma

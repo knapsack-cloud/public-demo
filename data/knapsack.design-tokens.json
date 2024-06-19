@@ -77,7 +77,7 @@
       },
       "primary": {
         "$type": "color",
-        "$value": "#6436BF"
+        "$value": "{color.base.yellow}"
       },
       "tertiary": {
         "$type": "color",
@@ -345,6 +345,9 @@
                 },
                 {
                   "id": "dark"
+                },
+                {
+                  "id": "Boston"
                 }
               ]
             }
@@ -367,6 +370,9 @@
               }
             }
           }
+        },
+        "Boston": {
+          "$value": "#00901b"
         }
       },
       "color-secondary": {
@@ -385,6 +391,9 @@
         },
         "dark": {
           "$value": "{color.brand.black}"
+        },
+        "Boston": {
+          "$value": "{color.brand.tertiary}"
         }
       }
     }
