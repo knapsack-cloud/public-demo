@@ -7,7 +7,7 @@
       },
       "blue": {
         "$type": "color",
-        "$value": "#207FF9"
+        "$value": "{color.base.orange}"
       },
       "green": {
         "$type": "color",
@@ -356,7 +356,7 @@
           "$value": "#ffffff"
         },
         "light": {
-          "$value": "#7b58cf"
+          "$value": "{color.brand.secondary}"
         },
         "$type": "color",
         "$extensions": {
