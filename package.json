@@ -30,13 +30,13 @@
     "@babel/helper-get-function-arity": "^7.16.7"
   },
   "dependencies": {
-    "@knapsack/app": "^4.65.2",
-    "@knapsack/design-token-utils": "^4.65.2",
-    "@knapsack/plugin-changelog-md": "^4.65.2",
-    "@knapsack/renderer-html": "^4.65.2",
-    "@knapsack/renderer-react": "^4.65.2",
-    "@knapsack/renderer-web-components": "^4.65.2",
-    "@knapsack/typescript-config-starter": "^4.65.2",
-    "@knapsack/sandbox-components": "^4.65.2"
+    "@knapsack/app": "^4.65.3",
+    "@knapsack/design-token-utils": "^4.65.3",
+    "@knapsack/plugin-changelog-md": "^4.65.3",
+    "@knapsack/renderer-html": "^4.65.3",
+    "@knapsack/renderer-react": "^4.65.3",
+    "@knapsack/renderer-web-components": "^4.65.3",
+    "@knapsack/typescript-config-starter": "^4.65.3",
+    "@knapsack/sandbox-components": "^4.65.3"
   }
 }
