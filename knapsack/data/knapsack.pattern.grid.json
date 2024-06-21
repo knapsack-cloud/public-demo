@@ -1,0 +1,50 @@
+{
+  "id": "grid",
+  "title": "Grid",
+  "description": "",
+  "statuses": {},
+  "templates": [
+    {
+      "id": "react",
+      "title": "React",
+      "path": "@knapsack/sandbox-components/react",
+      "alias": "Grid",
+      "templateLanguageId": "react",
+      "spec": {
+        "slots": {
+          "children": {
+            "title": "children"
+          }
+        },
+        "props": {
+          "$schema": "http://json-schema.org/draft-07/schema",
+          "description": "",
+          "type": "object",
+          "required": [],
+          "properties": {
+            "columns": {
+              "type": "string",
+              "enum": ["1", "2", "3", "4"]
+            },
+            "gap": {
+              "type": "string",
+              "enum": ["small", "medium", "large"]
+            },
+            "maxWidth": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "demoIds": ["yeZby3GCpl"],
+      "blockIds": []
+    }
+  ],
+  "tabs": [
+    {
+      "type": "template",
+      "id": "react"
+    }
+  ],
+  "subPages": []
+}
