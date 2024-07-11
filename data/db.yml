@@ -83,7 +83,7 @@ settings:
         headingSmall:
           fontFamily: Inter
         headingXLarge:
-          fontFamily: Nunito
+          fontFamily: Inter
           fontWeight: 600
           textTransform: inherit
         headingXSmall:
@@ -98,7 +98,7 @@ settings:
           fontFamily: Inter
           fontWeight: 400
         pageTitle:
-          fontFamily: Nunito
+          fontFamily: Inter
           fontWeight: 800
           textTransform: inherit
     version: 10
