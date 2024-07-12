@@ -10,3 +10,14 @@ blockIds:
   - XKsi6dzLr
   - ivlDfFw6Nl
 description: A Comprehensive Guide To Mobile App Design
+settings:
+  pageHeader:
+    backgroundColor:
+      type: design-token
+      tokenName: color.base.Bone
+    textColorTitle:
+      type: design-token
+      tokenName: color.base.orange
+    textColorDescription:
+      type: design-token
+      tokenName: color.brand.Text gray

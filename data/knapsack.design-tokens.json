@@ -5,17 +5,13 @@
         "$type": "color",
         "$value": "#ef5151"
       },
-      "blue": {
-        "$type": "color",
-        "$value": "#207FF9"
-      },
       "green": {
         "$type": "color",
-        "$value": "#3ccf91"
+        "$value": "#042315"
       },
       "orange": {
         "$type": "color",
-        "$value": "#ff924f"
+        "$value": "#ba4738"
       },
       "orchid": {
         "$type": "color",
@@ -24,6 +20,18 @@
       "yellow": {
         "$type": "color",
         "$value": "#FCD02A"
+      },
+      "dark teal": {
+        "$type": "color",
+        "$value": "#29707b"
+      },
+      "Bone": {
+        "$type": "color",
+        "$value": "#f2f2ee"
+      },
+      "Bright Green": {
+        "$type": "color",
+        "$value": "#4cdd84"
       }
     },
     "dark": {
@@ -77,15 +85,25 @@
       },
       "primary": {
         "$type": "color",
-        "$value": "#6436BF"
+        "$value": "{color.base.orange}"
       },
       "tertiary": {
         "$type": "color",
-        "$value": "#F3EFFB"
+        "$value": "{color.base.Bone}"
       },
       "secondary": {
         "$type": "color",
-        "$value": "#E43A5C"
+        "$value": "{color.base.dark teal}"
+      },
+      "Accent green": {
+        "$value": "{color.base.Bright Green}"
+      },
+      "another brand color": {
+        "$value": "{color.base.green}"
+      },
+      "Text gray": {
+        "$type": "color",
+        "$value": "#4d4c4c"
       }
     },
     "light": {
@@ -356,7 +374,7 @@
           "$value": "#ffffff"
         },
         "light": {
-          "$value": "#7b58cf"
+          "$value": "{color.base.orange}"
         },
         "$type": "color",
         "$extensions": {
