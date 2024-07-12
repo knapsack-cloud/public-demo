@@ -12,8 +12,8 @@
           "name": "Design Tokens",
           "path": "/pages/Design-Tokens"
         },
-        "image": "https://knapsack.imgix.net/site/public-demo/46643-lg7przfyjvpng",
-        "title": "🎨 Design Tokens",
+        "image": "https://knapsack.imgix.net/site/public-demo/126408335-ccjpowky94png",
+        "title": "Design Tokens",
         "description": "View and manage building blocks for our digital brand."
       },
       {
@@ -22,18 +22,18 @@
           "name": "Components Overview",
           "path": "/pages/Components-Overview"
         },
-        "image": "https://knapsack.imgix.net/site/public-demo/materialillustrationabs-7b98tg-tfnpng",
-        "title": "🧩 Components Overview",
+        "image": "https://knapsack.imgix.net/site/public-demo/atworkteamcollaborating4x3-jjazdk4pfmjpeg",
+        "title": "Components Overview",
         "description": "Find and understand UI elements in design and code."
       },
       {
         "id": "BIVcAleTv7",
         "link": {
-          "name": "Page-Level Prototyping",
-          "path": "/pages/Page-Level-Prototyping"
+          "path": "https://app.knapsack.cloud/site/public-demo/AqorUCHu4O/develop/patterns",
+          "external": true
         },
-        "image": "https://knapsack.imgix.net/site/public-demo/lego-rainbow-with-cloud-flat-ufftefvcdujpg",
-        "title": "🖼️ Page-Level Prototyping",
+        "image": "https://knapsack.imgix.net/site/public-demo/64e6635c15af3a9d0b7b787164d12d4b5fbaaee55a00c64eprototype-development-sgw-designworks-xuxmmx8uhojpeg",
+        "title": "Page-Level Prototyping",
         "description": "Assemble modular elements into UIs based in code."
       }
     ],

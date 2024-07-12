@@ -9,12 +9,18 @@ settings:
     backgroundImage: null
     textColorDescription:
       type: design-token
-      tokenName: color-brand-black
+      tokenName: color.brand.Text gray
       colorValue: '#000000'
     size: small
+    backgroundColor:
+      type: design-token
+      tokenName: color.base.Bone
 description: The collaborative design system
 blockIds:
   - 6-qXFUJ0eH
+  - 4NGzpVhoYR
+  - uDBmvumiju
+  - WA7jI-VJ8g
   - tY2rt92bob
   - oa-y7sAwqr
   - 7Y7v_lnZJh

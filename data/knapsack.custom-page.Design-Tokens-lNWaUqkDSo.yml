@@ -6,11 +6,17 @@ settings:
     textColorTitle:
       type: design-token
       colorValue: '#000000'
-      tokenName: color-brand-primary
+      tokenName: color.base.orange
     backgroundImage: null
     textColorDescription:
-      type: value
+      type: design-token
       colorValue: '#000000'
+      tokenName: color.brand.Text gray
+    backgroundSize: contain
+    backgroundPosition: right
+    backgroundColor:
+      type: design-token
+      tokenName: color.base.Bone
 description: Building blocks of your digital brand
 blockIds:
   - RX3sN_L-4o

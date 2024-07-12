@@ -2,17 +2,21 @@ id: Page-Level-Prototyping
 title: Page-Level Prototyping
 settings:
   pageHeader:
-    size: large
+    size: small
     textColorTitle:
       type: design-token
       colorValue: '#000000'
       tokenName: color-brand-primary
-    backgroundImage: https://knapsack.imgix.net/site/public-demo/lego-clipart27-w46dfphz5ljpg
+    backgroundImage: null
     textColorDescription:
-      type: value
+      type: design-token
       colorValue: '#000000'
+      tokenName: color.brand.Text gray
     backgroundSize: contain
     backgroundPosition: right
+    backgroundColor:
+      type: design-token
+      tokenName: color.base.Bone
 description: |-
   Work with patterns to create new experiences.
   Collaborate to build, share, and test your ideas with real code!

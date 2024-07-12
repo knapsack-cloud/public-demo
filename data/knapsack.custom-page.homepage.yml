@@ -1,17 +1,19 @@
 id: homepage
-title: Welcome to Knapsack
+title: Welcome to the Kyndryl Design System
 settings:
   pageHeader:
-    size: full
+    size: large
     textColorTitle:
       type: design-token
-      tokenName: color-brand-primary
+      tokenName: color.brand.white
       colorValue: '#FFFFFF'
-    backgroundImage: https://knapsack.imgix.net/site/public-demo/clark-van-der-beken-596baa0mpym-unsplash-o5drv55uvq.jpg
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/homepage-flora-01-7opysbetejjpeg
     textColorDescription:
       type: design-token
-      tokenName: color-Meh-black
+      tokenName: color.brand.white
       colorValue: '#FFFFFF'
+    backgroundSize: cover
+    backgroundOverlay: false
 description: |-
   A shared platform for product teams to collaborate
   on documenting, designing, building, testing, and shipping

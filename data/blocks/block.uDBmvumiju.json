@@ -1,0 +1,9 @@
+{
+  "id": "uDBmvumiju",
+  "data": {
+    "url": "https://public-demo-workspace.herokuapp.com/api/v1/render?patternId=one-pager&templateId=react&assetSetId=default&dataId=cd23cd6787533fe5555d74c4e166f242&isInIframe=false&wrapHtml=true",
+    "height": "480",
+    "clickToInteract": false
+  },
+  "blockType": "generic-iframe"
+}
