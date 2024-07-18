@@ -1,0 +1,29 @@
+{
+  "id": "c19G4OAqqo",
+  "title": "Main",
+  "type": "data",
+  "patternId": "hero",
+  "templateId": "react-QxnD7Lbwtj",
+  "data": {
+    "props": {
+      "title": "We Build Your Business",
+      "subtitle": "Proin commodo et turpis in porttitor. Maecenas venenatis enim nisi. "
+    },
+    "slots": {
+      "children": [
+        {
+          "type": "template-demo",
+          "patternId": "button",
+          "templateId": "react-YyvGCWckZS",
+          "demoId": "r49mzI9tlr"
+        },
+        {
+          "type": "template-demo",
+          "patternId": "button",
+          "templateId": "react-YyvGCWckZS",
+          "demoId": "11SiConMH8"
+        }
+      ]
+    }
+  }
+}

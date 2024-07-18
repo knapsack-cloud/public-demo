@@ -1,0 +1,27 @@
+{
+  "id": "text",
+  "title": "Text",
+  "description": "",
+  "statuses": {},
+  "templates": [
+    {
+      "id": "react",
+      "title": "React",
+      "path": "@knapsack/sandbox-components/react",
+      "alias": "Text",
+      "templateLanguageId": "react",
+      "spec": {
+        "isInferred": true
+      },
+      "demoIds": ["gPyvisKrfn"],
+      "blockIds": []
+    }
+  ],
+  "tabs": [
+    {
+      "type": "template",
+      "id": "react"
+    }
+  ],
+  "subPages": []
+}

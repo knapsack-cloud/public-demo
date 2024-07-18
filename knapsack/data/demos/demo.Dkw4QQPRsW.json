@@ -1,0 +1,69 @@
+{
+  "id": "Dkw4QQPRsW",
+  "title": "Landing Page Template Guide",
+  "description": "Quickly create consistent, brand-aligned landing pages using this template, designed for both developers and designers starting new projects or updating existing ones.",
+  "type": "data",
+  "patternId": "prototypes",
+  "templateId": "react",
+  "data": {
+    "props": {},
+    "slots": {
+      "children": [
+        {
+          "type": "template-demo",
+          "patternId": "header",
+          "templateId": "react-cMDxl3ftGg",
+          "demoId": "JlgjSy7iMZ"
+        },
+        {
+          "type": "template-demo",
+          "patternId": "hero",
+          "templateId": "react-QxnD7Lbwtj",
+          "demoId": "c19G4OAqqo"
+        },
+        {
+          "type": "template-demo",
+          "patternId": "divider",
+          "templateId": "react-3V8BbcWd1F",
+          "demoId": "9r-R8sjn"
+        },
+        {
+          "type": "template-demo",
+          "patternId": "text",
+          "templateId": "react",
+          "demoId": "0fnPtyw4x0"
+        },
+        {
+          "type": "template-demo",
+          "patternId": "text",
+          "templateId": "react",
+          "demoId": "rzOYDCIFyP"
+        },
+        {
+          "type": "template-demo",
+          "patternId": "grid",
+          "templateId": "react",
+          "demoId": "kws1bg1Ocs"
+        },
+        {
+          "type": "template-demo",
+          "patternId": "divider",
+          "templateId": "react-3V8BbcWd1F",
+          "demoId": "X-qcSei9Lz"
+        },
+        {
+          "type": "template-demo",
+          "patternId": "callout",
+          "templateId": "react",
+          "demoId": "OclrMnKp8"
+        },
+        {
+          "type": "template-demo",
+          "patternId": "text",
+          "templateId": "react",
+          "demoId": "BpzSq0KQ-a"
+        }
+      ]
+    }
+  }
+}

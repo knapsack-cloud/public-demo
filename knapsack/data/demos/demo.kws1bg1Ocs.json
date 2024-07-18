@@ -1,0 +1,37 @@
+{
+  "id": "kws1bg1Ocs",
+  "title": "Main",
+  "type": "data",
+  "patternId": "grid",
+  "data": {
+    "props": {
+      "columns": "3",
+      "gap": "medium",
+      "maxWidth": "1024px",
+      "spacingBottom": "xxxlarge"
+    },
+    "slots": {
+      "children": [
+        {
+          "type": "template-demo",
+          "patternId": "card",
+          "templateId": "react-goixdoVDJF",
+          "demoId": "IQOy6Jhjs"
+        },
+        {
+          "type": "template-demo",
+          "patternId": "card",
+          "templateId": "react-goixdoVDJF",
+          "demoId": "IQOy6Jhjs"
+        },
+        {
+          "type": "template-demo",
+          "patternId": "card",
+          "templateId": "react-goixdoVDJF",
+          "demoId": "IQOy6Jhjs"
+        }
+      ]
+    }
+  },
+  "templateId": "react"
+}

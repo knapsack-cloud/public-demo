@@ -9,6 +9,11 @@ byId:
     name: Button
     parentId: components
     path: /pattern/button
+  callout:
+    id: callout
+    name: Callout
+    parentId: components
+    path: /pattern/callout
   card:
     id: card
     name: Card
@@ -39,6 +44,11 @@ byId:
     name: Hero
     parentId: components
     path: /pattern/hero
+  text:
+    id: text
+    name: Text
+    parentId: components
+    path: /pattern/text
 order:
   - components
   - button
@@ -48,3 +58,5 @@ order:
   - hero
   - assets
   - grid
+  - callout
+  - text

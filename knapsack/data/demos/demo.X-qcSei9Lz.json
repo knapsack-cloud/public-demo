@@ -1,0 +1,13 @@
+{
+  "id": "X-qcSei9Lz",
+  "title": "Main",
+  "type": "data",
+  "patternId": "divider",
+  "templateId": "react-3V8BbcWd1F",
+  "data": {
+    "props": {
+      "spacingBottom": "xxxlarge"
+    },
+    "slots": {}
+  }
+}

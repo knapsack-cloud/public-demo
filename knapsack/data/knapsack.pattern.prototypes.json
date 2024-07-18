@@ -1,0 +1,28 @@
+{
+  "id": "prototypes",
+  "title": "Prototyping",
+  "hideFromComponentBlocks": true,
+  "hideFromOverviewBlocks": true,
+  "templates": [
+    {
+      "id": "react",
+      "templateLanguageId": "react",
+      "path": "@knapsack/renderer-react/prototype-template",
+      "spec": {
+        "isInferred": false,
+        "props": {
+          "type": "object",
+          "properties": {}
+        },
+        "slots": {
+          "children": {
+            "title": "Children"
+          }
+        }
+      },
+      "demoIds": ["Dkw4QQPRsW"],
+      "blockIds": []
+    }
+  ],
+  "tabs": []
+}

@@ -1,5 +1,5 @@
 {
-  "id": "r49mzI9tlr",
+  "id": "VVTXDF5Wof",
   "title": "Main",
   "type": "data",
   "patternId": "button",
@@ -7,7 +7,7 @@
   "data": {
     "props": {
       "size": "medium",
-      "label": "Get Started",
+      "label": "Button",
       "type": "filled"
     },
     "slots": {}

@@ -11,8 +11,10 @@ settings:
         name: Sandbox Components
         type: figma
         url: https://www.figma.com/file/rzMpZtZ3PLH3eutORdrJ2o?version-id=5974631725
-        version: '5974631725'
+        version: '6248118586'
   logoUrl: https://knapsack.imgix.net/site/public-demo/knapsack-logomark-cjlcpw-x5spng
+  prototyping:
+    patternId: prototypes
   theme:
     appearance:
       customFonts: []

@@ -32,6 +32,19 @@
             },
             "maxWidth": {
               "type": "string"
+            },
+            "spacingBottom": {
+              "type": "string",
+              "enum": [
+                "none",
+                "xsmall",
+                "small",
+                "medium",
+                "large",
+                "xlarge",
+                "xxlarge",
+                "xxxlarge"
+              ]
             }
           }
         }

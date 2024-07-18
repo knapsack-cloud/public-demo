@@ -1,0 +1,22 @@
+{
+  "id": "gPyvisKrfn",
+  "title": "Main",
+  "type": "data",
+  "patternId": "text",
+  "data": {
+    "props": {
+      "align": "center",
+      "spacingBottom": "none",
+      "type": "headingLarge"
+    },
+    "slots": {
+      "children": [
+        {
+          "type": "text",
+          "text": "Heading Large"
+        }
+      ]
+    }
+  },
+  "templateId": "react"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "callout",
+  "title": "Callout",
+  "description": "",
+  "statuses": {},
+  "templates": [
+    {
+      "id": "react",
+      "title": "React",
+      "path": "@knapsack/sandbox-components/react",
+      "alias": "Callout",
+      "templateLanguageId": "react",
+      "spec": {
+        "isInferred": true
+      },
+      "demoIds": ["OclrMnKp8"],
+      "blockIds": []
+    }
+  ],
+  "tabs": [
+    {
+      "type": "template",
+      "id": "react"
+    }
+  ],
+  "subPages": []
+}

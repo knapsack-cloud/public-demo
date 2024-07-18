@@ -1,0 +1,22 @@
+{
+  "id": "0fnPtyw4x0",
+  "title": "Main",
+  "type": "data",
+  "patternId": "text",
+  "data": {
+    "props": {
+      "align": "center",
+      "spacingBottom": "large",
+      "type": "headingLarge"
+    },
+    "slots": {
+      "children": [
+        {
+          "type": "text",
+          "text": "Unlock your potential with strategy"
+        }
+      ]
+    }
+  },
+  "templateId": "react"
+}

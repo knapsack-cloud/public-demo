@@ -1,0 +1,22 @@
+{
+  "id": "BpzSq0KQ-a",
+  "title": "Main",
+  "type": "data",
+  "patternId": "text",
+  "data": {
+    "props": {
+      "align": "center",
+      "spacingBottom": "none",
+      "type": "body"
+    },
+    "slots": {
+      "children": [
+        {
+          "type": "text",
+          "text": "© 2024 Arcadia. All Rights Reserved."
+        }
+      ]
+    }
+  },
+  "templateId": "react"
+}

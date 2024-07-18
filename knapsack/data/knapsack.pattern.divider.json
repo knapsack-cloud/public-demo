@@ -5,20 +5,43 @@
   "statuses": {},
   "templates": [
     {
-      "id": "react-N0NQELBQBa",
+      "id": "react-3V8BbcWd1F",
       "title": "React",
       "path": "@knapsack/sandbox-components/react",
       "alias": "Divider",
       "templateLanguageId": "react",
-      "spec": {},
-      "demoIds": ["pkOc79NwLl"],
+      "spec": {
+        "slots": {},
+        "props": {
+          "$schema": "http://json-schema.org/draft-07/schema",
+          "description": "",
+          "type": "object",
+          "required": [],
+          "properties": {
+            "spacingBottom": {
+              "type": "string",
+              "enum": [
+                "none",
+                "xsmall",
+                "small",
+                "medium",
+                "large",
+                "xlarge",
+                "xxlarge",
+                "xxxlarge"
+              ]
+            }
+          }
+        }
+      },
+      "demoIds": ["XfviIuSTS0"],
       "blockIds": []
     }
   ],
   "tabs": [
     {
       "type": "template",
-      "id": "react-N0NQELBQBa"
+      "id": "react-3V8BbcWd1F"
     },
     {
       "id": "dmkeSIfp14",

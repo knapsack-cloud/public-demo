@@ -1,0 +1,22 @@
+{
+  "id": "rzOYDCIFyP",
+  "title": "Main",
+  "type": "data",
+  "patternId": "text",
+  "data": {
+    "props": {
+      "align": "center",
+      "spacingBottom": "xlarge",
+      "type": "body"
+    },
+    "slots": {
+      "children": [
+        {
+          "type": "text",
+          "text": "Aliqua aliquip Lorem deserunt do mollit fugiat in sint aliquip consectetur est."
+        }
+      ]
+    }
+  },
+  "templateId": "react"
+}
