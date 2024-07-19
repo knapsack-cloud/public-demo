@@ -1,12 +1,24 @@
 {
   "data": {
     "props": {},
-    "slots": {}
+    "slots": {
+      "children": [
+        {
+          "type": "template-demo",
+          "demoId": "aMFkBNIHU2",
+          "patternId": "layout",
+          "templateId": "react"
+        }
+      ]
+    }
   },
   "description": "A blank page template for read-only users to use to create full page prototypes using the design system elements.",
   "id": "eYJV0byNIp",
   "patternId": "one-pager",
   "templateId": "react",
   "title": "Blank Template",
-  "type": "data"
+  "type": "data",
+  "theme": {
+    "Dual": "OPIS"
+  }
 }
