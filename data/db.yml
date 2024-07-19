@@ -11,22 +11,17 @@ settings:
         name: KS - Figma Rest API
         type: figma
         url: https://www.figma.com/file/H3Jj1cltfXiGWijrYOaGBi?version-id=4988435680
-        version: '6003913626'
+        version: '6177002725'
       - fileId: zUm5kTRtnkFUh5JUsBwwWl
         name: Demo Design System Library
         type: figma
         url: https://www.figma.com/file/zUm5kTRtnkFUh5JUsBwwWl?version-id=4804108977
-        version: '5718472756'
-      - fileId: RP1xTgbvxPBqYmp3iGUNWc
-        name: 'Toby: Design System'
-        type: figma
-        url: https://www.figma.com/file/RP1xTgbvxPBqYmp3iGUNWc?version-id=5768861245
-        version: '5768861245'
+        version: '6239307426'
       - fileId: rzMpZtZ3PLH3eutORdrJ2o
         name: Sandbox Components
         type: figma
         url: https://www.figma.com/file/rzMpZtZ3PLH3eutORdrJ2o?version-id=5763001927
-        version: '5763001927'
+        version: '6248118586'
   logoUrl: https://knapsack.imgix.net/site/public-demo/knapsack-logomark-primary@3x-c3fjqx5ll_.png
   prototyping:
     patternId: one-pager
