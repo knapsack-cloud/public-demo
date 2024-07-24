@@ -1,3 +1,25 @@
+# v0.1.69 (Wed Jul 24 2024)
+
+#### 🐛 Bug Fix
+
+- update KS packages [#271](https://github.com/knapsack-cloud/public-demo/pull/271) ([@EvanLovely](https://github.com/EvanLovely))
+
+#### 📝 Documentation
+
+- update figma design sources and fix embeds - Andrew Rohman [#270](https://github.com/knapsack-cloud/public-demo/pull/270) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+- Updating Fonts - Jon [#268](https://github.com/knapsack-cloud/public-demo/pull/268) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+- Update figma design source to fix broken design source thumbnails - Brittany Smart [#264](https://github.com/knapsack-cloud/public-demo/pull/264) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+- refreshed figma files - Andrew Rohman [#251](https://github.com/knapsack-cloud/public-demo/pull/251) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+- Mobile Build Out - Jon [#250](https://github.com/knapsack-cloud/public-demo/pull/250) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+- mobile docs samples - Andrew Rohman [#249](https://github.com/knapsack-cloud/public-demo/pull/249) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+
+#### Authors: 2
+
+- [@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot])
+- Evan Lovely ([@EvanLovely](https://github.com/EvanLovely))
+
+---
+
 # v0.1.68 (Tue Apr 30 2024)
 
 #### ⚠️ Pushed to `main`
