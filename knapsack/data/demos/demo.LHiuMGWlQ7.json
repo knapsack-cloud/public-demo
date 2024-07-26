@@ -18,5 +18,7 @@
       ]
     }
   },
-  "templateId": "react"
+  "templateId": "react",
+  "height": 582,
+  "width": 559
 }
