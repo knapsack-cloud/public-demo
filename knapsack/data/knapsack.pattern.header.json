@@ -1,7 +1,7 @@
 {
   "id": "header",
   "title": "Header",
-  "description": "",
+  "description": "Primary navigation hub, integrating brand identity and key navigational elements in a consistent, accessible layout across all user interfaces.",
   "statuses": {},
   "templates": [
     {

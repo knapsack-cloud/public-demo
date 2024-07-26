@@ -1,0 +1,24 @@
+{
+  "id": "Y1cpPAQIbl",
+  "title": "Action Card",
+  "description": "A description",
+  "type": "data",
+  "patternId": "card",
+  "templateId": "react-goixdoVDJF",
+  "data": {
+    "props": {
+      "title": "Collaboration",
+      "description": "Design systems foster better collaboration between designers and developers, streamlining the workflow and improving communication."
+    },
+    "slots": {
+      "children": [
+        {
+          "type": "template-demo",
+          "patternId": "button",
+          "templateId": "react-YyvGCWckZS",
+          "demoId": "dTO-sOGKb"
+        }
+      ]
+    }
+  }
+}

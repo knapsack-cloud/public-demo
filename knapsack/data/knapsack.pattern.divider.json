@@ -1,7 +1,7 @@
 {
   "id": "divider",
   "title": "Divider",
-  "description": "",
+  "description": "Separates content sections visually without cluttering the space, maintaining a clear, organized layout.",
   "statuses": {},
   "templates": [
     {

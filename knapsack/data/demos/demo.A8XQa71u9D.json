@@ -1,12 +1,16 @@
 {
   "id": "A8XQa71u9D",
-  "title": "New Variation",
+  "title": "Image Card",
   "description": "A description",
   "type": "data",
   "patternId": "card",
   "templateId": "react-goixdoVDJF",
   "data": {
-    "props": {},
+    "props": {
+      "title": "Efficiency",
+      "description": "With pre-defined elements and styles, teams can work faster and more efficiently, reducing the time spent on repetitive tasks.",
+      "imgUrl": "https://knapsack.imgix.net/site/public-demo/cardimage1-0vn0hpyxupng"
+    },
     "slots": {}
   }
 }

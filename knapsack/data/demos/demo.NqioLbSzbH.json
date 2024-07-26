@@ -1,19 +1,19 @@
 {
-  "id": "rzOYDCIFyP",
-  "title": "Main",
+  "id": "NqioLbSzbH",
+  "title": "Title",
   "type": "data",
   "patternId": "text",
   "data": {
     "props": {
       "align": "center",
-      "spacingBottom": "xlarge",
-      "type": "body"
+      "spacingBottom": "none",
+      "type": "title"
     },
     "slots": {
       "children": [
         {
           "type": "text",
-          "text": "Aliqua aliquip Lorem deserunt do mollit fugiat in sint aliquip consectetur est."
+          "text": "Title"
         }
       ]
     }

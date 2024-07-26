@@ -1,7 +1,7 @@
 {
   "id": "card",
   "title": "Card",
-  "description": "",
+  "description": "Groups related content in a structured layout, making it easy to digest and interact with.",
   "statuses": {},
   "templates": [
     {
@@ -30,9 +30,13 @@
           },
           "description": ""
         },
-        "slots": {}
+        "slots": {
+          "children": {
+            "title": "children"
+          }
+        }
       },
-      "demoIds": ["IQOy6Jhjs", "A8XQa71u9D"],
+      "demoIds": ["IQOy6Jhjs", "A8XQa71u9D", "Y1cpPAQIbl"],
       "blockIds": []
     }
   ],

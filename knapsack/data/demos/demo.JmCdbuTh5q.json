@@ -1,19 +1,19 @@
 {
-  "id": "gPyvisKrfn",
-  "title": "Heading Large",
+  "id": "JmCdbuTh5q",
+  "title": "Heading Small",
   "type": "data",
   "patternId": "text",
   "data": {
     "props": {
       "align": "center",
       "spacingBottom": "none",
-      "type": "headingLarge"
+      "type": "headingSmall"
     },
     "slots": {
       "children": [
         {
           "type": "text",
-          "text": "Heading Large"
+          "text": "Heading Small"
         }
       ]
     }

@@ -7,7 +7,7 @@
   "data": {
     "props": {
       "size": "medium",
-      "label": "Button",
+      "label": "See How",
       "type": "filled"
     },
     "slots": {}

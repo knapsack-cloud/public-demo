@@ -1,13 +1,13 @@
 {
-  "id": "11SiConMH8",
-  "title": "Main",
+  "id": "n5A0Nq4hA8",
+  "title": "Secondary Button",
   "type": "data",
   "patternId": "button",
   "templateId": "react-YyvGCWckZS",
   "data": {
     "props": {
       "size": "medium",
-      "label": "View Demo",
+      "label": "Button",
       "type": "outlined"
     },
     "slots": {}

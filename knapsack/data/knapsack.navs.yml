@@ -56,7 +56,7 @@ order:
   - divider
   - header
   - hero
-  - assets
   - grid
   - callout
   - text
+  - assets

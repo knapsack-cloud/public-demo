@@ -1,0 +1,36 @@
+{
+  "id": "AQH8MTBz4x",
+  "title": "Three Column Grid",
+  "type": "data",
+  "patternId": "grid",
+  "data": {
+    "props": {
+      "columns": "3",
+      "gap": "large"
+    },
+    "slots": {
+      "children": [
+        {
+          "type": "template-demo",
+          "patternId": "card",
+          "templateId": "react-goixdoVDJF",
+          "demoId": "IQOy6Jhjs"
+        },
+        {
+          "type": "template-demo",
+          "patternId": "card",
+          "templateId": "react-goixdoVDJF",
+          "demoId": "ehcJcNslbu"
+        },
+        {
+          "type": "template-demo",
+          "patternId": "card",
+          "templateId": "react-goixdoVDJF",
+          "demoId": "J9Jf7E5E00"
+        }
+      ]
+    }
+  },
+  "templateId": "react",
+  "theme": {}
+}

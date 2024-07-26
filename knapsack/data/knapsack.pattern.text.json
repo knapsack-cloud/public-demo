@@ -1,7 +1,7 @@
 {
   "id": "text",
   "title": "Text",
-  "description": "",
+  "description": "Standardizes typography, ensuring clarity and consistency.",
   "statuses": {},
   "templates": [
     {
@@ -13,7 +13,14 @@
       "spec": {
         "isInferred": true
       },
-      "demoIds": ["gPyvisKrfn"],
+      "demoIds": [
+        "gPyvisKrfn",
+        "s5FdBRboi2",
+        "JmCdbuTh5q",
+        "NqioLbSzbH",
+        "kaUB4s4fh5",
+        "LHiuMGWlQ7"
+      ],
       "blockIds": []
     }
   ],

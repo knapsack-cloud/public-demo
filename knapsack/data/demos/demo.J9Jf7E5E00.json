@@ -1,0 +1,15 @@
+{
+  "id": "J9Jf7E5E00",
+  "title": "Basic Card",
+  "type": "data",
+  "patternId": "card",
+  "templateId": "react-goixdoVDJF",
+  "data": {
+    "props": {
+      "title": "Collaboration",
+      "description": "Design systems foster better collaboration between designers and developers, streamlining the workflow and improving communication.",
+      "imgUrl": "https://knapsack.imgix.net/site/public-demo/cardimage3-fezerpd70npng"
+    },
+    "slots": {}
+  }
+}

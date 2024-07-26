@@ -1,19 +1,19 @@
 {
-  "id": "gPyvisKrfn",
-  "title": "Heading Large",
+  "id": "tU4N0yVVR",
+  "title": "Body",
   "type": "data",
   "patternId": "text",
   "data": {
     "props": {
       "align": "center",
-      "spacingBottom": "none",
-      "type": "headingLarge"
+      "spacingBottom": "xxxlarge",
+      "type": "body"
     },
     "slots": {
       "children": [
         {
           "type": "text",
-          "text": "Heading Large"
+          "text": "With design systems, teams can work faster and reuse elements, saving time and effort."
         }
       ]
     }

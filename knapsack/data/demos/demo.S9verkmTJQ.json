@@ -1,19 +1,19 @@
 {
-  "id": "0fnPtyw4x0",
-  "title": "Main",
+  "id": "S9verkmTJQ",
+  "title": "Heading Medium",
   "type": "data",
   "patternId": "text",
   "data": {
     "props": {
       "align": "center",
-      "spacingBottom": "large",
+      "spacingBottom": "xlarge",
       "type": "headingLarge"
     },
     "slots": {
       "children": [
         {
           "type": "text",
-          "text": "Unlock your potential with strategy"
+          "text": "Unify Team Expertise"
         }
       ]
     }

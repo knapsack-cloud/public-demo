@@ -1,14 +1,13 @@
 {
   "id": "IQOy6Jhjs",
-  "title": "Main",
+  "title": "Basic Card",
   "type": "data",
   "patternId": "card",
   "templateId": "react-goixdoVDJF",
   "data": {
     "props": {
-      "title": "Info",
-      "description": "Click here for more info about our product",
-      "imgUrl": "https://knapsack.imgix.net/site/public-demo/cardimage1-0vn0hpyxupng"
+      "title": "Consistency",
+      "description": "Design systems ensure a consistent look and feel across all your products, making the user experience seamless and intuitive."
     },
     "slots": {}
   }

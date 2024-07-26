@@ -1,0 +1,14 @@
+{
+  "id": "XaCLYeEDp6",
+  "title": "Basic Card",
+  "type": "data",
+  "patternId": "card",
+  "templateId": "react-goixdoVDJF",
+  "data": {
+    "props": {
+      "title": "Efficiency",
+      "description": "With pre-defined elements and styles, teams can work faster and more efficiently, reducing the time spent on repetitive tasks."
+    },
+    "slots": {}
+  }
+}

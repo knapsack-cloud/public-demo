@@ -1,7 +1,7 @@
 {
   "id": "button",
   "title": "Button",
-  "description": "",
+  "description": "Initiates user actions or decisions with a clear, clickable interface element.",
   "statuses": {},
   "templates": [
     {
@@ -35,7 +35,7 @@
         },
         "slots": {}
       },
-      "demoIds": ["iRzqZlxWRK"],
+      "demoIds": ["iRzqZlxWRK", "n5A0Nq4hA8"],
       "blockIds": []
     }
   ],

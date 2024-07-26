@@ -1,0 +1,42 @@
+{
+  "id": "qGX4qu84Qr",
+  "title": "Four Column Grid",
+  "type": "data",
+  "patternId": "grid",
+  "data": {
+    "props": {
+      "columns": "4",
+      "gap": "large"
+    },
+    "slots": {
+      "children": [
+        {
+          "type": "template-demo",
+          "patternId": "card",
+          "templateId": "react-goixdoVDJF",
+          "demoId": "IQOy6Jhjs"
+        },
+        {
+          "type": "template-demo",
+          "patternId": "card",
+          "templateId": "react-goixdoVDJF",
+          "demoId": "ehcJcNslbu"
+        },
+        {
+          "type": "template-demo",
+          "patternId": "card",
+          "templateId": "react-goixdoVDJF",
+          "demoId": "CGQin9d52T"
+        },
+        {
+          "type": "template-demo",
+          "patternId": "card",
+          "templateId": "react-goixdoVDJF",
+          "demoId": "M-hoZoXH3W"
+        }
+      ]
+    }
+  },
+  "templateId": "react",
+  "theme": {}
+}

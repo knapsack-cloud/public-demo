@@ -19,49 +19,43 @@
           "type": "template-demo",
           "patternId": "hero",
           "templateId": "react-QxnD7Lbwtj",
-          "demoId": "c19G4OAqqo"
+          "demoId": "iESXMiWQH2"
         },
         {
           "type": "template-demo",
           "patternId": "divider",
           "templateId": "react-3V8BbcWd1F",
-          "demoId": "9r-R8sjn"
+          "demoId": "CCQbXD5-Sa"
         },
         {
           "type": "template-demo",
           "patternId": "text",
           "templateId": "react",
-          "demoId": "0fnPtyw4x0"
+          "demoId": "S9verkmTJQ"
         },
         {
           "type": "template-demo",
           "patternId": "text",
           "templateId": "react",
-          "demoId": "rzOYDCIFyP"
+          "demoId": "tU4N0yVVR"
         },
         {
           "type": "template-demo",
           "patternId": "grid",
           "templateId": "react",
-          "demoId": "kws1bg1Ocs"
+          "demoId": "yUwGcptjR"
         },
         {
           "type": "template-demo",
           "patternId": "divider",
           "templateId": "react-3V8BbcWd1F",
-          "demoId": "X-qcSei9Lz"
+          "demoId": "6eWBbsLgH"
         },
         {
           "type": "template-demo",
           "patternId": "callout",
           "templateId": "react",
           "demoId": "OclrMnKp8"
-        },
-        {
-          "type": "template-demo",
-          "patternId": "text",
-          "templateId": "react",
-          "demoId": "BpzSq0KQ-a"
         }
       ]
     }

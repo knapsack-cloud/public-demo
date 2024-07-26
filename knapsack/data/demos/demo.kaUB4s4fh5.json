@@ -1,19 +1,19 @@
 {
-  "id": "BpzSq0KQ-a",
-  "title": "Main",
+  "id": "kaUB4s4fh5",
+  "title": "Subtitle",
   "type": "data",
   "patternId": "text",
   "data": {
     "props": {
       "align": "center",
       "spacingBottom": "none",
-      "type": "body"
+      "type": "subtitle"
     },
     "slots": {
       "children": [
         {
           "type": "text",
-          "text": "© 2024 Arcadia. All Rights Reserved."
+          "text": "Subtitle"
         }
       ]
     }

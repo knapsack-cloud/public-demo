@@ -1,7 +1,7 @@
 {
   "id": "grid",
   "title": "Grid",
-  "description": "",
+  "description": "Provides a robust framework for designing scalable and responsive layouts, ensuring content alignment and consistency across devices.",
   "statuses": {},
   "templates": [
     {
@@ -49,7 +49,7 @@
           }
         }
       },
-      "demoIds": ["yeZby3GCpl"],
+      "demoIds": ["yeZby3GCpl", "Wmdb4YoJYc", "AQH8MTBz4x", "qGX4qu84Qr"],
       "blockIds": []
     }
   ],

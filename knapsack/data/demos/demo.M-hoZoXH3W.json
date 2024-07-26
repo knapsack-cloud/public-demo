@@ -1,0 +1,14 @@
+{
+  "id": "M-hoZoXH3W",
+  "title": "Basic Card",
+  "type": "data",
+  "patternId": "card",
+  "templateId": "react-goixdoVDJF",
+  "data": {
+    "props": {
+      "title": "Scalability",
+      "description": "Design systems provide a scalable framework, allowing your product to grow and adapt without compromising quality or consistency."
+    },
+    "slots": {}
+  }
+}

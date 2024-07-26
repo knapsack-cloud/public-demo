@@ -1,0 +1,14 @@
+{
+  "id": "CGQin9d52T",
+  "title": "Basic Card",
+  "type": "data",
+  "patternId": "card",
+  "templateId": "react-goixdoVDJF",
+  "data": {
+    "props": {
+      "title": "Collaboration",
+      "description": "Design systems foster better collaboration between designers and developers, streamlining the workflow and improving communication"
+    },
+    "slots": {}
+  }
+}

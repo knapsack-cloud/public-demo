@@ -1,14 +1,12 @@
 {
-  "id": "kws1bg1Ocs",
-  "title": "Main",
+  "id": "Wmdb4YoJYc",
+  "title": "Two Column Grid",
   "type": "data",
   "patternId": "grid",
   "data": {
     "props": {
-      "columns": "3",
-      "gap": "medium",
-      "maxWidth": "1024px",
-      "spacingBottom": "xxxlarge"
+      "columns": "2",
+      "gap": "large"
     },
     "slots": {
       "children": [
@@ -22,16 +20,11 @@
           "type": "template-demo",
           "patternId": "card",
           "templateId": "react-goixdoVDJF",
-          "demoId": "IQOy6Jhjs"
-        },
-        {
-          "type": "template-demo",
-          "patternId": "card",
-          "templateId": "react-goixdoVDJF",
-          "demoId": "IQOy6Jhjs"
+          "demoId": "XaCLYeEDp6"
         }
       ]
     }
   },
-  "templateId": "react"
+  "templateId": "react",
+  "theme": {}
 }

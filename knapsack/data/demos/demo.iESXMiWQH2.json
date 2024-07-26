@@ -1,13 +1,13 @@
 {
   "id": "iESXMiWQH2",
-  "title": "Main",
+  "title": "Basic Hero",
   "type": "data",
   "patternId": "hero",
   "templateId": "react-QxnD7Lbwtj",
   "data": {
     "props": {
-      "title": "Title",
-      "subtitle": "Content"
+      "title": "Streamline Your Workflow",
+      "subtitle": "Simplify your work, improve team collaboration, and keep everything consistent"
     },
     "slots": {
       "children": [
