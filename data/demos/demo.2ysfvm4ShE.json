@@ -2,16 +2,16 @@
   "data": {
     "props": {
       "mode": "info",
-      "size": "medium",
+      "size": "large",
       "type": "solid",
       "url": "#url",
-      "outline": false,
+      "outline": true,
       "icon": false
     },
     "slots": {
       "children": [
         {
-          "text": "Button",
+          "text": "Best Button",
           "type": "text"
         }
       ]
