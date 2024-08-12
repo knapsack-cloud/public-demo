@@ -23,7 +23,8 @@
         "loUpv6MP2O",
         "5s481AlqRI",
         "SF3vZC572N",
-        "karJzHDqi7"
+        "karJzHDqi7",
+        "ZLuJxI5e0M"
       ],
       "blockIds": [],
       "assetSetIds": ["default"]
@@ -111,8 +112,8 @@
     }
   ],
   "statuses": {
-    "design": "needs-updated",
-    "react": "ready",
+    "design": "ready",
+    "react": "needs-updated",
     "twig": "ready",
     "handlebars": "ready",
     "web-components": "needs-dev"
