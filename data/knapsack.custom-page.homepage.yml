@@ -2,16 +2,19 @@ id: homepage
 title: Welcome to Knapsack
 settings:
   pageHeader:
-    size: full
+    size: large
     textColorTitle:
       type: design-token
-      tokenName: color-brand-primary
+      tokenName: color.brand.white
       colorValue: '#FFFFFF'
-    backgroundImage: https://knapsack.imgix.net/site/public-demo/clark-van-der-beken-596baa0mpym-unsplash-o5drv55uvq.jpg
+    backgroundImage: >-
+      https://knapsack.imgix.net/site/public-demo/flying-to-dubai-uae-finally-lifts-all-entry-requirements-returning-to-normal-travel-edited-scaled-lyutknfwgrwebp
     textColorDescription:
       type: design-token
-      tokenName: color-Meh-black
+      tokenName: color.brand.white
       colorValue: '#FFFFFF'
+    backgroundOverlay: true
+    backgroundSize: cover
 description: |-
   A shared platform for product teams to collaborate
   on documenting, designing, building, testing, and shipping
