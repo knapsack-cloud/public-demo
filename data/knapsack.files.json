@@ -1,3 +1,18 @@
 {
-  "files": {}
+  "files": {
+    "6257d5de-f27e-4e79-a3a4-633b620cc3c5": {
+      "id": "6257d5de-f27e-4e79-a3a4-633b620cc3c5",
+      "url": "https://knapsack.imgix.net/site/public-demo/emirates-light-s7fjwwurywoff",
+      "size": "66.3 KB",
+      "title": "Emirates-Light.woff",
+      "mimetype": "application/font-woff"
+    },
+    "6b6b5ad3-04f6-4824-b1c3-56c88f3d248e": {
+      "id": "6b6b5ad3-04f6-4824-b1c3-56c88f3d248e",
+      "url": "https://knapsack.imgix.net/site/public-demo/emirates-light-snorqzypctwoff",
+      "size": "66.3 KB",
+      "title": "Emirates-Light.woff",
+      "mimetype": "application/font-woff"
+    }
+  }
 }

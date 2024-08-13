@@ -23,7 +23,8 @@
         "loUpv6MP2O",
         "5s481AlqRI",
         "SF3vZC572N",
-        "karJzHDqi7"
+        "karJzHDqi7",
+        "DYR77XJRDz"
       ],
       "blockIds": [],
       "assetSetIds": ["default"]
@@ -108,6 +109,14 @@
     {
       "id": "t8PlLMPbv",
       "type": "subPage"
+    },
+    {
+      "id": "ZeGdTRtIWQ",
+      "type": "designSrc"
+    },
+    {
+      "id": "0kvqg0n370",
+      "type": "designSrc"
     }
   ],
   "statuses": {
@@ -123,6 +132,18 @@
       "title": "Figma Component",
       "fileId": "H3Jj1cltfXiGWijrYOaGBi",
       "componentId": "2:18"
+    },
+    "ZeGdTRtIWQ": {
+      "id": "ZeGdTRtIWQ",
+      "title": "Figma Component",
+      "fileId": "H3Jj1cltfXiGWijrYOaGBi",
+      "componentId": "2:18"
+    },
+    "0kvqg0n370": {
+      "id": "0kvqg0n370",
+      "title": "Figma Component",
+      "fileId": "H3Jj1cltfXiGWijrYOaGBi",
+      "componentId": "41:95"
     }
   }
 }

@@ -18,7 +18,30 @@
       "alias": "Card",
       "templateLanguageId": "react",
       "spec": {
-        "isInferred": true
+        "props": {
+          "$schema": "http://json-schema.org/draft-07/schema",
+          "type": "object",
+          "required": [],
+          "properties": {
+            "body": {
+              "type": "string",
+              "description": "Content to fill out ONE paragraph"
+            },
+            "imgSrc": {
+              "type": "string"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "description": "Cards contain content and actions about a single subject."
+        },
+        "slots": {
+          "children": {
+            "title": "children",
+            "description": "undefined. Only use: author, button"
+          }
+        }
       },
       "demoIds": [
         "RN96ZpJJpY",
@@ -55,6 +78,14 @@
     {
       "id": "DUDwMVuRDE",
       "type": "subPage"
+    },
+    {
+      "id": "NHzGZIjaNU",
+      "type": "designSrc"
+    },
+    {
+      "id": "4AXv9KAnvv",
+      "type": "subPage"
     }
   ],
   "subPages": [
@@ -75,7 +106,7 @@
     {
       "id": "Accessibility",
       "title": "Accessibility",
-      "blockIds": ["DiHe471EgD", "tyeC6Hiswb", "pR3IAfgqBA"]
+      "blockIds": ["DiHe471EgD", "tyeC6Hiswb", "pR3IAfgqBA", "fDCd-bGyj4"]
     },
     {
       "id": "Figma",
@@ -92,6 +123,11 @@
         "ce42V4ncHt",
         "6xmHPaAvaJ"
       ]
+    },
+    {
+      "id": "4AXv9KAnvv",
+      "title": "Untitled",
+      "blockIds": ["l2y6PLjfUx"]
     }
   ],
   "designSrcComponentsById": {
@@ -100,6 +136,12 @@
       "title": "Figma Component",
       "fileId": "H3Jj1cltfXiGWijrYOaGBi",
       "componentId": "41:95"
+    },
+    "NHzGZIjaNU": {
+      "id": "NHzGZIjaNU",
+      "title": "Figma Component",
+      "fileId": "rzMpZtZ3PLH3eutORdrJ2o",
+      "componentId": "2:73"
     }
   }
 }

@@ -2,12 +2,12 @@
   "blockType": "design-token-block",
   "data": {
     "demo": {
-      "id": "color-swatch"
+      "id": "table-list"
     },
     "tokens": {
-      "category": "color",
       "name": "",
-      "tags": ["base"]
+      "tags": ["base"],
+      "category": "color"
     }
   },
   "id": "7-9Z3dxHft"

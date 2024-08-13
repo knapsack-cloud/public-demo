@@ -27,12 +27,12 @@ byId:
     path: /pages/Components-Overview
   Components-aPh3G1bbrX:
     id: Components-aPh3G1bbrX
-    name: Components
+    name: COMPONENTS
     parentId: root
     path: ''
   Design-Tokens-lNWaUqkDSo:
     id: Design-Tokens-lNWaUqkDSo
-    name: Design Tokens
+    name: DESIGN TOKENS
     parentId: root
     path: /pages/Design-Tokens-lNWaUqkDSo
   Layout:
@@ -40,27 +40,12 @@ byId:
     name: Layouts
     parentId: Components-aPh3G1bbrX
     path: ''
-  Page-Builders:
-    id: Page-Builders
-    name: Page Builders
-    parentId: Prototyping
-    path: ''
-  Page-Level-Prototyping:
-    id: Page-Level-Prototyping
-    name: Page-Level Prototyping
-    parentId: Prototyping
-    path: /pages/Page-Level-Prototyping
   Private-Pages:
     hidden: true
     id: Private-Pages
     name: Private Pages
     parentId: Admin
     path: /pages/Private-Pages
-  Prototyping:
-    id: Prototyping
-    name: Prototyping
-    parentId: root
-    path: ''
   Shadow:
     id: Shadow
     name: Shadow
@@ -128,7 +113,7 @@ byId:
     path: /pattern/footer
   getting-started:
     id: getting-started
-    name: Getting Started
+    name: GETTING STARTED
     parentId: root
     path: ''
   guidance:
@@ -163,7 +148,7 @@ byId:
     path: /pattern/message
   mobile:
     id: mobile
-    name: Mobile
+    name: MOBILE
     parentId: root
     path: /pages/mobile
   mobile-breakpoints:
@@ -189,8 +174,8 @@ byId:
     path: /pattern/new-component-in-progress
   one-pager:
     id: one-pager
-    name: One-Pager
-    parentId: Page-Builders
+    name: '  '
+    parentId: root
     path: /pattern/one-pager
   proposed-patterns:
     id: proposed-patterns
@@ -244,11 +229,8 @@ order:
   - proposed-patterns
   - message
   - input-field
-  - Prototyping
-  - Page-Level-Prototyping
-  - Page-Builders
-  - one-pager
   - mobile
+  - one-pager
   - mobile-design-standards
   - mobile-engineering-workflows
   - Admin

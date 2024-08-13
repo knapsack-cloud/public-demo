@@ -22,7 +22,9 @@ settings:
         type: figma
         url: https://www.figma.com/file/rzMpZtZ3PLH3eutORdrJ2o?version-id=5763001927
         version: '6248118586'
-  logoUrl: https://knapsack.imgix.net/site/public-demo/knapsack-logomark-primary@3x-c3fjqx5ll_.png
+  favicon: https://knapsack.imgix.net/site/public-demo/emirateslogosvg-79ymwizsbkpng
+  hideTitleInNavigation: false
+  logoUrl: https://knapsack.imgix.net/site/public-demo/emirateslogosvg-s5dwz61aepng
   prototyping:
     patternId: one-pager
   theme:
@@ -42,6 +44,20 @@ settings:
               type: url
           style: normal
           weight: 400
+        - family: Emirates
+          src:
+            - format: woff
+              path: https://globalfonts.pro/global_files/5edb80f6ef739105b399abc6/files/Emirates-Light.woff
+              type: url
+          style: normal
+          weight: ''
+        - family: Helvetica Neue Roman
+          src:
+            - format: woff
+              path: https://globalfonts.pro/global_files/5c168bb7b2143e318c4cdb0f/files/HelveticaNeueCyr-Roman.woff
+              type: url
+          style: normal
+          weight: ''
       navigation:
         primaryNav:
           accentColor:
@@ -53,36 +69,39 @@ settings:
           fontFamily: Inter
           fontWeight: 800
           hoverColor:
-            tokenName: color.brand.secondary
+            tokenName: color.brand.primary
             type: design-token
-          lineHeight: ''
           textColor:
-            tokenName: color.text.inverse
+            tokenName: color.brand.white
             type: design-token
         secondaryNav:
           accentColor:
-            tokenName: color-brand-secondary
+            tokenName: color.brand.primary
             type: design-token
           fontFamily: Inter
           fontWeight: 500
+          textColor:
+            tokenName: color.brand.black
+            type: design-token
         tabs:
           fontFamily: Inter
       pageElements:
-        bodyText: {}
-        headingLarge:
+        bodyText:
           fontFamily: Inter
+        headingLarge:
+          fontFamily: Emirates
           fontWeight: 400
         headingMedium:
-          fontFamily: Nunito
+          fontFamily: Emirates
           textTransform: inherit
         headingSmall:
-          fontFamily: Inter
+          fontFamily: Emirates
         headingXLarge:
-          fontFamily: Inter
+          fontFamily: Emirates
           fontWeight: 600
           textTransform: inherit
         headingXSmall:
-          fontFamily: Inter
+          fontFamily: Emirates
         link:
           fontWeight: 600
           textColor:
@@ -93,11 +112,11 @@ settings:
           fontFamily: Inter
           fontWeight: 400
         pageTitle:
-          fontFamily: Inter
+          fontFamily: Emirates
           fontWeight: 800
           textTransform: inherit
     version: 10
-  title: Public Demo
+  title: Design System
   tokens:
     theming:
       enabledRendererIds:
