@@ -77,7 +77,7 @@
       },
       "primary": {
         "$type": "color",
-        "$value": "#6436BF"
+        "$value": "{color.base.green}"
       },
       "tertiary": {
         "$type": "color",
@@ -359,7 +359,7 @@
           "$value": "#ffffff"
         },
         "light": {
-          "$value": "#7b58cf"
+          "$value": "{color.dark.green}"
         },
         "$type": "color",
         "$extensions": {
