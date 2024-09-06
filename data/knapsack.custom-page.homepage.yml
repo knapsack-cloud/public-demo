@@ -2,19 +2,24 @@ id: homepage
 title: Welcome to Knapsack
 settings:
   pageHeader:
-    size: full
+    size: medium
     textColorTitle:
       type: design-token
-      tokenName: color-brand-primary
+      tokenName: color.brand.black
       colorValue: '#FFFFFF'
-    backgroundImage: https://knapsack.imgix.net/site/public-demo/clark-van-der-beken-596baa0mpym-unsplash-o5drv55uvq.jpg
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/slide-169-20-5pl6zqxoefpng
     textColorDescription:
       type: design-token
-      tokenName: color-Meh-black
+      tokenName: color.brand.primary
       colorValue: '#FFFFFF'
+    backgroundOverlay: false
+    backgroundSize: cover
+  hideTableOfContents: false
 description: |-
   A shared platform for product teams to collaborate
   on documenting, designing, building, testing, and shipping
   their digital products.
 blockIds:
   - Iu6QKbz80R
+  - eflM2O0Tx
+  - XzVFrU2hm7
