@@ -63,8 +63,8 @@
       ]
     },
     {
-      "id": "web-components",
-      "title": "Web Components",
+      "id": "XxoaFhU8EE",
+      "title": "CSS",
       "statuses": [
         {
           "id": "unset",
@@ -100,22 +100,6 @@
           "id": "wont-build",
           "color": "#ededed",
           "title": "Won't Build"
-        }
-      ]
-    },
-    {
-      "id": "qEBpl8oPtd",
-      "title": "Mobile",
-      "statuses": [
-        {
-          "id": "CaUlKPrsPQ",
-          "color": "#ccedb1",
-          "title": "Ready"
-        },
-        {
-          "id": "BAwEpqi4W",
-          "color": "#ff9fd3",
-          "title": "Not Ready"
         }
       ]
     }

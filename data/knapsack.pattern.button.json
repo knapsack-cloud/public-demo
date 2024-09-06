@@ -1,7 +1,7 @@
 {
   "id": "button",
   "title": "Button",
-  "description": "Buttons are used to initialize an action. Button labels express what action will occur when the user interacts with it.",
+  "description": "A button initiates an action or navigates to a new destination. Buttons help users discover available actions and accomplish their goals. Different button variants establish a hierarchy and guide users through the interface.",
   "demoWidths": [
     {
       "width": 180
@@ -34,6 +34,8 @@
       "id": "Overview",
       "title": "Usage",
       "blockIds": [
+        "tkwfpYYFLp",
+        "jM9IKerPOI",
         "YkyHkvdzp_",
         "vFalbAV-gx",
         "1LTGO8xsrC",
@@ -111,11 +113,11 @@
     }
   ],
   "statuses": {
-    "design": "needs-updated",
+    "design": "ready",
     "react": "ready",
     "twig": "ready",
     "handlebars": "ready",
-    "web-components": "needs-dev"
+    "XxoaFhU8EE": "ready"
   },
   "designSrcComponentsById": {
     "P1BaxXtxDV": {

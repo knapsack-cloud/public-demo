@@ -15,9 +15,7 @@
     "twig": "needs-dev",
     "react": "needs-dev",
     "design": "needs-updated",
-    "handlebars": "wont-build",
-    "web-components": "wont-build",
-    "qEBpl8oPtd": "BAwEpqi4W"
+    "handlebars": "wont-build"
   },
   "subPages": [
     {

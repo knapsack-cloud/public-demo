@@ -18,9 +18,7 @@
   "statuses": {
     "twig": "needs-dev",
     "react": "needs-qa",
-    "design": "ready",
-    "web-components": "needs-dev",
-    "qEBpl8oPtd": "CaUlKPrsPQ"
+    "design": "ready"
   },
   "subPages": [
     {

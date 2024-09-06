@@ -68,7 +68,7 @@ byId:
     path: /pages/Shadow
   Simple:
     id: Simple
-    name: Simple Patterns
+    name: Components
     parentId: Components-aPh3G1bbrX
     path: ''
   adding-design-tokens:

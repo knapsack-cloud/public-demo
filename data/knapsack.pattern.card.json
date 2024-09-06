@@ -6,9 +6,7 @@
     "design": "ready",
     "twig": "needs-updated",
     "react": "needs-updated",
-    "handlebars": "ready",
-    "web-components": "needs-dev",
-    "qEBpl8oPtd": "CaUlKPrsPQ"
+    "handlebars": "ready"
   },
   "templates": [
     {
