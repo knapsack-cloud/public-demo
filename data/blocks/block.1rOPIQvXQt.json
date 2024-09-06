@@ -1,0 +1,21 @@
+{
+  "id": "1rOPIQvXQt",
+  "data": {
+    "excludeHiddenNavItems": false,
+    "excludePatterns": [
+      "author",
+      "button",
+      "card",
+      "footer",
+      "header",
+      "hero",
+      "input-field",
+      "layout",
+      "message",
+      "one-pager",
+      "top-nav",
+      "this-is-a-pattern"
+    ]
+  },
+  "blockType": "pattern-status-table-block"
+}

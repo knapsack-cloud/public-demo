@@ -14,7 +14,6 @@
   "statuses": {
     "twig": "needs-dev",
     "react": "ready",
-    "design": "ready",
     "handlebars": "wont-build",
     "web-components": "wont-build"
   },
@@ -55,7 +54,7 @@
       "title": "Playground",
       "templateLanguageId": "react",
       "assetSetIds": ["default", "dark"],
-      "demoIds": ["jIkrNzJ0cO", "eYJV0byNIp"],
+      "demoIds": ["jIkrNzJ0cO", "eYJV0byNIp", "6JlEeKNm0"],
       "blockIds": []
     }
   ],

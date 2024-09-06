@@ -1,0 +1,17 @@
+{
+  "id": "W7ch4q7c-S",
+  "data": {
+    "items": [
+      {
+        "fileId": "vfin9Ahl07xdICW4xHnTHV",
+        "nodeId": "2430:313290"
+      }
+    ],
+    "columns": "1",
+    "imageStyles": {
+      "seamless": true
+    },
+    "hideComponentProps": false
+  },
+  "blockType": "design-src-tiles"
+}

@@ -1,27 +1,6 @@
 {
   "statusSets": [
     {
-      "id": "design",
-      "title": "Design",
-      "statuses": [
-        {
-          "id": "needs-design",
-          "color": "#bfdaf9",
-          "title": "Needs Design"
-        },
-        {
-          "id": "ready",
-          "color": "#ccedb1",
-          "title": "Ready"
-        },
-        {
-          "id": "needs-updated",
-          "color": "#ff9fd3",
-          "title": "Needs Update"
-        }
-      ]
-    },
-    {
       "id": "react",
       "title": "React",
       "statuses": [
