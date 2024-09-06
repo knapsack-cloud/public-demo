@@ -68,7 +68,7 @@ byId:
     path: /pages/Shadow
   Simple:
     id: Simple
-    name: Simple Patterns
+    name: Components
     parentId: Components-aPh3G1bbrX
     path: ''
   adding-design-tokens:
@@ -141,6 +141,11 @@ byId:
     name: Hero
     parentId: Layout
     path: /pattern/hero
+  huh2:
+    id: huh2
+    name: Pattern
+    parentId: Simple
+    path: /pattern/huh2
   input-field:
     id: input-field
     name: Input Field
@@ -187,11 +192,21 @@ byId:
     name: New Component (in progress)
     parentId: Admin
     path: /pattern/new-component-in-progress
+  new-group:
+    id: new-group
+    name: New group
+    parentId: root
+    path: ''
   one-pager:
     id: one-pager
     name: One-Pager
     parentId: Page-Builders
     path: /pattern/one-pager
+  page:
+    id: page
+    name: Page
+    parentId: Simple
+    path: /pages/page
   proposed-patterns:
     id: proposed-patterns
     name: Proposed Patterns
@@ -202,6 +217,11 @@ byId:
     name: Spacing
     parentId: Design-Tokens-lNWaUqkDSo
     path: /pages/spacing
+  this-is-a-pattern:
+    id: this-is-a-pattern
+    name: This is a pattern
+    parentId: Simple
+    path: /pattern/this-is-a-pattern
   top-nav:
     id: top-nav
     name: Top Nav
@@ -229,6 +249,7 @@ order:
   - Breakpoints
   - Shadow
   - Animation
+  - new-group
   - Components-aPh3G1bbrX
   - Components-Overview
   - Simple
@@ -255,3 +276,6 @@ order:
   - Private-Pages
   - new-component-in-progress
   - mobile-breakpoints
+  - this-is-a-pattern
+  - huh2
+  - page

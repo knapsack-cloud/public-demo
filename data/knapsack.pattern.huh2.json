@@ -1,0 +1,32 @@
+{
+  "id": "huh2",
+  "tabs": [
+    {
+      "id": "Bvz-Unuh5F",
+      "type": "designSrc"
+    },
+    {
+      "id": "zT04TwB857",
+      "type": "subPage"
+    }
+  ],
+  "title": "Pattern",
+  "statuses": {},
+  "subPages": [
+    {
+      "id": "zT04TwB857",
+      "title": "Untitled",
+      "blockIds": ["s5NwqAb4Cm", "W7ch4q7c-S"]
+    }
+  ],
+  "templates": [],
+  "description": "",
+  "designSrcComponentsById": {
+    "Bvz-Unuh5F": {
+      "id": "Bvz-Unuh5F",
+      "title": "Figma Component",
+      "fileId": "vfin9Ahl07xdICW4xHnTHV",
+      "componentId": "1964:402260"
+    }
+  }
+}

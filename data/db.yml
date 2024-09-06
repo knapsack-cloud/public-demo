@@ -1,6 +1,10 @@
 blocks:
   settings:
+    guidelines:
+      headerSize: h1
+    showHeaderByDefault: false
     tokens:
+      nameDisplayFormat: default
       rootFontSize: 16px
 demos:
   settings: {}
@@ -22,6 +26,11 @@ settings:
         type: figma
         url: https://www.figma.com/file/rzMpZtZ3PLH3eutORdrJ2o?version-id=5763001927
         version: '6248118586'
+      - fileId: vfin9Ahl07xdICW4xHnTHV
+        name: Weave 2.0 | Medium density
+        type: figma
+        url: https://www.figma.com/file/vfin9Ahl07xdICW4xHnTHV?version-id=6572492951
+        version: '6572492951'
   logoUrl: https://knapsack.imgix.net/site/public-demo/knapsack-logomark-primary@3x-c3fjqx5ll_.png
   prototyping:
     patternId: one-pager
@@ -48,16 +57,15 @@ settings:
             tokenName: color.brand.primary
             type: design-token
           backgroundColor:
-            tokenName: color.brand.black
+            tokenName: color.text.inverse
             type: design-token
           fontFamily: Inter
           fontWeight: 800
           hoverColor:
             tokenName: color.brand.secondary
             type: design-token
-          lineHeight: ''
           textColor:
-            tokenName: color.text.inverse
+            tokenName: color.text.default
             type: design-token
         secondaryNav:
           accentColor:
@@ -103,3 +111,4 @@ settings:
       enabledRendererIds:
         - react
         - html
+        - web-components
