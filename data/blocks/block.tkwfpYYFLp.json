@@ -1,0 +1,89 @@
+{
+  "id": "tkwfpYYFLp",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 1,
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Anatomy",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "A ",
+              "type": "text"
+            },
+            {
+              "text": "button",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "text": " consists of either a ",
+              "type": "text"
+            },
+            {
+              "text": "label",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "text": ", an ",
+              "type": "text"
+            },
+            {
+              "text": "icon",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "text": ", or both. Contained, outlined and text buttons have a visible ",
+              "type": "text"
+            },
+            {
+              "text": "button surface",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "text": ". In the case of text buttons, that button surface becomes visible only when interacting with it. Link buttons do not have a visible button surface.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "size": "large",
+  "blockType": "text-editor"
+}
