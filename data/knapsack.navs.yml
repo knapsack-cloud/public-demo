@@ -101,6 +101,11 @@ byId:
     name: Button
     parentId: Simple
     path: /pattern/button
+  button-p:
+    id: button-p
+    name: Button - P
+    parentId: Simple
+    path: /pages/button-p
   card:
     id: card
     name: Card
@@ -255,3 +260,4 @@ order:
   - Private-Pages
   - new-component-in-progress
   - mobile-breakpoints
+  - button-p
