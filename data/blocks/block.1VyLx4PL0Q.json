@@ -3,7 +3,7 @@
   "data": {
     "demoId": "2ysfvm4ShE",
     "patternId": "button",
-    "size": "s",
+    "size": "full",
     "templateId": "react",
     "variationId": "size"
   },

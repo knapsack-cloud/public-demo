@@ -108,6 +108,10 @@
     {
       "id": "t8PlLMPbv",
       "type": "subPage"
+    },
+    {
+      "id": "T-GnR5xSyD",
+      "type": "designSrc"
     }
   ],
   "statuses": {
@@ -120,6 +124,12 @@
   "designSrcComponentsById": {
     "P1BaxXtxDV": {
       "id": "P1BaxXtxDV",
+      "title": "Figma Component",
+      "fileId": "H3Jj1cltfXiGWijrYOaGBi",
+      "componentId": "2:18"
+    },
+    "T-GnR5xSyD": {
+      "id": "T-GnR5xSyD",
       "title": "Figma Component",
       "fileId": "H3Jj1cltfXiGWijrYOaGBi",
       "componentId": "2:18"
