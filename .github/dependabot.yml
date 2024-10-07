@@ -15,6 +15,4 @@ updates:
     group:
       name: "knapsack-dependencies"
       description: "Group updates for Knapsack dependencies"
-    reviewers:
-      - "brittanysmart"
     target-branch: "main"
