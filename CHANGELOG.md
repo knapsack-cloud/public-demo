@@ -1,3 +1,15 @@
+# v0.1.73 (Mon Oct 07 2024)
+
+#### 🐛 Bug Fix
+
+- Trigger Dependabot Updates [#293](https://github.com/knapsack-cloud/public-demo/pull/293) ([@brittanysmart](https://github.com/brittanysmart))
+
+#### Authors: 1
+
+- Brittany Smart ([@brittanysmart](https://github.com/brittanysmart))
+
+---
+
 # v0.1.72 (Mon Oct 07 2024)
 
 #### 🐛 Bug Fix
