@@ -12,7 +12,4 @@ updates:
     labels:
       - "knapsack-dependencies"
     versioning-strategy: increase
-    group:
-      name: "knapsack-dependencies"
-      description: "Group updates for Knapsack dependencies"
     target-branch: "main"
