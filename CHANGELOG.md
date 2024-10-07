@@ -1,3 +1,22 @@
+# v0.1.70 (Mon Oct 07 2024)
+
+#### 🐛 Bug Fix
+
+- Add Dependabot Configuration for Improved Package Management [#285](https://github.com/knapsack-cloud/public-demo/pull/285) ([@brittanysmart](https://github.com/brittanysmart))
+
+#### 📝 Documentation
+
+- update rest api figma source - Matt Admin [#284](https://github.com/knapsack-cloud/public-demo/pull/284) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+- update figma src - Matt Admin [#283](https://github.com/knapsack-cloud/public-demo/pull/283) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+- Removing OPIS name from modes - Jon [#272](https://github.com/knapsack-cloud/public-demo/pull/272) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+
+#### Authors: 2
+
+- [@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot])
+- Brittany Smart ([@brittanysmart](https://github.com/brittanysmart))
+
+---
+
 # v0.1.69 (Wed Jul 24 2024)
 
 #### 🐛 Bug Fix
