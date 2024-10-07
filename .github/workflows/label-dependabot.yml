@@ -1,56 +1,17 @@
-# This workflow automatically labels Dependabot PRs related to Knapsack dependencies
-
 name: Label Dependabot PRs
 
 on:
   pull_request:
     types: [opened, synchronize]
-    branches: [main]
-
-concurrency:
-  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
-  cancel-in-progress: true
 
 jobs:
   label:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
     permissions:
       issues: write
+    if: github.actor == 'dependabot[bot]'
     steps:
-      - name: Check if PR is from Dependabot
-        id: check_dependabot
-        run: |
-          echo "Actor: ${{ github.actor }}"
-          if [[ "${{ github.actor }}" == *"dependabot"* ]]; then
-            echo "is_dependabot=true" >> $GITHUB_ENV
-          else
-            echo "is_dependabot=false" >> $GITHUB_ENV
-            echo "Not a Dependabot PR, skipping label addition."
-            exit 0  # Exit early if not a Dependabot PR
-          fi
-
-      - name: Check if PR title is related to Knapsack dependencies
-        id: check_knapsack
-        run: |
-          PR_TITLE="${{ github.event.pull_request.title }}"
-          echo "PR Title: $PR_TITLE"
-          if [[ "${PR_TITLE,,}" == *"knapsack"* ]]; then
-            echo "is_knapsack=true" >> $GITHUB_ENV
-            echo "Adding label 'knapsack-dependencies'"
-          else
-            echo "is_knapsack=false" >> $GITHUB_ENV
-          fi
-
       - name: Add 'knapsack-dependencies' label
-        if: env.is_dependabot == 'true' && env.is_knapsack == 'true'
         uses: actions-ecosystem/action-add-labels@v1
         with:
-          labels: knapsack-dependencies
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Check for errors
-        if: failure()
-        run: |
-          echo "An error occurred during the workflow execution."
-          exit 1
+          labels: 'knapsack-dependencies'
