@@ -1,3 +1,15 @@
+# v0.1.72 (Mon Oct 07 2024)
+
+#### 🐛 Bug Fix
+
+- Dependabot updates for Knapsack dependencies [#292](https://github.com/knapsack-cloud/public-demo/pull/292) ([@brittanysmart](https://github.com/brittanysmart))
+
+#### Authors: 1
+
+- Brittany Smart ([@brittanysmart](https://github.com/brittanysmart))
+
+---
+
 # v0.1.71 (Mon Oct 07 2024)
 
 #### 🐛 Bug Fix
