@@ -5,7 +5,9 @@ updates:
     schedule:
       interval: "weekly"
     allow:
-      - dependency-name: "knapsack/*"
+      - dependency-name: "@knapsack/*"
     commit-message:
       prefix: "deps"
     open-pull-requests-limit: 5
+    labels:
+      - "dependencies"
