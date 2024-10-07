@@ -21,7 +21,8 @@ jobs:
       - name: Check if PR is from Dependabot
         id: check_dependabot
         run: |
-          if [[ "${{ github.actor }}" == "dependabot[bot]" ]]; then
+          echo "Actor: ${{ github.actor }}"
+          if [[ "${{ github.actor }}" == *"dependabot"* ]]; then
             echo "is_dependabot=true" >> $GITHUB_ENV
           else
             echo "is_dependabot=false" >> $GITHUB_ENV
