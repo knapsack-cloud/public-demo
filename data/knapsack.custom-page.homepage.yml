@@ -13,7 +13,7 @@ settings:
       tokenName: color-Meh-black
       colorValue: '#FFFFFF'
 description: |-
-  A shared platform for product teams to collaborate
+  An awesome shared platform for product teams to collaborate
   on documenting, designing, building, testing, and shipping
   their digital products.
 blockIds:
