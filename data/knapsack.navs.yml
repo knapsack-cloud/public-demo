@@ -121,6 +121,11 @@ byId:
     name: Customizing the Workspace
     parentId: guidance
     path: /pages/customizing-the-workspace
+  font:
+    id: font
+    name: Font
+    parentId: mobile
+    path: /pages/font
   footer:
     id: footer
     name: Footer
@@ -128,7 +133,7 @@ byId:
     path: /pattern/footer
   getting-started:
     id: getting-started
-    name: Getting Started
+    name: Brand Guidelines
     parentId: root
     path: ''
   guidance:
@@ -209,7 +214,9 @@ byId:
     path: /pattern/top-nav
   welcome-to-knapsack:
     id: welcome-to-knapsack
-    name: Welcome to Knapsack
+    name: |-
+      Welcome to Indeed's 
+      brand guidelines
     parentId: getting-started
     path: /pages/welcome-to-knapsack
 order:
@@ -255,3 +262,4 @@ order:
   - Private-Pages
   - new-component-in-progress
   - mobile-breakpoints
+  - font

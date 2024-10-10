@@ -15,7 +15,35 @@
       "alias": "Button",
       "templateLanguageId": "react",
       "spec": {
-        "isInferred": true
+        "props": {
+          "$schema": "http://json-schema.org/draft-07/schema",
+          "type": "object",
+          "required": [],
+          "properties": {
+            "url": {
+              "type": "string"
+            },
+            "size": {
+              "type": "string",
+              "enum": ["small", "medium", "large"]
+            },
+            "icon": {
+              "type": "boolean"
+            },
+            "outline": {
+              "type": "boolean"
+            },
+            "action": {
+              "type": "string",
+              "enum": ["success", "warning", "danger"]
+            }
+          }
+        },
+        "slots": {
+          "children": {
+            "title": "children"
+          }
+        }
       },
       "demoIds": [
         "2ysfvm4ShE",
@@ -108,6 +136,10 @@
     {
       "id": "t8PlLMPbv",
       "type": "subPage"
+    },
+    {
+      "id": "WnG3RtCGg0",
+      "type": "designSrc"
     }
   ],
   "statuses": {
@@ -120,6 +152,12 @@
   "designSrcComponentsById": {
     "P1BaxXtxDV": {
       "id": "P1BaxXtxDV",
+      "title": "Figma Component",
+      "fileId": "H3Jj1cltfXiGWijrYOaGBi",
+      "componentId": "2:18"
+    },
+    "WnG3RtCGg0": {
+      "id": "WnG3RtCGg0",
       "title": "Figma Component",
       "fileId": "H3Jj1cltfXiGWijrYOaGBi",
       "componentId": "2:18"

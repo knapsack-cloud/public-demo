@@ -1,17 +1,20 @@
 id: homepage
-title: Welcome to Knapsack
+title: Welcome to indeed.design
 settings:
   pageHeader:
-    size: full
+    size: large
     textColorTitle:
       type: design-token
-      tokenName: color-brand-primary
+      tokenName: color.base.dark blue
       colorValue: '#FFFFFF'
-    backgroundImage: https://knapsack.imgix.net/site/public-demo/clark-van-der-beken-596baa0mpym-unsplash-o5drv55uvq.jpg
+    backgroundImage: null
     textColorDescription:
       type: design-token
-      tokenName: color-Meh-black
+      tokenName: color.brand.black
       colorValue: '#FFFFFF'
+    backgroundColor:
+      type: design-token
+      tokenName: color.brand.tertiary
 description: |-
   A shared platform for product teams to collaborate
   on documenting, designing, building, testing, and shipping
