@@ -1,0 +1,39 @@
+{
+  "id": "BwVLYdA7GA",
+  "data": {
+    "props": {},
+    "slots": {
+      "children": [
+        {
+          "type": "template-demo",
+          "demoId": "arD82Utaju",
+          "patternId": "hero",
+          "templateId": "react"
+        },
+        {
+          "type": "template-demo",
+          "demoId": "1lLBfFenH",
+          "patternId": "layout",
+          "templateId": "react"
+        },
+        {
+          "type": "template-demo",
+          "demoId": "91d43J7jmh",
+          "patternId": "header",
+          "templateId": "react"
+        },
+        {
+          "type": "template-demo",
+          "demoId": "tuyC-DRiD8",
+          "patternId": "footer",
+          "templateId": "react"
+        }
+      ]
+    }
+  },
+  "type": "data",
+  "title": "New Variation",
+  "patternId": "one-pager",
+  "templateId": "react",
+  "description": ""
+}

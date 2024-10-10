@@ -1,0 +1,30 @@
+{
+  "id": "oHFFChOXky",
+  "data": {
+    "props": {
+      "url": "#url",
+      "icon": false,
+      "mode": "info",
+      "size": "medium",
+      "type": "solid",
+      "outline": false
+    },
+    "slots": {
+      "children": [
+        {
+          "text": "Button",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "type": "data",
+  "theme": {
+    "Dual": "light"
+  },
+  "title": "Primary",
+  "width": 918,
+  "height": 65,
+  "patternId": "button",
+  "templateId": "react"
+}

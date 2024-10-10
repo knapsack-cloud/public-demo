@@ -1,0 +1,16 @@
+{
+  "id": "Md73hLM1l8",
+  "data": {
+    "props": {
+      "logo": "https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg",
+      "links": ["#1|Product", "#2|Features", "Marketplace", "Company", "About"],
+      "button": "#login|Login"
+    },
+    "slots": {}
+  },
+  "type": "data",
+  "title": "Full Featured Top Nav w/ Button",
+  "patternId": "top-nav",
+  "templateId": "react",
+  "description": "This Top Nav variation contains a logo, links, and a button."
+}

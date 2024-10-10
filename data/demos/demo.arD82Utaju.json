@@ -1,0 +1,27 @@
+{
+  "id": "arD82Utaju",
+  "data": {
+    "props": {
+      "buttonOne": "Get started!",
+      "buttonTwo": "Live Demo",
+      "paragraph": "Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua.",
+      "headlineOne": "Data to enrich your ",
+      "headlineTwo": "online business",
+      "showBackground": false
+    },
+    "slots": {
+      "header": [
+        {
+          "type": "template-demo",
+          "demoId": "Md73hLM1l8",
+          "patternId": "top-nav",
+          "templateId": "react"
+        }
+      ]
+    }
+  },
+  "type": "data",
+  "title": "Hero w/ Nav",
+  "patternId": "hero",
+  "templateId": "react"
+}
