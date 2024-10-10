@@ -1,20 +1,36 @@
 id: welcome-to-knapsack
-title: Welcome to Knapsack
+title: |-
+  Welcome to Indeed's 
+  brand guidelines
 settings:
   pageHeader:
     textColorTitle:
       type: design-token
-      tokenName: color-brand-primary
+      tokenName: color.brand.white
       colorValue: '#6A4CEC'
-    backgroundImage: null
+    backgroundImage: https://knapsack.imgix.net/site/public-demo/indeed-job-market-gathery-brand-guidelines-welcome-svpvo0owouwebp
     textColorDescription:
       type: design-token
-      tokenName: color-brand-black
+      tokenName: color.brand.white
       colorValue: '#000000'
-    size: small
-description: The collaborative design system
+    size: large
+    backgroundColor:
+      type: design-token
+      tokenName: color.base.blue
+    backgroundSize: contain
+    backgroundPosition: right
+description: |-
+  Indeed designers, partners, and friends, 
+  these pages are for us. Use them to make 
+  everything you create feel unmistakably, 
+  uniquely Indeed.
 blockIds:
-  - 6-qXFUJ0eH
-  - tY2rt92bob
   - oa-y7sAwqr
+  - tKu7ybkY7K
+  - tY2rt92bob
+  - UeHAx3xG
+  - MNGWs0nntp
   - 7Y7v_lnZJh
+  - UYgCiKRxUa
+  - UCmN8ilU0P
+  - Mkc8wNAu7U

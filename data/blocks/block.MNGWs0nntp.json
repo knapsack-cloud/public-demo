@@ -1,5 +1,5 @@
 {
-  "blockType": "text-editor",
+  "id": "MNGWs0nntp",
   "data": {
     "content": {
       "type": "doc",
@@ -8,12 +8,13 @@
           "type": "image",
           "attrs": {
             "alt": "",
-            "src": "https://knapsack.imgix.net/site/public-demo/screenshot-2024-10-10-at-85006-am-opokxqj9vdpng",
+            "src": "https://knapsack.imgix.net/site/public-demo/indeed-interview-and-product-collage-ok3kf3n1kvwebp",
             "title": "Design System Infrastructure with Knapsack"
           }
         }
       ]
     }
   },
-  "id": "oa-y7sAwqr"
+  "blockType": "text-editor",
+  "size": "medium"
 }

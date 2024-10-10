@@ -2,62 +2,67 @@
   "blockType": "text-editor",
   "data": {
     "content": {
+      "type": "doc",
       "content": [
         {
+          "type": "heading",
           "attrs": {
-            "level": 1
+            "level": 1,
+            "textAlign": "left"
           },
           "content": [
             {
-              "text": "About Us",
+              "text": "Accessdfgsdsibility",
               "type": "text"
             }
-          ],
-          "type": "heading"
+          ]
         },
         {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "left"
+          },
           "content": [
             {
-              "text": "We're a passionate group of designers, engineers, and former design system consultants. Our team has helped some of the largest companies build and implement design systems that solve their unique challenges. Our mission is to simplify the design system experience so teams can spend more time creating and less time rebuilding or struggling to keep their design and code in sync.",
+              "text": "As part of Indeed’s csdfgommitment to diversity, equity, inclusiosdfgsdfgsdfgn, and belonging, we prioritize reaching all of our users. We don’t just want to do what’s required. We want to be on the forefront. We strive to set an example for other organizations.",
               "type": "text"
             }
-          ],
-          "type": "paragraph"
+          ]
         },
         {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "left"
+          },
           "content": [
             {
-              "text": "We're backed by Google, Slack, and other world-class investors who see our vision for the future.",
-              "type": "text"
-            }
-          ],
-          "type": "paragraph"
-        },
-        {
-          "content": [
-            {
-              "text": "Our focus is modernizing digital production through collaborative tooling and workflows that ",
+              "text": "If you need guidance beyond this we suggest you reference the ",
               "type": "text"
             },
             {
+              "text": "W3C Web Content Accessibility Guidelines",
+              "type": "text",
               "marks": [
                 {
-                  "type": "bold"
+                  "type": "link",
+                  "attrs": {
+                    "rel": "noopener",
+                    "href": "https://www.w3.org/TR/WCAG21/",
+                    "class": null,
+                    "target": "_blank"
+                  }
                 }
-              ],
-              "text": "make it easy to reuse code",
-              "type": "text"
+              ]
             },
             {
               "text": ".",
               "type": "text"
             }
-          ],
-          "type": "paragraph"
+          ]
         }
-      ],
-      "type": "doc"
+      ]
     }
   },
-  "id": "7Y7v_lnZJh"
+  "id": "7Y7v_lnZJh",
+  "size": "medium"
 }

@@ -22,7 +22,8 @@ settings:
         type: figma
         url: https://www.figma.com/file/rzMpZtZ3PLH3eutORdrJ2o?version-id=5763001927
         version: '6427486619'
-  logoUrl: https://knapsack.imgix.net/site/public-demo/knapsack-logomark-primary@3x-c3fjqx5ll_.png
+  favicon: https://knapsack.imgix.net/site/public-demo/favicon-180-gcgvqzczw6png
+  logoUrl: https://knapsack.imgix.net/site/public-demo/indeedlogorgb-k2nmc3un7opng
   prototyping:
     patternId: one-pager
   theme:
@@ -42,51 +43,73 @@ settings:
               type: url
           style: normal
           weight: 400
+        - family: Noto Sans
+          src:
+            - format: woff
+              path: https://knapsack.imgix.net/site/public-demo/noto-sans-regular-tahbqfhypw.woff
+              type: url
+          style: normal
+          weight: ''
       navigation:
         primaryNav:
           accentColor:
             tokenName: color.brand.primary
             type: design-token
           backgroundColor:
-            tokenName: color.brand.black
+            tokenName: color.brand.white
             type: design-token
           fontFamily: Inter
-          fontWeight: 800
+          fontWeight: '400'
           hoverColor:
-            tokenName: color.brand.secondary
+            tokenName: color.base.blue
             type: design-token
-          lineHeight: ''
           textColor:
-            tokenName: color.text.inverse
+            tokenName: color.brand.black
             type: design-token
         secondaryNav:
           accentColor:
-            tokenName: color-brand-secondary
+            tokenName: color.base.blue
+            type: design-token
+          backgroundColor:
+            tokenName: color.brand.tertiary
             type: design-token
           fontFamily: Inter
           fontWeight: 500
+          textColor:
+            tokenName: color.brand.black
+            type: design-token
         tabs:
+          accentColor:
+            tokenName: color.brand.primary
+            type: design-token
           fontFamily: Inter
+          textColor:
+            tokenName: color.brand.black
+            type: design-token
       pageElements:
-        bodyText: {}
+        bodyText:
+          fontFamily: Inter
         headingLarge:
           fontFamily: Inter
           fontWeight: 400
         headingMedium:
-          fontFamily: Nunito
+          fontFamily: Inter
+          fontWeight: '400'
           textTransform: inherit
         headingSmall:
           fontFamily: Inter
+          fontWeight: '400'
         headingXLarge:
           fontFamily: Inter
-          fontWeight: 600
+          fontWeight: '400'
           textTransform: inherit
         headingXSmall:
           fontFamily: Inter
+          fontWeight: '400'
         link:
-          fontWeight: 600
+          fontWeight: '400'
           textColor:
-            tokenName: color-text-link
+            tokenName: color.brand.primary
             type: design-token
           underline: true
         pageDescription:
@@ -94,10 +117,10 @@ settings:
           fontWeight: 400
         pageTitle:
           fontFamily: Inter
-          fontWeight: 800
+          fontWeight: '400'
           textTransform: inherit
     version: 10
-  title: Public Demo
+  title: ''
   tokens:
     theming:
       enabledRendererIds:
