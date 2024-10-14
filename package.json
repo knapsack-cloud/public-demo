@@ -28,7 +28,7 @@
     "@knapsack/core": "^4.66.7",
     "@knapsack/design-token-utils": "^4.66.7",
     "@knapsack/plugin-changelog-md": "^4.66.7",
-    "@knapsack/renderer-html": "^4.66.7",
+    "@knapsack/renderer-html": "^4.70.4",
     "@knapsack/renderer-react": "^4.66.7",
     "@knapsack/renderer-web-components": "^4.66.7",
     "@typescript-eslint/eslint-plugin": "^3.2.0",
