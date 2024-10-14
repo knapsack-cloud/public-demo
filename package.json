@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@auto-it/released": "^11.1.1",
-    "@knapsack/app": "^4.66.7",
+    "@knapsack/app": "^4.70.4",
     "@knapsack/babel-config": "^4.66.7",
     "@knapsack/core": "^4.66.7",
     "@knapsack/design-token-utils": "^4.66.7",
