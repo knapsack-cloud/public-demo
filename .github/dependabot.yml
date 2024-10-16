@@ -3,13 +3,12 @@ updates:
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
     allow:
       - dependency-name: "@knapsack/*"
+    groups:
+      knapsack-packages:
+        patterns:
+          - "@knapsack/*"
     commit-message:
       prefix: "deps"
-    open-pull-requests-limit: 1
-    labels:
-      - "knapsack-dependencies"
-    versioning-strategy: increase
-    target-branch: "main"
