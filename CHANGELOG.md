@@ -1,3 +1,15 @@
+# v0.1.75 (Wed Oct 16 2024)
+
+#### 🐛 Bug Fix
+
+- Group all @knapsack package updates into a single Dependabot PR [#306](https://github.com/knapsack-cloud/public-demo/pull/306) ([@brittanysmart](https://github.com/brittanysmart))
+
+#### Authors: 1
+
+- Brittany Smart ([@brittanysmart](https://github.com/brittanysmart))
+
+---
+
 # v0.1.74 (Mon Oct 07 2024)
 
 #### 🐛 Bug Fix
