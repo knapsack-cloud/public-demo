@@ -1,3 +1,15 @@
+# v0.1.80 (Wed Oct 16 2024)
+
+#### 🐛 Bug Fix
+
+- Add condition to skip release step for dependabot [#313](https://github.com/knapsack-cloud/public-demo/pull/313) ([@brittanysmart](https://github.com/brittanysmart))
+
+#### Authors: 1
+
+- Brittany Smart ([@brittanysmart](https://github.com/brittanysmart))
+
+---
+
 # v0.1.79 (Wed Oct 16 2024)
 
 #### 🐛 Bug Fix
