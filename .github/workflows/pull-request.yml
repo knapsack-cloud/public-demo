@@ -32,9 +32,6 @@ jobs:
         run: |
           yarn install --cache-folder ~/.cache/yarn --prefer-offline --frozen-lockfile
 
-      - name: Debug Build Directory
-        run: ls -R ./packages/react/dist
-
       - name: Run Full Build
         run: yarn build
 
