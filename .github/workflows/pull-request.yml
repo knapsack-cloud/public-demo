@@ -32,6 +32,9 @@ jobs:
         run: |
           yarn install --cache-folder ~/.cache/yarn --prefer-offline --frozen-lockfile
 
+      - name: Clean Build Artifacts
+        run: yarn run clean
+
       - name: Run Full Build
         run: yarn build
 
