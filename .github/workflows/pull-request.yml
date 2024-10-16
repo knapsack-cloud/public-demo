@@ -29,7 +29,6 @@ jobs:
           key: node-deps-${{ runner.os }}-${{ hashFiles('**/yarn.lock') }}
 
       - name: Install Dependencies
-        if: steps.cache.outputs.cache-hit != 'true'
         run: |
           yarn install --cache-folder ~/.cache/yarn --prefer-offline --frozen-lockfile
 
