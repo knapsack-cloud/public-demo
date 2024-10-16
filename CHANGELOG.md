@@ -1,3 +1,15 @@
+# v0.1.78 (Wed Oct 16 2024)
+
+#### 🐛 Bug Fix
+
+- Add clean step to pull request and main workflows [#311](https://github.com/knapsack-cloud/public-demo/pull/311) ([@brittanysmart](https://github.com/brittanysmart))
+
+#### Authors: 1
+
+- Brittany Smart ([@brittanysmart](https://github.com/brittanysmart))
+
+---
+
 # v0.1.77 (Wed Oct 16 2024)
 
 #### 🐛 Bug Fix
