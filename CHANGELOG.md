@@ -1,3 +1,15 @@
+# v0.1.77 (Wed Oct 16 2024)
+
+#### 🐛 Bug Fix
+
+- Fix Dependabot PR builds by enforcing fresh dependency installs [#310](https://github.com/knapsack-cloud/public-demo/pull/310) ([@brittanysmart](https://github.com/brittanysmart))
+
+#### Authors: 1
+
+- Brittany Smart ([@brittanysmart](https://github.com/brittanysmart))
+
+---
+
 # v0.1.76 (Wed Oct 16 2024)
 
 #### 🐛 Bug Fix
