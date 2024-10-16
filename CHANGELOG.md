@@ -1,3 +1,15 @@
+# v0.1.76 (Wed Oct 16 2024)
+
+#### 🐛 Bug Fix
+
+- Fix dependency names in allow and groups sections [#308](https://github.com/knapsack-cloud/public-demo/pull/308) ([@brittanysmart](https://github.com/brittanysmart))
+
+#### Authors: 1
+
+- Brittany Smart ([@brittanysmart](https://github.com/brittanysmart))
+
+---
+
 # v0.1.75 (Wed Oct 16 2024)
 
 #### 🐛 Bug Fix
