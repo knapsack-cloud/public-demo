@@ -5,10 +5,24 @@ updates:
     schedule:
       interval: "daily"
     allow:
-      - dependency-name: "@knapsack/*"
+      - dependency-name: "@knapsack/app"
+      - dependency-name: "@knapsack/babel-config"
+      - dependency-name: "@knapsack/core"
+      - dependency-name: "@knapsack/design-token-utils"
+      - dependency-name: "@knapsack/plugin-changelog-md"
+      - dependency-name: "@knapsack/renderer-html"
+      - dependency-name: "@knapsack/renderer-react"
+      - dependency-name: "@knapsack/renderer-web-components"
     groups:
       knapsack-packages:
         patterns:
-          - "@knapsack/*"
+          - "@knapsack/app"
+          - "@knapsack/babel-config"
+          - "@knapsack/core"
+          - "@knapsack/design-token-utils"
+          - "@knapsack/plugin-changelog-md"
+          - "@knapsack/renderer-html"
+          - "@knapsack/renderer-react"
+          - "@knapsack/renderer-web-components"
     commit-message:
       prefix: "deps"
