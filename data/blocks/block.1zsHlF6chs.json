@@ -7,10 +7,10 @@
     "hideControls": false,
     "patternId": "card",
     "playgroundUi": {
-      "allowResizing": true,
       "demoSize": "landscape",
-      "showCodeSnippet": true,
-      "showSchemaForm": false
+      "allowResizing": true,
+      "showSchemaForm": false,
+      "showCodeSnippet": true
     },
     "showCodeSnippet": true,
     "showSchemaForm": false,

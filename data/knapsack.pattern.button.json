@@ -108,6 +108,10 @@
     {
       "id": "t8PlLMPbv",
       "type": "subPage"
+    },
+    {
+      "id": "IO66tW1OV0",
+      "type": "designSrc"
     }
   ],
   "statuses": {
@@ -123,6 +127,12 @@
       "title": "Figma Component",
       "fileId": "H3Jj1cltfXiGWijrYOaGBi",
       "componentId": "2:18"
+    },
+    "IO66tW1OV0": {
+      "id": "IO66tW1OV0",
+      "title": "Figma Component",
+      "fileId": "rzMpZtZ3PLH3eutORdrJ2o",
+      "componentId": "1:23"
     }
   }
 }
