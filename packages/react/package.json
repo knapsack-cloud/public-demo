@@ -1,7 +1,7 @@
 {
   "name": "@knapsack-cloud/public-demo-react",
   "description": "Knapsack Public Demo React Components",
-  "version": "0.1.81",
+  "version": "0.1.82",
   "module": "./dist/src/index.js",
   "types": "./dist/src/index.d.ts",
   "scripts": {
@@ -10,8 +10,8 @@
     "start": "yarn build --watch"
   },
   "dependencies": {
-    "@knapsack-cloud/public-demo-design-tokens": "^0.1.81",
-    "@knapsack-cloud/public-demo-styles": "^0.1.81",
+    "@knapsack-cloud/public-demo-design-tokens": "^0.1.82",
+    "@knapsack-cloud/public-demo-styles": "^0.1.82",
     "classnames": "^2.3.1"
   },
   "devDependencies": {
