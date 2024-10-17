@@ -3,16 +3,9 @@ updates:
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
-      interval: "daily"
+      interval: "weekly"
     allow:
-      - dependency-name: "@knapsack/app"
-      - dependency-name: "@knapsack/babel-config"
-      - dependency-name: "@knapsack/core"
-      - dependency-name: "@knapsack/design-token-utils"
-      - dependency-name: "@knapsack/plugin-changelog-md"
-      - dependency-name: "@knapsack/renderer-html"
-      - dependency-name: "@knapsack/renderer-react"
-      - dependency-name: "@knapsack/renderer-web-components"
+      - dependency-name: "@knapsack/*"
     groups:
       knapsack-packages:
         patterns:
