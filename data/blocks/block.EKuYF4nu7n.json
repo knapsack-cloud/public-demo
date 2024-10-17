@@ -1,0 +1,9 @@
+{
+  "id": "EKuYF4nu7n",
+  "data": {
+    "demoId": "color-swatch",
+    "groupIds": ["color.base"],
+    "tokenType": "color"
+  },
+  "blockType": "design-tokens"
+}

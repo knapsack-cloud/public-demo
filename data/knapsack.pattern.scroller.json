@@ -1,0 +1,37 @@
+{
+  "id": "scroller",
+  "tabs": [
+    {
+      "id": "aSbcr4aXH1",
+      "type": "designSrc"
+    },
+    {
+      "id": "n0Dj4Rc5YX",
+      "type": "subPage"
+    }
+  ],
+  "title": "Scroller",
+  "statuses": {
+    "design": "ready",
+    "react": "needs-dev",
+    "web-components": "needs-dev",
+    "qEBpl8oPtd": "BAwEpqi4W"
+  },
+  "subPages": [
+    {
+      "id": "n0Dj4Rc5YX",
+      "title": "Overview",
+      "blockIds": []
+    }
+  ],
+  "templates": [],
+  "description": "",
+  "designSrcComponentsById": {
+    "aSbcr4aXH1": {
+      "id": "aSbcr4aXH1",
+      "title": "Figma Component",
+      "fileId": "H3Jj1cltfXiGWijrYOaGBi",
+      "componentId": "834:161"
+    }
+  }
+}

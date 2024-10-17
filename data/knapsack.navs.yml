@@ -121,6 +121,11 @@ byId:
     name: Customizing the Workspace
     parentId: guidance
     path: /pages/customizing-the-workspace
+  demo-page:
+    id: demo-page
+    name: Demo Page
+    parentId: getting-started
+    path: /pages/demo-page
   footer:
     id: footer
     name: Footer
@@ -197,6 +202,11 @@ byId:
     name: Proposed Patterns
     parentId: Components-aPh3G1bbrX
     path: ''
+  scroller:
+    id: scroller
+    name: Scroller
+    parentId: Components-Overview
+    path: /pattern/scroller
   spacing:
     id: spacing
     name: Spacing
@@ -255,3 +265,5 @@ order:
   - Private-Pages
   - new-component-in-progress
   - mobile-breakpoints
+  - demo-page
+  - scroller
