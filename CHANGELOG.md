@@ -1,3 +1,15 @@
+# v0.1.81 (Thu Oct 17 2024)
+
+#### 🐛 Bug Fix
+
+- Update Dependabot to run weekly and allow updates for all @knapsack/* dependencies [#314](https://github.com/knapsack-cloud/public-demo/pull/314) ([@brittanysmart](https://github.com/brittanysmart))
+
+#### Authors: 1
+
+- Brittany Smart ([@brittanysmart](https://github.com/brittanysmart))
+
+---
+
 # v0.1.80 (Wed Oct 16 2024)
 
 #### 🐛 Bug Fix
