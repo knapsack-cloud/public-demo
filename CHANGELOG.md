@@ -1,3 +1,15 @@
+# v0.1.82 (Thu Oct 17 2024)
+
+#### 🐛 Bug Fix
+
+- Remove clean build artifacts step [#315](https://github.com/knapsack-cloud/public-demo/pull/315) ([@brittanysmart](https://github.com/brittanysmart))
+
+#### Authors: 1
+
+- Brittany Smart ([@brittanysmart](https://github.com/brittanysmart))
+
+---
+
 # v0.1.81 (Thu Oct 17 2024)
 
 #### 🐛 Bug Fix
