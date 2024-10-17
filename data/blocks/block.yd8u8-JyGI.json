@@ -1,0 +1,32 @@
+{
+  "id": "yd8u8-JyGI",
+  "data": {
+    "shortcuts": [
+      {
+        "id": "b2HzcpMFIl",
+        "link": {
+          "name": "Adding Design Tokens",
+          "path": "/pages/adding-design-tokens"
+        },
+        "title": "Adding Design Tokens"
+      },
+      {
+        "id": "GkKHD1d5Ag",
+        "link": {
+          "name": "Animation",
+          "path": "/pages/Animation"
+        },
+        "title": "Animation"
+      }
+    ],
+    "gridStyles": {
+      "columns": "2",
+      "gapSize": 50
+    },
+    "tileStyles": {
+      "rounded": false,
+      "outlined": false
+    }
+  },
+  "blockType": "shortcut-tiles"
+}
