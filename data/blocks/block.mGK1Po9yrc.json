@@ -13,7 +13,12 @@
           "content": [
             {
               "text": "Break tasks into bite-sized chunks",
-              "type": "text"
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
             }
           ]
         },
