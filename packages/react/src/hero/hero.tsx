@@ -1,5 +1,4 @@
 import * as React from 'react';
-import { KSShortcodeLinkGen } from '../../utils/shortcodes';
 import { Button } from '../button/button';
 
 export interface HeroProps {
@@ -129,11 +128,6 @@ export const Hero: React.FC<HeroProps> = ({
               <div className="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
                 <div className="mt-3 sm:mt-0">
                   <Button url="/">{buttonOne}</Button>
-                  {/* deploy */}
-                  {/* <KSShortcodeLinkGen
-                    shortcode="Getting started"
-                    classes="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-base-blue hover:bg-indigo-700 md:py-4 md:text-lg md:px-10"
-                  /> */}
                 </div>
                 <div className="mt-3 rounded-md sm:mt-0 sm:ml-3">
                   <Button url="/">{buttonTwo}</Button>
