@@ -1,5 +1,5 @@
 {
-  "blockType": "text-editor",
+  "id": "UCmN8ilU0P",
   "data": {
     "content": {
       "type": "doc",
@@ -7,12 +7,12 @@
         {
           "type": "heading",
           "attrs": {
-            "level": 1,
+            "level": 2,
             "textAlign": "left"
           },
           "content": [
             {
-              "text": "Values",
+              "text": "Brand strategy",
               "type": "text"
             }
           ]
@@ -24,7 +24,7 @@
           },
           "content": [
             {
-              "text": "Five core values guide how we make decisions as a company. All brand guidance builds off of these values and brings them to life for the folks who count on us to help them hire and get hired.",
+              "text": "Our marketplace objective is to be the #1 matching and hiring platform in the world. To do this, our design framework must connect everything we do through our brand DNA. Because if we can be uniquely, unmistakably Indeed at every touchpoint, we can show how better work leads to better lives.",
               "type": "text"
             }
           ]
@@ -36,11 +36,16 @@
           },
           "content": [
             {
-              "text": "Knapsack allows teams to do four main things:",
+              "text": "Request the messaging toolkit",
               "type": "text",
               "marks": [
                 {
-                  "type": "bold"
+                  "type": "link",
+                  "attrs": {
+                    "rel": "noopener noreferrer nofollow",
+                    "href": "mailto:songsheet-support@indeed.com",
+                    "class": null
+                  }
                 }
               ]
             }
@@ -49,6 +54,6 @@
       ]
     }
   },
-  "id": "tY2rt92bob",
-  "size": "large"
+  "size": "medium",
+  "blockType": "text-editor"
 }

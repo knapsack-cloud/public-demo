@@ -7,7 +7,7 @@ settings:
       type: design-token
       colorValue: '#000000'
       tokenName: color-brand-primary
-    backgroundImage: https://knapsack.imgix.net/site/public-demo/lego-clipart27-w46dfphz5ljpg
+    backgroundImage: null
     textColorDescription:
       type: value
       colorValue: '#000000'
