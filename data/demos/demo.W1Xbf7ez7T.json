@@ -9,10 +9,10 @@
     "slots": {
       "children": [
         {
+          "type": "template-demo",
           "demoId": "_nTCiQ1984",
           "patternId": "author",
-          "templateId": "react",
-          "type": "template-demo"
+          "templateId": "react"
         }
       ]
     }

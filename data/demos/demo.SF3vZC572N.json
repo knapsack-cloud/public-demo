@@ -14,8 +14,8 @@
     "slots": {
       "children": [
         {
-          "type": "text",
-          "text": "Button"
+          "text": "Button",
+          "type": "text"
         }
       ]
     }
