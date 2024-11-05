@@ -61,7 +61,7 @@ settings:
             type: design-token
         secondaryNav:
           accentColor:
-            tokenName: color-brand-secondary
+            tokenName: color.brand.secondary
             type: design-token
           fontFamily: Inter
           fontWeight: 500
@@ -86,7 +86,7 @@ settings:
         link:
           fontWeight: 600
           textColor:
-            tokenName: color-text-link
+            tokenName: color.text.link
             type: design-token
           underline: true
         pageDescription:
