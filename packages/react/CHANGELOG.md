@@ -1,3 +1,17 @@
+# v0.1.83 (Tue Nov 05 2024)
+
+#### 🐛 Bug Fix
+
+- KSP-5697: Update Knapsack packages and upgrade to React 18 [#320](https://github.com/knapsack-cloud/public-demo/pull/320) ([@brittanysmart](https://github.com/brittanysmart))
+- * chore(footer.tsx): update footer logo source URL ([@brittanysmart](https://github.com/brittanysmart))
+- chore: upgrade to React 18 to support latest Knapsack version compatibility ([@brittanysmart](https://github.com/brittanysmart))
+
+#### Authors: 1
+
+- Brittany Smart ([@brittanysmart](https://github.com/brittanysmart))
+
+---
+
 # v0.1.68 (Tue Apr 30 2024)
 
 #### ⚠️ Pushed to `main`

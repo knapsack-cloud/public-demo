@@ -1,3 +1,16 @@
+# v0.1.83 (Tue Nov 05 2024)
+
+#### 🐛 Bug Fix
+
+- `@knapsack-cloud/public-demo-react`
+  - KSP-5697: Update Knapsack packages and upgrade to React 18 [#320](https://github.com/knapsack-cloud/public-demo/pull/320) ([@brittanysmart](https://github.com/brittanysmart))
+
+#### Authors: 1
+
+- Brittany Smart ([@brittanysmart](https://github.com/brittanysmart))
+
+---
+
 # v0.1.82 (Thu Oct 17 2024)
 
 #### 🐛 Bug Fix
