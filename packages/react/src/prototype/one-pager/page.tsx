@@ -1,7 +1,10 @@
-import * as React from 'react';
+import { type PropsWithChildren } from 'react';
 
-export const PageLayout = ({ children }) => {
-  return <>{children}</>;
+export const PageLayout = ({ children }: PropsWithChildren) => {
+  return (
+    <div className="page-layout">
+      {children}
+    </div>
+  );
 };
 
-export default PageLayout;

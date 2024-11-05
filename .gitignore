@@ -1,4 +1,4 @@
-node_modules
+node_modules/
 vendor
 dist
 knapsack-dist
@@ -7,3 +7,9 @@ knapsack-dist
 yarn-error.log
 .env
 .DS_Store
+
+# TypeScript build output
+**/dist/
+
+# TypeScript build info
+**/tsconfig.tsbuildinfo

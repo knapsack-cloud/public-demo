@@ -24,13 +24,13 @@
     }
   },
   "description": "",
-  "height": 564,
+  "height": 621,
   "id": "RN96ZpJJpY",
   "patternId": "card",
   "templateId": "react",
   "title": "One Author CTA",
   "type": "data",
-  "width": 543,
+  "width": 336,
   "theme": {
     "Dual": "light"
   }
