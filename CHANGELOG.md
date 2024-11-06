@@ -1,3 +1,15 @@
+# v0.1.84 (Wed Nov 06 2024)
+
+#### 🐛 Bug Fix
+
+- Rollback: Sync with Heroku v90 rollback [#324](https://github.com/knapsack-cloud/public-demo/pull/324) ([@brittanysmart](https://github.com/brittanysmart))
+
+#### Authors: 1
+
+- Brittany Smart ([@brittanysmart](https://github.com/brittanysmart))
+
+---
+
 # v0.1.83 (Tue Nov 05 2024)
 
 #### 🐛 Bug Fix
