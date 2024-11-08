@@ -15,7 +15,36 @@
       "alias": "Button",
       "templateLanguageId": "react",
       "spec": {
-        "isInferred": true
+        "props": {
+          "$schema": "http://json-schema.org/draft-07/schema",
+          "type": "object",
+          "required": [],
+          "properties": {
+            "url": {
+              "type": "string"
+            },
+            "size": {
+              "type": "string",
+              "enum": ["small", "medium", "large"]
+            },
+            "icon": {
+              "type": "boolean"
+            },
+            "outline": {
+              "type": "boolean"
+            },
+            "action": {
+              "type": "string",
+              "enum": ["undefined", "success", "warning", "danger"]
+            }
+          },
+          "description": "Buttons are used to initialize an action. Button labels express what action will occur when the user interacts with it."
+        },
+        "slots": {
+          "children": {
+            "title": "children"
+          }
+        }
       },
       "demoIds": [
         "2ysfvm4ShE",
