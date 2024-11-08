@@ -8,7 +8,8 @@
     "patternId": "button",
     "size": "full",
     "templateId": "react",
-    "variationId": "size"
+    "variationId": "size",
+    "assetSetId": "default"
   },
   "id": "ifCTKdQGoq",
   "size": "medium"
