@@ -6,3 +6,11 @@
 @import './components/card.css';
 @import './components/top-nav.css';
 @import './components/message.css';
+
+/** HACKY HACK TO CENTER RENDERS - NEEDS TO BE PROPERLY BAKED INTO PRODUCT **/
+html {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
