@@ -1,3 +1,16 @@
+# v0.1.85 (Mon Nov 11 2024)
+
+#### 🐛 Bug Fix
+
+- center demos hack [#326](https://github.com/knapsack-cloud/public-demo/pull/326) ([@GormanDesign](https://github.com/GormanDesign))
+- center demos hack ([@GormanDesign](https://github.com/GormanDesign))
+
+#### Authors: 1
+
+- Matt Gorman ([@GormanDesign](https://github.com/GormanDesign))
+
+---
+
 # v0.1.65 (Mon Apr 29 2024)
 
 #### 🐛 Bug Fix

@@ -1,3 +1,21 @@
+# v0.1.85 (Mon Nov 11 2024)
+
+#### 🐛 Bug Fix
+
+- `@knapsack-cloud/public-demo-styles`
+  - center demos hack [#326](https://github.com/knapsack-cloud/public-demo/pull/326) ([@GormanDesign](https://github.com/GormanDesign))
+
+#### 📝 Documentation
+
+- button updates - Andrew Rohman [#325](https://github.com/knapsack-cloud/public-demo/pull/325) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+
+#### Authors: 2
+
+- [@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot])
+- Matt Gorman ([@GormanDesign](https://github.com/GormanDesign))
+
+---
+
 # v0.1.84 (Wed Nov 06 2024)
 
 #### 🐛 Bug Fix
