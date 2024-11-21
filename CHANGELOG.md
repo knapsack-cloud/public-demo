@@ -1,3 +1,20 @@
+# v0.1.86 (Thu Nov 21 2024)
+
+#### 🐛 Bug Fix
+
+- Update dependencies for @knapsack packages to version 4.71.9 [#328](https://github.com/knapsack-cloud/public-demo/pull/328) ([@brittanysmart](https://github.com/brittanysmart))
+
+#### 📝 Documentation
+
+- Center Button Component - Brittany Smart [#327](https://github.com/knapsack-cloud/public-demo/pull/327) ([@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot]))
+
+#### Authors: 2
+
+- [@knapsack-cloud[bot]](https://github.com/knapsack-cloud[bot])
+- Brittany Smart ([@brittanysmart](https://github.com/brittanysmart))
+
+---
+
 # v0.1.85 (Mon Nov 11 2024)
 
 #### 🐛 Bug Fix
