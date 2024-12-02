@@ -187,6 +187,16 @@ byId:
     name: New Component (in progress)
     parentId: Admin
     path: /pattern/new-component-in-progress
+  new-demo-page:
+    id: new-demo-page
+    name: New Demo Page
+    parentId: Components-aPh3G1bbrX
+    path: /pages/new-demo-page
+  new-pattern:
+    id: new-pattern
+    name: New Pattern
+    parentId: Components-aPh3G1bbrX
+    path: /pattern/new-pattern
   one-pager:
     id: one-pager
     name: One-Pager
@@ -255,3 +265,5 @@ order:
   - Private-Pages
   - new-component-in-progress
   - mobile-breakpoints
+  - new-demo-page
+  - new-pattern

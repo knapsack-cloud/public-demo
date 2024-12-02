@@ -1,0 +1,17 @@
+id: new-demo-page
+title: New Demo Page
+blockIds:
+  - Is1J2Ordei
+settings:
+  pageHeader:
+    backgroundColor:
+      type: design-token
+      tokenName: color.brand.primary
+    textColorTitle:
+      type: design-token
+      tokenName: color.brand.white
+    textColorDescription:
+      type: design-token
+      tokenName: color.brand.white
+    size: medium
+description: Description goes here

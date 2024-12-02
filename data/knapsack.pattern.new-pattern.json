@@ -1,0 +1,46 @@
+{
+  "id": "new-pattern",
+  "tabs": [
+    {
+      "id": "BTAod2tXAp",
+      "type": "subPage"
+    },
+    {
+      "id": "lmYRrDIBxJ",
+      "type": "designSrc"
+    },
+    {
+      "id": "8d-nZWP7MC",
+      "type": "subPage"
+    }
+  ],
+  "title": "New Pattern",
+  "statuses": {
+    "design": "ready",
+    "react": "needs-dev",
+    "qEBpl8oPtd": "BAwEpqi4W",
+    "web-components": "needs-dev"
+  },
+  "subPages": [
+    {
+      "id": "BTAod2tXAp",
+      "title": "Intro",
+      "blockIds": ["fHixW-O-mz"]
+    },
+    {
+      "id": "8d-nZWP7MC",
+      "title": "Accessibilty",
+      "blockIds": []
+    }
+  ],
+  "templates": [],
+  "description": "",
+  "designSrcComponentsById": {
+    "lmYRrDIBxJ": {
+      "id": "lmYRrDIBxJ",
+      "title": "Figma Component",
+      "fileId": "rzMpZtZ3PLH3eutORdrJ2o",
+      "componentId": "1:23"
+    }
+  }
+}
