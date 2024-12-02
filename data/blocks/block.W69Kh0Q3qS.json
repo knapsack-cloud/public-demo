@@ -1,0 +1,28 @@
+{
+  "id": "W69Kh0Q3qS",
+  "data": {
+    "shortcuts": [
+      {
+        "id": "81hp23XVN",
+        "link": {
+          "name": "Spacing",
+          "path": "/pages/spacing"
+        },
+        "title": "Spacing"
+      },
+      {
+        "id": "Lt9LmIuxEN",
+        "link": {
+          "name": "Colors",
+          "path": "/pages/colors"
+        },
+        "title": "Colors"
+      }
+    ]
+  },
+  "blockType": "shortcut-tiles",
+  "header": {
+    "showHeader": false
+  },
+  "size": "medium"
+}
