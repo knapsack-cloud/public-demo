@@ -1,7 +1,7 @@
 {
   "name": "@knapsack-cloud/public-demo-react",
   "description": "Knapsack Public Demo React Components",
-  "version": "0.1.86",
+  "version": "0.1.87",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "scripts": {
@@ -15,8 +15,8 @@
     "start": "run-p \"build:types --watch\" \"build:js:* --watch\""
   },
   "dependencies": {
-    "@knapsack-cloud/public-demo-design-tokens": "^0.1.86",
-    "@knapsack-cloud/public-demo-styles": "^0.1.86",
+    "@knapsack-cloud/public-demo-design-tokens": "^0.1.87",
+    "@knapsack-cloud/public-demo-styles": "^0.1.87",
     "classnames": "^2.3.1"
   },
   "devDependencies": {
