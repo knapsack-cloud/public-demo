@@ -2513,28 +2513,28 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
-"@knapsack/app@4.71.9", "@knapsack/app@^4.71.9":
-  version "4.71.9"
-  resolved "https://registry.yarnpkg.com/@knapsack/app/-/app-4.71.9.tgz#21e7b299ba31057bdb2c3e2865722a14593df81c"
-  integrity sha512-Cbi4lYRi6sjEFwS1Qvqb/dKNaCyTET33R2QcEg7lwfZHUW3VWl7PHcvBstGvjOW1vg1WK5UM39lEedU3V8+bmA==
+"@knapsack/app@4.71.16", "@knapsack/app@^4.71.16":
+  version "4.71.16"
+  resolved "https://registry.yarnpkg.com/@knapsack/app/-/app-4.71.16.tgz#5468150876bf0aa1e4d3e1a229effa90440a6c87"
+  integrity sha512-dYefMliyPNqJGpgKhLxmAPQ0f1Nynkv1kLZvebElMHkN1fOqXeaPxqQ1+HQHSZFBnKt4DOojXob1zge54Stcow==
   dependencies:
     "@babel/core" "^7.26.0"
     "@babel/preset-env" "^7.26.0"
     "@babel/preset-react" "^7.25.9"
     "@babel/preset-typescript" "^7.26.0"
-    "@knapsack/babel-config-starter" "4.71.9"
-    "@knapsack/browserslist-config" "4.71.9"
-    "@knapsack/core" "4.71.9"
-    "@knapsack/creator-utils" "4.71.9"
-    "@knapsack/design-token-utils" "4.71.9"
-    "@knapsack/file-utils" "4.71.9"
-    "@knapsack/https" "4.71.9"
-    "@knapsack/ks-file-utils" "4.71.9"
-    "@knapsack/renderer-client" "4.71.9"
-    "@knapsack/rendering-utils" "4.71.9"
-    "@knapsack/schema-utils" "4.71.9"
-    "@knapsack/types" "4.71.9"
-    "@knapsack/utils" "4.71.9"
+    "@knapsack/babel-config-starter" "4.71.16"
+    "@knapsack/browserslist-config" "4.71.16"
+    "@knapsack/core" "4.71.16"
+    "@knapsack/creator-utils" "4.71.16"
+    "@knapsack/design-token-utils" "4.71.16"
+    "@knapsack/file-utils" "4.71.16"
+    "@knapsack/https" "4.71.16"
+    "@knapsack/ks-file-utils" "4.71.16"
+    "@knapsack/renderer-client" "4.71.16"
+    "@knapsack/rendering-utils" "4.71.16"
+    "@knapsack/schema-utils" "4.71.16"
+    "@knapsack/types" "4.71.16"
+    "@knapsack/utils" "4.71.16"
     "@sentry/node" "^7.120.0"
     "@sentry/profiling-node" "^7.120.0"
     chalk "^4.1.2"
@@ -2563,10 +2563,10 @@
     ws "^8.18.0"
     yargs "^16.2.0"
 
-"@knapsack/babel-config-starter@4.71.9":
-  version "4.71.9"
-  resolved "https://registry.yarnpkg.com/@knapsack/babel-config-starter/-/babel-config-starter-4.71.9.tgz#aee25c6ae348c997e74542300695fa4ac1fcefe8"
-  integrity sha512-boVbyWUbk1kEvLsj7E/5K/cBj3FtaN/XXZRGZdJSztoora/IjgRsAPWofhv6n/Qgu7iY0/+jc6MpNi72ZZq79w==
+"@knapsack/babel-config-starter@4.71.16":
+  version "4.71.16"
+  resolved "https://registry.yarnpkg.com/@knapsack/babel-config-starter/-/babel-config-starter-4.71.16.tgz#2cbc98d3f2db603d0737e292a06d1d048e8c9c38"
+  integrity sha512-whrmTeDuf4YCTaVVh+5XgqJxOTG7J/USh3n7uJQq7XqjOlutzn5M7tUu5MB72WUioFQXsv8lUEPvWXI4jxAIog==
   dependencies:
     "@babel/cli" "^7.25.9"
     "@babel/core" "^7.26.0"
@@ -2581,15 +2581,15 @@
     "@babel/preset-react" "^7.25.9"
     "@babel/preset-typescript" "^7.26.0"
     "@babel/runtime" "^7.26.0"
-    "@knapsack/browserslist-config" "4.71.9"
-    "@knapsack/creator-utils" "4.71.9"
-    "@knapsack/file-utils" "4.71.9"
+    "@knapsack/browserslist-config" "4.71.16"
+    "@knapsack/creator-utils" "4.71.16"
+    "@knapsack/file-utils" "4.71.16"
     babel-plugin-transform-async-to-promises "^0.8.18"
 
-"@knapsack/babel-config@^4.71.9":
-  version "4.71.9"
-  resolved "https://registry.yarnpkg.com/@knapsack/babel-config/-/babel-config-4.71.9.tgz#fd113dec5adc8822f8cd010b1441930fbdc22599"
-  integrity sha512-6EH8uid16xomXktBATXB0cGkjCMPqpiK0oyy931Dwg5VuonfXju5SX4UmMfLCJVVY5xcgniZQZ7nee1uz2tqhg==
+"@knapsack/babel-config@^4.71.16":
+  version "4.71.16"
+  resolved "https://registry.yarnpkg.com/@knapsack/babel-config/-/babel-config-4.71.16.tgz#48ddfe352dc0549f494e36e0fc0a04dbc9c8e735"
+  integrity sha512-Y1j69rMSqFCTYGB4l1lpsqSSodUBU388+wGl7tu+iuCWCT3ap7UBoxNv6Z7eUj4DXsbPuSdPKvOYpFinIFlMrg==
   dependencies:
     "@babel/cli" "^7.25.9"
     "@babel/core" "^7.26.0"
@@ -2604,37 +2604,37 @@
     "@babel/preset-react" "^7.25.9"
     "@babel/preset-typescript" "^7.26.0"
     "@babel/runtime" "^7.26.0"
-    "@knapsack/file-utils" "4.71.9"
+    "@knapsack/file-utils" "4.71.16"
     babel-plugin-transform-async-to-promises "^0.8.18"
 
-"@knapsack/browserslist-config@4.71.9":
-  version "4.71.9"
-  resolved "https://registry.yarnpkg.com/@knapsack/browserslist-config/-/browserslist-config-4.71.9.tgz#755c11bacc24abb44ddb1d574dd684a4051c8a32"
-  integrity sha512-r0bSggkZ602gjdHBfnuUX8uhxz3EV2sn8+aIVloI4KbObIq4FAp2Sl1YSOkOhul4bZZfJcQUmkY0j+PrxHzzrg==
+"@knapsack/browserslist-config@4.71.16":
+  version "4.71.16"
+  resolved "https://registry.yarnpkg.com/@knapsack/browserslist-config/-/browserslist-config-4.71.16.tgz#4da7728b4a858bb7d1e67741ba04847dec9e4afb"
+  integrity sha512-HXXAMs3TSkqtnIquHLBE7FVR+VNxFEipIGpCKVh6rgH3Yv8DKJQFtVH3ugWgFWIgiKwrZhEZZuZFVz6khrElOw==
 
-"@knapsack/color-utils@4.71.9":
-  version "4.71.9"
-  resolved "https://registry.yarnpkg.com/@knapsack/color-utils/-/color-utils-4.71.9.tgz#365295604e8e345b65642bbe172405c6b417c6d7"
-  integrity sha512-HiMkenHEOu+NVMfk3jjIk4ggzxh1+orlVDlru4r+EwBAzMxHgrKdAeRbVsQISVK+5Uclx1XRUGDsPzLUosHyfQ==
+"@knapsack/color-utils@4.71.16":
+  version "4.71.16"
+  resolved "https://registry.yarnpkg.com/@knapsack/color-utils/-/color-utils-4.71.16.tgz#e8cb778fce4a85014c6da35b5af25662c41b31ff"
+  integrity sha512-NPWk5GD69PXdHiYJCaOII842O4WQBkWyPRh6DNY9z4HPlSHsQm5C9OPEoNzgm5cBxjOhm/i3y5W/yEeDUy9hcQ==
   dependencies:
     "@types/lodash" "^4.17.13"
     color "^4.2.3"
     lodash "^4.17.21"
 
-"@knapsack/core@4.71.9", "@knapsack/core@^4.71.9":
-  version "4.71.9"
-  resolved "https://registry.yarnpkg.com/@knapsack/core/-/core-4.71.9.tgz#e74dc8ef968bf0abc7660d4ac3fd7f13e2dc7014"
-  integrity sha512-XMxJZJIJx4/xQMumebFdEA6ylVkTJW8Htp3qgtR//AfxKgPN48hZBkGRGtOYnTcOyuKJj50NgDpuGR55I2o9Ow==
+"@knapsack/core@4.71.16", "@knapsack/core@^4.71.16":
+  version "4.71.16"
+  resolved "https://registry.yarnpkg.com/@knapsack/core/-/core-4.71.16.tgz#5db7f23e05cf0548b4ac001f57577881e0c3e14d"
+  integrity sha512-1NdF0PusoYwUUahIYGy6QPt76C6tAuB959XAfewZ/GSvh7+NSS/dGPAzi9B2uKx4vlPukkS1y9LbvPSq8FBVyw==
   dependencies:
-    "@knapsack/utils" "4.71.9"
+    "@knapsack/utils" "4.71.16"
     superstruct "^0.16.7"
 
-"@knapsack/creator-utils@4.71.9":
-  version "4.71.9"
-  resolved "https://registry.yarnpkg.com/@knapsack/creator-utils/-/creator-utils-4.71.9.tgz#2c63eda213566cda1e1b47df0e12c31c63f6ccb3"
-  integrity sha512-hGaIZJZ2fjJsrbmAZ123mZfxHs6rqLTz9sMHWKRM3FxULLmr1i5VFsg8g9m0ePrhxUvLfXRwE0bYd/oubua77w==
+"@knapsack/creator-utils@4.71.16":
+  version "4.71.16"
+  resolved "https://registry.yarnpkg.com/@knapsack/creator-utils/-/creator-utils-4.71.16.tgz#5513a3a3745b169338d361efecbd570630f5c937"
+  integrity sha512-3uVtlQXQpodbiDs15Q7HfZhqNaIrAUx+zihww2jkDqIcN0ncuMzM7Ve4MZ/MGZ/v+fATBZL82XJE6yaSD/jmEg==
   dependencies:
-    "@knapsack/file-utils" "4.71.9"
+    "@knapsack/file-utils" "4.71.16"
     execa "^5.1.1"
     fs-extra "^11.2.0"
     globby "^11.1.0"
@@ -2646,24 +2646,24 @@
     ts-expect "^1.3.0"
     yargs "^16.2.0"
 
-"@knapsack/design-token-utils@4.71.9", "@knapsack/design-token-utils@^4.71.9":
-  version "4.71.9"
-  resolved "https://registry.yarnpkg.com/@knapsack/design-token-utils/-/design-token-utils-4.71.9.tgz#112027916f882ff75fd6a30bf564ab6612cb68df"
-  integrity sha512-e1yiE7SaLHmmAegmNDPUOYYNY1g1n7pLcxBqCIBm82GG3B6CM/owozggS3afsKAIUSI6Jeo++VaQcVoUlfmb7w==
+"@knapsack/design-token-utils@4.71.16", "@knapsack/design-token-utils@^4.71.16":
+  version "4.71.16"
+  resolved "https://registry.yarnpkg.com/@knapsack/design-token-utils/-/design-token-utils-4.71.16.tgz#8867c3600a67fa8566d77eea8c932c9e31e2ef39"
+  integrity sha512-a8IYlTmWNoK4BiRF8EN9knqXh9khdN6D/bj6f3lRETi+G1aZtBCvZBfPMZ75eWkED9BdDZgfPrqWqSCrcCWY3w==
   dependencies:
-    "@knapsack/color-utils" "4.71.9"
-    "@knapsack/file-utils" "4.71.9"
-    "@knapsack/types" "4.71.9"
-    "@knapsack/utils" "4.71.9"
+    "@knapsack/color-utils" "4.71.16"
+    "@knapsack/file-utils" "4.71.16"
+    "@knapsack/types" "4.71.16"
+    "@knapsack/utils" "4.71.16"
     flat "^5.0.2"
     immer "^10.1.1"
     lodash "^4.17.21"
     superstruct "^0.16.7"
 
-"@knapsack/file-utils@4.71.9":
-  version "4.71.9"
-  resolved "https://registry.yarnpkg.com/@knapsack/file-utils/-/file-utils-4.71.9.tgz#a80b6db08b7327884d23869b25020dd69f5a03a7"
-  integrity sha512-W+6ScMOIv4sx5T9GWfCRHVwmQqQcfg79ChoFnRUaTtVE4qXBtrBbg3hm9T7fwkrhz54sNMCS/UGS3xoyxytAQA==
+"@knapsack/file-utils@4.71.16":
+  version "4.71.16"
+  resolved "https://registry.yarnpkg.com/@knapsack/file-utils/-/file-utils-4.71.16.tgz#c911fbabd164adbf02ad5447e6b8425cabe80115"
+  integrity sha512-k2pT/EX0RTb9OkL0bkzkwStwmaSNrQDIKgFWi9U95Cp8E/04G1eBM/0mvU7ngX2NPfRX1R/2FXz6Q8VQg/8ORQ==
   dependencies:
     esbuild "^0.24.0"
     find-up "^5.0.0"
@@ -2675,63 +2675,69 @@
     resolve "^1.22.8"
     resolve.exports "^2.0.2"
 
-"@knapsack/https@4.71.9":
-  version "4.71.9"
-  resolved "https://registry.yarnpkg.com/@knapsack/https/-/https-4.71.9.tgz#698696588a1d5439037be9097b0fa8369a62ffd9"
-  integrity sha512-st9Vx8jJVhOArnMsclttM3DkYD59LW1VTaytrG9UseVc/C5MxWNaHRVmNImW6yk1HuD1X9u8w7jIZ8UcZrXikw==
+"@knapsack/https@4.71.16":
+  version "4.71.16"
+  resolved "https://registry.yarnpkg.com/@knapsack/https/-/https-4.71.16.tgz#209b9d208997c86a27974a52e6a44eb168fb0154"
+  integrity sha512-36ml595Za1glgB1+mijRcRwRVOgWNhH6WukbiaGn1AMzSYJPgdvh3fSFCIj2tph3XKu752Hq5a2Ci9uvLC2lBA==
   dependencies:
-    "@knapsack/utils" "4.71.9"
+    "@knapsack/utils" "4.71.16"
     chalk "^4.1.2"
     fs-extra "^11.2.0"
     internal-ip "^6.2.0"
     sudo-prompt "^9.2.1"
     syswide-cas "^5.3.0"
 
-"@knapsack/ks-file-utils@4.71.9":
-  version "4.71.9"
-  resolved "https://registry.yarnpkg.com/@knapsack/ks-file-utils/-/ks-file-utils-4.71.9.tgz#0a2e0fbccb6bef4c6eb83683b1e2b4648a6c7438"
-  integrity sha512-bXQYB0yfo1CZ2jmxadylj+b6bmVHE/K4ZEfNAQR8MknEf1P2orXl7+ZxJD3BO5tIzW+q8gqgWTZrKt5sgX1xSw==
+"@knapsack/ks-file-utils@4.71.16":
+  version "4.71.16"
+  resolved "https://registry.yarnpkg.com/@knapsack/ks-file-utils/-/ks-file-utils-4.71.16.tgz#6cc0aef48848477747ffd0b2a5bc6c6840945aa1"
+  integrity sha512-qy5QlqUN1NfwuPtVqowBAg8nHp5Bnt8Yw0qsqM780XZvnP8CKGP85aSd6q4ZDWFvgwqIfrkZG7RSN8w+djlmLg==
   dependencies:
-    "@knapsack/file-utils" "4.71.9"
-    "@knapsack/utils" "4.71.9"
+    "@knapsack/file-utils" "4.71.16"
+    "@knapsack/utils" "4.71.16"
     fs-extra "^11.2.0"
 
-"@knapsack/plugin-changelog-md@^4.71.9":
-  version "4.71.9"
-  resolved "https://registry.yarnpkg.com/@knapsack/plugin-changelog-md/-/plugin-changelog-md-4.71.9.tgz#5a000090395248e9ef10e5f397cfbfc9811113cd"
-  integrity sha512-Vhbz6imU5fi+LkEPjHM/1pEOCmIo8DKMfEL0z9UJmXtiF05zqlRylwW/Rim9Bo6shUKwTGiYO3uhtwdtakkUuQ==
+"@knapsack/plugin-changelog-md@^4.71.16":
+  version "4.71.16"
+  resolved "https://registry.yarnpkg.com/@knapsack/plugin-changelog-md/-/plugin-changelog-md-4.71.16.tgz#453396cd689dc1b07c9467caf6f4ba3ea220bf65"
+  integrity sha512-dHNFK3ZyActJkVQ8vtkGuNqaVWoL69EHRu97X2YD1R0x6emZAJNDD2c5RDo7v7hQXGVYsIo+Dp4zZ7D+LArO8w==
   dependencies:
-    "@knapsack/app" "4.71.9"
+    "@knapsack/app" "4.71.16"
     fs-extra "^11.2.0"
     marked "^6.0.0"
 
-"@knapsack/renderer-client@4.71.9":
-  version "4.71.9"
-  resolved "https://registry.yarnpkg.com/@knapsack/renderer-client/-/renderer-client-4.71.9.tgz#d222f10335f002ddcf3b5e29f04309d5e05c8d9c"
-  integrity sha512-Lw8nGya5YbZF3Szx69AbMmWOtNmRnZ/SMJSPmYZpwq7o703vyuSDPSUQk5e4/OjKtCv9lKOtAFVT6DNG7HW/Ew==
+"@knapsack/renderer-client@4.71.16":
+  version "4.71.16"
+  resolved "https://registry.yarnpkg.com/@knapsack/renderer-client/-/renderer-client-4.71.16.tgz#8ea31b7203837f53c8e728c9b3527234c6914bfc"
+  integrity sha512-49RR5Z7j0R6pK8IqBtscddclOVUSKGUtMi6GNMuAVPcmVfMCmzs4S+3KxIM8zH1C4VT3vujM93Sr8kRmP1sTxw==
 
-"@knapsack/renderer-html@^4.71.9":
-  version "4.71.9"
-  resolved "https://registry.yarnpkg.com/@knapsack/renderer-html/-/renderer-html-4.71.9.tgz#10aef84cef898ca887e81d29c9b60d1c5b9efa97"
-  integrity sha512-aGIiF1A1MsufoNfhlFT2CWHdOZmCgKY4CzUBb1mG4qbcBWgROl8KvkpcmyfDpj7T1Kmut0aaW4vXXK27wZk9Yg==
+"@knapsack/renderer-html@^4.71.16":
+  version "4.71.16"
+  resolved "https://registry.yarnpkg.com/@knapsack/renderer-html/-/renderer-html-4.71.16.tgz#080ab415e33e2bba5df63366033851951d1d9399"
+  integrity sha512-cN9IOe7PGGfiqbS9O0vfqBLV9403CZBcfcjjXT6nIlZFKxPtjPXSdwOXyzQlTHII9Y4UARD7YJVx+0g+RKJNsQ==
   dependencies:
-    "@knapsack/app" "4.71.9"
-    "@knapsack/file-utils" "4.71.9"
-    "@knapsack/types" "4.71.9"
+    "@knapsack/app" "4.71.16"
+    "@knapsack/file-utils" "4.71.16"
+    "@knapsack/types" "4.71.16"
 
-"@knapsack/renderer-react@^4.71.9":
-  version "4.71.9"
-  resolved "https://registry.yarnpkg.com/@knapsack/renderer-react/-/renderer-react-4.71.9.tgz#faa643727ba691ab6bc05c8085d4fc03d6527a1d"
-  integrity sha512-t7fz+SAstDA5u9BlBguR5lCeKBBhP4r4y8Is+IDejir8quk7kMX5Bo0bs9Koj16A6jGGJZ44oXOdvZCnu188pw==
+"@knapsack/renderer-react-components@4.71.16":
+  version "4.71.16"
+  resolved "https://registry.yarnpkg.com/@knapsack/renderer-react-components/-/renderer-react-components-4.71.16.tgz#d8089cc13a2900a687299d0755713189b574f619"
+  integrity sha512-xoLLjitOkDZq+nx1BooHqQSoWg9Cptv5mmTYmsFLilUT4o0b20qZnuzd70dVo3rGFzz/qMegy9CmlxpMJF8eTg==
+
+"@knapsack/renderer-react@^4.71.16":
+  version "4.71.16"
+  resolved "https://registry.yarnpkg.com/@knapsack/renderer-react/-/renderer-react-4.71.16.tgz#e4a94738b34206d07622150c9eced88040dd5f27"
+  integrity sha512-y3gZukFOel5Tjssv1mCvOji/30qtLLH5kumpmg4ySWVO59Ryfh2Otzi92pPLJj3yMD7DhTb2Q/2NDpTaIz0mBg==
   dependencies:
     "@babel/preset-react" "^7.25.9"
-    "@knapsack/app" "4.71.9"
-    "@knapsack/creator-utils" "4.71.9"
-    "@knapsack/file-utils" "4.71.9"
-    "@knapsack/ks-file-utils" "4.71.9"
-    "@knapsack/renderer-webpack-base" "4.71.9"
-    "@knapsack/types" "4.71.9"
-    "@knapsack/utils" "4.71.9"
+    "@knapsack/app" "4.71.16"
+    "@knapsack/creator-utils" "4.71.16"
+    "@knapsack/file-utils" "4.71.16"
+    "@knapsack/ks-file-utils" "4.71.16"
+    "@knapsack/renderer-react-components" "4.71.16"
+    "@knapsack/renderer-webpack-base" "4.71.16"
+    "@knapsack/types" "4.71.16"
+    "@knapsack/utils" "4.71.16"
     react "^18.3.1"
     react-docgen "^6.0.4"
     react-docgen-typescript "^2.2.2"
@@ -2739,64 +2745,64 @@
     sleep-promise "^8.0.1"
     typescript "^5.6.3"
 
-"@knapsack/renderer-web-components@^4.71.9":
-  version "4.71.9"
-  resolved "https://registry.yarnpkg.com/@knapsack/renderer-web-components/-/renderer-web-components-4.71.9.tgz#dcf2a2317c4a27ac26d76913d456ad04a748e71d"
-  integrity sha512-e0MulyvA4VR9oPXA9u2jfW9Lji+Aug/ZggySgLq/b644LDVmZSIFKiLpPxbXV6p2MLkbWyzX3f8E50gXSlQuFQ==
+"@knapsack/renderer-web-components@^4.71.16":
+  version "4.71.16"
+  resolved "https://registry.yarnpkg.com/@knapsack/renderer-web-components/-/renderer-web-components-4.71.16.tgz#ca0ecc78038a61c2545c8e91e0aab9d69cac1b3e"
+  integrity sha512-99m/1PucRJSuyQ8tggujIutk8xtXhrUnRFddkUZlUHmaMS6le+6aLAKETCsr6xrbwj6FJbuobKvAMfXhiOoy2w==
   dependencies:
-    "@knapsack/app" "4.71.9"
-    "@knapsack/file-utils" "4.71.9"
-    "@knapsack/types" "4.71.9"
-    "@knapsack/utils" "4.71.9"
+    "@knapsack/app" "4.71.16"
+    "@knapsack/file-utils" "4.71.16"
+    "@knapsack/types" "4.71.16"
+    "@knapsack/utils" "4.71.16"
     cheerio "^1.0.0"
     chokidar "^3.6.0"
     ejs "^3.1.10"
     zod "^3.23.8"
 
-"@knapsack/renderer-webpack-base@4.71.9":
-  version "4.71.9"
-  resolved "https://registry.yarnpkg.com/@knapsack/renderer-webpack-base/-/renderer-webpack-base-4.71.9.tgz#f259f8461e5a7f59d4f40e201869eefeb12df217"
-  integrity sha512-f/yXsc9IfAFgZmd5bBznBqUuVq/4rHS/qIp0hqmQxUZUb64A0bBFZJ6GZmhLIbdjD0tSSWNEv47n8wXizijJRA==
+"@knapsack/renderer-webpack-base@4.71.16":
+  version "4.71.16"
+  resolved "https://registry.yarnpkg.com/@knapsack/renderer-webpack-base/-/renderer-webpack-base-4.71.16.tgz#2171666265a2024a3f5f183b2da046d780a91efd"
+  integrity sha512-LEipafANswAgRurlGNVMOKmixQwlRK1/2GBtv4kIR4vf+aMW78qsy3V1T732ULVl4hftW79Cx+tmzif+3lZo8w==
   dependencies:
-    "@knapsack/app" "4.71.9"
-    "@knapsack/babel-config-starter" "4.71.9"
-    "@knapsack/file-utils" "4.71.9"
-    "@knapsack/types" "4.71.9"
-    "@knapsack/utils" "4.71.9"
+    "@knapsack/app" "4.71.16"
+    "@knapsack/babel-config-starter" "4.71.16"
+    "@knapsack/file-utils" "4.71.16"
+    "@knapsack/types" "4.71.16"
+    "@knapsack/utils" "4.71.16"
     babel-loader "^9.2.1"
     webpack "^5.96.1"
     webpack-manifest-plugin "^4.1.1"
 
-"@knapsack/rendering-utils@4.71.9":
-  version "4.71.9"
-  resolved "https://registry.yarnpkg.com/@knapsack/rendering-utils/-/rendering-utils-4.71.9.tgz#0992b9c2e65bdb1a4e4a2743f8d0683232c26d8e"
-  integrity sha512-7rR3OvZGLb/E6JsqHy2bV1oOq3+CkvaUUt4V/dr5Glt0bZqVVQ09xUuTIttAop/GL+zSqeC8JJAIWFwsdwExlQ==
+"@knapsack/rendering-utils@4.71.16":
+  version "4.71.16"
+  resolved "https://registry.yarnpkg.com/@knapsack/rendering-utils/-/rendering-utils-4.71.16.tgz#9d06ccee91821ec9de56c7ded81945f3e6f96deb"
+  integrity sha512-+nwWxHErA0BKzFziLv4v0LaVwYAJMYDGrjCqyfVhorNot9K6z0wrENn64ObnERFPVuJID8M4+F3xouwgPxTlUA==
   dependencies:
-    "@knapsack/utils" "4.71.9"
+    "@knapsack/utils" "4.71.16"
 
-"@knapsack/schema-utils@4.71.9":
-  version "4.71.9"
-  resolved "https://registry.yarnpkg.com/@knapsack/schema-utils/-/schema-utils-4.71.9.tgz#aff4c7ced9ceb1e8673fb0c3a2c2019fec2fad21"
-  integrity sha512-4TvZSCWL2IM3Ry28cIPkY8OBbYJu4+8neySYmFskfnr1eQ6I1MZUPV57dA4vJb7Tk1cvN4HHL/kUym7rQp/ihw==
+"@knapsack/schema-utils@4.71.16":
+  version "4.71.16"
+  resolved "https://registry.yarnpkg.com/@knapsack/schema-utils/-/schema-utils-4.71.16.tgz#3114013ece507fa286065dd69e06d2b2afa71110"
+  integrity sha512-nFrtoMFYeXX3g8jofHaw/J48sFbxaKKbrgu4KAEQiWGG/3Uyh1OLNs2U1ZC/A+4MhjELYVVXIyRjVPowC218bg==
   dependencies:
     ajv "^6.12.6"
     ajv-keywords "^3.5.2"
     tslib "^2.8.1"
 
-"@knapsack/types@4.71.9":
-  version "4.71.9"
-  resolved "https://registry.yarnpkg.com/@knapsack/types/-/types-4.71.9.tgz#cc0469b7f118e86c3ea7b2c51b3a4155101c3ca6"
-  integrity sha512-FSbCp5xYLnZo6Q1Y9+NzmTeCBuFipKd3YMph4rlWyMLtF2raAozwXOpfo56H2sBOvGK+s/yaF6XBVUR1NFlAug==
+"@knapsack/types@4.71.16":
+  version "4.71.16"
+  resolved "https://registry.yarnpkg.com/@knapsack/types/-/types-4.71.16.tgz#1f8fa8050f9629fc2ba840b20e2a64b824196fe1"
+  integrity sha512-5SohKevSIpYAlz06OUDhfats/zytJzDvUr8S0GSo45ev5mrgvATnLXzHyjsjXNeLlIoj+kUzLrc2LsRurEQPDw==
   dependencies:
-    "@knapsack/utils" "4.71.9"
+    "@knapsack/utils" "4.71.16"
     color-string "^1.9.1"
     immer "^10.1.1"
     superstruct "^0.16.7"
 
-"@knapsack/utils@4.71.9":
-  version "4.71.9"
-  resolved "https://registry.yarnpkg.com/@knapsack/utils/-/utils-4.71.9.tgz#d5039a3aff71fc534256c428c27360883b348a36"
-  integrity sha512-cguxy4vpYgZS2nHruwwqwQMRLHTxZoc4kuNxLA+FMInWxj65SwGzGV72qSFeCBH69U4z7fs0LyTkfED/Gts2Lw==
+"@knapsack/utils@4.71.16":
+  version "4.71.16"
+  resolved "https://registry.yarnpkg.com/@knapsack/utils/-/utils-4.71.16.tgz#053738713faaf5ea17510b508783aeab09772c31"
+  integrity sha512-Gdq77BeZy/5IsJS/uqJMzVc5mzRlnIbwVK9P+6Fp2fCpXAgvVTqgSwldfsQb0ciw2ft/7gsiiaw71/J/6wSLoQ==
   dependencies:
     "@types/lodash" "^4.17.13"
     "@types/memoizee" "^0.4.11"

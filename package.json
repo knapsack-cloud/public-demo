@@ -24,14 +24,14 @@
   },
   "dependencies": {
     "@auto-it/released": "^11.1.1",
-    "@knapsack/app": "^4.71.9",
-    "@knapsack/babel-config": "^4.71.9",
-    "@knapsack/core": "^4.71.9",
-    "@knapsack/design-token-utils": "^4.71.9",
-    "@knapsack/plugin-changelog-md": "^4.71.9",
-    "@knapsack/renderer-html": "^4.71.9",
-    "@knapsack/renderer-react": "^4.71.9",
-    "@knapsack/renderer-web-components": "^4.71.9",
+    "@knapsack/app": "^4.71.16",
+    "@knapsack/babel-config": "^4.71.16",
+    "@knapsack/core": "^4.71.16",
+    "@knapsack/design-token-utils": "^4.71.16",
+    "@knapsack/plugin-changelog-md": "^4.71.16",
+    "@knapsack/renderer-html": "^4.71.16",
+    "@knapsack/renderer-react": "^4.71.16",
+    "@knapsack/renderer-web-components": "^4.71.16",
     "@types/react": "18",
     "@types/react-dom": "18",
     "@typescript-eslint/eslint-plugin": "^3.2.0",
@@ -68,5 +68,6 @@
     "name": "KnapsackBot",
     "email": "53622700+KnapsackBot@users.noreply.github.com"
   },
-  "repository": "https://github.com/knapsack-cloud/public-demo"
+  "repository": "https://github.com/knapsack-cloud/public-demo",
+  "packageManager": "yarn@1.22.19+sha1.4ba7fc5c6e704fce2066ecbfb0b0d8976fe62447"
 }
