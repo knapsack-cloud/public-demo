@@ -1,3 +1,16 @@
+# v0.1.87 (Mon Dec 16 2024)
+
+#### 🐛 Bug Fix
+
+- fixes stage overflow bug [#333](https://github.com/knapsack-cloud/public-demo/pull/333) ([@GormanDesign](https://github.com/GormanDesign))
+- fixes stage overflow bug ([@GormanDesign](https://github.com/GormanDesign))
+
+#### Authors: 1
+
+- Matt Gorman ([@GormanDesign](https://github.com/GormanDesign))
+
+---
+
 # v0.1.85 (Mon Nov 11 2024)
 
 #### 🐛 Bug Fix
