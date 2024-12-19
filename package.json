@@ -59,7 +59,7 @@
     "webpack-cli": "^3.3.11"
   },
   "engines": {
-    "node": "18.x"
+    "node": "18.20.5"
   },
   "workspaces": [
     "packages/*"

@@ -1,7 +1,14 @@
 {
+  "stack": "heroku-22",
   "buildpacks": [
     {
       "url": "heroku/nodejs"
     }
-  ]
+  ],
+  "env": {
+    "NODE_VERSION": {
+      "description": "Node.js version",
+      "value": "18.20.5"
+    }
+  }
 }
