@@ -137,6 +137,14 @@
     {
       "id": "t8PlLMPbv",
       "type": "subPage"
+    },
+    {
+      "id": "wP8uOx6zBu",
+      "type": "designSrc"
+    },
+    {
+      "id": "vjegfya6Iw",
+      "type": "designSrc"
     }
   ],
   "statuses": {
@@ -152,6 +160,18 @@
       "title": "Figma Component",
       "fileId": "H3Jj1cltfXiGWijrYOaGBi",
       "componentId": "2:18"
+    },
+    "wP8uOx6zBu": {
+      "id": "wP8uOx6zBu",
+      "title": "Figma Component",
+      "fileId": "H3Jj1cltfXiGWijrYOaGBi",
+      "componentId": "2:18"
+    },
+    "vjegfya6Iw": {
+      "id": "vjegfya6Iw",
+      "title": "Figma Component",
+      "fileId": "H3Jj1cltfXiGWijrYOaGBi",
+      "componentId": "41:95"
     }
   }
 }
