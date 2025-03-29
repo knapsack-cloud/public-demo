@@ -359,7 +359,7 @@
           "$value": "#ffffff"
         },
         "light": {
-          "$value": "#7b58cf"
+          "$value": "{color.base.orange}"
         },
         "$type": "color",
         "$extensions": {
