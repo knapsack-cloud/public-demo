@@ -9,16 +9,16 @@
     "slots": {
       "children": [
         {
+          "type": "template-demo",
           "demoId": "hGfcj0Ksms",
           "patternId": "author",
-          "templateId": "react",
-          "type": "template-demo"
+          "templateId": "react"
         },
         {
+          "type": "template-demo",
           "demoId": "_nTCiQ1984",
           "patternId": "author",
-          "templateId": "react",
-          "type": "template-demo"
+          "templateId": "react"
         }
       ]
     }

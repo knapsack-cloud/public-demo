@@ -32,6 +32,7 @@ byId:
     path: ''
   Design-Tokens-lNWaUqkDSo:
     id: Design-Tokens-lNWaUqkDSo
+    minRoleNeeded: ADMIN
     name: Design Tokens
     parentId: root
     path: /pages/Design-Tokens-lNWaUqkDSo

@@ -11,10 +11,10 @@
     "slots": {
       "header": [
         {
+          "type": "template-demo",
           "demoId": "Cmjc3yXJ_r",
           "patternId": "top-nav",
-          "templateId": "react",
-          "type": "template-demo"
+          "templateId": "react"
         }
       ]
     }
