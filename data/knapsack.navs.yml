@@ -103,7 +103,7 @@ byId:
     path: /pattern/button
   card:
     id: card
-    name: Card
+    name: Card Component
     parentId: Complex
     path: /pattern/card
   colors:
