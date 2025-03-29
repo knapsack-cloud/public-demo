@@ -1,0 +1,15 @@
+id: demo-page
+title: Demo Page
+blockIds: []
+description: Add a fun description here
+settings:
+  pageHeader:
+    backgroundColor:
+      type: design-token
+      tokenName: color.brand.primary
+    textColorTitle:
+      type: design-token
+      tokenName: color.brand.white
+    textColorDescription:
+      type: design-token
+      tokenName: color.brand.white
