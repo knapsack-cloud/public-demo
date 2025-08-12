@@ -12,7 +12,8 @@ settings:
       type: design-token
       colorValue: '#FFFFFF'
       tokenName: color-brand-black
-  hideTableOfContents: true
+  tableOfContents:
+    hide: true
 description: Browse all available components and understand current status
 blockIds:
   - MPWVYU6VPU
